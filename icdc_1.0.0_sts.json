@@ -1,1 +1,4875 @@
-[{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"program_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"program_acronym","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"program_short_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"program_full_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"program_external_url","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"program_sort_order","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"clinical_study_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"clinical_study_designation","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"clinical_study_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"clinical_study_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"clinical_study_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_iacuc_approval","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"dates_of_conduct","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"accession_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Under Embargo"},{"synonyms":[],"value":"Pending"},{"synonyms":[],"value":"Unrestricted"}],"property":"study_disposition","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"site_short_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"veterinary_medical_center","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"registering_institution","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"arm","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"arm_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"arm_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"ctep_treatment_assignment_code","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"cohort_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"cohort_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"cohort_dose","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"case_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"patient_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"patient_first_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"registration_origin","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"registration_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"biospecimen_repository_acronym","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"biospecimen_repository_full_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"canine_individual_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"demographic_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Border Terrier"},{"synonyms":[],"value":"Yorkshire Terrier"},{"synonyms":[],"value":"Yakutian Laika"},{"synonyms":[],"value":"Xoloitzcuintli"},{"synonyms":[],"value":"Working Kelpie"},{"synonyms":[],"value":"Wirehaired Vizsla"},{"synonyms":[],"value":"Wirehaired Pointing Griffon"},{"synonyms":[],"value":"Wire Fox Terrier"},{"synonyms":[],"value":"Whippet"},{"synonyms":[],"value":"Wetterhoun"},{"synonyms":[],"value":"West Highland White Terrier"},{"synonyms":[],"value":"Welsh Terrier"},{"synonyms":[],"value":"Welsh Springer Spaniel"},{"synonyms":[],"value":"Weimaraner"},{"synonyms":[],"value":"Vizsla"},{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Treeing Walker Coonhound"},{"synonyms":[],"value":"Treeing Tennessee Brindle Coonhound"},{"synonyms":[],"value":"Transylvanian Hound"},{"synonyms":[],"value":"Toy Poodle"},{"synonyms":[],"value":"Toy Fox Terrier"},{"synonyms":[],"value":"Tosa"},{"synonyms":[],"value":"Tornjak"},{"synonyms":[],"value":"Tibetan Terrier"},{"synonyms":[],"value":"Tibetan Spaniel"},{"synonyms":[],"value":"Tibetan Mastiff"},{"synonyms":[],"value":"Thai Ridgeback"},{"synonyms":[],"value":"Teddy Roosevelt Terrier"},{"synonyms":[],"value":"Taiwan Dog"},{"synonyms":[],"value":"Swedish Vallhund"},{"synonyms":[],"value":"Swedish Lapphund"},{"synonyms":[],"value":"Sussex Spaniel"},{"synonyms":[],"value":"Standard Schnauzer"},{"synonyms":[],"value":"Staffordshire Bull Terrier"},{"synonyms":[],"value":"Stabyhoun"},{"synonyms":[],"value":"Spinone Italiano"},{"synonyms":[],"value":"Spanish Water Dog"},{"synonyms":[],"value":"Spanish Mastiff"},{"synonyms":[],"value":"Soft Coated Wheaten Terrier"},{"synonyms":[],"value":"Smooth Fox Terrier"},{"synonyms":[],"value":"Small Munsterlander Pointer"},{"synonyms":[],"value":"Slovensky Kopov"},{"synonyms":[],"value":"Slovensky Cuvac"},{"synonyms":[],"value":"Slovakian Wirehaired Pointer"},{"synonyms":[],"value":"Sloughi"},{"synonyms":[],"value":"Skye Terrier"},{"synonyms":[],"value":"Silky Terrier"},{"synonyms":[],"value":"Siberian Husky"},{"synonyms":[],"value":"Shikoku"},{"synonyms":[],"value":"Shih Tzu"},{"synonyms":[],"value":"Shiba Inu"},{"synonyms":[],"value":"Shetland Sheepdog"},{"synonyms":[],"value":"Segugio Italiano"},{"synonyms":[],"value":"Sealyham Terrier"},{"synonyms":[],"value":"Scottish Terrier"},{"synonyms":[],"value":"Scottish Deerhound"},{"synonyms":[],"value":"Schipperke"},{"synonyms":[],"value":"Schapendoes"},{"synonyms":[],"value":"Samoyed"},{"synonyms":[],"value":"Saluki"},{"synonyms":[],"value":"Saint Bernard"},{"synonyms":[],"value":"Russian Tsvetnaya Bolonka"},{"synonyms":[],"value":"Russian Toy"},{"synonyms":[],"value":"Russell Terrier"},{"synonyms":[],"value":"Rottweiler"},{"synonyms":[],"value":"Romanian Mioritic Shepherd Dog"},{"synonyms":[],"value":"Rhodesian Ridgeback"},{"synonyms":[],"value":"Redbone Coonhound"},{"synonyms":[],"value":"Rat Terrier"},{"synonyms":[],"value":"Rafeiro do Alentejo"},{"synonyms":[],"value":"Pyrenean Shepherd"},{"synonyms":[],"value":"Pyrenean Mastiff"},{"synonyms":[],"value":"Pumi"},{"synonyms":[],"value":"Puli"},{"synonyms":[],"value":"Pug"},{"synonyms":[],"value":"Pudelpointer"},{"synonyms":[],"value":"Portuguese Water Dog"},{"synonyms":[],"value":"Portuguese Sheepdog"},{"synonyms":[],"value":"Portuguese Pointer"},{"synonyms":[],"value":"Portuguese Podengo Pequeno"},{"synonyms":[],"value":"Portuguese Podengo"},{"synonyms":[],"value":"Porcelaine"},{"synonyms":[],"value":"Poodle"},{"synonyms":[],"value":"Pomeranian"},{"synonyms":[],"value":"Polish Lowland Sheepdog"},{"synonyms":[],"value":"Pointer"},{"synonyms":[],"value":"Plott Hound"},{"synonyms":[],"value":"Pharaoh Hound"},{"synonyms":[],"value":"Petit Basset Griffon Vendeen"},{"synonyms":[],"value":"Peruvian Inca Orchid"},{"synonyms":[],"value":"Perro de Presa Canario"},{"synonyms":[],"value":"Pembroke Welsh Corgi"},{"synonyms":[],"value":"Pekingese"},{"synonyms":[],"value":"Parson Russell Terrier"},{"synonyms":[],"value":"Papillon"},{"synonyms":[],"value":"Otterhound"},{"synonyms":[],"value":"Other"},{"synonyms":[],"value":"Old English Sheepdog"},{"synonyms":[],"value":"Nova Scotia Duck Tolling Retriever"},{"synonyms":[],"value":"Norwich Terrier"},{"synonyms":[],"value":"Norwegian Lundehund"},{"synonyms":[],"value":"Norwegian Elkhound"},{"synonyms":[],"value":"Norwegian Buhund"},{"synonyms":[],"value":"Norrbottenspets"},{"synonyms":[],"value":"Norfolk Terrier"},{"synonyms":[],"value":"Newfoundland"},{"synonyms":[],"value":"Nederlandse Kooikerhondje"},{"synonyms":[],"value":"Neapolitan Mastiff"},{"synonyms":[],"value":"Mudi"},{"synonyms":[],"value":"Mountain Cur"},{"synonyms":[],"value":"Mixed Breed"},{"synonyms":[],"value":"Miniature Schnauzer"},{"synonyms":[],"value":"Miniature Pinscher"},{"synonyms":[],"value":"Miniature Dachshund"},{"synonyms":[],"value":"Miniature Bull Terrier"},{"synonyms":[],"value":"Miniature American Shepherd"},{"synonyms":[],"value":"Mastiff"},{"synonyms":[],"value":"Manchester Terrier"},{"synonyms":[],"value":"Maltese"},{"synonyms":[],"value":"Lowchen"},{"synonyms":[],"value":"Lhasa Apso"},{"synonyms":[],"value":"Leonberger"},{"synonyms":[],"value":"Lapponian Herder"},{"synonyms":[],"value":"Lancashire Heeler"},{"synonyms":[],"value":"Lakeland Terrier"},{"synonyms":[],"value":"Lagotto Romagnolo"},{"synonyms":[],"value":"Labrador Retriever"},{"synonyms":[],"value":"Kuvasz"},{"synonyms":[],"value":"Kromfohrlander"},{"synonyms":[],"value":"Komondor"},{"synonyms":[],"value":"Kishu Ken"},{"synonyms":[],"value":"Kerry Blue Terrier"},{"synonyms":[],"value":"Keeshond"},{"synonyms":[],"value":"Karelian Bear Dog"},{"synonyms":[],"value":"Kai Ken"},{"synonyms":[],"value":"Jindo"},{"synonyms":[],"value":"Japanese Terrier"},{"synonyms":[],"value":"Japanese Spitz"},{"synonyms":[],"value":"Japanese Chin"},{"synonyms":[],"value":"Japanese Akitainu"},{"synonyms":[],"value":"Jagdterrier"},{"synonyms":[],"value":"Italian Greyhound"},{"synonyms":[],"value":"Irish Wolfhound"},{"synonyms":[],"value":"Irish Water Spaniel"},{"synonyms":[],"value":"Irish Terrier"},{"synonyms":[],"value":"Irish Setter"},{"synonyms":[],"value":"Irish Red and White Setter"},{"synonyms":[],"value":"Icelandic Sheepdog"},{"synonyms":[],"value":"Ibizan Hound"},{"synonyms":[],"value":"Hovawart"},{"synonyms":[],"value":"Hokkaido"},{"synonyms":[],"value":"Havanese"},{"synonyms":[],"value":"Harrier"},{"synonyms":[],"value":"Hanoverian Scenthound"},{"synonyms":[],"value":"Hamiltonstovare"},{"synonyms":[],"value":"Greyhound"},{"synonyms":[],"value":"Greater Swiss Mountain Dog"},{"synonyms":[],"value":"Great Pyrenees"},{"synonyms":[],"value":"Great Dane"},{"synonyms":[],"value":"Grand Basset Griffon Vendeen"},{"synonyms":[],"value":"Gordon Setter"},{"synonyms":[],"value":"Golden Retriever"},{"synonyms":[],"value":"Glen of Imaal Terrier"},{"synonyms":[],"value":"Giant Schnauzer"},{"synonyms":[],"value":"German Wirehaired Pointer"},{"synonyms":[],"value":"German Spitz"},{"synonyms":[],"value":"German Shorthaired Pointer"},{"synonyms":[],"value":"German Shepherd Dog"},{"synonyms":[],"value":"German Pinscher"},{"synonyms":[],"value":"German Longhaired Pointer"},{"synonyms":[],"value":"French Spaniel"},{"synonyms":[],"value":"French Bulldog"},{"synonyms":[],"value":"Flat-Coated Retriever"},{"synonyms":[],"value":"Finnish Spitz"},{"synonyms":[],"value":"Finnish Lapphund"},{"synonyms":[],"value":"Field Spaniel"},{"synonyms":[],"value":"Eurasier"},{"synonyms":[],"value":"Estrela Mountain Dog"},{"synonyms":[],"value":"Entlebucher Mountain Dog"},{"synonyms":[],"value":"English Toy Spaniel"},{"synonyms":[],"value":"English Springer Spaniel"},{"synonyms":[],"value":"English Setter"},{"synonyms":[],"value":"English Foxhound"},{"synonyms":[],"value":"English Cocker Spaniel"},{"synonyms":[],"value":"Dutch Shepherd"},{"synonyms":[],"value":"Drever"},{"synonyms":[],"value":"Drentsche Patrijshond"},{"synonyms":[],"value":"Dogue de Bordeaux"},{"synonyms":[],"value":"Dogo Argentino"},{"synonyms":[],"value":"Doberman Pinscher"},{"synonyms":[],"value":"Deutscher Wachtelhund"},{"synonyms":[],"value":"Danish-Swedish Farmdog"},{"synonyms":[],"value":"Dandie Dinmont Terrier"},{"synonyms":[],"value":"Dalmatian"},{"synonyms":[],"value":"Dachshund"},{"synonyms":[],"value":"Czechoslovakian Vlcak"},{"synonyms":[],"value":"Curly-Coated Retriever"},{"synonyms":[],"value":"Croatian Sheepdog"},{"synonyms":[],"value":"Coton de Tulear"},{"synonyms":[],"value":"Collie"},{"synonyms":[],"value":"Cocker Spaniel"},{"synonyms":[],"value":"Clumber Spaniel"},{"synonyms":[],"value":"Cirneco dell'Etna"},{"synonyms":[],"value":"Chow Chow"},{"synonyms":[],"value":"Chinook"},{"synonyms":[],"value":"Chinese Shar-Pei"},{"synonyms":[],"value":"Chinese Crested"},{"synonyms":[],"value":"Chihuahua"},{"synonyms":[],"value":"Chesapeake Bay Retriever"},{"synonyms":[],"value":"Cesky Terrier"},{"synonyms":[],"value":"Central Asian Shepherd Dog"},{"synonyms":[],"value":"Cavalier King Charles Spaniel"},{"synonyms":[],"value":"Caucasian Shepherd Dog"},{"synonyms":[],"value":"Catahoula Leopard Dog"},{"synonyms":[],"value":"Catahoula Hound"},{"synonyms":[],"value":"Carolina Dog"},{"synonyms":[],"value":"Cardigan Welsh Corgi"},{"synonyms":[],"value":"Cane Corso"},{"synonyms":[],"value":"Canaan Dog"},{"synonyms":[],"value":"Cairn Terrier"},{"synonyms":[],"value":"Bullmastiff"},{"synonyms":[],"value":"Bulldog"},{"synonyms":[],"value":"Bull Terrier"},{"synonyms":[],"value":"Brussels Griffon"},{"synonyms":[],"value":"Broholmer"},{"synonyms":[],"value":"Brittany"},{"synonyms":[],"value":"Briard"},{"synonyms":[],"value":"Braque du Bourbonnais"},{"synonyms":[],"value":"Braque Francais Pyrenean"},{"synonyms":[],"value":"Bracco Italiano"},{"synonyms":[],"value":"Boykin Spaniel"},{"synonyms":[],"value":"Boxer"},{"synonyms":[],"value":"Bouvier des Flandres"},{"synonyms":[],"value":"Boston Terrier"},{"synonyms":[],"value":"Borzoi"},{"synonyms":[],"value":"Affenpinscher"},{"synonyms":[],"value":"Afghan Hound"},{"synonyms":[],"value":"Airedale Terrier"},{"synonyms":[],"value":"Akita"},{"synonyms":[],"value":"Alaskan Klee Kai"},{"synonyms":[],"value":"Alaskan Malamute"},{"synonyms":[],"value":"American Bulldog"},{"synonyms":[],"value":"American English Coonhound"},{"synonyms":[],"value":"American Eskimo Dog"},{"synonyms":[],"value":"American Foxhound"},{"synonyms":[],"value":"American Hairless Terrier"},{"synonyms":[],"value":"American Leopard Hound"},{"synonyms":[],"value":"American Staffordshire Terrier"},{"synonyms":[],"value":"American Water Spaniel"},{"synonyms":[],"value":"Anatolian Shepherd Dog"},{"synonyms":[],"value":"Appenzeller Sennenhunde"},{"synonyms":[],"value":"Australian Cattle Dog"},{"synonyms":[],"value":"Australian Kelpie"},{"synonyms":[],"value":"Australian Shepherd"},{"synonyms":[],"value":"Australian Stumpy Tail Cattle Dog"},{"synonyms":[],"value":"Australian Terrier"},{"synonyms":[],"value":"Azawakh"},{"synonyms":[],"value":"Barbado da Terceira"},{"synonyms":[],"value":"Barbet"},{"synonyms":[],"value":"Basenji"},{"synonyms":[],"value":"Basset Fauve de Bretagne"},{"synonyms":[],"value":"Basset Hound"},{"synonyms":[],"value":"Bavarian Mountain Scent Hound"},{"synonyms":[],"value":"Beagle"},{"synonyms":[],"value":"Bearded Collie"},{"synonyms":[],"value":"Beauceron"},{"synonyms":[],"value":"Bedlington Terrier"},{"synonyms":[],"value":"Belgian Laekenois"},{"synonyms":[],"value":"Belgian Malinois"},{"synonyms":[],"value":"Belgian Sheepdog"},{"synonyms":[],"value":"Belgian Tervuren"},{"synonyms":[],"value":"Bergamasco Sheepdog"},{"synonyms":[],"value":"Berger Picard"},{"synonyms":[],"value":"Bernese Mountain Dog"},{"synonyms":[],"value":"Bichon Frise"},{"synonyms":[],"value":"Biewer Terrier"},{"synonyms":[],"value":"Black Russian Terrier"},{"synonyms":[],"value":"Black and Tan Coonhound"},{"synonyms":[],"value":"Bloodhound"},{"synonyms":[],"value":"Bluetick Coonhound"},{"synonyms":[],"value":"Boerboel"},{"synonyms":[],"value":"Bohemian Shepherd"},{"synonyms":[],"value":"Bolognese"},{"synonyms":[],"value":"Border Collie"}],"property":"breed","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"additional_breed_detail","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"patient_age_at_enrollment","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_birth","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Female"},{"synonyms":[],"value":"Male"}],"property":"sex","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"weight","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"neutered_indicator","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"cycle_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"cycle_number","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_cycle_start","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_cycle_end","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"visit_date","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"visit_number","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"visit_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"person_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"pi_first_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"pi_last_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"pi_middle_initial","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"diagnosis_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Urothelial Carcinoma"},{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Thyroid Cancer"},{"synonyms":[],"value":"T Cell Lymphoma"},{"synonyms":[],"value":"T Cell Leukemia"},{"synonyms":[],"value":"Splenic Hyperplasia"},{"synonyms":[],"value":"Splenic Hematoma"},{"synonyms":[],"value":"Soft Tissue Sarcoma"},{"synonyms":[],"value":"Pulmonary Neoplasms"},{"synonyms":[],"value":"Osteosarcoma"},{"synonyms":[],"value":"Melanoma"},{"synonyms":[],"value":"Mast Cell Tumor"},{"synonyms":[],"value":"Mammary Cancer"},{"synonyms":[],"value":"Lymphoma"},{"synonyms":[],"value":"Lipoma"},{"synonyms":[],"value":"Histiocytic Sarcoma"},{"synonyms":[],"value":"Hemangiosarcoma"},{"synonyms":[],"value":"Healthy Control"},{"synonyms":[],"value":"Glioma"},{"synonyms":[],"value":"Fibrolipoma"},{"synonyms":[],"value":"Diffuse Large B Cell Lymphoma"},{"synonyms":[],"value":"Bladder Cancer"},{"synonyms":[],"value":"B Cell Lymphoma"}],"property":"disease_term","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Urogenital Tract"},{"synonyms":[],"value":"Urinary Tract"},{"synonyms":[],"value":"Urethra, Prostate"},{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Thyroid Gland"},{"synonyms":[],"value":"Subcutis"},{"synonyms":[],"value":"Spleen"},{"synonyms":[],"value":"Skin"},{"synonyms":[],"value":"Shoulder"},{"synonyms":[],"value":"Pleural Cavity"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Mouth"},{"synonyms":[],"value":"Mammary Gland"},{"synonyms":[],"value":"Lymph Node"},{"synonyms":[],"value":"Lung"},{"synonyms":[],"value":"Kidney"},{"synonyms":[],"value":"Distal Urethra"},{"synonyms":[],"value":"Chest Wall"},{"synonyms":[],"value":"Carpus"},{"synonyms":[],"value":"Brain"},{"synonyms":[],"value":"Bone Marrow"},{"synonyms":[],"value":"Bone (Axial)"},{"synonyms":[],"value":"Bone (Appendicular)"},{"synonyms":[],"value":"Bone"},{"synonyms":[],"value":"Bladder, Urethra, Vagina"},{"synonyms":[],"value":"Bladder, Urethra, Prostate"},{"synonyms":[],"value":"Bladder, Urethra"},{"synonyms":[],"value":"Bladder, Prostate"},{"synonyms":[],"value":"Urethra"},{"synonyms":[],"value":"Bladder"}],"property":"primary_disease_site","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Not Determined"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"TXN0M0"},{"synonyms":[],"value":"T3NXM1"},{"synonyms":[],"value":"T3N1M1"},{"synonyms":[],"value":"T3N1M0"},{"synonyms":[],"value":"T3N0M1"},{"synonyms":[],"value":"T3N0M0"},{"synonyms":[],"value":"T2N2M1"},{"synonyms":[],"value":"T2N1M1"},{"synonyms":[],"value":"T2N1M0"},{"synonyms":[],"value":"T2N0M1"},{"synonyms":[],"value":"T2N0M0"},{"synonyms":[],"value":"T1NXM0"},{"synonyms":[],"value":"T1N0M0"},{"synonyms":[],"value":"TisN1M1"},{"synonyms":[],"value":"TisN0M0"},{"synonyms":[],"value":"Vb"},{"synonyms":[],"value":"Va"},{"synonyms":[],"value":"V"},{"synonyms":[],"value":"IVb"},{"synonyms":[],"value":"IVa"},{"synonyms":[],"value":"IV"},{"synonyms":[],"value":"IIIb"},{"synonyms":[],"value":"IIIa"},{"synonyms":[],"value":"III"},{"synonyms":[],"value":"IIb"},{"synonyms":[],"value":"IIa"},{"synonyms":[],"value":"II"},{"synonyms":[],"value":"Ib"},{"synonyms":[],"value":"Ia"},{"synonyms":[],"value":"I"}],"property":"stage_of_disease","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_diagnosis","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"histology_cytopathology","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_histology_confirmation","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Determined"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Low"},{"synonyms":[],"value":"Medium"},{"synonyms":[],"value":"High"},{"synonyms":[],"value":"4"},{"synonyms":[],"value":"3"},{"synonyms":[],"value":"2"},{"synonyms":[],"value":"1"}],"property":"histological_grade","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Not Determined"},{"synonyms":[],"value":"Progressive Disease"},{"synonyms":[],"value":"Stable Disease"},{"synonyms":[],"value":"Partial Response"},{"synonyms":[],"value":"Complete Response"}],"property":"best_response","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"pathology_report","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"treatment_data","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"follow_up_data","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"concurrent_disease","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"concurrent_disease_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"veterinary_medical_center","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"registering_institution","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"enrollment_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_registration","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"initials","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_informed_consent","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"patient_subgroup","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"prior_therapy_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_first_dose","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_last_dose","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"agent_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"dose_schedule","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"total_dose","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"agent_units_of_measure","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"best_response_to_prior_therapy","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"nonresponse_therapy_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"prior_therapy_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"prior_steroid_exposure","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"number_of_prior_regimens_steroid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"total_number_of_doses_steroid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_last_dose_steroid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"prior_nsaid_exposure","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"number_of_prior_regimens_nsaid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"total_number_of_doses_nsaid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_last_dose_nsaid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"tx_loc_geo_loc_ind_nsaid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"min_rsdl_dz_tx_ind_nsaids_treatment_pe","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"therapy_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"any_therapy","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"number_of_prior_regimens_any_therapy","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"total_number_of_doses_any_therapy","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_last_dose_any_therapy","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"treatment_performed_at_site","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"treatment_performed_in_minimal_residual","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"prior_surgery_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_surgery","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"procedure","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"anatomical_site_of_surgery","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"surgical_finding","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"residual_disease","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"therapeutic_indicator","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"sample_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Uterus"},{"synonyms":[],"value":"Urogenital Tract"},{"synonyms":[],"value":"Urinary Bladder"},{"synonyms":[],"value":"Urethra Mid-distal"},{"synonyms":[],"value":"Urethra"},{"synonyms":[],"value":"Bladder"},{"synonyms":[],"value":"Bladder Apex"},{"synonyms":[],"value":"Bladder Apex-Mid"},{"synonyms":[],"value":"Bladder Mid"},{"synonyms":[],"value":"Bladder Mid-Trigone"},{"synonyms":[],"value":"Bladder Mucosa"},{"synonyms":[],"value":"Bladder Trigone"},{"synonyms":[],"value":"Bladder Trigone-Urethra"},{"synonyms":[],"value":"Blood"},{"synonyms":[],"value":"Bone"},{"synonyms":[],"value":"Bone Marrow"},{"synonyms":[],"value":"Brain"},{"synonyms":[],"value":"Carpus"},{"synonyms":[],"value":"Cerebellar"},{"synonyms":[],"value":"Cutis"},{"synonyms":[],"value":"Distal Urethra"},{"synonyms":[],"value":"Femur"},{"synonyms":[],"value":"Genitourinary Tract"},{"synonyms":[],"value":"Hemispheric"},{"synonyms":[],"value":"Humerus"},{"synonyms":[],"value":"Kidney"},{"synonyms":[],"value":"Liver"},{"synonyms":[],"value":"Liver, Spleen, Heart"},{"synonyms":[],"value":"Lung"},{"synonyms":[],"value":"Lung, Caudal Aspect of Left Caudal Lobe"},{"synonyms":[],"value":"Lung, Caudal Right Lobe"},{"synonyms":[],"value":"Lung, Cranial Left Lobe"},{"synonyms":[],"value":"Lymph Node"},{"synonyms":[],"value":"Lymph Node, Popliteal"},{"synonyms":[],"value":"Mammary Gland"},{"synonyms":[],"value":"Mandible, Mucosa"},{"synonyms":[],"value":"Midline"},{"synonyms":[],"value":"Mouth"},{"synonyms":[],"value":"Mouth, Lingual"},{"synonyms":[],"value":"Mouth, Mandible, Mucosa"},{"synonyms":[],"value":"Mouth, Maxilla, Mucosa"},{"synonyms":[],"value":"Muscle"},{"synonyms":[],"value":"Pancreas"},{"synonyms":[],"value":"Phalange"},{"synonyms":[],"value":"Pleural Effusion"},{"synonyms":[],"value":"Radius"},{"synonyms":[],"value":"Scapula"},{"synonyms":[],"value":"Skin"},{"synonyms":[],"value":"Skin and Muscle"},{"synonyms":[],"value":"Spleen"},{"synonyms":[],"value":"Subcutaneous Tissue"},{"synonyms":[],"value":"Thyroid Gland"},{"synonyms":[],"value":"Tibia"},{"synonyms":[],"value":"Ulna"}],"property":"sample_site","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Whole Blood"},{"synonyms":[],"value":"Urine Sediment"},{"synonyms":[],"value":"Organoid"},{"synonyms":[],"value":"Cell Line"},{"synonyms":[],"value":"Blood"},{"synonyms":[],"value":"Tissue"}],"property":"physical_sample_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Diseased"},{"synonyms":[],"value":"Hyperplastic"},{"synonyms":[],"value":"Benign"},{"synonyms":[],"value":"Malignant"},{"synonyms":[],"value":"Normal"}],"property":"general_sample_pathology","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Metastatic"},{"synonyms":[],"value":"Primary"}],"property":"tumor_sample_origin","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Whole Blood"},{"synonyms":[],"value":"Tumoroid (urine-derived)"},{"synonyms":[],"value":"Tumoroid"},{"synonyms":[],"value":"Tumor Cell Line (metastasis-derived)"},{"synonyms":[],"value":"Tumor Cell Line"},{"synonyms":[],"value":"Urine Sediment"},{"synonyms":[],"value":"Primary Malignant Tumor Tissue"},{"synonyms":[],"value":"Organoid (ASC-derived)"},{"synonyms":[],"value":"Normal Tissue"},{"synonyms":[],"value":"Normal Cell Line"},{"synonyms":[],"value":"Metastatic Tumor Tissue"}],"property":"summarized_sample_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"molecular_subtype","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Urothelial Carcinoma (organoid)"},{"synonyms":[],"value":"Urothelial Carcinoma"},{"synonyms":[],"value":"Undefined"},{"synonyms":[],"value":"Urinary Bladder (organoid)"},{"synonyms":[],"value":"Telangiectatic Osteosarcoma"},{"synonyms":[],"value":"T Cell Lymphoma"},{"synonyms":[],"value":"Soft Tissue Sarcoma"},{"synonyms":[],"value":"Simple Carcinoma, Invasive, Ductal"},{"synonyms":[],"value":"Simple Carcinoma, Inflammatory"},{"synonyms":[],"value":"Simple Carcinoma, Ductular, Vascular Invasive"},{"synonyms":[],"value":"Simple Carcinoma, Ductular"},{"synonyms":[],"value":"Simple Carcinoma, Ductal"},{"synonyms":[],"value":"Simple Carcinoma"},{"synonyms":[],"value":"Pulmonary Carcinoma"},{"synonyms":[],"value":"Pulmonary Adenocarcinoma"},{"synonyms":[],"value":"Primitive T-Cell Leukemia"},{"synonyms":[],"value":"Pancreas (organoid)"},{"synonyms":[],"value":"Osteosarcoma; Combined Type"},{"synonyms":[],"value":"Osteosarcoma"},{"synonyms":[],"value":"Osteoblastic and Chondroblastic Osteosarcoma"},{"synonyms":[],"value":"Osteoblastic Osteosarcoma"},{"synonyms":[],"value":"Oligodendroglioma"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Melanoma"},{"synonyms":[],"value":"Mast Cell Tumor"},{"synonyms":[],"value":"Lymphoma"},{"synonyms":[],"value":"Lung (organoid)"},{"synonyms":[],"value":"Liver (organoid)"},{"synonyms":[],"value":"Induced Endometrium"},{"synonyms":[],"value":"Histiocytic Sarcoma"},{"synonyms":[],"value":"Hemangiosarcoma"},{"synonyms":[],"value":"Giant Cell Osteosarcoma"},{"synonyms":[],"value":"Fibroblastic Osteosarcoma"},{"synonyms":[],"value":"Endometrium (organoid)"},{"synonyms":[],"value":"Complex Carcinoma"},{"synonyms":[],"value":"Chondroblastic Osteosarcoma"},{"synonyms":[],"value":"Carcinoma With Simple And Complex Components"},{"synonyms":[],"value":"Carcinoma"},{"synonyms":[],"value":"B Cell Lymphoma"},{"synonyms":[],"value":"Astrocytoma"}],"property":"specific_sample_pathology","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_sample_collection","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Upon Death"},{"synonyms":[],"value":"Upon Relapse"},{"synonyms":[],"value":"Upon Progression"},{"synonyms":[],"value":"After Treatment"},{"synonyms":[],"value":"During Treatment"},{"synonyms":[],"value":"Before Treatment"}],"property":"sample_chronology","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"necropsy_sample","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Determined"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Low"},{"synonyms":[],"value":"Medium"},{"synonyms":[],"value":"High"},{"synonyms":[],"value":"4"},{"synonyms":[],"value":"3"},{"synonyms":[],"value":"2"},{"synonyms":[],"value":"1"}],"property":"tumor_grade","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"length_of_tumor","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"width_of_tumor","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"volume_of_tumor","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"percentage_tumor","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"TRIzol"},{"synonyms":[],"value":"Snap Frozen"},{"synonyms":[],"value":"RNAlater"},{"synonyms":[],"value":"FFPE"},{"synonyms":[],"value":"EDTA"}],"property":"sample_preservation","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"assay_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"file_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Affymetrix GeneChip Analysis File"},{"synonyms":[],"value":"Data Analysis Whitepaper"},{"synonyms":[],"value":"Variant Report"},{"synonyms":[],"value":"Mutation Annotation File"},{"synonyms":[],"value":"Variant Call File"},{"synonyms":[],"value":"Array CGH Analysis File"},{"synonyms":[],"value":"Index File"},{"synonyms":[],"value":"DNA Methylation Analysis File"},{"synonyms":[],"value":"Whole Exome Sequence File"},{"synonyms":[],"value":"Whole Genome Sequence File"},{"synonyms":[],"value":"RNA Sequence File"},{"synonyms":[],"value":"Image File"},{"synonyms":[],"value":"Pathology Report"},{"synonyms":[],"value":"Supplemental Data File"},{"synonyms":[],"value":"Study Protocol"}],"property":"file_type","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"file_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"file_format","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"file_size","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"md5sum","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"released"},{"synonyms":[],"value":"submitted"},{"synonyms":[],"value":"validated"},{"synonyms":[],"value":"live"},{"synonyms":[],"value":"redacted"},{"synonyms":[],"value":"suppressed"},{"synonyms":[],"value":"invalid"},{"synonyms":[],"value":"error"},{"synonyms":[],"value":"validating"},{"synonyms":[],"value":"md5summed"},{"synonyms":[],"value":"md5summing"},{"synonyms":[],"value":"uploaded"},{"synonyms":[],"value":"uploading"}],"property":"file_status","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"uuid","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"file_location","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"physical_exam_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_examination","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"day_in_cycle","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Other"},{"synonyms":[],"value":"Neurologic"},{"synonyms":[],"value":"Genitourinary"},{"synonyms":[],"value":"Endocrine"},{"synonyms":[],"value":"Lymphatic"},{"synonyms":[],"value":"Integumentary"},{"synonyms":[],"value":"Musculoskeletal"},{"synonyms":[],"value":"Gastrointestinal"},{"synonyms":[],"value":"Cardiovascular"},{"synonyms":[],"value":"Respiratory"},{"synonyms":[],"value":"Eyes, Ears, Nose and Throat"},{"synonyms":[],"value":"Attitude"}],"property":"body_system","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not examined"},{"synonyms":[],"value":"Abnormal"},{"synonyms":[],"value":"Normal"}],"property":"pe_finding","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"pe_comment","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"phase_pe","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"assessment_timepoint","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"publication_title","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"authorship","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"year_of_publication","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"journal_citation","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"digital_object_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"pubmed_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"assessment_timepoint","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"vital_signs_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_vital_signs","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"body_temperature","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"respiration_rate","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"respiration_pattern","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"pulse","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"pulse_ox","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"systolic_bp","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"ecg","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"patient_weight","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"body_surface_area","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"modified_ecog","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"lab_exam_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"day_in_cycle","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"adverse_event_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_onset","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"existing_adverse_event","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_resolution","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"ongoing_adverse_event","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"adverse_event_term","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"adverse_event_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"5"},{"synonyms":[],"value":"4"},{"synonyms":[],"value":"3"},{"synonyms":[],"value":"2"},{"synonyms":[],"value":"1"}],"property":"adverse_event_grade","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Unknown"},{"synonyms":[],"value":"Death"},{"synonyms":[],"value":"Life-threatening"},{"synonyms":[],"value":"Severe"},{"synonyms":[],"value":"Moderate"},{"synonyms":[],"value":"Mild"}],"property":"adverse_event_grade_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"adverse_event_agent_name","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"adverse_event_agent_dose","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Undefined"},{"synonyms":[],"value":"Definite"},{"synonyms":[],"value":"Probable"},{"synonyms":[],"value":"Possible"},{"synonyms":[],"value":"Unlikely"},{"synonyms":[],"value":"Unrelated"}],"property":"attribution_to_research","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Definite"},{"synonyms":[],"value":"Probable"},{"synonyms":[],"value":"Possible"},{"synonyms":[],"value":"Unlikely"},{"synonyms":[],"value":"Unrelated"}],"property":"attribution_to_ind","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Undefined"},{"synonyms":[],"value":"Definite"},{"synonyms":[],"value":"Probable"},{"synonyms":[],"value":"Possible"},{"synonyms":[],"value":"Unlikely"},{"synonyms":[],"value":"Unrelated"}],"property":"attribution_to_disease","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"Definite"},{"synonyms":[],"value":"Probable"},{"synonyms":[],"value":"Possible"},{"synonyms":[],"value":"Unlikely"},{"synonyms":[],"value":"Unrelated"}],"property":"attribution_to_commercial","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Undefined"},{"synonyms":[],"value":"Definite"},{"synonyms":[],"value":"Probable"},{"synonyms":[],"value":"Possible"},{"synonyms":[],"value":"Unlikely"},{"synonyms":[],"value":"Unrelated"}],"property":"attribution_to_other","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"other_attribution_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Not Applicable"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"dose_limiting_toxicity","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":"Undefined"},{"synonyms":[],"value":"No"},{"synonyms":[],"value":"Yes"}],"property":"unexpected_adverse_event","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"crdc_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"disease_extent_record_id","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"lesion_number","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"lesion_site","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"lesion_description","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"previously_irradiated","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"previously_treated","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"measurable_lesion","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"target_lesion","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"date_of_evaluation","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"measured_how","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"longest_measurement","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"evaluation_number","version":"1.0.0"},{"dataCommons":"ICDC","permissibleValues":[{"synonyms":[],"value":null}],"property":"evaluation_code","version":"1.0.0"}]
+[
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "program_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "program_acronym",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "program_short_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "program_full_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "program_external_url",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "program_sort_order",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "clinical_study_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "clinical_study_designation",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "clinical_study_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "clinical_study_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "clinical_study_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_iacuc_approval",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "dates_of_conduct",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "accession_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Under Embargo"
+      },
+      {
+        "synonyms": [],
+        "value": "Pending"
+      },
+      {
+        "synonyms": [],
+        "value": "Unrestricted"
+      }
+    ],
+    "property": "study_disposition",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "site_short_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "veterinary_medical_center",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "registering_institution",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "arm",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "arm_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "arm_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "ctep_treatment_assignment_code",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "cohort_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "cohort_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "cohort_dose",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "case_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "patient_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "patient_first_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "registration_origin",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "registration_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "biospecimen_repository_acronym",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "biospecimen_repository_full_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "canine_individual_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "demographic_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Border Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Yorkshire Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Yakutian Laika"
+      },
+      {
+        "synonyms": [],
+        "value": "Xoloitzcuintli"
+      },
+      {
+        "synonyms": [],
+        "value": "Working Kelpie"
+      },
+      {
+        "synonyms": [],
+        "value": "Wirehaired Vizsla"
+      },
+      {
+        "synonyms": [],
+        "value": "Wirehaired Pointing Griffon"
+      },
+      {
+        "synonyms": [],
+        "value": "Wire Fox Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Whippet"
+      },
+      {
+        "synonyms": [],
+        "value": "Wetterhoun"
+      },
+      {
+        "synonyms": [],
+        "value": "West Highland White Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Welsh Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Welsh Springer Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Weimaraner"
+      },
+      {
+        "synonyms": [],
+        "value": "Vizsla"
+      },
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Treeing Walker Coonhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Treeing Tennessee Brindle Coonhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Transylvanian Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Toy Poodle"
+      },
+      {
+        "synonyms": [],
+        "value": "Toy Fox Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Tosa"
+      },
+      {
+        "synonyms": [],
+        "value": "Tornjak"
+      },
+      {
+        "synonyms": [],
+        "value": "Tibetan Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Tibetan Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Tibetan Mastiff"
+      },
+      {
+        "synonyms": [],
+        "value": "Thai Ridgeback"
+      },
+      {
+        "synonyms": [],
+        "value": "Teddy Roosevelt Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Taiwan Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Swedish Vallhund"
+      },
+      {
+        "synonyms": [],
+        "value": "Swedish Lapphund"
+      },
+      {
+        "synonyms": [],
+        "value": "Sussex Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Standard Schnauzer"
+      },
+      {
+        "synonyms": [],
+        "value": "Staffordshire Bull Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Stabyhoun"
+      },
+      {
+        "synonyms": [],
+        "value": "Spinone Italiano"
+      },
+      {
+        "synonyms": [],
+        "value": "Spanish Water Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Spanish Mastiff"
+      },
+      {
+        "synonyms": [],
+        "value": "Soft Coated Wheaten Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Smooth Fox Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Small Munsterlander Pointer"
+      },
+      {
+        "synonyms": [],
+        "value": "Slovensky Kopov"
+      },
+      {
+        "synonyms": [],
+        "value": "Slovensky Cuvac"
+      },
+      {
+        "synonyms": [],
+        "value": "Slovakian Wirehaired Pointer"
+      },
+      {
+        "synonyms": [],
+        "value": "Sloughi"
+      },
+      {
+        "synonyms": [],
+        "value": "Skye Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Silky Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Siberian Husky"
+      },
+      {
+        "synonyms": [],
+        "value": "Shikoku"
+      },
+      {
+        "synonyms": [],
+        "value": "Shih Tzu"
+      },
+      {
+        "synonyms": [],
+        "value": "Shiba Inu"
+      },
+      {
+        "synonyms": [],
+        "value": "Shetland Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Segugio Italiano"
+      },
+      {
+        "synonyms": [],
+        "value": "Sealyham Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Scottish Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Scottish Deerhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Schipperke"
+      },
+      {
+        "synonyms": [],
+        "value": "Schapendoes"
+      },
+      {
+        "synonyms": [],
+        "value": "Samoyed"
+      },
+      {
+        "synonyms": [],
+        "value": "Saluki"
+      },
+      {
+        "synonyms": [],
+        "value": "Saint Bernard"
+      },
+      {
+        "synonyms": [],
+        "value": "Russian Tsvetnaya Bolonka"
+      },
+      {
+        "synonyms": [],
+        "value": "Russian Toy"
+      },
+      {
+        "synonyms": [],
+        "value": "Russell Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Rottweiler"
+      },
+      {
+        "synonyms": [],
+        "value": "Romanian Mioritic Shepherd Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Rhodesian Ridgeback"
+      },
+      {
+        "synonyms": [],
+        "value": "Redbone Coonhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Rat Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Rafeiro do Alentejo"
+      },
+      {
+        "synonyms": [],
+        "value": "Pyrenean Shepherd"
+      },
+      {
+        "synonyms": [],
+        "value": "Pyrenean Mastiff"
+      },
+      {
+        "synonyms": [],
+        "value": "Pumi"
+      },
+      {
+        "synonyms": [],
+        "value": "Puli"
+      },
+      {
+        "synonyms": [],
+        "value": "Pug"
+      },
+      {
+        "synonyms": [],
+        "value": "Pudelpointer"
+      },
+      {
+        "synonyms": [],
+        "value": "Portuguese Water Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Portuguese Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Portuguese Pointer"
+      },
+      {
+        "synonyms": [],
+        "value": "Portuguese Podengo Pequeno"
+      },
+      {
+        "synonyms": [],
+        "value": "Portuguese Podengo"
+      },
+      {
+        "synonyms": [],
+        "value": "Porcelaine"
+      },
+      {
+        "synonyms": [],
+        "value": "Poodle"
+      },
+      {
+        "synonyms": [],
+        "value": "Pomeranian"
+      },
+      {
+        "synonyms": [],
+        "value": "Polish Lowland Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Pointer"
+      },
+      {
+        "synonyms": [],
+        "value": "Plott Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Pharaoh Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Petit Basset Griffon Vendeen"
+      },
+      {
+        "synonyms": [],
+        "value": "Peruvian Inca Orchid"
+      },
+      {
+        "synonyms": [],
+        "value": "Perro de Presa Canario"
+      },
+      {
+        "synonyms": [],
+        "value": "Pembroke Welsh Corgi"
+      },
+      {
+        "synonyms": [],
+        "value": "Pekingese"
+      },
+      {
+        "synonyms": [],
+        "value": "Parson Russell Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Papillon"
+      },
+      {
+        "synonyms": [],
+        "value": "Otterhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Other"
+      },
+      {
+        "synonyms": [],
+        "value": "Old English Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Nova Scotia Duck Tolling Retriever"
+      },
+      {
+        "synonyms": [],
+        "value": "Norwich Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Norwegian Lundehund"
+      },
+      {
+        "synonyms": [],
+        "value": "Norwegian Elkhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Norwegian Buhund"
+      },
+      {
+        "synonyms": [],
+        "value": "Norrbottenspets"
+      },
+      {
+        "synonyms": [],
+        "value": "Norfolk Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Newfoundland"
+      },
+      {
+        "synonyms": [],
+        "value": "Nederlandse Kooikerhondje"
+      },
+      {
+        "synonyms": [],
+        "value": "Neapolitan Mastiff"
+      },
+      {
+        "synonyms": [],
+        "value": "Mudi"
+      },
+      {
+        "synonyms": [],
+        "value": "Mountain Cur"
+      },
+      {
+        "synonyms": [],
+        "value": "Mixed Breed"
+      },
+      {
+        "synonyms": [],
+        "value": "Miniature Schnauzer"
+      },
+      {
+        "synonyms": [],
+        "value": "Miniature Pinscher"
+      },
+      {
+        "synonyms": [],
+        "value": "Miniature Dachshund"
+      },
+      {
+        "synonyms": [],
+        "value": "Miniature Bull Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Miniature American Shepherd"
+      },
+      {
+        "synonyms": [],
+        "value": "Mastiff"
+      },
+      {
+        "synonyms": [],
+        "value": "Manchester Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Maltese"
+      },
+      {
+        "synonyms": [],
+        "value": "Lowchen"
+      },
+      {
+        "synonyms": [],
+        "value": "Lhasa Apso"
+      },
+      {
+        "synonyms": [],
+        "value": "Leonberger"
+      },
+      {
+        "synonyms": [],
+        "value": "Lapponian Herder"
+      },
+      {
+        "synonyms": [],
+        "value": "Lancashire Heeler"
+      },
+      {
+        "synonyms": [],
+        "value": "Lakeland Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Lagotto Romagnolo"
+      },
+      {
+        "synonyms": [],
+        "value": "Labrador Retriever"
+      },
+      {
+        "synonyms": [],
+        "value": "Kuvasz"
+      },
+      {
+        "synonyms": [],
+        "value": "Kromfohrlander"
+      },
+      {
+        "synonyms": [],
+        "value": "Komondor"
+      },
+      {
+        "synonyms": [],
+        "value": "Kishu Ken"
+      },
+      {
+        "synonyms": [],
+        "value": "Kerry Blue Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Keeshond"
+      },
+      {
+        "synonyms": [],
+        "value": "Karelian Bear Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Kai Ken"
+      },
+      {
+        "synonyms": [],
+        "value": "Jindo"
+      },
+      {
+        "synonyms": [],
+        "value": "Japanese Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Japanese Spitz"
+      },
+      {
+        "synonyms": [],
+        "value": "Japanese Chin"
+      },
+      {
+        "synonyms": [],
+        "value": "Japanese Akitainu"
+      },
+      {
+        "synonyms": [],
+        "value": "Jagdterrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Italian Greyhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Irish Wolfhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Irish Water Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Irish Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Irish Setter"
+      },
+      {
+        "synonyms": [],
+        "value": "Irish Red and White Setter"
+      },
+      {
+        "synonyms": [],
+        "value": "Icelandic Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Ibizan Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Hovawart"
+      },
+      {
+        "synonyms": [],
+        "value": "Hokkaido"
+      },
+      {
+        "synonyms": [],
+        "value": "Havanese"
+      },
+      {
+        "synonyms": [],
+        "value": "Harrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Hanoverian Scenthound"
+      },
+      {
+        "synonyms": [],
+        "value": "Hamiltonstovare"
+      },
+      {
+        "synonyms": [],
+        "value": "Greyhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Greater Swiss Mountain Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Great Pyrenees"
+      },
+      {
+        "synonyms": [],
+        "value": "Great Dane"
+      },
+      {
+        "synonyms": [],
+        "value": "Grand Basset Griffon Vendeen"
+      },
+      {
+        "synonyms": [],
+        "value": "Gordon Setter"
+      },
+      {
+        "synonyms": [],
+        "value": "Golden Retriever"
+      },
+      {
+        "synonyms": [],
+        "value": "Glen of Imaal Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Giant Schnauzer"
+      },
+      {
+        "synonyms": [],
+        "value": "German Wirehaired Pointer"
+      },
+      {
+        "synonyms": [],
+        "value": "German Spitz"
+      },
+      {
+        "synonyms": [],
+        "value": "German Shorthaired Pointer"
+      },
+      {
+        "synonyms": [],
+        "value": "German Shepherd Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "German Pinscher"
+      },
+      {
+        "synonyms": [],
+        "value": "German Longhaired Pointer"
+      },
+      {
+        "synonyms": [],
+        "value": "French Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "French Bulldog"
+      },
+      {
+        "synonyms": [],
+        "value": "Flat-Coated Retriever"
+      },
+      {
+        "synonyms": [],
+        "value": "Finnish Spitz"
+      },
+      {
+        "synonyms": [],
+        "value": "Finnish Lapphund"
+      },
+      {
+        "synonyms": [],
+        "value": "Field Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Eurasier"
+      },
+      {
+        "synonyms": [],
+        "value": "Estrela Mountain Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Entlebucher Mountain Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "English Toy Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "English Springer Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "English Setter"
+      },
+      {
+        "synonyms": [],
+        "value": "English Foxhound"
+      },
+      {
+        "synonyms": [],
+        "value": "English Cocker Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Dutch Shepherd"
+      },
+      {
+        "synonyms": [],
+        "value": "Drever"
+      },
+      {
+        "synonyms": [],
+        "value": "Drentsche Patrijshond"
+      },
+      {
+        "synonyms": [],
+        "value": "Dogue de Bordeaux"
+      },
+      {
+        "synonyms": [],
+        "value": "Dogo Argentino"
+      },
+      {
+        "synonyms": [],
+        "value": "Doberman Pinscher"
+      },
+      {
+        "synonyms": [],
+        "value": "Deutscher Wachtelhund"
+      },
+      {
+        "synonyms": [],
+        "value": "Danish-Swedish Farmdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Dandie Dinmont Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Dalmatian"
+      },
+      {
+        "synonyms": [],
+        "value": "Dachshund"
+      },
+      {
+        "synonyms": [],
+        "value": "Czechoslovakian Vlcak"
+      },
+      {
+        "synonyms": [],
+        "value": "Curly-Coated Retriever"
+      },
+      {
+        "synonyms": [],
+        "value": "Croatian Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Coton de Tulear"
+      },
+      {
+        "synonyms": [],
+        "value": "Collie"
+      },
+      {
+        "synonyms": [],
+        "value": "Cocker Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Clumber Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Cirneco dell'Etna"
+      },
+      {
+        "synonyms": [],
+        "value": "Chow Chow"
+      },
+      {
+        "synonyms": [],
+        "value": "Chinook"
+      },
+      {
+        "synonyms": [],
+        "value": "Chinese Shar-Pei"
+      },
+      {
+        "synonyms": [],
+        "value": "Chinese Crested"
+      },
+      {
+        "synonyms": [],
+        "value": "Chihuahua"
+      },
+      {
+        "synonyms": [],
+        "value": "Chesapeake Bay Retriever"
+      },
+      {
+        "synonyms": [],
+        "value": "Cesky Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Central Asian Shepherd Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Cavalier King Charles Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Caucasian Shepherd Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Catahoula Leopard Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Catahoula Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Carolina Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Cardigan Welsh Corgi"
+      },
+      {
+        "synonyms": [],
+        "value": "Cane Corso"
+      },
+      {
+        "synonyms": [],
+        "value": "Canaan Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Cairn Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Bullmastiff"
+      },
+      {
+        "synonyms": [],
+        "value": "Bulldog"
+      },
+      {
+        "synonyms": [],
+        "value": "Bull Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Brussels Griffon"
+      },
+      {
+        "synonyms": [],
+        "value": "Broholmer"
+      },
+      {
+        "synonyms": [],
+        "value": "Brittany"
+      },
+      {
+        "synonyms": [],
+        "value": "Briard"
+      },
+      {
+        "synonyms": [],
+        "value": "Braque du Bourbonnais"
+      },
+      {
+        "synonyms": [],
+        "value": "Braque Francais Pyrenean"
+      },
+      {
+        "synonyms": [],
+        "value": "Bracco Italiano"
+      },
+      {
+        "synonyms": [],
+        "value": "Boykin Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Boxer"
+      },
+      {
+        "synonyms": [],
+        "value": "Bouvier des Flandres"
+      },
+      {
+        "synonyms": [],
+        "value": "Boston Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Borzoi"
+      },
+      {
+        "synonyms": [],
+        "value": "Affenpinscher"
+      },
+      {
+        "synonyms": [],
+        "value": "Afghan Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Airedale Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Akita"
+      },
+      {
+        "synonyms": [],
+        "value": "Alaskan Klee Kai"
+      },
+      {
+        "synonyms": [],
+        "value": "Alaskan Malamute"
+      },
+      {
+        "synonyms": [],
+        "value": "American Bulldog"
+      },
+      {
+        "synonyms": [],
+        "value": "American English Coonhound"
+      },
+      {
+        "synonyms": [],
+        "value": "American Eskimo Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "American Foxhound"
+      },
+      {
+        "synonyms": [],
+        "value": "American Hairless Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "American Leopard Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "American Staffordshire Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "American Water Spaniel"
+      },
+      {
+        "synonyms": [],
+        "value": "Anatolian Shepherd Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Appenzeller Sennenhunde"
+      },
+      {
+        "synonyms": [],
+        "value": "Australian Cattle Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Australian Kelpie"
+      },
+      {
+        "synonyms": [],
+        "value": "Australian Shepherd"
+      },
+      {
+        "synonyms": [],
+        "value": "Australian Stumpy Tail Cattle Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Australian Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Azawakh"
+      },
+      {
+        "synonyms": [],
+        "value": "Barbado da Terceira"
+      },
+      {
+        "synonyms": [],
+        "value": "Barbet"
+      },
+      {
+        "synonyms": [],
+        "value": "Basenji"
+      },
+      {
+        "synonyms": [],
+        "value": "Basset Fauve de Bretagne"
+      },
+      {
+        "synonyms": [],
+        "value": "Basset Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Bavarian Mountain Scent Hound"
+      },
+      {
+        "synonyms": [],
+        "value": "Beagle"
+      },
+      {
+        "synonyms": [],
+        "value": "Bearded Collie"
+      },
+      {
+        "synonyms": [],
+        "value": "Beauceron"
+      },
+      {
+        "synonyms": [],
+        "value": "Bedlington Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Belgian Laekenois"
+      },
+      {
+        "synonyms": [],
+        "value": "Belgian Malinois"
+      },
+      {
+        "synonyms": [],
+        "value": "Belgian Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Belgian Tervuren"
+      },
+      {
+        "synonyms": [],
+        "value": "Bergamasco Sheepdog"
+      },
+      {
+        "synonyms": [],
+        "value": "Berger Picard"
+      },
+      {
+        "synonyms": [],
+        "value": "Bernese Mountain Dog"
+      },
+      {
+        "synonyms": [],
+        "value": "Bichon Frise"
+      },
+      {
+        "synonyms": [],
+        "value": "Biewer Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Black Russian Terrier"
+      },
+      {
+        "synonyms": [],
+        "value": "Black and Tan Coonhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Bloodhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Bluetick Coonhound"
+      },
+      {
+        "synonyms": [],
+        "value": "Boerboel"
+      },
+      {
+        "synonyms": [],
+        "value": "Bohemian Shepherd"
+      },
+      {
+        "synonyms": [],
+        "value": "Bolognese"
+      },
+      {
+        "synonyms": [],
+        "value": "Border Collie"
+      }
+    ],
+    "property": "breed",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "additional_breed_detail",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "patient_age_at_enrollment",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_birth",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Female"
+      },
+      {
+        "synonyms": [],
+        "value": "Male"
+      }
+    ],
+    "property": "sex",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "weight",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "neutered_indicator",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "cycle_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "cycle_number",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_cycle_start",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_cycle_end",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "visit_date",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "visit_number",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "visit_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "person_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "pi_first_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "pi_last_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "pi_middle_initial",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "diagnosis_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Urothelial Carcinoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Thyroid Cancer"
+      },
+      {
+        "synonyms": [],
+        "value": "T Cell Lymphoma"
+      },
+      {
+        "synonyms": [],
+        "value": "T Cell Leukemia"
+      },
+      {
+        "synonyms": [],
+        "value": "Splenic Hyperplasia"
+      },
+      {
+        "synonyms": [],
+        "value": "Splenic Hematoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Soft Tissue Sarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Pulmonary Neoplasms"
+      },
+      {
+        "synonyms": [],
+        "value": "Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Melanoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Mast Cell Tumor"
+      },
+      {
+        "synonyms": [],
+        "value": "Mammary Cancer"
+      },
+      {
+        "synonyms": [],
+        "value": "Lymphoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Lipoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Histiocytic Sarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Hemangiosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Healthy Control"
+      },
+      {
+        "synonyms": [],
+        "value": "Glioma"
+      },
+      {
+        "synonyms": [],
+        "value": "Fibrolipoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Diffuse Large B Cell Lymphoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Cancer"
+      },
+      {
+        "synonyms": [],
+        "value": "B Cell Lymphoma"
+      }
+    ],
+    "property": "disease_term",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Urogenital Tract"
+      },
+      {
+        "synonyms": [],
+        "value": "Urinary Tract"
+      },
+      {
+        "synonyms": [],
+        "value": "Urethra, Prostate"
+      },
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Thyroid Gland"
+      },
+      {
+        "synonyms": [],
+        "value": "Subcutis"
+      },
+      {
+        "synonyms": [],
+        "value": "Spleen"
+      },
+      {
+        "synonyms": [],
+        "value": "Skin"
+      },
+      {
+        "synonyms": [],
+        "value": "Shoulder"
+      },
+      {
+        "synonyms": [],
+        "value": "Pleural Cavity"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Mouth"
+      },
+      {
+        "synonyms": [],
+        "value": "Mammary Gland"
+      },
+      {
+        "synonyms": [],
+        "value": "Lymph Node"
+      },
+      {
+        "synonyms": [],
+        "value": "Lung"
+      },
+      {
+        "synonyms": [],
+        "value": "Kidney"
+      },
+      {
+        "synonyms": [],
+        "value": "Distal Urethra"
+      },
+      {
+        "synonyms": [],
+        "value": "Chest Wall"
+      },
+      {
+        "synonyms": [],
+        "value": "Carpus"
+      },
+      {
+        "synonyms": [],
+        "value": "Brain"
+      },
+      {
+        "synonyms": [],
+        "value": "Bone Marrow"
+      },
+      {
+        "synonyms": [],
+        "value": "Bone (Axial)"
+      },
+      {
+        "synonyms": [],
+        "value": "Bone (Appendicular)"
+      },
+      {
+        "synonyms": [],
+        "value": "Bone"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder, Urethra, Vagina"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder, Urethra, Prostate"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder, Urethra"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder, Prostate"
+      },
+      {
+        "synonyms": [],
+        "value": "Urethra"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder"
+      }
+    ],
+    "property": "primary_disease_site",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Determined"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "TXN0M0"
+      },
+      {
+        "synonyms": [],
+        "value": "T3NXM1"
+      },
+      {
+        "synonyms": [],
+        "value": "T3N1M1"
+      },
+      {
+        "synonyms": [],
+        "value": "T3N1M0"
+      },
+      {
+        "synonyms": [],
+        "value": "T3N0M1"
+      },
+      {
+        "synonyms": [],
+        "value": "T3N0M0"
+      },
+      {
+        "synonyms": [],
+        "value": "T2N2M1"
+      },
+      {
+        "synonyms": [],
+        "value": "T2N1M1"
+      },
+      {
+        "synonyms": [],
+        "value": "T2N1M0"
+      },
+      {
+        "synonyms": [],
+        "value": "T2N0M1"
+      },
+      {
+        "synonyms": [],
+        "value": "T2N0M0"
+      },
+      {
+        "synonyms": [],
+        "value": "T1NXM0"
+      },
+      {
+        "synonyms": [],
+        "value": "T1N0M0"
+      },
+      {
+        "synonyms": [],
+        "value": "TisN1M1"
+      },
+      {
+        "synonyms": [],
+        "value": "TisN0M0"
+      },
+      {
+        "synonyms": [],
+        "value": "Vb"
+      },
+      {
+        "synonyms": [],
+        "value": "Va"
+      },
+      {
+        "synonyms": [],
+        "value": "V"
+      },
+      {
+        "synonyms": [],
+        "value": "IVb"
+      },
+      {
+        "synonyms": [],
+        "value": "IVa"
+      },
+      {
+        "synonyms": [],
+        "value": "IV"
+      },
+      {
+        "synonyms": [],
+        "value": "IIIb"
+      },
+      {
+        "synonyms": [],
+        "value": "IIIa"
+      },
+      {
+        "synonyms": [],
+        "value": "III"
+      },
+      {
+        "synonyms": [],
+        "value": "IIb"
+      },
+      {
+        "synonyms": [],
+        "value": "IIa"
+      },
+      {
+        "synonyms": [],
+        "value": "II"
+      },
+      {
+        "synonyms": [],
+        "value": "Ib"
+      },
+      {
+        "synonyms": [],
+        "value": "Ia"
+      },
+      {
+        "synonyms": [],
+        "value": "I"
+      }
+    ],
+    "property": "stage_of_disease",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_diagnosis",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "histology_cytopathology",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_histology_confirmation",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Determined"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Low"
+      },
+      {
+        "synonyms": [],
+        "value": "Medium"
+      },
+      {
+        "synonyms": [],
+        "value": "High"
+      },
+      {
+        "synonyms": [],
+        "value": "4"
+      },
+      {
+        "synonyms": [],
+        "value": "3"
+      },
+      {
+        "synonyms": [],
+        "value": "2"
+      },
+      {
+        "synonyms": [],
+        "value": "1"
+      }
+    ],
+    "property": "histological_grade",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Determined"
+      },
+      {
+        "synonyms": [],
+        "value": "Progressive Disease"
+      },
+      {
+        "synonyms": [],
+        "value": "Stable Disease"
+      },
+      {
+        "synonyms": [],
+        "value": "Partial Response"
+      },
+      {
+        "synonyms": [],
+        "value": "Complete Response"
+      }
+    ],
+    "property": "best_response",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "pathology_report",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "treatment_data",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "follow_up_data",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "concurrent_disease",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "concurrent_disease_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "veterinary_medical_center",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "registering_institution",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "enrollment_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_registration",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "initials",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_informed_consent",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "patient_subgroup",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "prior_therapy_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_first_dose",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_last_dose",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "agent_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "dose_schedule",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "total_dose",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "agent_units_of_measure",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "best_response_to_prior_therapy",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "nonresponse_therapy_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "prior_therapy_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "prior_steroid_exposure",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "number_of_prior_regimens_steroid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "total_number_of_doses_steroid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_last_dose_steroid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "prior_nsaid_exposure",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "number_of_prior_regimens_nsaid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "total_number_of_doses_nsaid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_last_dose_nsaid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "tx_loc_geo_loc_ind_nsaid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "min_rsdl_dz_tx_ind_nsaids_treatment_pe",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "therapy_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "any_therapy",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "number_of_prior_regimens_any_therapy",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "total_number_of_doses_any_therapy",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_last_dose_any_therapy",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "treatment_performed_at_site",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "treatment_performed_in_minimal_residual",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "prior_surgery_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_surgery",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "procedure",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "anatomical_site_of_surgery",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "surgical_finding",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "residual_disease",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "therapeutic_indicator",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "sample_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Uterus"
+      },
+      {
+        "synonyms": [],
+        "value": "Urogenital Tract"
+      },
+      {
+        "synonyms": [],
+        "value": "Urinary Bladder"
+      },
+      {
+        "synonyms": [],
+        "value": "Urethra Mid-distal"
+      },
+      {
+        "synonyms": [],
+        "value": "Urethra"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Apex"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Apex-Mid"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Mid"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Mid-Trigone"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Mucosa"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Trigone"
+      },
+      {
+        "synonyms": [],
+        "value": "Bladder Trigone-Urethra"
+      },
+      {
+        "synonyms": [],
+        "value": "Blood"
+      },
+      {
+        "synonyms": [],
+        "value": "Bone"
+      },
+      {
+        "synonyms": [],
+        "value": "Bone Marrow"
+      },
+      {
+        "synonyms": [],
+        "value": "Brain"
+      },
+      {
+        "synonyms": [],
+        "value": "Carpus"
+      },
+      {
+        "synonyms": [],
+        "value": "Cerebellar"
+      },
+      {
+        "synonyms": [],
+        "value": "Cutis"
+      },
+      {
+        "synonyms": [],
+        "value": "Distal Urethra"
+      },
+      {
+        "synonyms": [],
+        "value": "Femur"
+      },
+      {
+        "synonyms": [],
+        "value": "Genitourinary Tract"
+      },
+      {
+        "synonyms": [],
+        "value": "Hemispheric"
+      },
+      {
+        "synonyms": [],
+        "value": "Humerus"
+      },
+      {
+        "synonyms": [],
+        "value": "Kidney"
+      },
+      {
+        "synonyms": [],
+        "value": "Liver"
+      },
+      {
+        "synonyms": [],
+        "value": "Liver, Spleen, Heart"
+      },
+      {
+        "synonyms": [],
+        "value": "Lung"
+      },
+      {
+        "synonyms": [],
+        "value": "Lung, Caudal Aspect of Left Caudal Lobe"
+      },
+      {
+        "synonyms": [],
+        "value": "Lung, Caudal Right Lobe"
+      },
+      {
+        "synonyms": [],
+        "value": "Lung, Cranial Left Lobe"
+      },
+      {
+        "synonyms": [],
+        "value": "Lymph Node"
+      },
+      {
+        "synonyms": [],
+        "value": "Lymph Node, Popliteal"
+      },
+      {
+        "synonyms": [],
+        "value": "Mammary Gland"
+      },
+      {
+        "synonyms": [],
+        "value": "Mandible, Mucosa"
+      },
+      {
+        "synonyms": [],
+        "value": "Midline"
+      },
+      {
+        "synonyms": [],
+        "value": "Mouth"
+      },
+      {
+        "synonyms": [],
+        "value": "Mouth, Lingual"
+      },
+      {
+        "synonyms": [],
+        "value": "Mouth, Mandible, Mucosa"
+      },
+      {
+        "synonyms": [],
+        "value": "Mouth, Maxilla, Mucosa"
+      },
+      {
+        "synonyms": [],
+        "value": "Muscle"
+      },
+      {
+        "synonyms": [],
+        "value": "Pancreas"
+      },
+      {
+        "synonyms": [],
+        "value": "Phalange"
+      },
+      {
+        "synonyms": [],
+        "value": "Pleural Effusion"
+      },
+      {
+        "synonyms": [],
+        "value": "Radius"
+      },
+      {
+        "synonyms": [],
+        "value": "Scapula"
+      },
+      {
+        "synonyms": [],
+        "value": "Skin"
+      },
+      {
+        "synonyms": [],
+        "value": "Skin and Muscle"
+      },
+      {
+        "synonyms": [],
+        "value": "Spleen"
+      },
+      {
+        "synonyms": [],
+        "value": "Subcutaneous Tissue"
+      },
+      {
+        "synonyms": [],
+        "value": "Thyroid Gland"
+      },
+      {
+        "synonyms": [],
+        "value": "Tibia"
+      },
+      {
+        "synonyms": [],
+        "value": "Ulna"
+      }
+    ],
+    "property": "sample_site",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Whole Blood"
+      },
+      {
+        "synonyms": [],
+        "value": "Urine Sediment"
+      },
+      {
+        "synonyms": [],
+        "value": "Organoid"
+      },
+      {
+        "synonyms": [],
+        "value": "Cell Line"
+      },
+      {
+        "synonyms": [],
+        "value": "Blood"
+      },
+      {
+        "synonyms": [],
+        "value": "Tissue"
+      }
+    ],
+    "property": "physical_sample_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Diseased"
+      },
+      {
+        "synonyms": [],
+        "value": "Hyperplastic"
+      },
+      {
+        "synonyms": [],
+        "value": "Benign"
+      },
+      {
+        "synonyms": [],
+        "value": "Malignant"
+      },
+      {
+        "synonyms": [],
+        "value": "Normal"
+      }
+    ],
+    "property": "general_sample_pathology",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Metastatic"
+      },
+      {
+        "synonyms": [],
+        "value": "Primary"
+      }
+    ],
+    "property": "tumor_sample_origin",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Whole Blood"
+      },
+      {
+        "synonyms": [],
+        "value": "Tumoroid (urine-derived)"
+      },
+      {
+        "synonyms": [],
+        "value": "Tumoroid"
+      },
+      {
+        "synonyms": [],
+        "value": "Tumor Cell Line (metastasis-derived)"
+      },
+      {
+        "synonyms": [],
+        "value": "Tumor Cell Line"
+      },
+      {
+        "synonyms": [],
+        "value": "Urine Sediment"
+      },
+      {
+        "synonyms": [],
+        "value": "Primary Malignant Tumor Tissue"
+      },
+      {
+        "synonyms": [],
+        "value": "Organoid (ASC-derived)"
+      },
+      {
+        "synonyms": [],
+        "value": "Normal Tissue"
+      },
+      {
+        "synonyms": [],
+        "value": "Normal Cell Line"
+      },
+      {
+        "synonyms": [],
+        "value": "Metastatic Tumor Tissue"
+      }
+    ],
+    "property": "summarized_sample_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "molecular_subtype",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Urothelial Carcinoma (organoid)"
+      },
+      {
+        "synonyms": [],
+        "value": "Urothelial Carcinoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Undefined"
+      },
+      {
+        "synonyms": [],
+        "value": "Urinary Bladder (organoid)"
+      },
+      {
+        "synonyms": [],
+        "value": "Telangiectatic Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "T Cell Lymphoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Soft Tissue Sarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Simple Carcinoma, Invasive, Ductal"
+      },
+      {
+        "synonyms": [],
+        "value": "Simple Carcinoma, Inflammatory"
+      },
+      {
+        "synonyms": [],
+        "value": "Simple Carcinoma, Ductular, Vascular Invasive"
+      },
+      {
+        "synonyms": [],
+        "value": "Simple Carcinoma, Ductular"
+      },
+      {
+        "synonyms": [],
+        "value": "Simple Carcinoma, Ductal"
+      },
+      {
+        "synonyms": [],
+        "value": "Simple Carcinoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Pulmonary Carcinoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Pulmonary Adenocarcinoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Primitive T-Cell Leukemia"
+      },
+      {
+        "synonyms": [],
+        "value": "Pancreas (organoid)"
+      },
+      {
+        "synonyms": [],
+        "value": "Osteosarcoma; Combined Type"
+      },
+      {
+        "synonyms": [],
+        "value": "Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Osteoblastic and Chondroblastic Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Osteoblastic Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Oligodendroglioma"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Melanoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Mast Cell Tumor"
+      },
+      {
+        "synonyms": [],
+        "value": "Lymphoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Lung (organoid)"
+      },
+      {
+        "synonyms": [],
+        "value": "Liver (organoid)"
+      },
+      {
+        "synonyms": [],
+        "value": "Induced Endometrium"
+      },
+      {
+        "synonyms": [],
+        "value": "Histiocytic Sarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Hemangiosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Giant Cell Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Fibroblastic Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Endometrium (organoid)"
+      },
+      {
+        "synonyms": [],
+        "value": "Complex Carcinoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Chondroblastic Osteosarcoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Carcinoma With Simple And Complex Components"
+      },
+      {
+        "synonyms": [],
+        "value": "Carcinoma"
+      },
+      {
+        "synonyms": [],
+        "value": "B Cell Lymphoma"
+      },
+      {
+        "synonyms": [],
+        "value": "Astrocytoma"
+      }
+    ],
+    "property": "specific_sample_pathology",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_sample_collection",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Upon Death"
+      },
+      {
+        "synonyms": [],
+        "value": "Upon Relapse"
+      },
+      {
+        "synonyms": [],
+        "value": "Upon Progression"
+      },
+      {
+        "synonyms": [],
+        "value": "After Treatment"
+      },
+      {
+        "synonyms": [],
+        "value": "During Treatment"
+      },
+      {
+        "synonyms": [],
+        "value": "Before Treatment"
+      }
+    ],
+    "property": "sample_chronology",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "necropsy_sample",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Determined"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Low"
+      },
+      {
+        "synonyms": [],
+        "value": "Medium"
+      },
+      {
+        "synonyms": [],
+        "value": "High"
+      },
+      {
+        "synonyms": [],
+        "value": "4"
+      },
+      {
+        "synonyms": [],
+        "value": "3"
+      },
+      {
+        "synonyms": [],
+        "value": "2"
+      },
+      {
+        "synonyms": [],
+        "value": "1"
+      }
+    ],
+    "property": "tumor_grade",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "length_of_tumor",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "width_of_tumor",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "volume_of_tumor",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "percentage_tumor",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "TRIzol"
+      },
+      {
+        "synonyms": [],
+        "value": "Snap Frozen"
+      },
+      {
+        "synonyms": [],
+        "value": "RNAlater"
+      },
+      {
+        "synonyms": [],
+        "value": "FFPE"
+      },
+      {
+        "synonyms": [],
+        "value": "EDTA"
+      }
+    ],
+    "property": "sample_preservation",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "assay_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "file_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Affymetrix GeneChip Analysis File"
+      },
+      {
+        "synonyms": [],
+        "value": "Data Analysis Whitepaper"
+      },
+      {
+        "synonyms": [],
+        "value": "Variant Report"
+      },
+      {
+        "synonyms": [],
+        "value": "Mutation Annotation File"
+      },
+      {
+        "synonyms": [],
+        "value": "Variant Call File"
+      },
+      {
+        "synonyms": [],
+        "value": "Array CGH Analysis File"
+      },
+      {
+        "synonyms": [],
+        "value": "Index File"
+      },
+      {
+        "synonyms": [],
+        "value": "DNA Methylation Analysis File"
+      },
+      {
+        "synonyms": [],
+        "value": "Whole Exome Sequence File"
+      },
+      {
+        "synonyms": [],
+        "value": "Whole Genome Sequence File"
+      },
+      {
+        "synonyms": [],
+        "value": "RNA Sequence File"
+      },
+      {
+        "synonyms": [],
+        "value": "Image File"
+      },
+      {
+        "synonyms": [],
+        "value": "Pathology Report"
+      },
+      {
+        "synonyms": [],
+        "value": "Supplemental Data File"
+      },
+      {
+        "synonyms": [],
+        "value": "Study Protocol"
+      }
+    ],
+    "property": "file_type",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "file_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "file_format",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "file_size",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "md5sum",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "released"
+      },
+      {
+        "synonyms": [],
+        "value": "submitted"
+      },
+      {
+        "synonyms": [],
+        "value": "validated"
+      },
+      {
+        "synonyms": [],
+        "value": "live"
+      },
+      {
+        "synonyms": [],
+        "value": "redacted"
+      },
+      {
+        "synonyms": [],
+        "value": "suppressed"
+      },
+      {
+        "synonyms": [],
+        "value": "invalid"
+      },
+      {
+        "synonyms": [],
+        "value": "error"
+      },
+      {
+        "synonyms": [],
+        "value": "validating"
+      },
+      {
+        "synonyms": [],
+        "value": "md5summed"
+      },
+      {
+        "synonyms": [],
+        "value": "md5summing"
+      },
+      {
+        "synonyms": [],
+        "value": "uploaded"
+      },
+      {
+        "synonyms": [],
+        "value": "uploading"
+      }
+    ],
+    "property": "file_status",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "uuid",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "file_location",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "physical_exam_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_examination",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "day_in_cycle",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Other"
+      },
+      {
+        "synonyms": [],
+        "value": "Neurologic"
+      },
+      {
+        "synonyms": [],
+        "value": "Genitourinary"
+      },
+      {
+        "synonyms": [],
+        "value": "Endocrine"
+      },
+      {
+        "synonyms": [],
+        "value": "Lymphatic"
+      },
+      {
+        "synonyms": [],
+        "value": "Integumentary"
+      },
+      {
+        "synonyms": [],
+        "value": "Musculoskeletal"
+      },
+      {
+        "synonyms": [],
+        "value": "Gastrointestinal"
+      },
+      {
+        "synonyms": [],
+        "value": "Cardiovascular"
+      },
+      {
+        "synonyms": [],
+        "value": "Respiratory"
+      },
+      {
+        "synonyms": [],
+        "value": "Eyes, Ears, Nose and Throat"
+      },
+      {
+        "synonyms": [],
+        "value": "Attitude"
+      }
+    ],
+    "property": "body_system",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not examined"
+      },
+      {
+        "synonyms": [],
+        "value": "Abnormal"
+      },
+      {
+        "synonyms": [],
+        "value": "Normal"
+      }
+    ],
+    "property": "pe_finding",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "pe_comment",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "phase_pe",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "assessment_timepoint",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "publication_title",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "authorship",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "year_of_publication",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "journal_citation",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "digital_object_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "pubmed_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "assessment_timepoint",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "vital_signs_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_vital_signs",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "body_temperature",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "respiration_rate",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "respiration_pattern",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "pulse",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "pulse_ox",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "systolic_bp",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "ecg",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "patient_weight",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "body_surface_area",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "modified_ecog",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "lab_exam_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "day_in_cycle",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "adverse_event_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_onset",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "existing_adverse_event",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_resolution",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "ongoing_adverse_event",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "adverse_event_term",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "adverse_event_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "5"
+      },
+      {
+        "synonyms": [],
+        "value": "4"
+      },
+      {
+        "synonyms": [],
+        "value": "3"
+      },
+      {
+        "synonyms": [],
+        "value": "2"
+      },
+      {
+        "synonyms": [],
+        "value": "1"
+      }
+    ],
+    "property": "adverse_event_grade",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Death"
+      },
+      {
+        "synonyms": [],
+        "value": "Life-threatening"
+      },
+      {
+        "synonyms": [],
+        "value": "Severe"
+      },
+      {
+        "synonyms": [],
+        "value": "Moderate"
+      },
+      {
+        "synonyms": [],
+        "value": "Mild"
+      }
+    ],
+    "property": "adverse_event_grade_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "adverse_event_agent_name",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "adverse_event_agent_dose",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Undefined"
+      },
+      {
+        "synonyms": [],
+        "value": "Definite"
+      },
+      {
+        "synonyms": [],
+        "value": "Probable"
+      },
+      {
+        "synonyms": [],
+        "value": "Possible"
+      },
+      {
+        "synonyms": [],
+        "value": "Unlikely"
+      },
+      {
+        "synonyms": [],
+        "value": "Unrelated"
+      }
+    ],
+    "property": "attribution_to_research",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Definite"
+      },
+      {
+        "synonyms": [],
+        "value": "Probable"
+      },
+      {
+        "synonyms": [],
+        "value": "Possible"
+      },
+      {
+        "synonyms": [],
+        "value": "Unlikely"
+      },
+      {
+        "synonyms": [],
+        "value": "Unrelated"
+      }
+    ],
+    "property": "attribution_to_ind",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Undefined"
+      },
+      {
+        "synonyms": [],
+        "value": "Definite"
+      },
+      {
+        "synonyms": [],
+        "value": "Probable"
+      },
+      {
+        "synonyms": [],
+        "value": "Possible"
+      },
+      {
+        "synonyms": [],
+        "value": "Unlikely"
+      },
+      {
+        "synonyms": [],
+        "value": "Unrelated"
+      }
+    ],
+    "property": "attribution_to_disease",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "Definite"
+      },
+      {
+        "synonyms": [],
+        "value": "Probable"
+      },
+      {
+        "synonyms": [],
+        "value": "Possible"
+      },
+      {
+        "synonyms": [],
+        "value": "Unlikely"
+      },
+      {
+        "synonyms": [],
+        "value": "Unrelated"
+      }
+    ],
+    "property": "attribution_to_commercial",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Undefined"
+      },
+      {
+        "synonyms": [],
+        "value": "Definite"
+      },
+      {
+        "synonyms": [],
+        "value": "Probable"
+      },
+      {
+        "synonyms": [],
+        "value": "Possible"
+      },
+      {
+        "synonyms": [],
+        "value": "Unlikely"
+      },
+      {
+        "synonyms": [],
+        "value": "Unrelated"
+      }
+    ],
+    "property": "attribution_to_other",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "other_attribution_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Not Applicable"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "dose_limiting_toxicity",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Undefined"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
+      {
+        "synonyms": [],
+        "value": "Yes"
+      }
+    ],
+    "property": "unexpected_adverse_event",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "disease_extent_record_id",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "lesion_number",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "lesion_site",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "lesion_description",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "previously_irradiated",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "previously_treated",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "measurable_lesion",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "target_lesion",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "date_of_evaluation",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "measured_how",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "longest_measurement",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "evaluation_number",
+    "version": "1.0.0"
+  },
+  {
+    "dataCommons": "ICDC",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "evaluation_code",
+    "version": "1.0.0"
+  }
+]

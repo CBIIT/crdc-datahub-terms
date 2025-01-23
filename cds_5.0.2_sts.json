@@ -8,7 +8,7 @@
       }
     ],
     "property": "program_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -19,7 +19,7 @@
       }
     ],
     "property": "program_acronym",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30,7 +30,7 @@
       }
     ],
     "property": "program_short_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41,7 +41,7 @@
       }
     ],
     "property": "program_full_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -52,7 +52,7 @@
       }
     ],
     "property": "program_external_url",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -63,7 +63,7 @@
       }
     ],
     "property": "program_sort_order",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -74,7 +74,7 @@
       }
     ],
     "property": "program_short_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -85,7 +85,7 @@
       }
     ],
     "property": "institution",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -96,7 +96,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -107,7 +107,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -118,7 +118,7 @@
       }
     ],
     "property": "study_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -129,7 +129,7 @@
       }
     ],
     "property": "study_acronym",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -140,7 +140,7 @@
       }
     ],
     "property": "study_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -151,7 +151,7 @@
       }
     ],
     "property": "short_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -162,7 +162,7 @@
       }
     ],
     "property": "study_external_url",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -173,7 +173,7 @@
       }
     ],
     "property": "primary_investigator_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -184,7 +184,7 @@
       }
     ],
     "property": "primary_investigator_email",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -195,7 +195,7 @@
       }
     ],
     "property": "co_investigator_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -206,7 +206,7 @@
       }
     ],
     "property": "co_investigator_email",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -217,7 +217,7 @@
       }
     ],
     "property": "phs_accession",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -228,7 +228,7 @@
       }
     ],
     "property": "bioproject_accession",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -251,7 +251,7 @@
       }
     ],
     "property": "index_date",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -262,7 +262,7 @@
       }
     ],
     "property": "cds_requestor",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -273,7 +273,7 @@
       }
     ],
     "property": "funding_agency",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -284,7 +284,7 @@
       }
     ],
     "property": "funding_source_program_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -295,7 +295,7 @@
       }
     ],
     "property": "grant_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -306,7 +306,7 @@
       }
     ],
     "property": "clinical_trial_system",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -317,7 +317,7 @@
       }
     ],
     "property": "clinical_trial_identifier",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -328,7 +328,7 @@
       }
     ],
     "property": "clinical_trial_arm",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -353,7 +353,7 @@
       }
     ],
     "property": "organism_species",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -374,7 +374,7 @@
       }
     ],
     "property": "adult_or_childhood_study",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -385,7 +385,7 @@
       }
     ],
     "property": "data_types",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -396,7 +396,7 @@
       }
     ],
     "property": "file_types",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -415,7 +415,7 @@
       }
     ],
     "property": "data_access_level",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -426,7 +426,7 @@
       }
     ],
     "property": "cds_primary_bucket",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -437,7 +437,7 @@
       }
     ],
     "property": "cds_secondary_bucket",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -448,7 +448,7 @@
       }
     ],
     "property": "cds_tertiary_bucket",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -459,7 +459,7 @@
       }
     ],
     "property": "number_of_participants",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -470,7 +470,7 @@
       }
     ],
     "property": "number_of_samples",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -502,7 +502,7 @@
       }
     ],
     "property": "study_data_types",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -513,7 +513,7 @@
       }
     ],
     "property": "file_types_and_format",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -524,7 +524,7 @@
       }
     ],
     "property": "size_of_data_being_uploaded",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -535,7 +535,7 @@
       }
     ],
     "property": "acl",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -550,7 +550,7 @@
       }
     ],
     "property": "study_access",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -561,7 +561,7 @@
       }
     ],
     "property": "authz",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -572,7 +572,7 @@
       }
     ],
     "property": "study_version",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -583,7 +583,7 @@
       }
     ],
     "property": "role_or_affiliation",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -594,7 +594,7 @@
       }
     ],
     "property": "title",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -605,7 +605,7 @@
       }
     ],
     "property": "first_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -616,7 +616,7 @@
       }
     ],
     "property": "middle_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -627,7 +627,7 @@
       }
     ],
     "property": "last_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -638,7 +638,7 @@
       }
     ],
     "property": "suffix",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -649,7 +649,7 @@
       }
     ],
     "property": "email",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -660,7 +660,7 @@
       }
     ],
     "property": "clinical_trial_repository",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -671,7 +671,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -682,7 +682,7 @@
       }
     ],
     "property": "study_participant_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -693,7 +693,7 @@
       }
     ],
     "property": "participant_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -777,7 +777,7 @@
       }
     ],
     "property": "race",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -831,7 +831,7 @@
       }
     ],
     "property": "gender",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -878,7 +878,7 @@
       }
     ],
     "property": "ethnicity",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -889,7 +889,7 @@
       }
     ],
     "property": "dbGaP_subject_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -969,7 +969,7 @@
       }
     ],
     "property": "sex",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -980,7 +980,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -991,7 +991,7 @@
       }
     ],
     "property": "study_diagnosis_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -1002,7 +1002,7 @@
       }
     ],
     "property": "diagnosis_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -1694,7 +1694,7 @@
       }
     ],
     "property": "disease_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -1752,7 +1752,7 @@
       }
     ],
     "property": "vital_status",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -4959,7 +4959,7 @@
       }
     ],
     "property": "primary_diagnosis",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -5950,7 +5950,7 @@
       }
     ],
     "property": "primary_site",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -5961,7 +5961,7 @@
       }
     ],
     "property": "age_at_diagnosis",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6094,7 +6094,7 @@
       }
     ],
     "property": "tumor_grade",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6173,7 +6173,7 @@
       }
     ],
     "property": "tumor_stage_clinical_m",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6364,7 +6364,7 @@
       }
     ],
     "property": "tumor_stage_clinical_n",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6660,7 +6660,7 @@
       }
     ],
     "property": "tumor_stage_clinical_t",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6671,7 +6671,7 @@
       }
     ],
     "property": "morphology",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6702,7 +6702,7 @@
       }
     ],
     "property": "incidence_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6766,7 +6766,7 @@
       }
     ],
     "property": "progression_or_recurrence",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6777,7 +6777,7 @@
       }
     ],
     "property": "days_to_recurrence",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6788,7 +6788,7 @@
       }
     ],
     "property": "days_to_last_followup",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6879,7 +6879,7 @@
       }
     ],
     "property": "last_known_disease_status",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -6890,7 +6890,7 @@
       }
     ],
     "property": "days_to_last_known_status",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -9353,7 +9353,7 @@
       }
     ],
     "property": "tissue_or_organ_of_origin",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -11816,7 +11816,7 @@
       }
     ],
     "property": "site_of_resection_or_biopsy",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -11827,7 +11827,7 @@
       }
     ],
     "property": "days_to_last_known_disease_status",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -11838,7 +11838,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -11849,7 +11849,7 @@
       }
     ],
     "property": "treatment_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -12173,7 +12173,7 @@
       }
     ],
     "property": "treatment_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -12184,7 +12184,7 @@
       }
     ],
     "property": "days_to_treatment",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30091,7 +30091,7 @@
       }
     ],
     "property": "therapeutic_agents",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30186,7 +30186,7 @@
       }
     ],
     "property": "response",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30197,7 +30197,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30208,7 +30208,7 @@
       }
     ],
     "property": "sample_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30259,7 +30259,7 @@
       }
     ],
     "property": "sample_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30270,7 +30270,7 @@
       }
     ],
     "property": "sample_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30281,7 +30281,7 @@
       }
     ],
     "property": "sample_type_category",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -30331,7 +30331,7 @@
       }
     ],
     "property": "sample_tumor_status",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -31706,7 +31706,7 @@
       }
     ],
     "property": "sample_anatomic_site",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -31717,7 +31717,7 @@
       }
     ],
     "property": "sample_age_at_collection",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -31728,7 +31728,7 @@
       }
     ],
     "property": "derived_from_specimen",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -31739,7 +31739,7 @@
       }
     ],
     "property": "biosample_accession",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -31750,7 +31750,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -31761,7 +31761,7 @@
       }
     ],
     "property": "file_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -31772,7 +31772,7 @@
       }
     ],
     "property": "file_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32259,7 +32259,7 @@
       }
     ],
     "property": "file_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32270,7 +32270,7 @@
       }
     ],
     "property": "file_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32281,7 +32281,7 @@
       }
     ],
     "property": "file_size",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32292,7 +32292,7 @@
       }
     ],
     "property": "md5sum",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32303,7 +32303,7 @@
       }
     ],
     "property": "file_url_in_cds",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32379,7 +32379,7 @@
       }
     ],
     "property": "experimental_strategy_and_data_subtypes",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32390,7 +32390,7 @@
       }
     ],
     "property": "submission_version",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32401,7 +32401,7 @@
       }
     ],
     "property": "checksum_value",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32412,7 +32412,7 @@
       }
     ],
     "property": "checksum_algorithm",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32437,7 +32437,7 @@
       }
     ],
     "property": "file_mapping_level",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32448,7 +32448,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32459,7 +32459,7 @@
       }
     ],
     "property": "genomic_info_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32470,7 +32470,7 @@
       }
     ],
     "property": "library_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32481,7 +32481,7 @@
       }
     ],
     "property": "bases",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32492,7 +32492,7 @@
       }
     ],
     "property": "number_of_reads",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32503,7 +32503,7 @@
       }
     ],
     "property": "avg_read_length",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32514,7 +32514,7 @@
       }
     ],
     "property": "coverage",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32525,7 +32525,7 @@
       }
     ],
     "property": "reference_genome_assembly",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32536,7 +32536,7 @@
       }
     ],
     "property": "custom_assembly_fasta_file_for_alignment",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32547,7 +32547,7 @@
       }
     ],
     "property": "design_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32793,7 +32793,7 @@
       }
     ],
     "property": "library_strategy",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -32812,50 +32812,78 @@
       }
     ],
     "property": "library_layout",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": "Single Cell"
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not Reported"
       },
       {
-        "synonyms": [],
-        "value": "Bulk Whole Cell"
+        "synonyms": [
+          "Ribonucleic acid (substance)",
+          "RNA - Ribonucleic acid",
+          "Ribonucleic acid",
+          "RNA",
+          "Ribonucleic Acid"
+        ],
+        "value": "RNA"
       },
       {
-        "synonyms": [],
-        "value": "Other"
+        "synonyms": [
+          "Bulk Cell Specimen"
+        ],
+        "value": "Bulk cells"
       },
       {
-        "synonyms": [],
-        "value": "Transcriptomic Single Cell"
+        "synonyms": [
+          "Bulk Nucleus Specimen"
+        ],
+        "value": "Bulk nuclei"
       },
       {
-        "synonyms": [],
-        "value": "Single Nucleus"
+        "synonyms": [
+          "Bulk Tissue Specimen"
+        ],
+        "value": "Bulk tissue"
+      },
+      {
+        "synonyms": [
+          "Single Cell Specimen"
+        ],
+        "value": "Single-cells"
+      },
+      {
+        "synonyms": [
+          "Single Nucleus Specimen"
+        ],
+        "value": "Single-nuclei"
       },
       {
         "synonyms": [],
         "value": "Genomic Single Cell"
       },
       {
-        "synonyms": [],
-        "value": "Viral RNA"
+        "synonyms": [
+          "Genomic DNA"
+        ],
+        "value": "Genomic DNA"
       },
       {
-        "synonyms": [],
-        "value": "Synthetic"
-      },
-      {
-        "synonyms": [],
-        "value": "Metatranscriptomic"
-      },
-      {
-        "synonyms": [],
-        "value": "Metagenomic"
+        "synonyms": [
+          "Other (qualifier value)",
+          "Other",
+          "Source",
+          "Source (property)",
+          "Source (property) (qualifier value)",
+          "Source (attribute)",
+          "Sequencing Library"
+        ],
+        "value": "Other"
       },
       {
         "synonyms": [],
@@ -32863,11 +32891,29 @@
       },
       {
         "synonyms": [],
-        "value": "Genomic"
+        "value": "Metagenomic"
+      },
+      {
+        "synonyms": [],
+        "value": "Metatranscriptomic"
+      },
+      {
+        "synonyms": [],
+        "value": "Synthetic"
+      },
+      {
+        "synonyms": [
+          "Viral Small RNA"
+        ],
+        "value": "Viral RNA"
+      },
+      {
+        "synonyms": [],
+        "value": "Transcriptomic Single Cell"
       }
     ],
     "property": "library_source",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33086,7 +33132,7 @@
       }
     ],
     "property": "library_selection",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33159,7 +33205,7 @@
       }
     ],
     "property": "platform",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33170,7 +33216,7 @@
       }
     ],
     "property": "instrument_model",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33181,7 +33227,7 @@
       }
     ],
     "property": "sequence_alignment_software",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33192,7 +33238,7 @@
       }
     ],
     "property": "reporter_label",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33203,7 +33249,7 @@
       }
     ],
     "property": "methylation_platform",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33213,18 +33259,6 @@
           "Bulk Cell Specimen"
         ],
         "value": "Bulk Cells"
-      },
-      {
-        "synonyms": [
-          "Bulk Tissue Specimen"
-        ],
-        "value": "Bulk Tissue"
-      },
-      {
-        "synonyms": [
-          "Bulk Nucleus Specimen"
-        ],
-        "value": "Bulk Nuclei"
       },
       {
         "synonyms": [
@@ -33243,25 +33277,43 @@
           "Not Reported"
         ],
         "value": "Not Reported"
+      },
+      {
+        "synonyms": [
+          "Bulk Tissue Specimen"
+        ],
+        "value": "Bulk Tissue"
+      },
+      {
+        "synonyms": [
+          "Bulk Nucleus Specimen"
+        ],
+        "value": "Bulk Nuclei"
       }
     ],
     "property": "library_source_material",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
     "permissibleValues": [
       {
         "synonyms": [
-          "Transcriptome"
+          "Viral RNA"
         ],
-        "value": "Transcriptome"
+        "value": "Viral RNA"
       },
       {
         "synonyms": [
           "Not Reported"
         ],
         "value": "Not Reported"
+      },
+      {
+        "synonyms": [
+          "Transcriptomics"
+        ],
+        "value": "Transcriptomic"
       },
       {
         "synonyms": [
@@ -33280,16 +33332,10 @@
           "Genomic DNA"
         ],
         "value": "Genomic DNA"
-      },
-      {
-        "synonyms": [
-          "Viral RNA"
-        ],
-        "value": "Viral RNA"
       }
     ],
     "property": "library_source_molecule",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33300,7 +33346,7 @@
       }
     ],
     "property": "study_link_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33341,7 +33387,7 @@
       }
     ],
     "property": "de_identification_method_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33352,7 +33398,7 @@
       }
     ],
     "property": "de_identification_method_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33363,7 +33409,7 @@
       }
     ],
     "property": "de_identification_software",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33386,7 +33432,7 @@
       }
     ],
     "property": "license",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33397,7 +33443,7 @@
       }
     ],
     "property": "citation_or_DOI",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -33408,7 +33454,7 @@
       }
     ],
     "property": "species",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -34207,7 +34253,7 @@
       }
     ],
     "property": "image_modality",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -34218,7 +34264,7 @@
       }
     ],
     "property": "imaging_equipment_manufacturer",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -34229,7 +34275,7 @@
       }
     ],
     "property": "imaging_equipment_model",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -34240,7 +34286,7 @@
       }
     ],
     "property": "imaging_software",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -34251,7 +34297,7 @@
       }
     ],
     "property": "imaging_protocol",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38565,7 +38611,7 @@
       }
     ],
     "property": "organ_or_tissue",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38576,7 +38622,7 @@
       }
     ],
     "property": "performed_imaging_study_typeCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38587,7 +38633,7 @@
       }
     ],
     "property": "longitudinal_temporal_event_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38598,7 +38644,7 @@
       }
     ],
     "property": "longitudinal_temporal_event_offset",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38609,7 +38655,7 @@
       }
     ],
     "property": "MultiplexMicroscopy_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38620,7 +38666,7 @@
       }
     ],
     "property": "acquisition_method_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38631,7 +38677,7 @@
       }
     ],
     "property": "tumor_tissue_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38818,7 +38864,7 @@
       }
     ],
     "property": "tissue_fixative",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38860,7 +38906,7 @@
       }
     ],
     "property": "embedding_medium",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38968,7 +39014,7 @@
       }
     ],
     "property": "staining_method",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38979,7 +39025,7 @@
       }
     ],
     "property": "objective",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -38990,7 +39036,7 @@
       }
     ],
     "property": "nominal_magnification",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39001,7 +39047,7 @@
       }
     ],
     "property": "immersion",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39012,7 +39058,7 @@
       }
     ],
     "property": "lens_numerical_aperture",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39023,7 +39069,7 @@
       }
     ],
     "property": "working_distance",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39131,7 +39177,7 @@
       }
     ],
     "property": "imaging_assay_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39142,7 +39188,7 @@
       }
     ],
     "property": "pyramid",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39153,7 +39199,7 @@
       }
     ],
     "property": "physical_size_x",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39164,7 +39210,7 @@
       }
     ],
     "property": "physical_size_y",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39175,7 +39221,7 @@
       }
     ],
     "property": "physical_size_z",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39186,7 +39232,7 @@
       }
     ],
     "property": "size_c",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39197,7 +39243,7 @@
       }
     ],
     "property": "size_t",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39208,7 +39254,7 @@
       }
     ],
     "property": "size_x",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39219,7 +39265,7 @@
       }
     ],
     "property": "size_y",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39230,7 +39276,7 @@
       }
     ],
     "property": "size_z",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39241,7 +39287,7 @@
       }
     ],
     "property": "channel_metadata_filename",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39252,7 +39298,7 @@
       }
     ],
     "property": "channel_metadata_file_url_in_cds",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39263,7 +39309,7 @@
       }
     ],
     "property": "channel_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39274,7 +39320,7 @@
       }
     ],
     "property": "channel_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39285,7 +39331,7 @@
       }
     ],
     "property": "cycle_number",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39296,7 +39342,7 @@
       }
     ],
     "property": "sub_cycle_number",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39307,7 +39353,7 @@
       }
     ],
     "property": "target_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39318,7 +39364,7 @@
       }
     ],
     "property": "antibody_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39329,7 +39375,7 @@
       }
     ],
     "property": "rrid_identifier",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39340,7 +39386,7 @@
       }
     ],
     "property": "fluorophore",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39351,7 +39397,7 @@
       }
     ],
     "property": "clone",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39362,7 +39408,7 @@
       }
     ],
     "property": "lot",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39373,7 +39419,7 @@
       }
     ],
     "property": "catalog_number",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39384,7 +39430,7 @@
       }
     ],
     "property": "excitation_wavelength",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39395,7 +39441,7 @@
       }
     ],
     "property": "emission_wavelength",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39406,7 +39452,7 @@
       }
     ],
     "property": "excitation_bandwidth",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39417,7 +39463,7 @@
       }
     ],
     "property": "emission_bandwidth",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39428,7 +39474,7 @@
       }
     ],
     "property": "metal_isotope_element_abbreviation",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39439,7 +39485,7 @@
       }
     ],
     "property": "metal_isotope_element_mass",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39450,7 +39496,7 @@
       }
     ],
     "property": "oligo_barcode_upper_strand",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39461,7 +39507,7 @@
       }
     ],
     "property": "oligo_barcode_lower_strand",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39472,7 +39518,7 @@
       }
     ],
     "property": "dilution",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39483,7 +39529,7 @@
       }
     ],
     "property": "concentration",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39494,7 +39540,7 @@
       }
     ],
     "property": "NonDICOMCTimages_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39505,7 +39551,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_singleCollimationWidth",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39516,7 +39562,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_totalCollimationWidth",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39527,7 +39573,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_gantryDetectorTilt",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39538,7 +39584,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_spiralPitchFactor",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39549,7 +39595,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_ctdiVol",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39560,7 +39606,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_ctdiPhantomTypeCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39571,7 +39617,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_kVp",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39582,7 +39628,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_exposureModulationType_Code",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39593,7 +39639,7 @@
       }
     ],
     "property": "CTImageReconstructionProtocolElement_convolutionKernel",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39604,7 +39650,7 @@
       }
     ],
     "property": "CTImageReconstructionProtocolElement_convolutionKernelGroupCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39615,7 +39661,7 @@
       }
     ],
     "property": "NonDICOMMRimages_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39626,7 +39672,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39637,7 +39683,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_diffusionBValue",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39648,7 +39694,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_diffusionDirectionalityCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39659,7 +39705,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_magneticFieldStrength",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39670,7 +39716,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_resonantNucleusCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39681,7 +39727,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_acquisitionContrastCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39692,7 +39738,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_inversionRecoveryIndicator",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39703,7 +39749,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_pulseSequenceName",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39714,7 +39760,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39725,7 +39771,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_phaseContrastIndicator",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39736,7 +39782,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39747,7 +39793,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_arterialSpinLabelingContrastCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39758,7 +39804,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39769,7 +39815,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39780,7 +39826,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_saturationRecoveryIndicator",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39791,7 +39837,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_spectrallySelectedSuppressionCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39802,7 +39848,7 @@
       }
     ],
     "property": "MRImageReconstructionProtocolElement_complexImageComponentCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39813,7 +39859,7 @@
       }
     ],
     "property": "acquisition_method_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -39824,7 +39870,7 @@
       }
     ],
     "property": "tumor_tissue_type",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40011,7 +40057,7 @@
       }
     ],
     "property": "tissue_fixative",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40053,7 +40099,7 @@
       }
     ],
     "property": "embedding_medium",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40161,7 +40207,7 @@
       }
     ],
     "property": "staining_method",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40172,7 +40218,7 @@
       }
     ],
     "property": "objective",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40183,7 +40229,7 @@
       }
     ],
     "property": "nominal_magnification",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40194,7 +40240,7 @@
       }
     ],
     "property": "immersion",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40205,7 +40251,7 @@
       }
     ],
     "property": "lens_numerical_aperture",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40216,7 +40262,7 @@
       }
     ],
     "property": "NonDICOMpathologyImages_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40227,7 +40273,7 @@
       }
     ],
     "property": "NonDICOMPETimages_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40238,7 +40284,7 @@
       }
     ],
     "property": "PETImagingAcquisitionProtocolElement_gantryDetectorTilt",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40249,7 +40295,7 @@
       }
     ],
     "property": "Radiopharmaceutical_radionuclideCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40260,7 +40306,7 @@
       }
     ],
     "property": "NonDICOMradiologyAllModalities_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40271,7 +40317,7 @@
       }
     ],
     "property": "performed_imaging_study_description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -40282,7 +40328,7 @@
       }
     ],
     "property": "performed_imaging_study_admittingDiagnosisCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41081,7 +41127,7 @@
       }
     ],
     "property": "performed_imaging_study_nonAcquisitionModalitiesInStudyCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41096,7 +41142,7 @@
       }
     ],
     "property": "performed_imaging_study_lossyImageCompressionIndicator",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41107,7 +41153,7 @@
       }
     ],
     "property": "performed_imaging_study_summary",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41118,7 +41164,7 @@
       }
     ],
     "property": "performed_imaging_study_primaryAnatomicSiteCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41129,7 +41175,7 @@
       }
     ],
     "property": "performed_imaging_study_acquisitionTypeCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41140,7 +41186,7 @@
       }
     ],
     "property": "performed_imaging_study_cardiacSynchronizationTechniqueCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41151,7 +41197,7 @@
       }
     ],
     "property": "performed_imaging_study_dataCollectionDiameter",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41162,7 +41208,7 @@
       }
     ],
     "property": "performed_imaging_study_respiratoryMotionTechniqueCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41199,7 +41245,7 @@
       }
     ],
     "property": "performed_imaging_study_bodyPositionCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41210,7 +41256,7 @@
       }
     ],
     "property": "performed_imaging_study_algorithmCode",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41221,7 +41267,7 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionFieldOfViewHeight",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41232,7 +41278,7 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionFieldOfViewWidth",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41243,7 +41289,7 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionDiameter",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41254,7 +41300,7 @@
       }
     ],
     "property": "performed_imaging_study_sliceThickness",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41265,18 +41311,7 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionInterval",
-    "version": "5.0.3"
-  },
-  {
-    "dataCommons": "CDS",
-    "permissibleValues": [
-      {
-        "synonyms": [],
-        "value": null
-      }
-    ],
-    "property": "proteomic_info_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41287,7 +41322,7 @@
       }
     ],
     "property": "aliquot_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41336,7 +41371,7 @@
       }
     ],
     "property": "analytical_fractions",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41347,7 +41382,7 @@
       }
     ],
     "property": "instrument_make",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41358,7 +41393,7 @@
       }
     ],
     "property": "proteomic_instrument_model",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41369,18 +41404,7 @@
       }
     ],
     "property": "proteomic_design_description",
-    "version": "5.0.3"
-  },
-  {
-    "dataCommons": "CDS",
-    "permissibleValues": [
-      {
-        "synonyms": [],
-        "value": null
-      }
-    ],
-    "property": "manufacturer_model_name",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41391,7 +41415,7 @@
       }
     ],
     "property": "data_version_id",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41402,7 +41426,7 @@
       }
     ],
     "property": "data_version",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41413,7 +41437,7 @@
       }
     ],
     "property": "datetime",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41424,7 +41448,7 @@
       }
     ],
     "property": "model_version",
-    "version": "5.0.3"
+    "version": "5.0.2"
   },
   {
     "dataCommons": "CDS",
@@ -41435,6 +41459,6 @@
       }
     ],
     "property": "description",
-    "version": "5.0.3"
+    "version": "5.0.2"
   }
 ]
