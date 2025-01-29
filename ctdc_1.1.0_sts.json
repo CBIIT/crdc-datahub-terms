@@ -1,5 +1,8 @@
 [
   {
+    "CDECode": "11444542",
+    "CDEFullName": "Program Name Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -11,6 +14,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11459801",
+    "CDEFullName": "Program Short Name Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -22,6 +28,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -33,6 +42,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -44,6 +56,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -55,6 +70,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -66,6 +84,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -77,6 +98,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -88,6 +112,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "10624734",
+    "CDEFullName": "Person ORCID Text",
+    "CDEVersion": "2",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -99,6 +126,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -110,6 +140,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11459810",
+    "CDEFullName": "Study Name Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -121,6 +154,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11459812",
+    "CDEFullName": "Study Short Name Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -132,6 +168,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "5054234",
+    "CDEFullName": "Clinical Study Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -143,6 +182,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "3444002",
+    "CDEFullName": "Study Research Identification Descriptive Text",
+    "CDEVersion": "2",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -154,13 +196,15 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11160683",
+    "CDEFullName": "Study Primary Purpose Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
         "synonyms": [
           "RS",
-          "imaging research",
-          "Imaging Research"
+          "imaging research"
         ],
         "value": "Imaging Research"
       },
@@ -183,9 +227,7 @@
         "value": "Education Training Clinical Study"
       },
       {
-        "synonyms": [
-          "Treatment Study"
-        ],
+        "synonyms": [],
         "value": "Treatment Study"
       },
       {
@@ -195,39 +237,27 @@
         "value": "Transcriptomics Research"
       },
       {
-        "synonyms": [
-          "Supportive Care Study"
-        ],
+        "synonyms": [],
         "value": "Supportive Care Study"
       },
       {
-        "synonyms": [
-          "Screening Study"
-        ],
+        "synonyms": [],
         "value": "Screening Study"
       },
       {
-        "synonyms": [
-          "Prevention Study"
-        ],
+        "synonyms": [],
         "value": "Prevention Study"
       },
       {
-        "synonyms": [
-          "Outcomes Research"
-        ],
+        "synonyms": [],
         "value": "Outcomes Research"
       },
       {
-        "synonyms": [
-          "Observational Study"
-        ],
+        "synonyms": [],
         "value": "Observational Study"
       },
       {
-        "synonyms": [
-          "Health Services Research"
-        ],
+        "synonyms": [],
         "value": "Health Services Research"
       },
       {
@@ -243,39 +273,27 @@
         "value": "Epidemiology  Research\u00a0"
       },
       {
-        "synonyms": [
-          "Early Detection Study"
-        ],
+        "synonyms": [],
         "value": "Early Detection Study"
       },
       {
-        "synonyms": [
-          "Disease Modifying Treatment Study"
-        ],
+        "synonyms": [],
         "value": "Disease Modifying Treatment Study"
       },
       {
-        "synonyms": [
-          "Diagnosis Study"
-        ],
+        "synonyms": [],
         "value": "Diagnosis Study"
       },
       {
-        "synonyms": [
-          "Device Feasibility Study"
-        ],
+        "synonyms": [],
         "value": "Device Feasibility Study"
       },
       {
-        "synonyms": [
-          "Cure Study"
-        ],
+        "synonyms": [],
         "value": "Cure Study"
       },
       {
-        "synonyms": [
-          "Correlative Study"
-        ],
+        "synonyms": [],
         "value": "Correlative Study"
       },
       {
@@ -285,15 +303,11 @@
         "value": "Basic Science  Research\u00a0"
       },
       {
-        "synonyms": [
-          "Ancillary Study"
-        ],
+        "synonyms": [],
         "value": "Ancillary Study"
       },
       {
-        "synonyms": [
-          "Adverse Effect Mitigation Study"
-        ],
+        "synonyms": [],
         "value": "Adverse Effect Mitigation Study"
       }
     ],
@@ -301,6 +315,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -312,6 +329,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -323,6 +343,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -334,6 +357,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822136",
+    "CDEFullName": "Data Record Link Identifier Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -345,6 +371,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822140",
+    "CDEFullName": "Clinical Study Record Link Identifier URL Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -356,6 +385,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -367,6 +399,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -378,6 +413,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14826008",
+    "CDEFullName": "Image Collection Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -389,6 +427,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "12137353",
+    "CDEFullName": "DICOM Modality Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -429,7 +470,6 @@
           "Electrocardiographic procedure (procedure)",
           "Electrocardiographic procedure",
           "EKG",
-          "ECG",
           "Electrocardiography"
         ],
         "value": "ECG"
@@ -611,7 +651,6 @@
       {
         "synonyms": [
           "Electromyography (procedure)",
-          "EMG",
           "EMG - Electromyography",
           "Electromyogram",
           "Electromyography"
@@ -623,7 +662,6 @@
           "Electroencephalogram (procedure)",
           "Electroencephalogram",
           "EEG - Electroencephalography",
-          "EEG",
           "Electroencephalography"
         ],
         "value": "EEG"
@@ -683,7 +721,6 @@
           "MRI scan",
           "Magnetic resonance imaging - action",
           "MR imaging",
-          "MR",
           "Magnetic resonance technique",
           "Magnetic resonance study",
           "NMR - Nuclear magnetic resonance",
@@ -754,7 +791,6 @@
           "Fluoroscopy",
           "radiography-fluoroscopy",
           "radio-fluoro",
-          "RF",
           "radiofluoroscopy",
           "Fluoroscopic imaging - action",
           "fluoro",
@@ -901,7 +937,6 @@
       {
         "synonyms": [
           "Computed radiography",
-          "CR",
           "computed radiography",
           "Computed Radiography"
         ],
@@ -914,7 +949,6 @@
           "USS - ultrasound scan",
           "US - ultrasound",
           "Echotomography",
-          "US",
           "Ultrasounds",
           "ultrasound",
           "Ultrasound",
@@ -940,7 +974,6 @@
       },
       {
         "synonyms": [
-          "XA",
           "x-ray angiography",
           "angio",
           "Angiography (procedure)",
@@ -974,7 +1007,6 @@
           "Computed tomography",
           "Computerised axial tomography",
           "Computerized axial tomography",
-          "CT",
           "CT scan",
           "CAT Scans",
           "CTT",
@@ -1188,6 +1220,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11556141",
+    "CDEFullName": "Electronic File Pathname Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1199,6 +1234,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14826003",
+    "CDEFullName": "Image Digital Data Repository Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1210,6 +1248,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14825946",
+    "CDEFullName": "Image Collection Access Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1235,6 +1276,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1246,6 +1290,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "12220014",
+    "CDEFullName": "Subject Data Origin Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1257,6 +1304,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14735824",
+    "CDEFullName": "Person Biomarker Result Available Indicator",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1266,22 +1316,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       }
@@ -1290,6 +1336,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14735825",
+    "CDEFullName": "Person Radiology Report Available Indicator",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1299,22 +1348,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       }
@@ -1323,6 +1368,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14735826",
+    "CDEFullName": "Person Radiology Image Available Indicator",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1332,22 +1380,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       }
@@ -1356,6 +1400,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14735827",
+    "CDEFullName": "Person Histology Slide Image Available Indicator",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1365,22 +1412,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       }
@@ -1389,6 +1432,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1400,6 +1446,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1411,6 +1460,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "12299548",
+    "CDEFullName": "Subject Age of Enrollment Day Count",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1422,6 +1474,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2192199",
+    "CDEFullName": "Subject Race",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1435,7 +1490,6 @@
           "Black/African American",
           "United States Black",
           "Black or African-American",
-          "Black or African American",
           "African American (ethnic group)",
           "African-American",
           "African American"
@@ -1446,7 +1500,6 @@
         "synonyms": [
           "White/Caucasian",
           "Caucasian (racial group)",
-          "White",
           "Race: White",
           "White - ethnic group",
           "White - ethnic group (ethnic group)",
@@ -1463,8 +1516,7 @@
           "Oriental (ethnic group)",
           "Asian race (racial group)",
           "Oriental",
-          "Asian race",
-          "Asian"
+          "Asian race"
         ],
         "value": "Asian"
       },
@@ -1475,8 +1527,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -1490,15 +1541,12 @@
         "synonyms": [
           "American Indian or Alaska native (racial group)",
           "American Indian or Alaska native",
-          "American Indian or Alaska Native",
           "Native american"
         ],
         "value": "American Indian or Alaska Native"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       }
     ],
@@ -1506,6 +1554,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2192217",
+    "CDEFullName": "Ethnic Group Category Text",
+    "CDEVersion": "2",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1521,8 +1572,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -1535,15 +1585,13 @@
       {
         "synonyms": [
           "Non-Hispanic or Latino",
-          "Not hispanic or latino",
-          "Not Hispanic or Latino"
+          "Not hispanic or latino"
         ],
         "value": "Not Hispanic or Latino"
       },
       {
         "synonyms": [
           "Hispanic origin",
-          "Hispanic or Latino",
           "Hispanic"
         ],
         "value": "Hispanic or Latino"
@@ -1553,12 +1601,14 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "7572817",
+    "CDEFullName": "Person Sex at Birth Category",
+    "CDEVersion": "2",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
         "synonyms": [
           "Do not know (qualifier value)",
-          "Don't know",
           "Do not know",
           "Does Not Know"
         ],
@@ -1580,8 +1630,7 @@
       },
       {
         "synonyms": [
-          "Intersex (finding)",
-          "Intersex"
+          "Intersex (finding)"
         ],
         "value": "Intersex"
       },
@@ -1592,14 +1641,12 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
         "synonyms": [
-          "Female",
           "Female structure",
           "Female individual",
           "Female (finding)",
@@ -1610,8 +1657,7 @@
       },
       {
         "synonyms": [
-          "M",
-          "Male"
+          "M"
         ],
         "value": "Male"
       },
@@ -1626,6 +1672,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14927178",
+    "CDEFullName": "Person Gender Identity Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1659,9 +1708,7 @@
         "value": "Prefer Not to Answer"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -1671,8 +1718,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       }
@@ -1681,6 +1727,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2179643",
+    "CDEFullName": "Person Height Value",
+    "CDEVersion": "4",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1692,6 +1741,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2179689",
+    "CDEFullName": "Person Weight Value",
+    "CDEVersion": "4",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1703,6 +1755,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "653",
+    "CDEFullName": "Person Body Surface Area Value",
+    "CDEVersion": "6",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1714,6 +1769,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "6617540",
+    "CDEFullName": "Person Occupation Category",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1725,6 +1783,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14834966",
+    "CDEFullName": "Person Annual Household Income Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1736,6 +1797,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2681552",
+    "CDEFullName": "Person Education Level Summary Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1819,9 +1883,7 @@
         "value": "Graduate or professional degree"
       },
       {
-        "synonyms": [
-          "Grade School"
-        ],
+        "synonyms": [],
         "value": "Grade School"
       },
       {
@@ -1835,7 +1897,6 @@
       },
       {
         "synonyms": [
-          "No formal education",
           "No formal education (finding)",
           "Never attended school",
           "No Formal Schooling"
@@ -1845,15 +1906,13 @@
       {
         "synonyms": [
           "Baccalaureate degree",
-          "Bachelor's degree",
-          "Bachelor's Degree"
+          "Bachelor's degree"
         ],
         "value": "Bachelor's Degree"
       },
       {
         "synonyms": [
-          "Master's degree",
-          "Master's Degree"
+          "Master's degree"
         ],
         "value": "Master's Degree"
       }
@@ -1862,6 +1921,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "10543100",
+    "CDEFullName": "Subject National Center for Biotechnology Information Taxonomy Identifier Integer",
+    "CDEVersion": "2",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1873,6 +1935,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "10543082",
+    "CDEFullName": "Subject National Center for Biotechnology Information Taxonomy Name Text",
+    "CDEVersion": "2",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1884,6 +1949,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1895,6 +1963,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1906,12 +1977,13 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11256813",
+    "CDEFullName": "Environmental Exposure Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Smokeless Tobacco Exposure"
-        ],
+        "synonyms": [],
         "value": "Smokeless Tobacco Exposure"
       },
       {
@@ -1921,56 +1993,44 @@
           "Exposure to unspecified radiation",
           "Radiation exposure NOS",
           "Radiation exposure",
-          "Exposure to radiation",
-          "Radiation Exposure"
+          "Exposure to radiation"
         ],
         "value": "Radiation Exposure"
       },
       {
         "synonyms": [
-          "Chemical exposure",
-          "Chemical Exposure"
+          "Chemical exposure"
         ],
         "value": "Chemical Exposure"
       },
       {
-        "synonyms": [
-          "Smoke Exposure"
-        ],
+        "synonyms": [],
         "value": "Smoke Exposure"
       },
       {
-        "synonyms": [
-          "Wood Dust Exposure"
-        ],
+        "synonyms": [],
         "value": "Wood Dust Exposure"
       },
       {
         "synonyms": [
           "Exposure to radon",
-          "Exposure to radon (event)",
-          "Radon Exposure"
+          "Exposure to radon (event)"
         ],
         "value": "Radon Exposure"
       },
       {
-        "synonyms": [
-          "Respirable Crystalline Silica Exposure"
-        ],
+        "synonyms": [],
         "value": "Respirable Crystalline Silica Exposure"
       },
       {
-        "synonyms": [
-          "Marijuana Smoke Exposure"
-        ],
+        "synonyms": [],
         "value": "Marijuana Smoke Exposure"
       },
       {
         "synonyms": [
           "Asbestos exposure",
           "Exposure to asbestos (event)",
-          "Exposure to asbestos",
-          "Asbestos Exposure"
+          "Exposure to asbestos"
         ],
         "value": "Asbestos Exposure"
       },
@@ -1985,6 +2045,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "5205578",
+    "CDEFullName": "Carcinogen Exposure Indicator",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -1994,22 +2057,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       }
@@ -2018,6 +2077,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2029,6 +2091,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2040,6 +2105,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14905532",
+    "CDEFullName": "Disease Primary Diagnosis NCI Thesaurus Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2103,6 +2171,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2150,6 +2221,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2201,6 +2275,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2332,6 +2409,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "6642369",
+    "CDEFullName": "Data Element Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2343,6 +2423,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14883047",
+    "CDEFullName": "Disease Primary Site of Disease Uberon Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2354,6 +2437,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14842510",
+    "CDEFullName": "Disease or Disorder Histology Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2365,6 +2451,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14843594",
+    "CDEFullName": "Disease or Disorder Histologic Subtype Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2376,18 +2465,17 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "3440332",
+    "CDEFullName": "Neoplasm American Joint Committee on Cancer Clinical Group Stage",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Stage IS"
-        ],
+        "synonyms": [],
         "value": "Stage IS"
       },
       {
-        "synonyms": [
-          "Stage X"
-        ],
+        "synonyms": [],
         "value": "Stage X"
       },
       {
@@ -2397,26 +2485,19 @@
         "value": "Stage Tis"
       },
       {
-        "synonyms": [
-          "Stage IVC"
-        ],
+        "synonyms": [],
         "value": "Stage IVC"
       },
       {
-        "synonyms": [
-          "Stage IVB"
-        ],
+        "synonyms": [],
         "value": "Stage IVB"
       },
       {
-        "synonyms": [
-          "Stage IVA"
-        ],
+        "synonyms": [],
         "value": "Stage IVA"
       },
       {
         "synonyms": [
-          "Stage IV",
           "Stage 4",
           "Stage 4 (qualifier value)",
           "Stage level 4 (qualifier value)",
@@ -2425,28 +2506,21 @@
         "value": "Stage IV"
       },
       {
-        "synonyms": [
-          "Stage IIIC"
-        ],
+        "synonyms": [],
         "value": "Stage IIIC"
       },
       {
-        "synonyms": [
-          "Stage IIIB"
-        ],
+        "synonyms": [],
         "value": "Stage IIIB"
       },
       {
-        "synonyms": [
-          "Stage IIIA"
-        ],
+        "synonyms": [],
         "value": "Stage IIIA"
       },
       {
         "synonyms": [
           "Third stage",
           "Stage IIIE",
-          "Stage III",
           "Stage 3",
           "Stage 3 (qualifier value)",
           "Stage level 3 (qualifier value)",
@@ -2455,39 +2529,28 @@
         "value": "Stage III"
       },
       {
-        "synonyms": [
-          "Stage IIC"
-        ],
+        "synonyms": [],
         "value": "Stage IIC"
       },
       {
-        "synonyms": [
-          "Stage IIB"
-        ],
+        "synonyms": [],
         "value": "Stage IIB"
       },
       {
-        "synonyms": [
-          "Stage IIA Cervix"
-        ],
+        "synonyms": [],
         "value": "Stage IIA Cervix"
       },
       {
-        "synonyms": [
-          "Stage IIA"
-        ],
+        "synonyms": [],
         "value": "Stage IIA"
       },
       {
-        "synonyms": [
-          "Stage II Cervix"
-        ],
+        "synonyms": [],
         "value": "Stage II Cervix"
       },
       {
         "synonyms": [
           "Second stage",
-          "Stage II",
           "Stage 2",
           "Stage 2 (qualifier value)",
           "Stage level 2 (qualifier value)",
@@ -2496,51 +2559,36 @@
         "value": "Stage II"
       },
       {
-        "synonyms": [
-          "Stage IB2"
-        ],
+        "synonyms": [],
         "value": "Stage IB2"
       },
       {
-        "synonyms": [
-          "Stage IB1"
-        ],
+        "synonyms": [],
         "value": "Stage IB1"
       },
       {
-        "synonyms": [
-          "Stage IB Cervix"
-        ],
+        "synonyms": [],
         "value": "Stage IB Cervix"
       },
       {
-        "synonyms": [
-          "Stage IB"
-        ],
+        "synonyms": [],
         "value": "Stage IB"
       },
       {
-        "synonyms": [
-          "Stage IA2"
-        ],
+        "synonyms": [],
         "value": "Stage IA2"
       },
       {
-        "synonyms": [
-          "Stage IA1"
-        ],
+        "synonyms": [],
         "value": "Stage IA1"
       },
       {
-        "synonyms": [
-          "Stage IA"
-        ],
+        "synonyms": [],
         "value": "Stage IA"
       },
       {
         "synonyms": [
           "First stage",
-          "Stage I",
           "Stage 1",
           "Stage 1 (qualifier value)",
           "Stage level 1 (qualifier value)",
@@ -2559,8 +2607,7 @@
       {
         "synonyms": [
           "Stage O",
-          "Stage 0 (qualifier value)",
-          "Stage 0"
+          "Stage 0 (qualifier value)"
         ],
         "value": "Stage 0"
       }
@@ -2569,6 +2616,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11325685",
+    "CDEFullName": "Diagnosis Tumor Grade",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2578,22 +2628,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
         "synonyms": [
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
-          "GB",
           "American Joint Committee on Cancer grade GB",
           "Grade B"
         ],
@@ -2618,8 +2664,7 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
@@ -2630,15 +2675,12 @@
           "LG",
           "American Joint Committee on Cancer grade LG",
           "Low grade",
-          "low grade",
-          "Low Grade"
+          "low grade"
         ],
         "value": "Low Grade"
       },
       {
-        "synonyms": [
-          "Intermediate Grade"
-        ],
+        "synonyms": [],
         "value": "Intermediate Grade"
       },
       {
@@ -2647,8 +2689,7 @@
           "American Joint Committee on Cancer grade HG",
           "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
-          "high grade",
-          "High Grade"
+          "high grade"
         ],
         "value": "High Grade"
       },
@@ -2656,7 +2697,6 @@
         "synonyms": [
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
-          "GX",
           "American Joint Committee on Cancer grade GX",
           "Grade cannot be assessed (GX)",
           "Grade X"
@@ -2702,6 +2742,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2713,6 +2756,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2724,6 +2770,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14913015",
+    "CDEFullName": "Therapeutic Procedure Pharmacologic Substance or Chemical NCI Thesaurus Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2735,6 +2784,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2182728",
+    "CDEFullName": "Agent Dose",
+    "CDEVersion": "3",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2746,6 +2798,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2321160",
+    "CDEFullName": "Agent Administration Dose Unit of Measure Name",
+    "CDEVersion": "4",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2757,6 +2812,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2003878",
+    "CDEFullName": "Agent Administered Frequency",
+    "CDEVersion": "4",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2768,6 +2826,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14984532",
+    "CDEFullName": "Procedure Enrollment To Treatment Start Day Count",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2779,6 +2840,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14984563",
+    "CDEFullName": "Procedure Enrollment To Treatment End Day Count",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2790,6 +2854,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "13383448",
+    "CDEFullName": "Disease Response Assessment Outcome",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2799,15 +2866,11 @@
         "value": "Complete Response"
       },
       {
-        "synonyms": [
-          "No Response"
-        ],
+        "synonyms": [],
         "value": "No Response"
       },
       {
-        "synonyms": [
-          "Persistent Disease"
-        ],
+        "synonyms": [],
         "value": "Persistent Disease"
       },
       {
@@ -2817,8 +2880,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -2838,35 +2900,28 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "No Evidence of Disease"
-        ],
+        "synonyms": [],
         "value": "No Evidence of Disease"
       },
       {
         "synonyms": [
-          "Progressive disease",
-          "Progressive Disease"
+          "Progressive disease"
         ],
         "value": "Progressive Disease"
       },
       {
         "synonyms": [
           "Stable disease",
-          "stable disease",
-          "Stable Disease"
+          "stable disease"
         ],
         "value": "Stable Disease"
       },
@@ -2885,6 +2940,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2896,6 +2954,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2907,6 +2968,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14913015",
+    "CDEFullName": "Therapeutic Procedure Pharmacologic Substance or Chemical NCI Thesaurus Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2918,6 +2982,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2182728",
+    "CDEFullName": "Agent Dose",
+    "CDEVersion": "3",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2929,6 +2996,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2321160",
+    "CDEFullName": "Agent Administration Dose Unit of Measure Name",
+    "CDEVersion": "4",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2940,6 +3010,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2003878",
+    "CDEFullName": "Agent Administered Frequency",
+    "CDEVersion": "4",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2951,6 +3024,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14984532",
+    "CDEFullName": "Procedure Enrollment To Treatment Start Day Count",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2962,6 +3038,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14984563",
+    "CDEFullName": "Procedure Enrollment To Treatment End Day Count",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2973,6 +3052,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "13383448",
+    "CDEFullName": "Disease Response Assessment Outcome",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -2982,15 +3064,11 @@
         "value": "Complete Response"
       },
       {
-        "synonyms": [
-          "No Response"
-        ],
+        "synonyms": [],
         "value": "No Response"
       },
       {
-        "synonyms": [
-          "Persistent Disease"
-        ],
+        "synonyms": [],
         "value": "Persistent Disease"
       },
       {
@@ -3000,8 +3078,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -3021,35 +3098,28 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "No Evidence of Disease"
-        ],
+        "synonyms": [],
         "value": "No Evidence of Disease"
       },
       {
         "synonyms": [
-          "Progressive disease",
-          "Progressive Disease"
+          "Progressive disease"
         ],
         "value": "Progressive Disease"
       },
       {
         "synonyms": [
           "Stable disease",
-          "stable disease",
-          "Stable Disease"
+          "stable disease"
         ],
         "value": "Stable Disease"
       },
@@ -3068,6 +3138,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3079,6 +3152,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3090,6 +3166,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "13383457",
+    "CDEFullName": "Therapeutic Surgical Procedure Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3101,6 +3180,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3112,6 +3194,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14980609",
+    "CDEFullName": "Procedure Anatomic Site Uberon Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3123,6 +3208,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "6765611",
+    "CDEFullName": "Therapeutic Procedure Occurrence Indicator",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3135,7 +3223,6 @@
         "synonyms": [
           "Does not apply",
           "NA",
-          "Not applicable",
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
@@ -3147,8 +3234,7 @@
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       },
@@ -3159,15 +3245,12 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
@@ -3181,6 +3264,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14918773",
+    "CDEFullName": "Procedure Surgical Finding Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3192,6 +3278,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "13362284",
+    "CDEFullName": "Measurable Residual Disease Assessment Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3203,6 +3292,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3214,6 +3306,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3225,6 +3320,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "6411539",
+    "CDEFullName": "Procedure Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3236,6 +3334,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3247,6 +3348,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14986422",
+    "CDEFullName": "Procedure Radiation Therapy Administered Dose",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3258,6 +3362,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "13383458",
+    "CDEFullName": "Radiation Therapy Dose Unit of Measure",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3269,6 +3376,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14918782",
+    "CDEFullName": "Radiation Therapy Frequency Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3280,6 +3390,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "7063755",
+    "CDEFullName": "Radiation Therapy Administration Extent Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3291,6 +3404,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14984532",
+    "CDEFullName": "Procedure Enrollment To Treatment Start Day Count",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3302,6 +3418,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14984563",
+    "CDEFullName": "Procedure Enrollment To Treatment End Day Count",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3313,6 +3432,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "13383448",
+    "CDEFullName": "Disease Response Assessment Outcome",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3322,15 +3444,11 @@
         "value": "Complete Response"
       },
       {
-        "synonyms": [
-          "No Response"
-        ],
+        "synonyms": [],
         "value": "No Response"
       },
       {
-        "synonyms": [
-          "Persistent Disease"
-        ],
+        "synonyms": [],
         "value": "Persistent Disease"
       },
       {
@@ -3340,8 +3458,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -3361,35 +3478,28 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "No Evidence of Disease"
-        ],
+        "synonyms": [],
         "value": "No Evidence of Disease"
       },
       {
         "synonyms": [
-          "Progressive disease",
-          "Progressive Disease"
+          "Progressive disease"
         ],
         "value": "Progressive Disease"
       },
       {
         "synonyms": [
           "Stable disease",
-          "stable disease",
-          "Stable Disease"
+          "stable disease"
         ],
         "value": "Stable Disease"
       },
@@ -3408,6 +3518,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3419,6 +3532,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14822135",
+    "CDEFullName": "Data Record Link Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3430,6 +3546,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "2847330",
+    "CDEFullName": "Participant Vital Status Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3440,8 +3559,7 @@
       },
       {
         "synonyms": [
-          "Living",
-          "Alive"
+          "Living"
         ],
         "value": "Alive"
       },
@@ -3451,7 +3569,6 @@
           "Died",
           "Death",
           "Dead (finding)",
-          "Dead",
           "Death (event)",
           "obsolete death",
           "Deceased",
@@ -3468,8 +3585,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -3478,8 +3594,7 @@
           "Not specified",
           "Non-specific",
           "Non-specified",
-          "Non-specific (qualifier value)",
-          "Unspecified"
+          "Non-specific (qualifier value)"
         ],
         "value": "Unspecified"
       }
@@ -3488,6 +3603,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "4783274",
+    "CDEFullName": "Primary Cause of Death",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3499,6 +3617,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14834973",
+    "CDEFullName": "Subject Protocol Therapy Status Indicator",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3508,22 +3629,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       }
@@ -3532,12 +3649,13 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "13362265",
+    "CDEFullName": "Subject Protocol Therapy Status Off Protocol Reason",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -3547,21 +3665,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
         "synonyms": [
-          "Other (qualifier value)",
-          "Other"
+          "Other (qualifier value)"
         ],
         "value": "Other"
       },
       {
         "synonyms": [
-          "Toxicity",
           "Toxic effect of",
           "Toxic effect"
         ],
@@ -3574,9 +3689,7 @@
         "value": "Withdrawal of Consent"
       },
       {
-        "synonyms": [
-          "Subject/Guardian Refused Further Treatment"
-        ],
+        "synonyms": [],
         "value": "Subject/Guardian Refused Further Treatment"
       },
       {
@@ -3605,8 +3718,7 @@
           "Course of illness",
           "Course of illness (attribute)",
           "Disease progression NOS",
-          "disease progression",
-          "Disease Progression"
+          "disease progression"
         ],
         "value": "Disease Progression"
       },
@@ -3627,9 +3739,7 @@
         "value": "Relapse"
       },
       {
-        "synonyms": [
-          "Physician Decision"
-        ],
+        "synonyms": [],
         "value": "Physician Decision"
       },
       {
@@ -3645,16 +3755,13 @@
         "value": "Ineligible"
       },
       {
-        "synonyms": [
-          "Failure to Attain Remission"
-        ],
+        "synonyms": [],
         "value": "Failure to Attain Remission"
       },
       {
         "synonyms": [
           "Has died",
           "Died",
-          "Death",
           "Dead (finding)",
           "Dead",
           "Death (event)",
@@ -3683,6 +3790,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3694,6 +3804,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14986442",
+    "CDEFullName": "Specimen Material Parent Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3705,6 +3818,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14986443",
+    "CDEFullName": "Specimen Material Parent OBIB Source",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3772,12 +3888,13 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "12445832",
+    "CDEFullName": "Specimen Material Biospecimen Category",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Cell Line"
-        ],
+        "synonyms": [],
         "value": "Cell Line"
       },
       {
@@ -3786,8 +3903,7 @@
           "Structures of the central nervous system",
           "Central nervous system structure",
           "Structure of central nervous system",
-          "Structure of central nervous system (body structure)",
-          "Central Nervous System"
+          "Structure of central nervous system (body structure)"
         ],
         "value": "Central Nervous System"
       },
@@ -3796,8 +3912,7 @@
           "Deoxyribonucleic acid (substance)",
           "DNA - Deoxyribonucleic acid",
           "Deoxyribonucleic acid",
-          "deoxyribonucleic acid",
-          "DNA"
+          "deoxyribonucleic acid"
         ],
         "value": "DNA"
       },
@@ -3806,15 +3921,13 @@
           "Ribonucleic acid (substance)",
           "RNA - Ribonucleic acid",
           "Ribonucleic acid",
-          "RNA",
           "Ribonucleic Acid"
         ],
         "value": "RNA"
       },
       {
         "synonyms": [
-          "Saliva (substance)",
-          "Saliva"
+          "Saliva (substance)"
         ],
         "value": "Saliva"
       },
@@ -3824,15 +3937,13 @@
           "Skin structure (body structure)",
           "Skin, NOS",
           "SKIN",
-          "skin",
-          "Skin"
+          "skin"
         ],
         "value": "Skin"
       },
       {
         "synonyms": [
           "Xg - Xenograft",
-          "Xenograft",
           "Xenograft (substance)",
           "Heterograft",
           "Heteroplastic graft",
@@ -3847,15 +3958,12 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -3866,7 +3974,6 @@
       },
       {
         "synonyms": [
-          "Tissue",
           "Body tissue structure",
           "Body tissue structure (body structure)",
           "Body tissue"
@@ -3875,29 +3982,25 @@
       },
       {
         "synonyms": [
-          "Urine (substance)",
-          "Urine"
+          "Urine (substance)"
         ],
         "value": "Urine"
       },
       {
         "synonyms": [
           "Sputum (substance)",
-          "Expectoration",
-          "Sputum"
+          "Expectoration"
         ],
         "value": "Sputum"
       },
       {
         "synonyms": [
-          "Body Fld",
-          "Body Fluid or Substance"
+          "Body Fld"
         ],
         "value": "Body Fluid or Substance"
       },
       {
         "synonyms": [
-          "Stool",
           "Stools",
           "Feces (substance)",
           "Dung",
@@ -3918,8 +4021,7 @@
           "Cell structure (cell structure)",
           "Normal cell (cell)",
           "Cell",
-          "cell",
-          "Cells"
+          "cell"
         ],
         "value": "Cells"
       },
@@ -3934,15 +4036,13 @@
           "Bone marrow structure",
           "Bone marrow structure (body structure)",
           "Marrow (bone)",
-          "bone marrow",
-          "Bone Marrow"
+          "bone marrow"
         ],
         "value": "Bone Marrow"
       },
       {
         "synonyms": [
           "Peritoneal effusion",
-          "Ascites",
           "Accumulation of fluid in the abdomen",
           "Hydroperitonia",
           "Hydroperitoneum",
@@ -3956,7 +4056,6 @@
       },
       {
         "synonyms": [
-          "Blood",
           "portion of blood",
           "Blood (substance)",
           "blood"
@@ -3964,9 +4063,7 @@
         "value": "Blood"
       },
       {
-        "synonyms": [
-          "Analyte"
-        ],
+        "synonyms": [],
         "value": "Analyte"
       }
     ],
@@ -3974,6 +4071,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "12083894",
+    "CDEFullName": "Specimen Original Anatomic Site Uberon Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3985,6 +4085,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14688604",
+    "CDEFullName": "Specimen Neoplasm Category",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -3994,8 +4097,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -4019,9 +4121,7 @@
         "value": "Tumor"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -4035,12 +4135,14 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "5899851",
+    "CDEFullName": "Timepoint Event Assessment Period Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
         "synonyms": [
           "Other (qualifier value)",
-          "Other",
           "Specify"
         ],
         "value": "Other"
@@ -4983,7 +5085,6 @@
       },
       {
         "synonyms": [
-          "Induction",
           "Induction Therapy"
         ],
         "value": "Induction"
@@ -5666,8 +5767,7 @@
           "Radiotherapy",
           "Radiation therapy",
           "radiation therapy",
-          "Radiation",
-          "Radiation Therapy"
+          "Radiation"
         ],
         "value": "Radiation Therapy"
       },
@@ -7084,7 +7184,6 @@
       },
       {
         "synonyms": [
-          "Mastectomy",
           "Excision of breast (procedure)",
           "Excision of breast",
           "Breast excision",
@@ -7101,7 +7200,6 @@
           "Plastic repair",
           "Surgery reconstruction",
           "reconstruction",
-          "Reconstruction",
           "Reconstruction procedure",
           "Reconstruction procedure (procedure)",
           "Reconstruction - action",
@@ -7518,8 +7616,7 @@
           "Diagnosis (observable entity)",
           "dx",
           "{Diagnosis}",
-          "diagnosis",
-          "Diagnosis"
+          "diagnosis"
         ],
         "value": "Diagnosis"
       },
@@ -7640,7 +7737,6 @@
       },
       {
         "synonyms": [
-          "Surgery",
           "Surgical",
           "SURG",
           "Surgery, NOS",
@@ -7661,9 +7757,7 @@
         "value": "Surgery"
       },
       {
-        "synonyms": [
-          "Adjuvant Radiation Therapy"
-        ],
+        "synonyms": [],
         "value": "Adjuvant Radiation Therapy"
       },
       {
@@ -7729,7 +7823,6 @@
       {
         "synonyms": [
           "Pre-dose (qualifier value)",
-          "Pre-dose",
           "Pre-dose Measure"
         ],
         "value": "Pre-dose"
@@ -8717,9 +8810,7 @@
         "value": "21-24 hr"
       },
       {
-        "synonyms": [
-          "Adjuvant"
-        ],
+        "synonyms": [],
         "value": "Adjuvant"
       },
       {
@@ -9118,9 +9209,7 @@
         "value": "16 +/- 2 weeks following initiation of treatment"
       },
       {
-        "synonyms": [
-          "Relapse"
-        ],
+        "synonyms": [],
         "value": "Relapse"
       },
       {
@@ -9599,9 +9688,7 @@
         "value": "Active Treatment, Every 3 Months"
       },
       {
-        "synonyms": [
-          "Observation"
-        ],
+        "synonyms": [],
         "value": "Observation"
       },
       {
@@ -9611,7 +9698,6 @@
           "Chemotherapy NOS",
           "chemotherapy",
           "Chemotherapies",
-          "Chemotherapy",
           "chemo"
         ],
         "value": "Chemotherapy"
@@ -9621,8 +9707,7 @@
           "Trastuzumab-containing product",
           "Product containing trastuzumab (medicinal product)",
           "Trastuzumab (substance)",
-          "Herceptin\u00ae",
-          "Trastuzumab"
+          "Herceptin\u00ae"
         ],
         "value": "Trastuzumab"
       },
@@ -9655,9 +9740,7 @@
         "value": "6-8 weeks post chemo/RT"
       },
       {
-        "synonyms": [
-          "Final"
-        ],
+        "synonyms": [],
         "value": "Final"
       },
       {
@@ -9799,8 +9882,7 @@
       {
         "synonyms": [
           "Adjuvant drug therapy",
-          "Adjuvant drug therapy (procedure)",
-          "Adjuvant Chemotherapy"
+          "Adjuvant drug therapy (procedure)"
         ],
         "value": "Adjuvant Chemotherapy"
       },
@@ -9861,9 +9943,7 @@
         "value": "Week 10"
       },
       {
-        "synonyms": [
-          "Registration"
-        ],
+        "synonyms": [],
         "value": "Registration"
       },
       {
@@ -9968,7 +10048,6 @@
       },
       {
         "synonyms": [
-          "baseline",
           "Baseline"
         ],
         "value": "baseline"
@@ -10055,7 +10134,6 @@
       },
       {
         "synonyms": [
-          "12",
           "Points in time",
           "Points in time (qualifier value)",
           "Twelve",
@@ -10088,9 +10166,7 @@
         "value": "36 months"
       },
       {
-        "synonyms": [
-          "Screening"
-        ],
+        "synonyms": [],
         "value": "Screening"
       },
       {
@@ -10249,6 +10325,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "6642369",
+    "CDEFullName": "Data Element Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10260,6 +10339,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10271,6 +10353,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11284037",
+    "CDEFullName": "Electronic Data File Name",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10282,6 +10367,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14824731",
+    "CDEFullName": "Electronic Data File Content Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10321,17 +10409,14 @@
         "value": "Transcriptome Profiling"
       },
       {
-        "synonyms": [
-          "Gene Expression Analysis"
-        ],
+        "synonyms": [],
         "value": "Gene Expression Analysis"
       },
       {
         "synonyms": [
           "Nuclear sap",
           "Karyoplasm",
-          "Chromatin (substance)",
-          "Chromatin"
+          "Chromatin (substance)"
         ],
         "value": "Chromatin"
       },
@@ -10354,9 +10439,7 @@
         "value": "Mass Spectrometry"
       },
       {
-        "synonyms": [
-          "Methylation Analysis"
-        ],
+        "synonyms": [],
         "value": "Methylation Analysis"
       },
       {
@@ -10372,35 +10455,26 @@
         "value": "Population Science"
       },
       {
-        "synonyms": [
-          "Protein Expression"
-        ],
+        "synonyms": [],
         "value": "Protein Expression"
       },
       {
-        "synonyms": [
-          "Proteomic Profile"
-        ],
+        "synonyms": [],
         "value": "Proteomic Profile"
       },
       {
         "synonyms": [
           "qc",
-          "quality control",
-          "Quality Control"
+          "quality control"
         ],
         "value": "Quality Control"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "Archive"
-        ],
+        "synonyms": [],
         "value": "Archive"
       },
       {
@@ -10413,9 +10487,7 @@
         "value": "Genomic Structural Variation"
       },
       {
-        "synonyms": [
-          "Biospecimen"
-        ],
+        "synonyms": [],
         "value": "Biospecimen"
       },
       {
@@ -10430,6 +10502,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11280338",
+    "CDEFullName": "Electronic Data File Description Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10441,6 +10516,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11416926",
+    "CDEFullName": "Electronic Data File Format Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10528,21 +10606,15 @@
         "value": "HIC"
       },
       {
-        "synonyms": [
-          "BEDPE Format"
-        ],
+        "synonyms": [],
         "value": "BEDPE Format"
       },
       {
-        "synonyms": [
-          "mtx"
-        ],
+        "synonyms": [],
         "value": "mtx"
       },
       {
-        "synonyms": [
-          "mzIdentML"
-        ],
+        "synonyms": [],
         "value": "mzIdentML"
       },
       {
@@ -10582,9 +10654,7 @@
         "value": "JPEG 2000"
       },
       {
-        "synonyms": [
-          "JPEG"
-        ],
+        "synonyms": [],
         "value": "JPEG"
       },
       {
@@ -10612,9 +10682,7 @@
         "value": "YAML"
       },
       {
-        "synonyms": [
-          "TIFF"
-        ],
+        "synonyms": [],
         "value": "TIFF"
       },
       {
@@ -10672,9 +10740,7 @@
         "value": "bigWig"
       },
       {
-        "synonyms": [
-          "Binary Format"
-        ],
+        "synonyms": [],
         "value": "Binary Format"
       },
       {
@@ -10732,15 +10798,11 @@
         "value": "GCT/Res Format"
       },
       {
-        "synonyms": [
-          "DICOM"
-        ],
+        "synonyms": [],
         "value": "DICOM"
       },
       {
-        "synonyms": [
-          "GenBank Format"
-        ],
+        "synonyms": [],
         "value": "GenBank Format"
       },
       {
@@ -10780,9 +10842,7 @@
         "value": "GZIP Format"
       },
       {
-        "synonyms": [
-          "MAGE-TAB"
-        ],
+        "synonyms": [],
         "value": "MAGE-TAB"
       },
       {
@@ -10834,9 +10894,7 @@
         "value": "PDF"
       },
       {
-        "synonyms": [
-          "Plain Text Data Format"
-        ],
+        "synonyms": [],
         "value": "Plain Text Data Format"
       },
       {
@@ -10864,9 +10922,7 @@
         "value": "SDRF"
       },
       {
-        "synonyms": [
-          "Sequence Record Format"
-        ],
+        "synonyms": [],
         "value": "Sequence Record Format"
       },
       {
@@ -10876,9 +10932,7 @@
         "value": "SVG"
       },
       {
-        "synonyms": [
-          "Python Script Format"
-        ],
+        "synonyms": [],
         "value": "Python Script Format"
       },
       {
@@ -10928,6 +10982,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11479876",
+    "CDEFullName": "Electronic Data File Size Integer",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10939,6 +10996,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11480133",
+    "CDEFullName": "Electronic Data File Checksum Value",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10950,6 +11010,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11475057",
+    "CDEFullName": "Electronic Data File Checksum Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10975,6 +11038,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11387114",
+    "CDEFullName": "Electronic Data File Compression Type",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -10996,8 +11062,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       }
@@ -11006,6 +11071,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "14826100",
+    "CDEFullName": "Electronic Data File Content Unique Identifier",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
@@ -11017,6 +11085,9 @@
     "version": "1.1.0"
   },
   {
+    "CDECode": "11556141",
+    "CDEFullName": "Electronic File Pathname Text",
+    "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
       {

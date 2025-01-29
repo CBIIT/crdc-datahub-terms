@@ -1,5 +1,8 @@
 [
   {
+    "CDECode": "11444542",
+    "CDEFullName": "Program Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -11,6 +14,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -22,6 +28,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33,6 +42,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -44,6 +56,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -55,6 +70,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -66,6 +84,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11459801",
+    "CDEFullName": "Program Short Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -77,6 +98,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -88,6 +112,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -99,6 +126,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -110,6 +140,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11459810",
+    "CDEFullName": "Study Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -121,6 +154,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11459812",
+    "CDEFullName": "Study Short Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -132,6 +168,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -143,6 +182,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -154,6 +196,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -165,6 +210,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -176,6 +224,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -187,6 +238,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -198,6 +252,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -209,6 +266,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11524544",
+    "CDEFullName": "Research Activity dbGaP Accession Number Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -220,6 +280,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -231,6 +294,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -254,6 +320,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -265,6 +334,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11524545",
+    "CDEFullName": "Funding Agency Organization Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -276,6 +348,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11524546",
+    "CDEFullName": "Funding Agency Program Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -287,6 +362,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3434057",
+    "CDEFullName": "Grant Funding Identifier Number",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -298,6 +376,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -309,6 +390,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14673514",
+    "CDEFullName": "Clinical Trial Study Protocol Unique Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -320,6 +404,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11524548",
+    "CDEFullName": "Clinical Trial Treatment Arm Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -331,6 +418,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6118266",
+    "CDEFullName": "Sample Organism Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -338,9 +428,7 @@
         "value": "Canine"
       },
       {
-        "synonyms": [
-          "Cell Line"
-        ],
+        "synonyms": [],
         "value": "Cell Line"
       },
       {
@@ -356,6 +444,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11524549",
+    "CDEFullName": "Study Subject Legal Adult Or Pediatric Participant Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -367,8 +458,7 @@
       {
         "synonyms": [
           "peds",
-          "pediatric",
-          "Pediatric"
+          "pediatric"
         ],
         "value": "Pediatric"
       }
@@ -377,6 +467,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -388,6 +481,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -399,6 +495,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -418,6 +517,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -429,6 +531,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -440,6 +545,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -451,6 +559,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11555662",
+    "CDEFullName": "Research Activity Unique Subjects Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -462,6 +573,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11555663",
+    "CDEFullName": "Research Activity Sample Size Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -473,6 +587,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12571096",
+    "CDEFullName": "Data Collection Scientific Data Type Category",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -489,15 +606,11 @@
         "value": "Imaging"
       },
       {
-        "synonyms": [
-          "Genomics"
-        ],
+        "synonyms": [],
         "value": "Genomics"
       },
       {
-        "synonyms": [
-          "Proteomics"
-        ],
+        "synonyms": [],
         "value": "Proteomics"
       }
     ],
@@ -505,6 +618,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -516,6 +632,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -527,6 +646,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11555664",
+    "CDEFullName": "Electronic Data File Access Level Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -538,6 +660,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -553,6 +678,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -564,6 +692,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -575,6 +706,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2201713",
+    "CDEFullName": "Person Affiliation Role Text Type",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -586,6 +720,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2663165",
+    "CDEFullName": "Person Name Prefix Abbreviation Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -597,6 +734,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2179589",
+    "CDEFullName": "Person Given/First Name",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -608,6 +748,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2179590",
+    "CDEFullName": "Person Middle Name",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -619,6 +762,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2179591",
+    "CDEFullName": "Person Family/Last Name",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -630,6 +776,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2006475",
+    "CDEFullName": "Individual Genea",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -641,6 +790,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2517550",
+    "CDEFullName": "Person Email",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -652,6 +804,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -663,6 +818,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -674,6 +832,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -685,6 +846,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12220014",
+    "CDEFullName": "Subject Data Origin Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -696,6 +860,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2192199",
+    "CDEFullName": "Race Category Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -709,7 +876,6 @@
           "Black/African American",
           "United States Black",
           "Black or African-American",
-          "Black or African American",
           "African American (ethnic group)",
           "African-American",
           "African American"
@@ -720,7 +886,6 @@
         "synonyms": [
           "White/Caucasian",
           "Caucasian (racial group)",
-          "White",
           "Race: White",
           "White - ethnic group",
           "White - ethnic group (ethnic group)",
@@ -737,8 +902,7 @@
           "Oriental (ethnic group)",
           "Asian race (racial group)",
           "Oriental",
-          "Asian race",
-          "Asian"
+          "Asian race"
         ],
         "value": "Asian"
       },
@@ -749,8 +913,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -764,15 +927,12 @@
         "synonyms": [
           "American Indian or Alaska native (racial group)",
           "American Indian or Alaska native",
-          "American Indian or Alaska Native",
           "Native american"
         ],
         "value": "American Indian or Alaska Native"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       }
     ],
@@ -780,19 +940,19 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2200604",
+    "CDEFullName": "Person Gender Text Type",
+    "CDEVersion": "3.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
         "synonyms": [
-          "Intersex (finding)",
-          "Intersex"
+          "Intersex (finding)"
         ],
         "value": "Intersex"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -806,8 +966,7 @@
           "Not specified",
           "Non-specific",
           "Non-specified",
-          "Non-specific (qualifier value)",
-          "Unspecified"
+          "Non-specific (qualifier value)"
         ],
         "value": "Unspecified"
       },
@@ -824,8 +983,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       }
@@ -834,6 +992,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2192217",
+    "CDEFullName": "Ethnic Group Category Text",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -849,8 +1010,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -863,15 +1023,13 @@
       {
         "synonyms": [
           "Non-Hispanic or Latino",
-          "Not hispanic or latino",
-          "Not Hispanic or Latino"
+          "Not hispanic or latino"
         ],
         "value": "Not Hispanic or Latino"
       },
       {
         "synonyms": [
           "Hispanic origin",
-          "Hispanic or Latino",
           "Hispanic"
         ],
         "value": "Hispanic or Latino"
@@ -881,6 +1039,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14940691",
+    "CDEFullName": "Research Activity dbGaP Subject Identifier Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -892,19 +1053,20 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7572817",
+    "CDEFullName": "Person Sex at Birth Category",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
         "synonyms": [
-          "Gender Identifier X",
-          "X"
+          "Gender Identifier X"
         ],
         "value": "X"
       },
       {
         "synonyms": [
           "Do not know (qualifier value)",
-          "Don't know",
           "Do not know",
           "Does Not Know"
         ],
@@ -926,8 +1088,7 @@
       },
       {
         "synonyms": [
-          "Intersex (finding)",
-          "Intersex"
+          "Intersex (finding)"
         ],
         "value": "Intersex"
       },
@@ -944,14 +1105,12 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
         "synonyms": [
-          "Female",
           "Female structure",
           "Female individual",
           "Female (finding)",
@@ -962,8 +1121,7 @@
       },
       {
         "synonyms": [
-          "M",
-          "Male"
+          "M"
         ],
         "value": "Male"
       }
@@ -972,6 +1130,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -983,6 +1144,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -994,6 +1158,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -1005,6 +1172,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "13471160",
+    "CDEFullName": "Diagnosis Disease or Disorder Morphology Disease",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -1152,7 +1322,6 @@
           "Tumor, NOS",
           "tumor",
           "Tumor",
-          "Neoplasms, NOS",
           "Neoplasm (NOS)",
           "NEOPLASMS",
           "Neoplasm, NOS",
@@ -1273,8 +1442,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -1282,7 +1450,6 @@
         "synonyms": [
           "Trophoblastic tumour",
           "Trophoblastic tumor",
-          "Trophoblastic neoplasms",
           "Trophoblastic neoplasm",
           "Trophoblastic neoplasm (morphologic abnormality)",
           "Trophoblastic Tumor"
@@ -1321,8 +1488,7 @@
           "Plasma cell tumour",
           "Plasma cell disorder NOS",
           "Plasma cell disorder",
-          "Plasma cell dyscrasia",
-          "Plasma Cell Neoplasm"
+          "Plasma cell dyscrasia"
         ],
         "value": "Plasma Cell Neoplasm"
       },
@@ -1343,15 +1509,11 @@
         "value": "Odontogenic Tumors"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "Not Otherwise Specified"
-        ],
+        "synonyms": [],
         "value": "Not Otherwise Specified"
       },
       {
@@ -1362,8 +1524,7 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
@@ -1470,7 +1631,6 @@
       {
         "synonyms": [
           "Meningioma NOS",
-          "Meningiomas",
           "Meningioma, NOS",
           "meningioma",
           "Meningioma"
@@ -1487,8 +1647,7 @@
           "Mast cell tumour",
           "Mast cell tumor, NOS",
           "Mast cell tumor",
-          "Mast cell neoplasm",
-          "Mast Cell Neoplasm"
+          "Mast cell neoplasm"
         ],
         "value": "Mast Cell Neoplasm"
       },
@@ -1544,7 +1703,6 @@
           "Leukemia of unspecified cell type",
           "Leukaemia of unspecified cell type",
           "Leukemias, NOS",
-          "Leukemias",
           "Leukemia, NOS",
           "Leukemia NOS",
           "Leukaemias",
@@ -1575,7 +1733,6 @@
         "synonyms": [
           "Glioma (disorder)",
           "Glioma (morphologic abnormality)",
-          "Gliomas",
           "Glioma, NOS",
           "glioma",
           "Glioma"
@@ -1697,6 +1854,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2847330",
+    "CDEFullName": "Participant Vital Status Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -1707,8 +1867,7 @@
       },
       {
         "synonyms": [
-          "Living",
-          "Alive"
+          "Living"
         ],
         "value": "Alive"
       },
@@ -1718,7 +1877,6 @@
           "Died",
           "Death",
           "Dead (finding)",
-          "Dead",
           "Death (event)",
           "obsolete death",
           "Deceased",
@@ -1735,8 +1893,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -1745,8 +1902,7 @@
           "Not specified",
           "Non-specific",
           "Non-specified",
-          "Non-specific (qualifier value)",
-          "Unspecified"
+          "Non-specific (qualifier value)"
         ],
         "value": "Unspecified"
       }
@@ -1755,6 +1911,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14905532",
+    "CDEFullName": "Disease Primary Diagnosis NCI Thesaurus Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -4962,6 +5121,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14883047",
+    "CDEFullName": "Disease Primary Site of Disease Uberon Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -5953,6 +6115,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "10609539",
+    "CDEFullName": "Subject Age at Diagnosis Integer",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -5964,6 +6129,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11325685",
+    "CDEFullName": "Diagnosis Tumor Grade",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -5973,22 +6141,18 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
         "synonyms": [
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
-          "GB",
           "American Joint Committee on Cancer grade GB",
           "Grade B"
         ],
@@ -6013,8 +6177,7 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
@@ -6025,15 +6188,12 @@
           "LG",
           "American Joint Committee on Cancer grade LG",
           "Low grade",
-          "low grade",
-          "Low Grade"
+          "low grade"
         ],
         "value": "Low Grade"
       },
       {
-        "synonyms": [
-          "Intermediate Grade"
-        ],
+        "synonyms": [],
         "value": "Intermediate Grade"
       },
       {
@@ -6042,8 +6202,7 @@
           "American Joint Committee on Cancer grade HG",
           "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
-          "high grade",
-          "High Grade"
+          "high grade"
         ],
         "value": "High Grade"
       },
@@ -6051,7 +6210,6 @@
         "synonyms": [
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
-          "GX",
           "American Joint Committee on Cancer grade GX",
           "Grade cannot be assessed (GX)",
           "Grade X"
@@ -6097,12 +6255,13 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3440331",
+    "CDEFullName": "Neoplasm American Joint Committee on Cancer Clinical Distant Metastasis M Stage",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -6112,8 +6271,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -6121,7 +6279,6 @@
         "synonyms": [
           "MX distant metastasis stage",
           "MX stage",
-          "MX",
           "MX TNM Finding"
         ],
         "value": "MX"
@@ -6151,7 +6308,6 @@
         "synonyms": [
           "M1 distant metastasis stage",
           "M1 stage",
-          "M1",
           "M1 TNM Finding"
         ],
         "value": "M1"
@@ -6159,7 +6315,6 @@
       {
         "synonyms": [
           "M0 distant metastasis stage",
-          "M0",
           "M0 stage",
           "M0 TNM Finding"
         ],
@@ -6176,12 +6331,13 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3440330",
+    "CDEFullName": "Neoplasm American Joint Committee on Cancer Clinical Regional Lymph Node N Stage",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -6191,8 +6347,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -6200,42 +6355,36 @@
         "synonyms": [
           "NX lymph node stage",
           "NX stage",
-          "NX",
           "NX TNM Finding"
         ],
         "value": "NX"
       },
       {
         "synonyms": [
-          "N4",
           "N4 TNM Finding"
         ],
         "value": "N4"
       },
       {
         "synonyms": [
-          "N3c",
           "N3c TNM Finding"
         ],
         "value": "N3c"
       },
       {
         "synonyms": [
-          "N3b",
           "N3b TNM Finding"
         ],
         "value": "N3b"
       },
       {
         "synonyms": [
-          "N3a",
           "N3a TNM Finding"
         ],
         "value": "N3a"
       },
       {
         "synonyms": [
-          "N3",
           "N3 lymph node stage",
           "N3 stage",
           "N3 TNM Finding"
@@ -6244,28 +6393,24 @@
       },
       {
         "synonyms": [
-          "N2c",
           "N2c TNM Finding"
         ],
         "value": "N2c"
       },
       {
         "synonyms": [
-          "N2b",
           "N2b TNM Finding"
         ],
         "value": "N2b"
       },
       {
         "synonyms": [
-          "N2a",
           "N2a TNM Finding"
         ],
         "value": "N2a"
       },
       {
         "synonyms": [
-          "N2",
           "N2 lymph node stage",
           "N2 stage",
           "N2 TNM Finding"
@@ -6323,7 +6468,6 @@
       {
         "synonyms": [
           "N1 lymph node stage",
-          "N1",
           "N1 stage",
           "N1 TNM Finding"
         ],
@@ -6355,7 +6499,6 @@
       },
       {
         "synonyms": [
-          "N0",
           "N0 lymph node stage",
           "N0 stage",
           "N0 TNM Finding"
@@ -6367,12 +6510,13 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3440328",
+    "CDEFullName": "Neoplasm American Joint Committee on Cancer Clinical Primary Tumor T Stage",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -6382,8 +6526,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -6401,7 +6544,6 @@
       },
       {
         "synonyms": [
-          "T4e",
           "Melanoma of the Ciliary Body and Choroid pT4e TNM Finding v7"
         ],
         "value": "T4e"
@@ -6414,7 +6556,6 @@
       },
       {
         "synonyms": [
-          "TX",
           "TX TNM Finding"
         ],
         "value": "TX"
@@ -6479,28 +6620,24 @@
       },
       {
         "synonyms": [
-          "Ta",
           "pTa TNM Finding"
         ],
         "value": "Ta"
       },
       {
         "synonyms": [
-          "T4d",
           "T4d TNM Finding"
         ],
         "value": "T4d"
       },
       {
         "synonyms": [
-          "T4c",
           "T4c TNM Finding"
         ],
         "value": "T4c"
       },
       {
         "synonyms": [
-          "T4b",
           "T4b tumor stage",
           "T4b TNM Finding"
         ],
@@ -6508,7 +6645,6 @@
       },
       {
         "synonyms": [
-          "T4a",
           "T4a tumor stage",
           "T4a TNM Finding"
         ],
@@ -6516,7 +6652,6 @@
       },
       {
         "synonyms": [
-          "T4",
           "T4 tumor stage",
           "T4 TNM Finding"
         ],
@@ -6524,7 +6659,6 @@
       },
       {
         "synonyms": [
-          "T3c",
           "T3c tumor stage",
           "T3c TNM Finding"
         ],
@@ -6532,7 +6666,6 @@
       },
       {
         "synonyms": [
-          "T3b",
           "T3b tumor stage",
           "T3b TNM Finding"
         ],
@@ -6540,7 +6673,6 @@
       },
       {
         "synonyms": [
-          "T3a",
           "T3a tumor stage",
           "T3a TNM Finding"
         ],
@@ -6548,7 +6680,6 @@
       },
       {
         "synonyms": [
-          "T3",
           "T3 tumor stage",
           "T3 TNM Finding"
         ],
@@ -6556,14 +6687,12 @@
       },
       {
         "synonyms": [
-          "T2c",
           "T2c TNM Finding"
         ],
         "value": "T2c"
       },
       {
         "synonyms": [
-          "T2b",
           "T2b TNM Finding"
         ],
         "value": "T2b"
@@ -6578,14 +6707,12 @@
       },
       {
         "synonyms": [
-          "T2a",
           "T2a TNM Finding"
         ],
         "value": "T2a"
       },
       {
         "synonyms": [
-          "T2",
           "T2 tumor stage",
           "T2 TNM Finding"
         ],
@@ -6593,14 +6720,12 @@
       },
       {
         "synonyms": [
-          "T1mi",
           "T1mi TNM Finding"
         ],
         "value": "T1mi"
       },
       {
         "synonyms": [
-          "T1c",
           "T1c TNM Finding"
         ],
         "value": "T1c"
@@ -6615,7 +6740,6 @@
       },
       {
         "synonyms": [
-          "T1b",
           "Stage T1B",
           "T1b TNM Finding"
         ],
@@ -6637,14 +6761,12 @@
       },
       {
         "synonyms": [
-          "T1a",
           "T1a TNM Finding"
         ],
         "value": "T1a"
       },
       {
         "synonyms": [
-          "T1",
           "T1 tumor stage",
           "T1 TNM Finding"
         ],
@@ -6652,7 +6774,6 @@
       },
       {
         "synonyms": [
-          "T0",
           "T0 stage",
           "T0 TNM Finding"
         ],
@@ -6663,6 +6784,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14714127",
+    "CDEFullName": "Diagnosis Disease Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -6674,6 +6798,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -6705,6 +6832,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "13529783",
+    "CDEFullName": "Disease Progression Or Recurrence Indicator",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -6714,9 +6844,7 @@
         "value": "Censored"
       },
       {
-        "synonyms": [
-          "No"
-        ],
+        "synonyms": [],
         "value": "No"
       },
       {
@@ -6733,15 +6861,12 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -6751,16 +6876,14 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
         "synonyms": [
           "Yes (qualifier value)",
-          "yes",
-          "Yes"
+          "yes"
         ],
         "value": "Yes"
       }
@@ -6769,6 +6892,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12432576",
+    "CDEFullName": "Subject First Treatment Date To Recurrence Day Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -6780,6 +6906,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12426616",
+    "CDEFullName": "Subject Initial Cancer Diagnosis To Last Followup Day Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -6791,12 +6920,13 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12447172",
+    "CDEFullName": "Subject Last Known Disease Status",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "New Tumor Event"
-        ],
+        "synonyms": [],
         "value": "New Tumor Event"
       },
       {
@@ -6804,34 +6934,26 @@
           "Local disease",
           "Local disease (finding)",
           "Localized disease",
-          "Localised disease",
-          "Localized Disease"
+          "Localised disease"
         ],
         "value": "Localized Disease"
       },
       {
         "synonyms": [
-          "Distant metastasis",
-          "Distant Metastasis"
+          "Distant metastasis"
         ],
         "value": "Distant Metastasis"
       },
       {
-        "synonyms": [
-          "Tumor Free"
-        ],
+        "synonyms": [],
         "value": "Tumor Free"
       },
       {
-        "synonyms": [
-          "Regional Disease"
-        ],
+        "synonyms": [],
         "value": "Regional Disease"
       },
       {
-        "synonyms": [
-          "Not Allowed To Collect"
-        ],
+        "synonyms": [],
         "value": "Not Allowed To Collect"
       },
       {
@@ -6842,21 +6964,16 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "With Tumor"
-        ],
+        "synonyms": [],
         "value": "With Tumor"
       },
       {
@@ -6866,8 +6983,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -6882,6 +6998,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -6893,6 +7012,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14883058",
+    "CDEFullName": "Disease Tissue or Organ of Origin Anatomic Site Uberon Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -9356,6 +9478,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14883054",
+    "CDEFullName": "Disease Site of Resection or Biopsy Uberon Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -11819,6 +11944,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12447170",
+    "CDEFullName": "Subject Initial Cancer Diagnosis To Last Known Disease Status Day Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -11830,6 +11958,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -11841,6 +11972,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -11852,6 +11986,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14737565",
+    "CDEFullName": "Therapeutic Procedure Performed Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -11860,8 +11997,7 @@
           "Hormone therapy (procedure)",
           "HT - Hormone therapy",
           "Hormonal therapy/",
-          "Hormone therapy",
-          "Hormone Therapy"
+          "Hormone therapy"
         ],
         "value": "Hormone Therapy"
       },
@@ -11869,7 +12005,6 @@
         "synonyms": [
           "Palliative care (regime/therapy)",
           "Palliative care",
-          "Palliative Care",
           "Palliative Therapy"
         ],
         "value": "Palliative Care"
@@ -11878,8 +12013,7 @@
         "synonyms": [
           "TRNSPLNT.ORGAN",
           "Organ transplant",
-          "Organ transplant NOS",
-          "Organ Transplantation"
+          "Organ transplant NOS"
         ],
         "value": "Organ Transplantation"
       },
@@ -11912,15 +12046,13 @@
         "synonyms": [
           "Cell Therapy",
           "Cell Therapy [APC]",
-          "Cellular therapy",
-          "Cellular Therapy"
+          "Cellular therapy"
         ],
         "value": "Cellular Therapy"
       },
       {
         "synonyms": [
           "Brachytherapy (procedure)",
-          "Brachytherapy",
           "Plesiotherapy radiation",
           "Contact radiation therapy procedure",
           "Brachytherapy - action (qualifier value)",
@@ -11936,8 +12068,7 @@
           "Teleradiotherapy using photons",
           "External beam radiotherapy using photons",
           "External beam radiation therapy using photons (procedure)",
-          "External beam radiation therapy using photons",
-          "Photon Beam Radiation Therapy"
+          "External beam radiation therapy using photons"
         ],
         "value": "Photon Beam Radiation Therapy"
       },
@@ -11956,21 +12087,16 @@
           "Radiotherapy",
           "Radiation therapy",
           "radiation therapy",
-          "Radiation",
-          "Radiation Therapy"
+          "Radiation"
         ],
         "value": "Radiation Therapy"
       },
       {
-        "synonyms": [
-          "Conventional Radiotherapy"
-        ],
+        "synonyms": [],
         "value": "Conventional Radiotherapy"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -11988,8 +12114,7 @@
           "Transplantation of allogeneic hematopoietic stem cell",
           "Transplantation of allogeneic hematopoietic stem cell (procedure)",
           "Allogeneic stem cell transplantation",
-          "Allogenic stem cell transplantation",
-          "Allogeneic Hematopoietic Stem Cell Transplantation"
+          "Allogenic stem cell transplantation"
         ],
         "value": "Allogeneic Hematopoietic Stem Cell Transplantation"
       },
@@ -11997,15 +12122,12 @@
         "synonyms": [
           "Medication therapy",
           "Drug therapy",
-          "Drug therapy (procedure)",
-          "Pharmacotherapy"
+          "Drug therapy (procedure)"
         ],
         "value": "Pharmacotherapy"
       },
       {
-        "synonyms": [
-          "Concurrent Chemoradiation"
-        ],
+        "synonyms": [],
         "value": "Concurrent Chemoradiation"
       },
       {
@@ -12013,8 +12135,7 @@
           "Radiofrequency ablation (procedure)",
           "Radiofrequency ablation",
           "RFA",
-          "radiofrequency ablation",
-          "Radiofrequency Ablation"
+          "radiofrequency ablation"
         ],
         "value": "Radiofrequency Ablation"
       },
@@ -12025,8 +12146,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -12038,8 +12158,7 @@
           "Conformal radiotherapy",
           "3D conformal radiation therapy",
           "Three dimensional conformal radiotherapy (procedure)",
-          "Three dimensional conformal radiotherapy",
-          "3-Dimensional Conformal Radiation Therapy"
+          "Three dimensional conformal radiotherapy"
         ],
         "value": "3-Dimensional Conformal Radiation Therapy"
       },
@@ -12051,8 +12170,7 @@
           "Brachytherapy, High Dose rate (HDR)",
           "HDR - High dose rate brachytherapy",
           "High dose rate brachytherapy (observable entity)",
-          "High source activity",
-          "High-Dose Rate Brachytherapy"
+          "High source activity"
         ],
         "value": "High-Dose Rate Brachytherapy"
       },
@@ -12063,8 +12181,7 @@
           "Low dose rate brachytherapy",
           "LDR - Low dose rate brachytherapy",
           "Low dose rate brachytherapy (observable entity)",
-          "Low source activity",
-          "Low-Dose Rate Brachytherapy"
+          "Low source activity"
         ],
         "value": "Low-Dose Rate Brachytherapy"
       },
@@ -12073,8 +12190,7 @@
           "Intensity modulated radiotherapy",
           "IMRT - intensity modulated radiation therapy",
           "Intensity modulated radiation therapy (procedure)",
-          "Intensity modulated radiation therapy",
-          "Intensity-Modulated Radiation Therapy"
+          "Intensity modulated radiation therapy"
         ],
         "value": "Intensity-Modulated Radiation Therapy"
       },
@@ -12086,16 +12202,14 @@
           "Proton teletherapy",
           "Proton radiation therapy",
           "Proton therapy (procedure)",
-          "Proton therapy",
-          "Proton Beam Radiation Therapy"
+          "Proton therapy"
         ],
         "value": "Proton Beam Radiation Therapy"
       },
       {
         "synonyms": [
           "Stereotactic radiotherapy",
-          "Stereotactic radiotherapy (procedure)",
-          "Stereotactic Body Radiation Therapy"
+          "Stereotactic radiotherapy (procedure)"
         ],
         "value": "Stereotactic Body Radiation Therapy"
       },
@@ -12116,14 +12230,12 @@
           "Operative procedure",
           "Operation NOS",
           "Operation",
-          "H&P.SURG PROC",
-          "Surgical Procedure"
+          "H&P.SURG PROC"
         ],
         "value": "Surgical Procedure"
       },
       {
         "synonyms": [
-          "Stereotactic Radiosurgery",
           "Stereo radiosurgery NOS",
           "Stereotactic radiosurgery (procedure)",
           "Stereotactic radiosurgery, not otherwise specified",
@@ -12138,8 +12250,7 @@
           "Teleradiotherapy procedure",
           "External beam radiotherapy",
           "Teletherapy",
-          "Teletherapy procedure",
-          "External Beam Radiation Therapy"
+          "Teletherapy procedure"
         ],
         "value": "External Beam Radiation Therapy"
       },
@@ -12150,7 +12261,6 @@
           "Chemotherapy NOS",
           "chemotherapy",
           "Chemotherapies",
-          "Chemotherapy",
           "chemo"
         ],
         "value": "Chemotherapy"
@@ -12160,15 +12270,12 @@
           "Immunological care",
           "Immunotherapy (procedure)",
           "Immunological therapy",
-          "Biological response modifier therapy",
-          "Immunotherapy"
+          "Biological response modifier therapy"
         ],
         "value": "Immunotherapy"
       },
       {
-        "synonyms": [
-          "Targeted Molecular Therapy"
-        ],
+        "synonyms": [],
         "value": "Targeted Molecular Therapy"
       }
     ],
@@ -12176,6 +12283,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12305542",
+    "CDEFullName": "Subject Age at Treatment Assignment Day Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -12187,6 +12297,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14913015",
+    "CDEFullName": "Therapeutic Procedure Pharmacologic Substance or Chemical NCI Thesaurus Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30094,6 +30207,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "13383448",
+    "CDEFullName": "Disease Response Assessment Outcome",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30103,15 +30219,11 @@
         "value": "Complete Response"
       },
       {
-        "synonyms": [
-          "No Response"
-        ],
+        "synonyms": [],
         "value": "No Response"
       },
       {
-        "synonyms": [
-          "Persistent Disease"
-        ],
+        "synonyms": [],
         "value": "Persistent Disease"
       },
       {
@@ -30121,8 +30233,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -30142,35 +30253,28 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "No Evidence of Disease"
-        ],
+        "synonyms": [],
         "value": "No Evidence of Disease"
       },
       {
         "synonyms": [
-          "Progressive disease",
-          "Progressive Disease"
+          "Progressive disease"
         ],
         "value": "Progressive Disease"
       },
       {
         "synonyms": [
           "Stable disease",
-          "stable disease",
-          "Stable Disease"
+          "stable disease"
         ],
         "value": "Stable Disease"
       },
@@ -30189,6 +30293,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30200,6 +30307,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6921892",
+    "CDEFullName": "Biospecimen Source Laboratory Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30211,6 +30321,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11253427",
+    "CDEFullName": "Specimen Material OBIB Source",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30262,6 +30375,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2003907",
+    "CDEFullName": "Sample Description Text",
+    "CDEVersion": "3.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30273,6 +30389,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12445832",
+    "CDEFullName": "Specimen Material Biospecimen Category",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30284,6 +30403,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14688604",
+    "CDEFullName": "Specimen Neoplasm Category",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -30293,8 +30415,7 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
@@ -30318,9 +30439,7 @@
         "value": "Tumor"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -30334,6 +30453,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12083894",
+    "CDEFullName": "Specimen Original Anatomic Site Uberon Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31709,6 +31831,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14473376",
+    "CDEFullName": "Subject Age At Specimen Collection Day Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31720,6 +31845,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "5581201",
+    "CDEFullName": "Parent Specimen Label Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31731,6 +31859,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2230047",
+    "CDEFullName": "Specimen Accession Number",
+    "CDEVersion": "6.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31742,6 +31873,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31753,6 +31887,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31764,6 +31901,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11284037",
+    "CDEFullName": "Electronic Data File Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31775,6 +31915,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11416926",
+    "CDEFullName": "Electronic Data File Format Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -31862,21 +32005,15 @@
         "value": "HIC"
       },
       {
-        "synonyms": [
-          "BEDPE Format"
-        ],
+        "synonyms": [],
         "value": "BEDPE Format"
       },
       {
-        "synonyms": [
-          "mtx"
-        ],
+        "synonyms": [],
         "value": "mtx"
       },
       {
-        "synonyms": [
-          "mzIdentML"
-        ],
+        "synonyms": [],
         "value": "mzIdentML"
       },
       {
@@ -31916,9 +32053,7 @@
         "value": "JPEG 2000"
       },
       {
-        "synonyms": [
-          "JPEG"
-        ],
+        "synonyms": [],
         "value": "JPEG"
       },
       {
@@ -31946,9 +32081,7 @@
         "value": "YAML"
       },
       {
-        "synonyms": [
-          "TIFF"
-        ],
+        "synonyms": [],
         "value": "TIFF"
       },
       {
@@ -32006,9 +32139,7 @@
         "value": "bigWig"
       },
       {
-        "synonyms": [
-          "Binary Format"
-        ],
+        "synonyms": [],
         "value": "Binary Format"
       },
       {
@@ -32066,15 +32197,11 @@
         "value": "GCT/Res Format"
       },
       {
-        "synonyms": [
-          "DICOM"
-        ],
+        "synonyms": [],
         "value": "DICOM"
       },
       {
-        "synonyms": [
-          "GenBank Format"
-        ],
+        "synonyms": [],
         "value": "GenBank Format"
       },
       {
@@ -32114,9 +32241,7 @@
         "value": "GZIP Format"
       },
       {
-        "synonyms": [
-          "MAGE-TAB"
-        ],
+        "synonyms": [],
         "value": "MAGE-TAB"
       },
       {
@@ -32168,9 +32293,7 @@
         "value": "PDF"
       },
       {
-        "synonyms": [
-          "Plain Text Data Format"
-        ],
+        "synonyms": [],
         "value": "Plain Text Data Format"
       },
       {
@@ -32198,9 +32321,7 @@
         "value": "SDRF"
       },
       {
-        "synonyms": [
-          "Sequence Record Format"
-        ],
+        "synonyms": [],
         "value": "Sequence Record Format"
       },
       {
@@ -32210,9 +32331,7 @@
         "value": "SVG"
       },
       {
-        "synonyms": [
-          "Python Script Format"
-        ],
+        "synonyms": [],
         "value": "Python Script Format"
       },
       {
@@ -32262,6 +32381,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11280338",
+    "CDEFullName": "Electronic Data File Description Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32273,6 +32395,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11479876",
+    "CDEFullName": "Electronic Data File Size Integer",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32284,6 +32409,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11556150",
+    "CDEFullName": "Electronic Data File MD5 Checksum Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32295,6 +32423,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11556141",
+    "CDEFullName": "Electronic File Pathname Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32306,12 +32437,13 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12373576",
+    "CDEFullName": "Research Activity Experimental Method Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Methylation Analysis"
-        ],
+        "synonyms": [],
         "value": "Methylation Analysis"
       },
       {
@@ -32382,6 +32514,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32393,6 +32528,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32404,6 +32542,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32415,12 +32556,13 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11595478",
+    "CDEFullName": "Electronic File Relationship Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Study"
-        ],
+        "synonyms": [],
         "value": "Study"
       },
       {
@@ -32440,6 +32582,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32451,6 +32596,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32462,6 +32610,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11555660",
+    "CDEFullName": "Sequencing Library Unique Identifier Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32473,6 +32624,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12373573",
+    "CDEFullName": "Sequencing Library Unique Basecalling Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32484,6 +32638,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11529035",
+    "CDEFullName": "Sequencing Library Sequence Read Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32495,6 +32652,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12426615",
+    "CDEFullName": "Nucleotide Sequence Average Read Length Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32506,6 +32666,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11556322",
+    "CDEFullName": "Genome Assembly Sequence Depth of Coverage Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32517,6 +32680,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11529031",
+    "CDEFullName": "Genome Assembly NCBI Genetic Reference Sequence Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32528,6 +32694,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11636299",
+    "CDEFullName": "Genome Assembly Custom FASTA File Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32539,6 +32708,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11529028",
+    "CDEFullName": "Sequencing Library Platform Model Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32550,6 +32722,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6273393",
+    "CDEFullName": "Sequencing Library Technique Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32703,9 +32878,7 @@
         "value": "AMPLICON"
       },
       {
-        "synonyms": [
-          "ATAC-Seq"
-        ],
+        "synonyms": [],
         "value": "ATAC-Seq"
       },
       {
@@ -32721,9 +32894,7 @@
         "value": "ChIA-PET"
       },
       {
-        "synonyms": [
-          "ChIP-Seq"
-        ],
+        "synonyms": [],
         "value": "ChIP-Seq"
       },
       {
@@ -32756,8 +32927,7 @@
       },
       {
         "synonyms": [
-          "Other (qualifier value)",
-          "Other"
+          "Other (qualifier value)"
         ],
         "value": "Other"
       },
@@ -32796,6 +32966,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11527735",
+    "CDEFullName": "Sequencing Library Read Layout Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32815,6 +32988,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32870,6 +33046,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6347743",
+    "CDEFullName": "Sequencing Library Creation Method Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32889,7 +33068,6 @@
         "synonyms": [
           "Does not apply",
           "NA",
-          "Not applicable",
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
@@ -32933,7 +33111,6 @@
           "Polymerase chain reaction technique (qualifier value)",
           "Polymerase chain reaction technique",
           "Polymerase chain reaction",
-          "PCR",
           "Polymerase Chain Reaction"
         ],
         "value": "PCR"
@@ -32976,7 +33153,6 @@
           "Non-specific",
           "Non-specified",
           "Non-specific (qualifier value)",
-          "Unspecified",
           "Method (attribute)",
           "Method",
           "Sequencing Library"
@@ -33067,7 +33243,6 @@
       {
         "synonyms": [
           "Other (qualifier value)",
-          "Other",
           "Method (attribute)",
           "Method",
           "Sequencing Library"
@@ -33079,8 +33254,7 @@
           "Complementary deoxyribonucleic acid",
           "Complementary deoxyribonucleic acid (substance)",
           "Copy DNA",
-          "Complementary DNA",
-          "cDNA"
+          "Complementary DNA"
         ],
         "value": "cDNA"
       }
@@ -33089,6 +33263,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6347771",
+    "CDEFullName": "Sequencing Library Platform Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33162,6 +33339,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11529028",
+    "CDEFullName": "Sequencing Library Platform Model Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33173,6 +33353,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11529072",
+    "CDEFullName": "Nucleotide Sequence Alignment Software Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33184,6 +33367,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33195,6 +33381,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33206,6 +33395,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "15235975",
+    "CDEFullName": "Sequencing Library Cellular Material Source",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33239,9 +33431,7 @@
         "value": "Single-cells"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       }
     ],
@@ -33249,42 +33439,33 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "15235981",
+    "CDEFullName": "Sequencing Library Molecule Source",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Transcriptome"
-        ],
+        "synonyms": [],
         "value": "Transcriptome"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
-        "synonyms": [
-          "Metatranscriptomic"
-        ],
+        "synonyms": [],
         "value": "Metatranscriptomic"
       },
       {
-        "synonyms": [
-          "Metagenomic"
-        ],
+        "synonyms": [],
         "value": "Metagenomic"
       },
       {
-        "synonyms": [
-          "Genomic DNA"
-        ],
+        "synonyms": [],
         "value": "Genomic DNA"
       },
       {
-        "synonyms": [
-          "Viral RNA"
-        ],
+        "synonyms": [],
         "value": "Viral RNA"
       }
     ],
@@ -33292,6 +33473,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33303,6 +33487,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14607284",
+    "CDEFullName": "Deidentification Method Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33313,15 +33500,13 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
       {
         "synonyms": [
           "Automated",
-          "Automatic",
           "Automated (qualifier value)"
         ],
         "value": "Automatic"
@@ -33334,8 +33519,7 @@
       },
       {
         "synonyms": [
-          "Manual (qualifier value)",
-          "Manual"
+          "Manual (qualifier value)"
         ],
         "value": "Manual"
       }
@@ -33344,6 +33528,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612655",
+    "CDEFullName": "Deidentification Method Description Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33355,6 +33542,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612658",
+    "CDEFullName": "Deidentification Software Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33366,6 +33556,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14902606",
+    "CDEFullName": "Data Collection License Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33389,6 +33582,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7787673",
+    "CDEFullName": "Raw Data Protocol Or Digital Object Identifier Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33400,6 +33596,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "10543100",
+    "CDEFullName": "NCBI Taxonomy ID",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33411,6 +33610,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12137353",
+    "CDEFullName": "Imaging Technology DICOM Modality Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33451,7 +33653,6 @@
           "Electrocardiographic procedure (procedure)",
           "Electrocardiographic procedure",
           "EKG",
-          "ECG",
           "Electrocardiography"
         ],
         "value": "ECG"
@@ -33633,7 +33834,6 @@
       {
         "synonyms": [
           "Electromyography (procedure)",
-          "EMG",
           "EMG - Electromyography",
           "Electromyogram",
           "Electromyography"
@@ -33645,7 +33845,6 @@
           "Electroencephalogram (procedure)",
           "Electroencephalogram",
           "EEG - Electroencephalography",
-          "EEG",
           "Electroencephalography"
         ],
         "value": "EEG"
@@ -33705,7 +33904,6 @@
           "MRI scan",
           "Magnetic resonance imaging - action",
           "MR imaging",
-          "MR",
           "Magnetic resonance technique",
           "Magnetic resonance study",
           "NMR - Nuclear magnetic resonance",
@@ -33776,7 +33974,6 @@
           "Fluoroscopy",
           "radiography-fluoroscopy",
           "radio-fluoro",
-          "RF",
           "radiofluoroscopy",
           "Fluoroscopic imaging - action",
           "fluoro",
@@ -33923,7 +34120,6 @@
       {
         "synonyms": [
           "Computed radiography",
-          "CR",
           "computed radiography",
           "Computed Radiography"
         ],
@@ -33936,7 +34132,6 @@
           "USS - ultrasound scan",
           "US - ultrasound",
           "Echotomography",
-          "US",
           "Ultrasounds",
           "ultrasound",
           "Ultrasound",
@@ -33962,7 +34157,6 @@
       },
       {
         "synonyms": [
-          "XA",
           "x-ray angiography",
           "angio",
           "Angiography (procedure)",
@@ -33996,7 +34190,6 @@
           "Computed tomography",
           "Computerised axial tomography",
           "Computerized axial tomography",
-          "CT",
           "CT scan",
           "CAT Scans",
           "CTT",
@@ -34210,6 +34403,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2866141",
+    "CDEFullName": "Equipment Manufacturer Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -34221,6 +34417,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2413274",
+    "CDEFullName": "Equipment Manufacturer Model Name Text",
+    "CDEVersion": "2.10",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -34232,6 +34431,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2413278",
+    "CDEFullName": "Equipment Software Version Text",
+    "CDEVersion": "1.20",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -34243,6 +34445,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7787673",
+    "CDEFullName": "Raw Data Protocol Or Digital Object Identifier Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -34254,6 +34459,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6161035",
+    "CDEFullName": "ICD-O Origin of Disease Anatomic Site",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -34261,7 +34469,6 @@
           "Hypophyseal duct",
           "Structure of craniopharyngeal duct",
           "Structure of craniopharyngeal duct (body structure)",
-          "Craniopharyngeal duct",
           "Craniopharyngeal Duct"
         ],
         "value": "Craniopharyngeal duct"
@@ -34271,7 +34478,6 @@
           "Pleural membrane structure",
           "Pleural structure",
           "Pleural membrane structure (body structure)",
-          "Pleura, NOS",
           "pleura",
           "Pleura",
           "Not Otherwise Specified"
@@ -34284,7 +34490,6 @@
           "Structure of postcricoid region",
           "Cricopharynx",
           "Structure of postcricoid region (body structure)",
-          "Postcricoid region",
           "Postcricoid Region"
         ],
         "value": "Postcricoid region"
@@ -34293,14 +34498,12 @@
         "synonyms": [
           "Structure of posterior mediastinum",
           "Structure of posterior mediastinum (body structure)",
-          "Posterior mediastinum",
           "Posterior Mediastinum"
         ],
         "value": "Posterior mediastinum"
       },
       {
         "synonyms": [
-          "Posterior wall of bladder",
           "Structure of posterior wall of urinary bladder",
           "Structure of posterior wall of urinary bladder (body structure)",
           "posterior wall of urinary bladder",
@@ -34313,7 +34516,6 @@
         "synonyms": [
           "Structure of posterior wall of hypopharynx",
           "Structure of posterior wall of hypopharynx (body structure)",
-          "Posterior wall of hypopharynx",
           "Posterior Wall of the Hypopharynx"
         ],
         "value": "Posterior wall of hypopharynx"
@@ -34652,7 +34854,6 @@
         "synonyms": [
           "Structure of posterior wall of nasopharynx",
           "Structure of posterior wall of nasopharynx (body structure)",
-          "Posterior wall of nasopharynx",
           "Posterior Wall of the Nasopharynx"
         ],
         "value": "Posterior wall of nasopharynx"
@@ -34662,15 +34863,12 @@
           "Structure of posterior wall of oropharynx",
           "Posterior wall of mesopharynx",
           "Structure of posterior wall of oropharynx (body structure)",
-          "Posterior wall of oropharynx",
           "Posterior Wall of the Oropharynx"
         ],
         "value": "Posterior wall of oropharynx"
       },
       {
-        "synonyms": [
-          "Prepuce"
-        ],
+        "synonyms": [],
         "value": "Prepuce"
       },
       {
@@ -34681,7 +34879,6 @@
           "prostatic gland",
           "prostate gland",
           "PROSTATE GLAND",
-          "Prostate gland",
           "Prostatic structure (body structure)",
           "Prostate, NOS",
           "prostate",
@@ -34699,7 +34896,6 @@
           "pyriform sinus",
           "piriform sinus",
           "PYRIFORM SINUS",
-          "Pyriform sinus",
           "Piriform sinus",
           "piriform recess",
           "Piriform recess",
@@ -34714,7 +34910,6 @@
       },
       {
         "synonyms": [
-          "Rectosigmoid junction",
           "Structure of rectosigmoid junction",
           "RECTOSIGMOID JUNCTION",
           "Colorectal junction",
@@ -34729,7 +34924,6 @@
           "Rectal structure",
           "Rectum structure",
           "Rectum structure (body structure)",
-          "Rectum, NOS",
           "RECTUM",
           "rectum",
           "Rectum",
@@ -34745,7 +34939,6 @@
           "Renal pelvis structure (body structure)",
           "RENAL PELVIS",
           "renal pelvis",
-          "Renal pelvis",
           "Not Otherwise Specified",
           "Renal Pelvis"
         ],
@@ -34753,7 +34946,6 @@
       },
       {
         "synonyms": [
-          "Reticuloendothelial system, NOS",
           "Not Otherwise Specified",
           "Reticuloendothelial System"
         ],
@@ -34999,7 +35191,6 @@
           "Proximal third of esophagus",
           "Structure of upper third of esophagus (body structure)",
           "Upper third of oesophagus",
-          "Upper third of esophagus",
           "Upper Third of the Esophagus"
         ],
         "value": "Upper third of esophagus"
@@ -35008,7 +35199,6 @@
         "synonyms": [
           "Structure of upper inner quadrant of breast",
           "Structure of upper inner quadrant of breast (body structure)",
-          "Upper-inner quadrant of breast",
           "Upper inner quadrant of breast",
           "Upper-Inner Quadrant of the Breast"
         ],
@@ -35018,7 +35208,6 @@
         "synonyms": [
           "Structure of upper outer quadrant of breast",
           "Structure of upper outer quadrant of breast (body structure)",
-          "Upper-outer quadrant of breast",
           "Upper outer quadrant of breast",
           "Upper-Outer Quadrant of the Breast"
         ],
@@ -35028,8 +35217,7 @@
         "synonyms": [
           "Structure of urachus",
           "Structure of urachus (body structure)",
-          "urachus",
-          "Urachus"
+          "urachus"
         ],
         "value": "Urachus"
       },
@@ -35038,8 +35226,7 @@
           "Ureteric structure",
           "Ureteric structure (body structure)",
           "URETER",
-          "ureter",
-          "Ureter"
+          "ureter"
         ],
         "value": "Ureter"
       },
@@ -35056,7 +35243,6 @@
           "Structure of ureteral orifice (body structure)",
           "mercier bar",
           "ureteric orifice",
-          "Ureteric orifice",
           "Ureteric Orifice"
         ],
         "value": "Ureteric orifice"
@@ -35068,8 +35254,7 @@
           "Pelvis>Urethra",
           "Urethral structure",
           "Urethral structure (body structure)",
-          "urethra",
-          "Urethra"
+          "urethra"
         ],
         "value": "Urethra"
       },
@@ -35090,7 +35275,6 @@
           "Structure of uterine adnexa",
           "uterus and adnexa",
           "uterine adnexa",
-          "Uterine adnexa",
           "adnexa",
           "Adnexa, NOS",
           "Adnexa",
@@ -35106,7 +35290,6 @@
           "Uterine structure",
           "Uterine structure (body structure)",
           "UTERUS, NOS",
-          "Uterus, NOS",
           "uterus",
           "Uterus",
           "Not Otherwise Specified"
@@ -35116,7 +35299,6 @@
       {
         "synonyms": [
           "uvula",
-          "Uvula",
           "Uvula palatina",
           "Uvula palatina structure",
           "Uvula palatina structure (body structure)"
@@ -35127,7 +35309,6 @@
         "synonyms": [
           "Vaginal structure",
           "Vaginal structure (body structure)",
-          "Vagina, NOS",
           "VAGINA",
           "vagina",
           "Vagina",
@@ -35138,7 +35319,6 @@
       {
         "synonyms": [
           "vallecula of epiglotis",
-          "Vallecula",
           "Vallecula of epiglottis",
           "Vallecula epiglottica",
           "epiglottic vallecula",
@@ -35151,7 +35331,6 @@
         "synonyms": [
           "Backbone",
           "Spinal column",
-          "Vertebral column",
           "Spine",
           "Structure of vertebral column",
           "Structure of vertebral column (body structure)",
@@ -35170,7 +35349,6 @@
           "Cavitas oris externa",
           "Buccal sulcus",
           "Structure of vestibule of mouth (body structure)",
-          "Vestibule of mouth",
           "Vestibule of Mouth"
         ],
         "value": "Vestibule of mouth"
@@ -35181,7 +35359,6 @@
           "Vulval structure",
           "Pudendum femininum",
           "Vulval structure (body structure)",
-          "Vulva, NOS",
           "VULVA",
           "vulva",
           "Vulva",
@@ -35196,7 +35373,6 @@
           "Waldeyer ring structure",
           "pharyngeal lymphoid ring",
           "Oropharyngeal tonsil (lingual, palatine, pharyngeal)",
-          "Waldeyer ring",
           "Waldeyer Ring"
         ],
         "value": "Waldeyer ring"
@@ -35208,15 +35384,12 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
-        "synonyms": [
-          "Not Reported"
-        ],
+        "synonyms": [],
         "value": "Not Reported"
       },
       {
@@ -35258,7 +35431,6 @@
         "synonyms": [
           "Spermatic cord structure",
           "Spermatic cord structure (body structure)",
-          "Spermatic cord",
           "spermatic cord",
           "Spermatic Cord"
         ],
@@ -35268,7 +35440,6 @@
         "synonyms": [
           "Sphenoid sinus structure",
           "sphenoid sinus",
-          "Sphenoid sinus",
           "Sphenoid sinus structure (body structure)",
           "sphenoidal sinus",
           "Sphenoid Sinus"
@@ -35280,7 +35451,6 @@
           "medulla spinalis",
           "Spinal cord structure",
           "Spinal cord structure (body structure)",
-          "Spinal cord",
           "spinal cord",
           "Spinal Cord"
         ],
@@ -35290,7 +35460,6 @@
         "synonyms": [
           "Spinal cord meninges structure",
           "Spinal cord meninges structure (body structure)",
-          "Spinal meninges",
           "Spinal Meninges"
         ],
         "value": "Spinal meninges"
@@ -35301,8 +35470,7 @@
           "lien",
           "Splenic structure",
           "Splenic structure (body structure)",
-          "spleen",
-          "Spleen"
+          "spleen"
         ],
         "value": "Spleen"
       },
@@ -35314,7 +35482,6 @@
           "splenic flexure",
           "Structure of left colic flexure",
           "splenic flexure of colon",
-          "Splenic flexure of colon",
           "Structure of left colic flexure (body structure)",
           "Left colic flexure",
           "Splenic Flexure"
@@ -35329,7 +35496,6 @@
           "Stomach structure",
           "Gastric, NOS",
           "Stomach structure (body structure)",
-          "Stomach, NOS",
           "STOMACH",
           "stomach",
           "Stomach",
@@ -35341,7 +35507,6 @@
         "synonyms": [
           "subglottic larynx",
           "subglottis",
-          "Subglottis",
           "infraglottic part of larynx",
           "Infraglottis",
           "Subglottis structure (body structure)",
@@ -35361,7 +35526,6 @@
           "Retromolar trigone",
           "retromolar triangle",
           "Retromolar triangle",
-          "Retromolar area",
           "Retromolar area of mouth",
           "Structure of retromolar area of mouth (body structure)",
           "Structure of retromolar area of mouth",
@@ -35379,7 +35543,6 @@
           "Retroperitoneal compartment structure",
           "retroperito",
           "retroperitoneum",
-          "Retroperitoneum",
           "retroperitoneal compartment",
           "Retroperitoneal compartment",
           "Retroperitoneal space"
@@ -35396,7 +35559,6 @@
         "synonyms": [
           "Scrotal structure",
           "Scrotal structure (body structure)",
-          "Scrotum, NOS",
           "scrotum",
           "Scrotum",
           "Not Otherwise Specified"
@@ -35412,7 +35574,6 @@
           "Sigmoid flexure of colon",
           "Sigmoid colon structure (body structure)",
           "sigmoid colon",
-          "Sigmoid colon",
           "Sigmoid Colon"
         ],
         "value": "Sigmoid colon"
@@ -35421,7 +35582,6 @@
         "synonyms": [
           "Skin structure of lip",
           "Skin structure of lip (body structure)",
-          "Skin of lip, NOS",
           "Skin of lip",
           "Not Otherwise Specified",
           "Skin of the Lip"
@@ -35430,7 +35590,6 @@
       },
       {
         "synonyms": [
-          "Skin of lower limb and hip",
           "Skin of the Lower Limb and Hip"
         ],
         "value": "Skin of lower limb and hip"
@@ -35438,7 +35597,6 @@
       {
         "synonyms": [
           "Skin structure of face",
-          "Skin of other and unspecified parts of face",
           "Skin structure of face (body structure)",
           "Skin of face",
           "Skin of the Face"
@@ -35447,7 +35605,6 @@
       },
       {
         "synonyms": [
-          "Skin of scalp and neck",
           "Skin of the Scalp and Neck"
         ],
         "value": "Skin of scalp and neck"
@@ -35456,14 +35613,12 @@
         "synonyms": [
           "Skin structure of trunk",
           "Skin structure of trunk (body structure)",
-          "Skin of trunk",
           "Skin of the Trunk"
         ],
         "value": "Skin of trunk"
       },
       {
         "synonyms": [
-          "Skin of upper limb and shoulder",
           "Skin of the Upper Limb and Shoulder"
         ],
         "value": "Skin of upper limb and shoulder"
@@ -35472,7 +35627,6 @@
         "synonyms": [
           "Skin structure",
           "Skin structure (body structure)",
-          "Skin, NOS",
           "SKIN",
           "skin",
           "Skin",
@@ -35491,7 +35645,6 @@
           "Small bowel, NOS",
           "Small bowel",
           "small bowel",
-          "Small intestine, NOS",
           "SMALL INTESTINE",
           "small intestine",
           "Not Otherwise Specified",
@@ -35501,7 +35654,6 @@
       },
       {
         "synonyms": [
-          "Soft palate, NOS",
           "Soft palate structure",
           "Soft palate structure (body structure)",
           "Soft palate",
@@ -35708,7 +35860,6 @@
       },
       {
         "synonyms": [
-          "Ventricle, NOS",
           "Brain ventricle",
           "Brain ventricle structure",
           "Brain ventricle structure (body structure)",
@@ -35727,7 +35878,6 @@
           "Bone structure of extremity",
           "Bone of extremity",
           "Bone structure of extremity (body structure)",
-          "Bone of limb, NOS",
           "Bone of limb",
           "Not Otherwise Specified",
           "Bone of the Extremity"
@@ -35740,7 +35890,6 @@
           "Peritoneum (serous membrane) structure",
           "Peritoneum (serous membrane) structure (body structure)",
           "Serous membrane of abdomen",
-          "Peritoneum, NOS",
           "peritoneum",
           "Peritoneum",
           "Not Otherwise Specified"
@@ -35750,7 +35899,6 @@
       {
         "synonyms": [
           "Throat",
-          "Pharynx, NOS",
           "pharynx",
           "Pharynx",
           "Pharyngeal structure (body structure)",
@@ -35771,7 +35919,6 @@
           "Pineal body",
           "pineal body",
           "pineal gland",
-          "Pineal gland",
           "Pineal Gland"
         ],
         "value": "Pineal gland"
@@ -35786,7 +35933,6 @@
           "Hypophysis",
           "hypophysis cerebri",
           "Pituitary structure (body structure)",
-          "Pituitary gland",
           "pituitary gland",
           "Pituitary Gland"
         ],
@@ -35803,7 +35949,6 @@
           "Nasopharyngeal structure",
           "Nasopharyngeal",
           "Nasopharyngeal structure (body structure)",
-          "Nasopharynx, NOS",
           "NASOPHARYNX",
           "nasopharynx",
           "Nasopharynx",
@@ -35818,7 +35963,6 @@
           "Male genital organ structure",
           "Male genital structure (body structure)",
           "Male genital organ structure (body structure)",
-          "Male genital organs, NOS",
           "MALE GENITAL ORGANS",
           "Male genital organs",
           "Male genital organ",
@@ -35840,20 +35984,16 @@
         "synonyms": [
           "Structure of central portion of breast",
           "Structure of central portion of breast (body structure)",
-          "Central portion of breast",
           "Central Portion of the Breast"
         ],
         "value": "Central portion of breast"
       },
       {
-        "synonyms": [
-          "Bladder, NOS"
-        ],
+        "synonyms": [],
         "value": "Bladder, NOS"
       },
       {
         "synonyms": [
-          "Lymph nodes of head, face and neck",
           "Head and Neck Lymph Node"
         ],
         "value": "Lymph nodes of head, face and neck"
@@ -35865,7 +36005,6 @@
           "Submandibular salivary gland structure",
           "Submandibular salivary gland structure (body structure)",
           "submandibular gland",
-          "Submandibular gland",
           "Submandibular Salivary Gland"
         ],
         "value": "Submandibular gland"
@@ -35876,7 +36015,6 @@
           "Roof of nasopharynx",
           "Pharyngeal fornix",
           "Structure of superior wall of nasopharynx (body structure)",
-          "Superior wall of nasopharynx",
           "Superior Wall of the Nasopharynx"
         ],
         "value": "Superior wall of nasopharynx"
@@ -35885,7 +36023,6 @@
         "synonyms": [
           "supraglottic larynx",
           "supraglottis",
-          "Supraglottis",
           "Supraglottis structure",
           "Structure of supraglottic space",
           "supraglottic part of larynx",
@@ -35903,7 +36040,6 @@
           "Structure of tail of pancreas",
           "Structure of tail of pancreas (body structure)",
           "tail of pancreas",
-          "Tail of pancreas",
           "Tail of the Pancreas"
         ],
         "value": "Tail of pancreas"
@@ -35915,7 +36051,6 @@
           "Temporal lobe structure",
           "temporal cortex",
           "Temporal lobe structure (body structure)",
-          "Temporal lobe",
           "temporal lobe",
           "Temporal Lobe"
         ],
@@ -35933,7 +36068,6 @@
           "Testis structure",
           "Male gonad",
           "Testis structure (body structure)",
-          "Testis, NOS",
           "TESTIS",
           "testis",
           "Testis",
@@ -35951,7 +36085,6 @@
           "thoracic part of esophagus",
           "Thoracic esophagus structure (body structure)",
           "Thoracic oesophagus",
-          "Thoracic esophagus",
           "Thoracic Esophagus"
         ],
         "value": "Thoracic esophagus"
@@ -35963,7 +36096,6 @@
           "Thoracic structure",
           "chest",
           "Thoracic structure (body structure)",
-          "Thorax, NOS",
           "thorax",
           "Not Otherwise Specified"
         ],
@@ -35974,7 +36106,6 @@
           "Chest>Thymus gland",
           "THYMUS",
           "thymus",
-          "Thymus",
           "Thymus gland structure",
           "Thymus gland structure (body structure)",
           "Thymus Gland"
@@ -35990,7 +36121,6 @@
           "Thyroid structure",
           "Thyroid structure (body structure)",
           "THYROID GLAND",
-          "Thyroid gland",
           "thyroid gland",
           "Thyroid Gland"
         ],
@@ -36001,7 +36131,6 @@
           "Tongue structure",
           "Lingual, NOS",
           "Tongue structure (body structure)",
-          "Tongue, NOS",
           "tongue",
           "Tongue",
           "Not Otherwise Specified"
@@ -36021,14 +36150,12 @@
           "Tonsillar fossa structure",
           "Tonsillar fossa structure (body structure)",
           "tonsillar fossa",
-          "Tonsillar fossa",
           "Tonsillar Fossa"
         ],
         "value": "Tonsillar fossa"
       },
       {
         "synonyms": [
-          "Tonsillar pillar",
           "Glossopalatine fold",
           "Pillar of fauces",
           "Palatine arch structure",
@@ -36047,8 +36174,7 @@
           "Tracheal structure",
           "Tracheal structure (body structure)",
           "TRACHEA",
-          "trachea",
-          "Trachea"
+          "trachea"
         ],
         "value": "Trachea"
       },
@@ -36059,7 +36185,6 @@
           "Transverse colon structure",
           "Transverse colon structure (body structure)",
           "transverse colon",
-          "Transverse colon",
           "Transverse Colon"
         ],
         "value": "Transverse colon"
@@ -36075,7 +36200,6 @@
           "urinary bladder trigone",
           "Trigone of urinary bladder",
           "trigone of bladder",
-          "Trigone of bladder",
           "Bladder Trigone"
         ],
         "value": "Trigone of bladder"
@@ -36089,7 +36213,6 @@
           "Testicle undescended",
           "Undescended testicle",
           "Undescended testes",
-          "Undescended testis",
           "UDT - Undescended testes",
           "Retained testis",
           "Maldescent of testis",
@@ -36107,7 +36230,6 @@
       },
       {
         "synonyms": [
-          "Unknown primary site",
           "UNKNOWN PRIMARY SITE",
           "Primary Site Unknown"
         ],
@@ -36132,7 +36254,6 @@
           "Upper extremity",
           "ue",
           "forequarter",
-          "Upper limb, NOS",
           "Upper limb",
           "Upper limb structure",
           "Upper limb structure (body structure)",
@@ -36149,7 +36270,6 @@
         "synonyms": [
           "upper lobe of lung",
           "Upper lobe of lung",
-          "Upper lobe, lung",
           "Structure of upper lobe of lung (body structure)",
           "Structure of upper lobe of lung",
           "Upper Lobe of the Lung"
@@ -36365,14 +36485,12 @@
       },
       {
         "synonyms": [
-          "Other specified parts of pancreas",
           "Other Specified Parts of Pancreas"
         ],
         "value": "Other specified parts of pancreas"
       },
       {
         "synonyms": [
-          "Lymph nodes of axilla or arm",
           "Axillary lymph node structure",
           "axillary lymph node",
           "Axillary lymph nodes",
@@ -36387,7 +36505,6 @@
       },
       {
         "synonyms": [
-          "Lymph nodes of inguinal region or leg",
           "Lymph Node of Inguinal Region or Leg"
         ],
         "value": "Lymph nodes of inguinal region or leg"
@@ -36400,8 +36517,7 @@
         "synonyms": [
           "Jejunal structure",
           "Jejunal structure (body structure)",
-          "jejunum",
-          "Jejunum"
+          "jejunum"
         ],
         "value": "Jejunum"
       },
@@ -36416,7 +36532,6 @@
           "Renal structure",
           "Kidney structure",
           "Kidney structure (body structure)",
-          "Kidney, NOS",
           "KIDNEY",
           "kidney",
           "Kidney",
@@ -36431,7 +36546,6 @@
           "labium majorum",
           "Labia majora, NOS",
           "Labium majus structure (body structure)",
-          "Labium majus",
           "Labium Majus"
         ],
         "value": "Labium majus"
@@ -36443,7 +36557,6 @@
           "labium minorum",
           "Labia minora",
           "Labium minus structure (body structure)",
-          "Labium minus",
           "Labium Minus"
         ],
         "value": "Labium minus"
@@ -36451,7 +36564,6 @@
       {
         "synonyms": [
           "glandula lacrimalis",
-          "Lacrimal gland",
           "lacrimal gland",
           "Lacrimal gland structure (body structure)",
           "Lacrimal gland structure",
@@ -36468,8 +36580,7 @@
           "Ovarian structure (body structure)",
           "OVARY",
           "ovary",
-          "ovaries",
-          "Ovary"
+          "ovaries"
         ],
         "value": "Ovary"
       },
@@ -36478,7 +36589,6 @@
           "Palatal structure",
           "Roof of mouth",
           "Palatal structure (body structure)",
-          "Palate, NOS",
           "PALATE",
           "palate",
           "Palate",
@@ -36491,7 +36601,6 @@
           "Pancreatic structure",
           "Exocrine and endocrine pancreas",
           "Pancreatic structure (body structure)",
-          "Pancreas, NOS",
           "PANCREAS",
           "pancreas",
           "Pancreas",
@@ -36505,7 +36614,6 @@
       },
       {
         "synonyms": [
-          "Parametrium",
           "Structure of parametrium",
           "Structure of parametrium (body structure)",
           "parametrium"
@@ -36520,7 +36628,6 @@
           "Parathyroid",
           "Parathyroid structure (body structure)",
           "parathyroid gland",
-          "Parathyroid gland",
           "Parathyroid Gland"
         ],
         "value": "Parathyroid gland"
@@ -36543,7 +36650,6 @@
           "Parietal lobe structure",
           "parietal cortex",
           "Parietal lobe structure (body structure)",
-          "Parietal lobe",
           "parietal lobe",
           "Parietal Lobe"
         ],
@@ -36562,7 +36668,6 @@
           "Parotid gland structure (body structure)",
           "parotid glands",
           "PAROTID GLAND",
-          "Parotid gland",
           "parotid gland",
           "Parotid Gland"
         ],
@@ -36580,7 +36685,6 @@
           "Pelvic lymph node structure",
           "Pelvic lymph node structure (body structure)",
           "pelvic lymph node",
-          "Pelvic lymph nodes",
           "Pelvic lymph node",
           "Pelvic Lymph Node"
         ],
@@ -36592,7 +36696,6 @@
           "Pelvic region",
           "Structure of pelvis (body structure)",
           "Structure of pelvis",
-          "Pelvis, NOS",
           "pelvis",
           "Pelvis",
           "Not Otherwise Specified"
@@ -36604,7 +36707,6 @@
           "Penis structure",
           "Penile structure",
           "Penile structure (body structure)",
-          "Penis, NOS",
           "PENIS",
           "Penis",
           "penis",
@@ -36618,7 +36720,6 @@
           "Nasal cavity structure",
           "Nasal cavity structure (body structure)",
           "nasal cavity",
-          "Nasal cavity",
           "Nasal Cavity"
         ],
         "value": "Nasal cavity"
@@ -36626,7 +36727,6 @@
       {
         "synonyms": [
           "Neurologic system",
-          "Nervous system, NOS",
           "Nervous system",
           "nervous system",
           "Structure of nervous system (body structure)",
@@ -36643,7 +36743,6 @@
           "Nipple structure",
           "Nipple structure (body structure)",
           "Nipple anatomy",
-          "Nipple",
           "nipple"
         ],
         "value": "Nipple"
@@ -36657,7 +36756,6 @@
           "occipital cortex",
           "Occipital lobe structure (body structure)",
           "occipital lobe",
-          "Occipital lobe",
           "Occipital Lobe"
         ],
         "value": "Occipital lobe"
@@ -36678,7 +36776,6 @@
           "First cranial nerve",
           "Olfactory nerve structure (body structure)",
           "olfactory nerves",
-          "Olfactory nerve",
           "olfactory nerve",
           "Olfactory Nerve"
         ],
@@ -36698,7 +36795,6 @@
           "cranial nerve II",
           "Optic nerve structure (body structure)",
           "ON - Optic nerve",
-          "Optic nerve",
           "optic nerve",
           "Optic Nerve"
         ],
@@ -36712,7 +36808,6 @@
           "Structure of orbit proper",
           "orbits",
           "orbit",
-          "Orbit, NOS",
           "Orbit",
           "orbital cavity",
           "Orbital cavity",
@@ -36727,7 +36822,6 @@
           "Oropharyngeal",
           "Oropharyngeal (intended site)",
           "Oropharyngeal structure",
-          "Oropharynx, NOS",
           "OROPHARYNX",
           "oropharynx",
           "Oropharynx",
@@ -36744,7 +36838,6 @@
           "Main bronchus structure",
           "Main bronchus structure (body structure)",
           "main bronchus",
-          "Main bronchus",
           "Main Bronchus"
         ],
         "value": "Main bronchus"
@@ -36762,7 +36855,6 @@
       },
       {
         "synonyms": [
-          "Mandible",
           "Bone structure of mandible",
           "Lower jaw bone",
           "Jaw bone, NOS",
@@ -36778,7 +36870,6 @@
           "Maxillary antrum",
           "Antrum of Highmore",
           "Antrum, NOS",
-          "Maxillary sinus",
           "maxillary sinus",
           "Maxillary Sinus"
         ],
@@ -36787,7 +36878,6 @@
       {
         "synonyms": [
           "diverticulum ilei",
-          "Meckel diverticulum",
           "Persistent vitelline duct",
           "Persistent omphalomesenteric duct",
           "Persistent intestinal end of vitelline duct",
@@ -36807,7 +36897,6 @@
           "Structure of mediastinum",
           "Mediastinal structure",
           "Mediastinal structure (body structure)",
-          "Mediastinum, NOS",
           "mediastinum",
           "Mediastinum",
           "Not Otherwise Specified"
@@ -36818,7 +36907,6 @@
         "synonyms": [
           "Adrenal medulla structure",
           "medulla of adrenal gland",
-          "Medulla of adrenal gland",
           "Adrenal medulla structure (body structure)",
           "AdM - Adrenal medulla",
           "Adrenal medulla",
@@ -36835,7 +36923,6 @@
           "Central nervous system meninges",
           "brain covering",
           "Meninges structure (body structure)",
-          "Meninges, NOS",
           "MENINGES",
           "meninges",
           "Meninges",
@@ -36847,7 +36934,6 @@
         "synonyms": [
           "Middle ear structure",
           "Middle ear structure (body structure)",
-          "Middle ear",
           "middle ear",
           "Middle Ear"
         ],
@@ -36863,7 +36949,6 @@
           "Structure of middle third of esophagus",
           "Structure of middle third of esophagus (body structure)",
           "Middle third of oesophagus",
-          "Middle third of esophagus",
           "Middle Third of the Esophagus"
         ],
         "value": "Middle third of esophagus"
@@ -36872,7 +36957,6 @@
         "synonyms": [
           "oral cav",
           "Oral",
-          "Mouth, NOS",
           "Mouth",
           "Oral cavity structure",
           "cavity of mouth",
@@ -36888,7 +36972,6 @@
       },
       {
         "synonyms": [
-          "Mucosa of lip, NOS",
           "Mucosa of lip",
           "Mucous membrane of lip",
           "Labial mucosa",
@@ -36902,7 +36985,6 @@
       },
       {
         "synonyms": [
-          "Mucosa of lower lip",
           "Mucous membrane of lower lip",
           "Labial mucosa of lower lip",
           "Structure of mucous membrane of lower lip (body structure)",
@@ -36914,7 +36996,6 @@
       },
       {
         "synonyms": [
-          "Mucosa of upper lip",
           "Mucous membrane of upper lip",
           "Labial mucosa of upper lip",
           "Structure of mucous membrane of upper lip (body structure)",
@@ -36930,7 +37011,6 @@
           "outer myometrium",
           "Myometrial structure",
           "Myometrial structure (body structure)",
-          "Myometrium",
           "myometrium"
         ],
         "value": "Myometrium"
@@ -36940,7 +37020,6 @@
           "Hard palate structure",
           "bony palate",
           "Hard palate structure (body structure)",
-          "Hard palate",
           "hard palate",
           "Hard Palate"
         ],
@@ -36954,7 +37033,6 @@
           "Structure of head of pancreas",
           "Structure of head of pancreas (body structure)",
           "head of pancreas",
-          "Head of pancreas",
           "Head of the Pancreas"
         ],
         "value": "Head of pancreas"
@@ -36965,7 +37043,6 @@
       },
       {
         "synonyms": [
-          "Heart",
           "Heart structure",
           "Cardiac structure",
           "Heart structure (body structure)",
@@ -36979,7 +37056,6 @@
           "Hematopoietic system structure",
           "Hematologic system",
           "Hematopoietic system structure (body structure)",
-          "Hematopoietic system, NOS",
           "Hematopoietic system",
           "Haematopoietic system",
           "Not Otherwise Specified",
@@ -36998,7 +37074,6 @@
           "Right colic flexure",
           "Structure of right colic flexure (body structure)",
           "hepatic flexure of colon",
-          "Hepatic flexure of colon",
           "Hepatic Flexure"
         ],
         "value": "Hepatic flexure of colon"
@@ -37016,7 +37091,6 @@
           "Hypopharyngeal wall",
           "Hypopharyngeal structure",
           "Hypopharyngeal structure (body structure)",
-          "Hypopharynx, NOS",
           "HYPOPHARYNX",
           "Hypopharynx",
           "hypopharynx",
@@ -37034,7 +37108,6 @@
           "Respiratory tract",
           "respiratory tract",
           "Respiratory tract structure (body structure)",
-          "Ill-defined sites within respiratory system",
           "Respiratory tract structure",
           "Other and Ill-Defined Sites within Respiratory System and Intrathoracic Organs ICD-O-3"
         ],
@@ -37044,7 +37117,6 @@
         "synonyms": [
           "Intestinal (intended site)",
           "Intestinal",
-          "Intestinal tract, NOS",
           "Intestinal tract",
           "Intestinal structure",
           "Bowel, NOS",
@@ -37074,7 +37146,6 @@
           "abdominal lymph nodes",
           "abdominal lymph node",
           "Abdominal lymph node",
-          "Intra-abdominal lymph nodes",
           "Abdominal lymph node group (body structure)",
           "abdominal lymph node group",
           "Abdominal lymph node group",
@@ -37088,14 +37159,12 @@
           "Intrahepatic biliary tract structure",
           "Intrahepatic biliary tract structure (body structure)",
           "intrahepatic bile duct",
-          "Intrahepatic bile duct",
           "Intrahepatic Bile Duct"
         ],
         "value": "Intrahepatic bile duct"
       },
       {
         "synonyms": [
-          "Intrathoracic lymph nodes",
           "Intrathoracic Lymph Node"
         ],
         "value": "Intrathoracic lymph nodes"
@@ -37114,7 +37183,6 @@
           "Endocrine pancreatic structure",
           "Endocrine pancreas",
           "Endocrine pancreatic structure (body structure)",
-          "Islets of Langerhans",
           "Islet of Langerhans"
         ],
         "value": "Islets of Langerhans"
@@ -37124,7 +37192,6 @@
           "isthmus uteri",
           "lower uterine segment",
           "Lower uterine segment",
-          "Isthmus uteri",
           "Isthmus of uterus",
           "Isthmus uteri structure",
           "Isthmus uteri structure (body structure)",
@@ -37139,7 +37206,6 @@
           "Antrum of stomach",
           "Pyloric antrum structure",
           "gastric antrum",
-          "Gastric antrum",
           "Pyloric antrum structure (body structure)",
           "pyloric antrum",
           "Pyloric antrum",
@@ -37149,7 +37215,6 @@
       },
       {
         "synonyms": [
-          "Gallbladder",
           "gallenblase",
           "vesica biliaris",
           "vesica fellea",
@@ -37173,7 +37238,6 @@
           "Axillary process of breast",
           "Structure of axillary tail of breast (body structure)",
           "axillary tail of breast",
-          "Axillary tail of breast",
           "Axillary Tail of the Breast"
         ],
         "value": "Axillary tail of breast"
@@ -37183,7 +37247,6 @@
           "Laryngeal cartilage structure",
           "Laryngeal cartilage structure (body structure)",
           "laryngeal cartilage",
-          "Laryngeal cartilage",
           "Laryngeal Cartilage"
         ],
         "value": "Laryngeal cartilage"
@@ -37194,7 +37257,6 @@
           "Larynx structure",
           "Laryngeal structure",
           "Laryngeal structure (body structure)",
-          "Larynx, NOS",
           "LARYNX",
           "larynx",
           "Larynx",
@@ -37222,7 +37284,6 @@
           "Entire lateral wall of bladder",
           "Entire lateral wall of urinary bladder",
           "Entire lateral wall of urinary bladder (body structure)",
-          "Lateral wall of bladder",
           "Lateral Wall of the Bladder"
         ],
         "value": "Lateral wall of bladder"
@@ -37231,7 +37292,6 @@
         "synonyms": [
           "Structure of lateral wall of nasopharynx",
           "Structure of lateral wall of nasopharynx (body structure)",
-          "Lateral wall of nasopharynx",
           "Lateral Wall of the Nasopharynx"
         ],
         "value": "Lateral wall of nasopharynx"
@@ -37241,7 +37301,6 @@
           "Structure of lateral wall of oropharynx",
           "Lateral wall of mesopharynx",
           "Structure of lateral wall of oropharynx (body structure)",
-          "Lateral wall of oropharynx",
           "Lateral Wall of the Oropharynx"
         ],
         "value": "Lateral wall of oropharynx"
@@ -37254,7 +37313,6 @@
           "Structure of lesser curvature of stomach (body structure)",
           "Stomach.lesser curvature",
           "lesser curvature of stomach",
-          "Lesser curvature of stomach, NOS",
           "Lesser curvature of stomach",
           "Not Otherwise Specified",
           "Lesser Curvature of the Stomach"
@@ -37266,14 +37324,12 @@
           "Lingual tonsil structure",
           "Lingual tonsil structure (body structure)",
           "lingual tonsil",
-          "Lingual tonsil",
           "Lingual Tonsil"
         ],
         "value": "Lingual tonsil"
       },
       {
         "synonyms": [
-          "Lip, NOS",
           "LIP",
           "lip",
           "Lip",
@@ -37286,7 +37342,6 @@
       },
       {
         "synonyms": [
-          "Liver",
           "hepar",
           "Liver structure",
           "Liver structure (body structure)",
@@ -37305,7 +37360,6 @@
       {
         "synonyms": [
           "Structure of gum of mandible",
-          "Lower gum",
           "Mandibular gingiva",
           "Lower gingiva",
           "Structure of gum of mandible (body structure)",
@@ -37320,7 +37374,6 @@
         "synonyms": [
           "Lower extremity",
           "Lower limb structure",
-          "Lower limb, NOS",
           "Lower limb",
           "Leg, NOS",
           "Leg",
@@ -37338,7 +37391,6 @@
         "synonyms": [
           "lower lobe of lung",
           "Lower lobe of lung",
-          "Lower lobe, lung",
           "Structure of lower lobe of lung (body structure)",
           "Structure of lower lobe of lung",
           "Lower Lobe of the Lung"
@@ -37353,7 +37405,6 @@
           "Distal third of esophagus",
           "Structure of lower third of esophagus (body structure)",
           "Lower third of oesophagus",
-          "Lower third of esophagus",
           "Lower Third of the Esophagus"
         ],
         "value": "Lower third of esophagus"
@@ -37362,7 +37413,6 @@
         "synonyms": [
           "Structure of lower inner quadrant of breast",
           "Structure of lower inner quadrant of breast (body structure)",
-          "Lower-inner quadrant of breast",
           "Lower inner quadrant of breast",
           "Lower-Inner Quadrant of the Breast"
         ],
@@ -37372,7 +37422,6 @@
         "synonyms": [
           "Structure of lower outer quadrant of breast",
           "Structure of lower outer quadrant of breast (body structure)",
-          "Lower-outer quadrant of breast",
           "Lower outer quadrant of breast",
           "Lower-Outer Quadrant of the Breast"
         ],
@@ -37385,7 +37434,6 @@
           "Lung structure",
           "Lung structure (body structure)",
           "lungs",
-          "Lung, NOS",
           "lung",
           "Lung",
           "Not Otherwise Specified"
@@ -37404,7 +37452,6 @@
           "Lymph gland",
           "Structure of lymph node (body structure)",
           "LYMPH NODES",
-          "Lymph node, NOS",
           "Lymph node",
           "lymph node",
           "Not Otherwise Specified",
@@ -37424,7 +37471,6 @@
           "Fallopian tube structure",
           "Fallopian tube structure (body structure)",
           "fallopian tubes",
-          "Fallopian tube",
           "fallopian tube",
           "Fallopian Tube"
         ],
@@ -37435,7 +37481,6 @@
           "Floor of mouth structure",
           "FOM - Floor of mouth structure",
           "Floor of mouth structure (body structure)",
-          "Floor of mouth, NOS",
           "FLOOR OF MOUTH",
           "Floor of mouth",
           "Not Otherwise Specified",
@@ -37451,7 +37496,6 @@
           "Frontal lobe structure",
           "frontal cortex",
           "Frontal lobe structure (body structure)",
-          "Frontal lobe",
           "frontal lobe",
           "Frontal Lobe"
         ],
@@ -37462,7 +37506,6 @@
           "Frontal sinus structure",
           "Frontal sinus structure (body structure)",
           "frontal sinus",
-          "Frontal sinus",
           "Frontal Sinus"
         ],
         "value": "Frontal sinus"
@@ -37470,7 +37513,6 @@
       {
         "synonyms": [
           "fundus gastricus",
-          "Fundus of stomach",
           "Gastric fundus structure",
           "Gastric fundus structure (body structure)",
           "Gastric fundus",
@@ -37488,7 +37530,6 @@
           "Structure of fundus uteri",
           "Structure of fundus uteri (body structure)",
           "fundus of uterus",
-          "Fundus uteri",
           "Fundus Uteri"
         ],
         "value": "Fundus uteri"
@@ -37498,7 +37539,6 @@
           "Ectocervical structure",
           "Exocervical structure",
           "Exocervical structure (body structure)",
-          "Exocervix",
           "Ectocervix"
         ],
         "value": "Exocervix"
@@ -37511,7 +37551,6 @@
           "External ear structure (body structure)",
           "Auricle, NOS",
           "Ear.external",
-          "External ear",
           "external ear",
           "External Ear"
         ],
@@ -37519,7 +37558,6 @@
       },
       {
         "synonyms": [
-          "External lip, NOS",
           "Not Otherwise Specified",
           "External Lip"
         ],
@@ -37528,7 +37566,6 @@
       {
         "synonyms": [
           "Lower lip, NOS",
-          "External lower lip",
           "External Lower Lip"
         ],
         "value": "External lower lip"
@@ -37538,7 +37575,6 @@
           "Vermilion border of upper lip",
           "Structure of vermilion border of upper lip",
           "Structure of vermilion border of upper lip (body structure)",
-          "External upper lip",
           "External Upper Lip"
         ],
         "value": "External upper lip"
@@ -37550,7 +37586,6 @@
           "Extrahepatic duct structure (body structure)",
           "extrahepatic biliary tree",
           "extrahepatic bile duct",
-          "Extrahepatic bile duct",
           "Extrahepatic Bile Duct"
         ],
         "value": "Extrahepatic bile duct"
@@ -37566,7 +37601,6 @@
           "Eye structure",
           "Structure of eye proper (body structure)",
           "Eyes",
-          "Eye, NOS",
           "EYE",
           "eye",
           "Eye",
@@ -37579,7 +37613,6 @@
           "Palpebra",
           "Lid, NOS",
           "eyelid",
-          "Eyelid",
           "Eyelid structure (body structure)",
           "Eyelid structure"
         ],
@@ -37589,16 +37622,14 @@
         "synonyms": [
           "Duodenal structure",
           "Duodenal structure (body structure)",
-          "duodenum",
-          "Duodenum"
+          "duodenum"
         ],
         "value": "Duodenum"
       },
       {
         "synonyms": [
           "Endocervical structure",
-          "Endocervical structure (body structure)",
-          "Endocervix"
+          "Endocervical structure (body structure)"
         ],
         "value": "Endocervix"
       },
@@ -37606,7 +37637,6 @@
         "synonyms": [
           "Endocrine gland structure",
           "Endocrine gland structure (body structure)",
-          "Endocrine gland, NOS",
           "Not Otherwise Specified",
           "Endocrine Gland"
         ],
@@ -37617,8 +37647,7 @@
           "tunica mucosa uteri",
           "Endometrial structure",
           "Endometrial structure (body structure)",
-          "endometrium",
-          "Endometrium"
+          "endometrium"
         ],
         "value": "Endometrium"
       },
@@ -37627,8 +37656,7 @@
           "Epididymis structure",
           "Epididymal structure",
           "Epididymis structure (body structure)",
-          "epididymis",
-          "Epididymis"
+          "epididymis"
         ],
         "value": "Epididymis"
       },
@@ -37639,7 +37667,6 @@
           "Esophageal structure",
           "esoph",
           "Esophageal structure (body structure)",
-          "Esophagus, NOS",
           "ESOPHAGUS",
           "esophagus",
           "Oesophagus",
@@ -37655,7 +37682,6 @@
           "Ethmoid sinus structure (body structure)",
           "Ethmoid antrum",
           "ethmoid sinus",
-          "Ethmoid sinus",
           "Ethmoid Sinus"
         ],
         "value": "Ethmoid sinus"
@@ -37680,7 +37706,6 @@
           "brainstem",
           "Brainstem structure",
           "Brainstem structure (body structure)",
-          "Brain stem",
           "Brain Stem"
         ],
         "value": "Brain stem"
@@ -37691,7 +37716,6 @@
           "encephalon",
           "Brain structure",
           "Brain structure (body structure)",
-          "Brain, NOS",
           "BRAIN",
           "brain",
           "Brain",
@@ -37701,7 +37725,6 @@
       },
       {
         "synonyms": [
-          "Branchial cleft",
           "Remnant of embryonic branchial cleft",
           "Branchial cleft malformation NOS",
           "Branchial cleft anomaly (disorder)",
@@ -37718,7 +37741,6 @@
           "Breast structure (body structure)",
           "Breast anatomy",
           "Breasts",
-          "Breast, NOS",
           "BREAST",
           "breast",
           "Breast",
@@ -37732,7 +37754,6 @@
           "broad ligament of uterus",
           "Broad ligament structure",
           "Broad ligament structure (body structure)",
-          "Broad ligament",
           "Broad Ligament"
         ],
         "value": "Broad ligament"
@@ -37746,7 +37767,6 @@
           "Cardia structure",
           "Gastric cardia",
           "gastric cardia",
-          "Cardia, NOS",
           "Cardia",
           "Cardia structure (body structure)",
           "Cardia of stomach",
@@ -37763,7 +37783,6 @@
         "synonyms": [
           "Cauda equina structure",
           "Cauda equina structure (body structure)",
-          "Cauda equina",
           "Cauda Equina"
         ],
         "value": "Cauda equina"
@@ -37847,7 +37866,6 @@
           "Corneas",
           "Corneal structure",
           "Corneal structure (body structure)",
-          "Cornea, NOS",
           "cornea",
           "Cornea",
           "Not Otherwise Specified"
@@ -37861,7 +37879,6 @@
           "Body of uterus structure (body structure)",
           "corpus of uterus",
           "CORPUS UTERI",
-          "Corpus uteri",
           "body of uterus",
           "Body of uterus",
           "Corpus Uteri"
@@ -37874,7 +37891,6 @@
           "cortex of suprarenal gland",
           "Adrenal cortex structure",
           "cortex of adrenal gland",
-          "Cortex of adrenal gland",
           "Adrenal cortex structure (body structure)",
           "Adrenal cortex",
           "adrenal cortex",
@@ -37890,7 +37906,6 @@
           "Head>Nerves.cranial",
           "Cranial nerve structure (body structure)",
           "Nerves.cranial",
-          "Cranial nerve, NOS",
           "Cranial nerve",
           "cranial nerve",
           "Not Otherwise Specified",
@@ -37908,7 +37923,6 @@
           "paranasal sinus",
           "Nasal sinus structure",
           "Nasal sinus structure (body structure)",
-          "Accessory sinus, NOS",
           "ACCESSORY SINUSES",
           "Accessory sinus",
           "Accessory nasal sinus",
@@ -37926,7 +37940,6 @@
           "Abdominal esophagus structure",
           "abdominal esophagus",
           "Abdominal oesophagus",
-          "Abdominal esophagus",
           "Abdominal esophagus structure (body structure)",
           "abdominal part of oesophagus",
           "abdominal part of esophagus",
@@ -37941,7 +37954,6 @@
           "Ascending colon structure",
           "Ascending colon structure (body structure)",
           "ascending colon",
-          "Ascending colon",
           "Ascending Colon"
         ],
         "value": "Ascending colon"
@@ -37952,8 +37964,7 @@
           "Vermiform appendix",
           "Appendix structure",
           "Appendix structure (body structure)",
-          "appendix",
-          "Appendix"
+          "appendix"
         ],
         "value": "Appendix"
       },
@@ -37974,7 +37985,6 @@
       },
       {
         "synonyms": [
-          "Anterior wall of nasopharynx",
           "Structure of anterior wall of nasopharynx",
           "Structure of anterior wall of nasopharynx (body structure)",
           "Anterior Wall of the Nasopharynx"
@@ -37988,7 +37998,6 @@
           "Anterior wall of urinary bladder",
           "Structure of anterior wall of urinary bladder",
           "Structure of anterior wall of urinary bladder (body structure)",
-          "Anterior wall of bladder",
           "Anterior Wall of the Bladder"
         ],
         "value": "Anterior wall of bladder"
@@ -37997,7 +38006,6 @@
         "synonyms": [
           "Structure of anterior surface of epiglottis",
           "Structure of anterior surface of epiglottis (body structure)",
-          "Anterior surface of epiglottis",
           "Anterior Surface of the Epiglottis"
         ],
         "value": "Anterior surface of epiglottis"
@@ -38007,7 +38015,6 @@
           "Structure of anterior mediastinum",
           "Structure of anterior mediastinum (body structure)",
           "anterior mediastinum",
-          "Anterior mediastinum",
           "Anterior Mediastinum"
         ],
         "value": "Anterior mediastinum"
@@ -38040,7 +38047,6 @@
           "anatomical anal canal",
           "Anal canal structure",
           "Anal canal structure (body structure)",
-          "Anal canal",
           "Anal Canal"
         ],
         "value": "Anal canal"
@@ -38051,14 +38057,12 @@
           "Hepatopancreatic ampulla",
           "hepatopancreatic ampulla",
           "Structure of ampulla of Vater (body structure)",
-          "ampulla of Vater",
-          "Ampulla of Vater"
+          "ampulla of Vater"
         ],
         "value": "Ampulla of Vater"
       },
       {
         "synonyms": [
-          "Gum, NOS",
           "GUM",
           "Gum",
           "Gingival structure",
@@ -38078,7 +38082,6 @@
           "Structure of greater curvature of stomach (body structure)",
           "Stomach.greater curvature",
           "greater curvature of stomach",
-          "Greater curvature of stomach, NOS",
           "Greater curvature of stomach",
           "Not Otherwise Specified",
           "Greater Curvature of the Stomach"
@@ -38091,7 +38094,6 @@
           "glottic part of larynx",
           "Glottis structure",
           "Glottis structure (body structure)",
-          "Glottis",
           "glottis"
         ],
         "value": "Glottis"
@@ -38104,7 +38106,6 @@
         "synonyms": [
           "gastro-intestinal system",
           "GI tract",
-          "Gastrointestinal tract, NOS",
           "Gastrointestinal tract",
           "gastrointestinal tract",
           "gastrointestinal system",
@@ -38123,7 +38124,6 @@
           "set of bones",
           "bone organ",
           "bones",
-          "Bone, NOS",
           "bone",
           "Bone",
           "Bone structure (body structure)",
@@ -38134,7 +38134,6 @@
       },
       {
         "synonyms": [
-          "Bone marrow",
           "Whole body>Bone marrow",
           "All bone marrow",
           "All bone marrow (body structure)",
@@ -38158,7 +38157,6 @@
           "gastric body",
           "Gastric corpus structure (body structure)",
           "body of stomach",
-          "Body of stomach",
           "Body of Stomach"
         ],
         "value": "Body of stomach"
@@ -38174,7 +38172,6 @@
           "Corpus cavernosum",
           "Corpus penis structure (body structure)",
           "body of penis",
-          "Body of penis",
           "Body of the Penis"
         ],
         "value": "Body of penis"
@@ -38186,14 +38183,12 @@
           "Structure of body of pancreas",
           "Structure of body of pancreas (body structure)",
           "body of pancreas",
-          "Body of pancreas",
           "Body of the Pancreas"
         ],
         "value": "Body of pancreas"
       },
       {
         "synonyms": [
-          "Blood",
           "portion of blood",
           "Blood (substance)",
           "blood"
@@ -38205,7 +38200,6 @@
           "cervix vesicae",
           "collum vesicae",
           "cervix vesicae; collum vesicae",
-          "Bladder neck",
           "vesical neck",
           "Vesical neck",
           "Structure of neck of urinary bladder",
@@ -38223,7 +38217,6 @@
       {
         "synonyms": [
           "biliary apparatus",
-          "Biliary tract, NOS",
           "Biliary tract",
           "biliary tract",
           "biliary system",
@@ -38243,7 +38236,6 @@
           "Posterior third of tongue",
           "Posterior one-third of tongue",
           "Structure of root of tongue (body structure)",
-          "Base of tongue, NOS",
           "BASE OF TONGUE",
           "Base of tongue",
           "root of tongue",
@@ -38258,7 +38250,6 @@
           "Conj - Conjunctiva",
           "Conjunctival structure",
           "Conjunctival structure (body structure)",
-          "Conjunctiva",
           "conjunctiva"
         ],
         "value": "Conjunctiva"
@@ -38270,7 +38261,6 @@
           "labial commissure of mouth",
           "Labial commissure",
           "Commissure of lips",
-          "Commissure of lip",
           "Commissure of the Lip"
         ],
         "value": "Commissure of lip"
@@ -38278,7 +38268,6 @@
       {
         "synonyms": [
           "Colon structure",
-          "Colon, NOS",
           "COLON",
           "colon",
           "Colon",
@@ -38291,7 +38280,6 @@
         "synonyms": [
           "Structure of cloacogenic zone",
           "Structure of cloacogenic zone (body structure)",
-          "Cloacogenic zone",
           "Anal Transitional Zone"
         ],
         "value": "Cloacogenic zone"
@@ -38304,7 +38292,6 @@
         "synonyms": [
           "Ciliary body structure",
           "Ciliary body structure (body structure)",
-          "Ciliary body",
           "ciliary body",
           "Ciliary Body"
         ],
@@ -38316,8 +38303,7 @@
           "Choroidal structure",
           "Choroid of eye",
           "Choroidal structure (body structure)",
-          "choroid",
-          "Choroid"
+          "choroid"
         ],
         "value": "Choroid"
       },
@@ -38326,7 +38312,6 @@
           "Structure of buccal mucosa",
           "Structure of buccal mucosa (body structure)",
           "Oral mucosa",
-          "Cheek mucosa",
           "Intraoral surface of cheek",
           "Internal cheek",
           "Buccal mucosa",
@@ -38351,7 +38336,6 @@
           "Cervix uteri structure (body structure)",
           "cervix of uterus",
           "CERVIX UTERI",
-          "Cervix uteri",
           "Cervix Uteri"
         ],
         "value": "Cervix uteri"
@@ -38363,7 +38347,6 @@
           "Cervical oesophagus structure",
           "Cervical esophagus structure",
           "Cervical oesophagus",
-          "Cervical esophagus",
           "Cervical esophagus structure (body structure)",
           "cervical part of esophagus",
           "cervical part of oesophagus",
@@ -38391,7 +38374,6 @@
           "Cranial meninges",
           "Brain meninges structure",
           "Meninges of brain",
-          "Cerebral meninges",
           "Cerebral Meninges"
         ],
         "value": "Cerebral meninges"
@@ -38401,7 +38383,6 @@
           "epencephalon-1",
           "Cerebellar structure",
           "Cerebellar structure (body structure)",
-          "Cerebellum, NOS",
           "cerebellum",
           "Cerebellum",
           "Not Otherwise Specified"
@@ -38415,8 +38396,7 @@
           "Cecum structure",
           "Cecum structure (body structure)",
           "cecum",
-          "Caecum",
-          "Cecum"
+          "Caecum"
         ],
         "value": "Cecum"
       },
@@ -38440,7 +38420,6 @@
           "Cochlear division of vestibulocochlear nerve",
           "Cochlear root of eighth cranial nerve",
           "Structure of cochlear nerve (body structure)",
-          "Acoustic nerve",
           "Cochlear root of acoustic nerve",
           "Cochlear nerve",
           "cochlear nerve",
@@ -38457,7 +38436,6 @@
           "Adrenal structure (body structure)",
           "adrenals",
           "Adrenal, NOS",
-          "Adrenal gland, NOS",
           "ADRENAL GLAND",
           "Adrenal gland",
           "adrenal gland",
@@ -38472,7 +38450,6 @@
           "Pelvis>Anus",
           "Anal structure",
           "Anal structure (body structure)",
-          "Anus, NOS",
           "anus",
           "Anus",
           "Not Otherwise Specified"
@@ -38483,7 +38460,6 @@
         "synonyms": [
           "Autonomic nervous system structure",
           "Autonomic nervous system structure (body structure)",
-          "Autonomic nervous system, NOS",
           "autonomic nervous system",
           "Autonomic nervous system",
           "Not Otherwise Specified",
@@ -38519,7 +38495,6 @@
           "dome of urinary bladder",
           "Dome of urinary bladder",
           "bladder dome",
-          "Dome of bladder",
           "Structure of dome of urinary bladder (body structure)",
           "Structure of dome of urinary bladder",
           "Dome of the Bladder"
@@ -38534,7 +38509,6 @@
           "DC - Descending colon",
           "Descending colon structure (body structure)",
           "descending colon",
-          "Descending colon",
           "Descending Colon"
         ],
         "value": "Descending colon"
@@ -38568,6 +38542,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14617551",
+    "CDEFullName": "Imaging Reconstruction Protocol Type Code\"",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38579,6 +38556,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14670294",
+    "CDEFullName": "Longitudinal Study Temporal Event Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38590,6 +38570,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612661",
+    "CDEFullName": "Longitudinal Study Temporal Offset Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38601,6 +38584,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38612,6 +38598,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6626651",
+    "CDEFullName": "Biospecimen Acquisition Method Type",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38623,6 +38612,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3288124",
+    "CDEFullName": "Tumor Tissue Disease Description Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38634,6 +38626,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "65078",
+    "CDEFullName": "Specimen Fixative Type",
+    "CDEVersion": "4.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38643,16 +38638,13 @@
         "value": "95% Ethanol"
       },
       {
-        "synonyms": [
-          "Carbodiimide"
-        ],
+        "synonyms": [],
         "value": "Carbodiimide"
       },
       {
         "synonyms": [
           "Dimethyl acetamide (substance)",
           "Dimethyl acetamide",
-          "Dimethylacetamide",
           "N,N-Dimethylacetamide"
         ],
         "value": "Dimethylacetamide"
@@ -38664,27 +38656,19 @@
         "value": "TCL Lysis Buffer"
       },
       {
-        "synonyms": [
-          "NP40 Lysis Buffer"
-        ],
+        "synonyms": [],
         "value": "NP40 Lysis Buffer"
       },
       {
-        "synonyms": [
-          "Methacarn"
-        ],
+        "synonyms": [],
         "value": "Methacarn"
       },
       {
-        "synonyms": [
-          "Carnoy's Solution"
-        ],
+        "synonyms": [],
         "value": "Carnoy's Solution"
       },
       {
-        "synonyms": [
-          "Poloxamer"
-        ],
+        "synonyms": [],
         "value": "Poloxamer"
       },
       {
@@ -38697,8 +38681,7 @@
         "synonyms": [
           "Acetone-containing product",
           "Product containing acetone (medicinal product)",
-          "Acetone (substance)",
-          "Acetone"
+          "Acetone (substance)"
         ],
         "value": "Acetone"
       },
@@ -38709,7 +38692,6 @@
           "Ethanol (substance)",
           "Ethanol",
           "Ethyl alcohol",
-          "Alcohol",
           "EtOH - Ethanol"
         ],
         "value": "Alcohol"
@@ -38730,7 +38712,6 @@
       },
       {
         "synonyms": [
-          "Saline",
           "saline",
           "Sodium chloride solution (substance)",
           "Sodium chloride solution"
@@ -38743,7 +38724,6 @@
           "Product containing glutaraldehyde (medicinal product)",
           "Glutardialdehyde",
           "Glutaraldehyde (substance)",
-          "Glutaraldehyde",
           "Glutaral"
         ],
         "value": "Glutaraldehyde"
@@ -38755,15 +38735,13 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
         "synonyms": [
-          "Other (qualifier value)",
-          "Other"
+          "Other (qualifier value)"
         ],
         "value": "Other"
       },
@@ -38780,7 +38758,6 @@
         "synonyms": [
           "Does not apply",
           "NA",
-          "Not applicable",
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
@@ -38790,9 +38767,7 @@
         "value": "Not applicable"
       },
       {
-        "synonyms": [
-          "Diimidoester"
-        ],
+        "synonyms": [],
         "value": "Diimidoester"
       },
       {
@@ -38810,7 +38785,6 @@
       },
       {
         "synonyms": [
-          "Not recorded",
           "Not recorded (qualifier value)",
           "Not Recorded"
         ],
@@ -38821,6 +38795,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "8037927",
+    "CDEFullName": "Biospecimen Collection Medium Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38853,8 +38830,7 @@
       {
         "synonyms": [
           "None (qualifier value)",
-          "none",
-          "None"
+          "none"
         ],
         "value": "None"
       }
@@ -38863,6 +38839,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7789196",
+    "CDEFullName": "Imaging Assay Technology Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38891,8 +38870,7 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
@@ -38971,6 +38949,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788935",
+    "CDEFullName": "Microscope Device Objective Lens Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38982,6 +38963,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788940",
+    "CDEFullName": "Microscope Device Nominal Magnification Float Value",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -38993,6 +38977,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "8058286",
+    "CDEFullName": "Microscope Device Immersion Medium Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39004,6 +38991,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788942",
+    "CDEFullName": "Microscope Device Lens Numerical Aperture Float Value",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39015,6 +39005,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788943",
+    "CDEFullName": "Microscope Device Working Distance Float Value",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39026,6 +39019,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7789196",
+    "CDEFullName": "Imaging Assay Technology Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39054,8 +39050,7 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
@@ -39134,6 +39129,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788945",
+    "CDEFullName": "Image Processing Pyramid Representation True False Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39145,6 +39143,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788945",
+    "CDEFullName": "Image Processing Pyramid Representation True False Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39156,6 +39157,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7786585",
+    "CDEFullName": "Pixel Y-Dimension Float Value",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39167,6 +39171,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7786586",
+    "CDEFullName": "Pixel Z-Dimension Float Value",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39178,6 +39185,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7794859",
+    "CDEFullName": "OME TIFF Channel Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39189,6 +39199,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7794860",
+    "CDEFullName": "OME TIFF Timepoint Count",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39200,6 +39213,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788567",
+    "CDEFullName": "OME TIFF X-Dimension Pixel Measurement",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39211,6 +39227,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788568",
+    "CDEFullName": "OME TIFF Y-Dimension Pixel Measurement",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39222,6 +39241,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788569",
+    "CDEFullName": "OME TIFF Z-Dimension Pixel Measurement",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39233,6 +39255,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7787678",
+    "CDEFullName": "Channel Analysis Metadata Electronic File Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39244,6 +39269,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "11556141",
+    "CDEFullName": "Electronic File Pathname Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39255,6 +39283,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765171",
+    "CDEFullName": "OME Tagged Image File Format Channel Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39266,6 +39297,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765172",
+    "CDEFullName": "OME Tagged Image File Format Channel Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39277,6 +39311,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765176",
+    "CDEFullName": "Multiplex Imaging Reagent Cycle Number Integer",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39288,6 +39325,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765180",
+    "CDEFullName": "Multiplex Imaging Reagent Sub-Cycle Number Integer",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39299,6 +39339,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765180",
+    "CDEFullName": "Multiplex Imaging Reagent Sub-Cycle Number Integer",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39310,6 +39353,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765184",
+    "CDEFullName": "Tissue Slide IHC Antibody Used Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39321,6 +39367,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14767247",
+    "CDEFullName": "Multiplex Imaging Research Resource Identifier Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39332,6 +39381,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14767255",
+    "CDEFullName": "Multiplex Imaging Fluorescent Dye Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39343,6 +39395,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14767258",
+    "CDEFullName": "Multiplex Imaging Clone Unique Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39354,6 +39409,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14769695",
+    "CDEFullName": "Multiplex Imaging Vendor Lot Number Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39365,6 +39423,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14767261",
+    "CDEFullName": "Multiplex Imaging Vendor Catalog Number Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39376,6 +39437,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765187",
+    "CDEFullName": "Multiplex Imaging Excitation Wavelength Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39387,6 +39451,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14767264",
+    "CDEFullName": "Multiplex Imaging Emission Wavelength Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39398,6 +39465,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765190",
+    "CDEFullName": "Multiplex Imaging Excitation Bandwidth Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39409,6 +39479,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765193",
+    "CDEFullName": "Multiplex Imaging Emission Bandwidth Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39420,6 +39493,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765198",
+    "CDEFullName": "Multiplex Imaging Isotope Abbreviation Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39431,6 +39507,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765201",
+    "CDEFullName": "Multiplex Imaging Isotope Element Number Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39442,6 +39521,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765205",
+    "CDEFullName": "Multiplex Imaging Oligonucleotide Barcode Upper Strand Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39453,6 +39535,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14765208",
+    "CDEFullName": "Multiplex Imaging Oligonucleotide Barcode Lower Strand Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39464,6 +39549,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14767270",
+    "CDEFullName": "Multiplex Imaging Final Dilution Ratio Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39475,6 +39563,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14768386",
+    "CDEFullName": "Multiplex Imaging Final Concentration Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39486,6 +39577,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39497,6 +39591,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2903347",
+    "CDEFullName": "Image Single Collimation Width 8 Byte Millimeter Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39508,6 +39605,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2903328",
+    "CDEFullName": "Image Total Collimation Width 8 Byte Millimeter Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39519,6 +39619,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2656117",
+    "CDEFullName": "Image Gantry Detector Tilt 16 Character Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39530,6 +39633,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2414556",
+    "CDEFullName": "Computed Tomography Pitch Factor Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39541,6 +39647,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3882991",
+    "CDEFullName": "Computed Tomography Dose Index Volume Quantity 8 Byte Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39552,6 +39661,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612683",
+    "CDEFullName": "Imaging Technique CTDI Phantom Type Sequence of Items Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39563,6 +39675,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2904496",
+    "CDEFullName": "Image Kilovolt Peak Float 16 Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39574,6 +39689,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14617524",
+    "CDEFullName": "Imaging Technique Exposure Modulation Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39585,6 +39703,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2656119",
+    "CDEFullName": "Image Convolution Kernel 16 Character Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39596,6 +39717,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14617525",
+    "CDEFullName": "Imaging Technique Convolution Kernel Group Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39607,6 +39731,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39618,6 +39745,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14645641",
+    "CDEFullName": "Image Acquisition Spin-Echo Pulse Sequence Code Category",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39629,6 +39759,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14607706",
+    "CDEFullName": "Imaging Technique MR Diffusion B Value Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39640,6 +39773,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14616426",
+    "CDEFullName": "Imaging Technique Diffusion Directionality Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39651,6 +39787,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14607707",
+    "CDEFullName": "Imaging Technique Magnetic Field Strength Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39662,6 +39801,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14616427",
+    "CDEFullName": "Image Acquisition Resonant Nucleus Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39673,6 +39815,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14616428",
+    "CDEFullName": "Image Acquisition Contrast Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39684,6 +39829,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14607722",
+    "CDEFullName": "Image Acquisition Inversion Recovery Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39695,6 +39843,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14608594",
+    "CDEFullName": "Image Acquisition Pulse Sequence Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39706,6 +39857,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14608595",
+    "CDEFullName": "Imaging Technique Multiple Spin Echo Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39717,6 +39871,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14608601",
+    "CDEFullName": "Image Phase Contrast Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39728,6 +39885,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14608649",
+    "CDEFullName": "Imaging Technique Time of Flight Contrast Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39739,6 +39899,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14616429",
+    "CDEFullName": "Imaging Technique Arterial Spin Labeling Contrast Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39750,6 +39913,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14616430",
+    "CDEFullName": "Image Acquisition Steady State Pulse Sequence Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39761,6 +39927,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612651",
+    "CDEFullName": "Image Acquisition Echo Planar Pulse Sequence Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39772,6 +39941,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612652",
+    "CDEFullName": "Imaging Technique Saturation Recovery Indicator",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39783,6 +39955,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14616431",
+    "CDEFullName": "Imaging Technique Spectrally Selected Suppression Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39794,6 +39969,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14616432",
+    "CDEFullName": "Imaging Technique Complex Image Component Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39805,6 +39983,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "6626651",
+    "CDEFullName": "Biospecimen Acquisition Method Type",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39816,6 +39997,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3288124",
+    "CDEFullName": "Tumor Tissue Disease Description Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39827,6 +40011,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "65078",
+    "CDEFullName": "Specimen Fixative Type",
+    "CDEVersion": "4.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -39836,16 +40023,13 @@
         "value": "95% Ethanol"
       },
       {
-        "synonyms": [
-          "Carbodiimide"
-        ],
+        "synonyms": [],
         "value": "Carbodiimide"
       },
       {
         "synonyms": [
           "Dimethyl acetamide (substance)",
           "Dimethyl acetamide",
-          "Dimethylacetamide",
           "N,N-Dimethylacetamide"
         ],
         "value": "Dimethylacetamide"
@@ -39857,27 +40041,19 @@
         "value": "TCL Lysis Buffer"
       },
       {
-        "synonyms": [
-          "NP40 Lysis Buffer"
-        ],
+        "synonyms": [],
         "value": "NP40 Lysis Buffer"
       },
       {
-        "synonyms": [
-          "Methacarn"
-        ],
+        "synonyms": [],
         "value": "Methacarn"
       },
       {
-        "synonyms": [
-          "Carnoy's Solution"
-        ],
+        "synonyms": [],
         "value": "Carnoy's Solution"
       },
       {
-        "synonyms": [
-          "Poloxamer"
-        ],
+        "synonyms": [],
         "value": "Poloxamer"
       },
       {
@@ -39890,8 +40066,7 @@
         "synonyms": [
           "Acetone-containing product",
           "Product containing acetone (medicinal product)",
-          "Acetone (substance)",
-          "Acetone"
+          "Acetone (substance)"
         ],
         "value": "Acetone"
       },
@@ -39902,7 +40077,6 @@
           "Ethanol (substance)",
           "Ethanol",
           "Ethyl alcohol",
-          "Alcohol",
           "EtOH - Ethanol"
         ],
         "value": "Alcohol"
@@ -39923,7 +40097,6 @@
       },
       {
         "synonyms": [
-          "Saline",
           "saline",
           "Sodium chloride solution (substance)",
           "Sodium chloride solution"
@@ -39936,7 +40109,6 @@
           "Product containing glutaraldehyde (medicinal product)",
           "Glutardialdehyde",
           "Glutaraldehyde (substance)",
-          "Glutaraldehyde",
           "Glutaral"
         ],
         "value": "Glutaraldehyde"
@@ -39948,15 +40120,13 @@
           "Unknown (qualifier value)",
           "NOS, unknown",
           "? = Unknown",
-          "unknown",
-          "Unknown"
+          "unknown"
         ],
         "value": "Unknown"
       },
       {
         "synonyms": [
-          "Other (qualifier value)",
-          "Other"
+          "Other (qualifier value)"
         ],
         "value": "Other"
       },
@@ -39973,7 +40143,6 @@
         "synonyms": [
           "Does not apply",
           "NA",
-          "Not applicable",
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
@@ -39983,9 +40152,7 @@
         "value": "Not applicable"
       },
       {
-        "synonyms": [
-          "Diimidoester"
-        ],
+        "synonyms": [],
         "value": "Diimidoester"
       },
       {
@@ -40003,7 +40170,6 @@
       },
       {
         "synonyms": [
-          "Not recorded",
           "Not recorded (qualifier value)",
           "Not Recorded"
         ],
@@ -40014,6 +40180,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "8037927",
+    "CDEFullName": "Biospecimen Collection Medium Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40046,8 +40215,7 @@
       {
         "synonyms": [
           "None (qualifier value)",
-          "none",
-          "None"
+          "none"
         ],
         "value": "None"
       }
@@ -40056,6 +40224,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7789196",
+    "CDEFullName": "Imaging Assay Technology Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40084,8 +40255,7 @@
           "Not applicable.",
           "Not applicable (qualifier value)",
           "N/A",
-          "not applicable",
-          "Not Applicable"
+          "not applicable"
         ],
         "value": "Not Applicable"
       },
@@ -40164,6 +40334,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788935",
+    "CDEFullName": "Microscope Device Objective Lens Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40175,6 +40348,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788940",
+    "CDEFullName": "Microscope Device Nominal Magnification Float Value",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40186,6 +40362,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "8058286",
+    "CDEFullName": "Microscope Device Immersion Medium Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40197,6 +40376,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "7788942",
+    "CDEFullName": "Microscope Device Lens Numerical Aperture Float Value",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40208,6 +40390,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40219,6 +40404,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40230,6 +40418,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2656117",
+    "CDEFullName": "Image Gantry Detector Tilt 16 Character Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40241,6 +40432,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612653",
+    "CDEFullName": "Imaging Technique Radionuclide Code Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40252,6 +40446,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40263,6 +40460,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2182389",
+    "CDEFullName": "Image Study Description 64 Character Text",
+    "CDEVersion": "2.10",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40274,6 +40474,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2902328",
+    "CDEFullName": "Image Study Admitting Diagnosis Description 64 Character Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40285,6 +40488,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "12137353",
+    "CDEFullName": "Imaging Technology DICOM Modality Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40325,7 +40531,6 @@
           "Electrocardiographic procedure (procedure)",
           "Electrocardiographic procedure",
           "EKG",
-          "ECG",
           "Electrocardiography"
         ],
         "value": "ECG"
@@ -40507,7 +40712,6 @@
       {
         "synonyms": [
           "Electromyography (procedure)",
-          "EMG",
           "EMG - Electromyography",
           "Electromyogram",
           "Electromyography"
@@ -40519,7 +40723,6 @@
           "Electroencephalogram (procedure)",
           "Electroencephalogram",
           "EEG - Electroencephalography",
-          "EEG",
           "Electroencephalography"
         ],
         "value": "EEG"
@@ -40579,7 +40782,6 @@
           "MRI scan",
           "Magnetic resonance imaging - action",
           "MR imaging",
-          "MR",
           "Magnetic resonance technique",
           "Magnetic resonance study",
           "NMR - Nuclear magnetic resonance",
@@ -40650,7 +40852,6 @@
           "Fluoroscopy",
           "radiography-fluoroscopy",
           "radio-fluoro",
-          "RF",
           "radiofluoroscopy",
           "Fluoroscopic imaging - action",
           "fluoro",
@@ -40797,7 +40998,6 @@
       {
         "synonyms": [
           "Computed radiography",
-          "CR",
           "computed radiography",
           "Computed Radiography"
         ],
@@ -40810,7 +41010,6 @@
           "USS - ultrasound scan",
           "US - ultrasound",
           "Echotomography",
-          "US",
           "Ultrasounds",
           "ultrasound",
           "Ultrasound",
@@ -40836,7 +41035,6 @@
       },
       {
         "synonyms": [
-          "XA",
           "x-ray angiography",
           "angio",
           "Angiography (procedure)",
@@ -40870,7 +41068,6 @@
           "Computed tomography",
           "Computerised axial tomography",
           "Computerized axial tomography",
-          "CT",
           "CT scan",
           "CAT Scans",
           "CTT",
@@ -41084,6 +41281,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2659474",
+    "CDEFullName": "Image Lossy Compression Code",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41099,6 +41299,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14670299",
+    "CDEFullName": "Imaging Study Process Protocol Element Summary Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41110,6 +41313,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612662",
+    "CDEFullName": "Image Study Primary Anatomic Site Sequence of Items Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41121,6 +41327,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14670301",
+    "CDEFullName": "Image Study Spatial Acquisition Type Code",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41132,6 +41341,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14617521",
+    "CDEFullName": "Image Study Cardiac Synchronization Technique Code Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41143,6 +41355,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612665",
+    "CDEFullName": "Image Acquisition Data Collection Location Diameter Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41154,6 +41369,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14617522",
+    "CDEFullName": "Image Study Respiratory Motion Technique Code Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41165,6 +41383,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14617523",
+    "CDEFullName": "Image Study Body Position Name",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41175,16 +41396,13 @@
         "value": "Standing"
       },
       {
-        "synonyms": [
-          "Trendelenburg"
-        ],
+        "synonyms": [],
         "value": "Trendelenburg"
       },
       {
         "synonyms": [
           "sup",
           "supine",
-          "Supine",
           "Lying supine",
           "Lying",
           "Supine body position",
@@ -41202,6 +41420,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14617557",
+    "CDEFullName": "Imaging Reconstruction Protocol Algorithm Code Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41213,6 +41434,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612672",
+    "CDEFullName": "Imaging Reconstruction Protocol Field of View Height Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41224,6 +41448,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612674",
+    "CDEFullName": "Imaging Reconstruction Protocol Field of View Width Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41235,6 +41462,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2182085",
+    "CDEFullName": "Reconstruction Diameter in Millimeter(s)",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41246,6 +41476,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "3113185",
+    "CDEFullName": "Image Plane Slice Thickness Float or Fixed-point Millimeter Number",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41257,6 +41490,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "14612682",
+    "CDEFullName": "Imaging Reconstruction Protocol Reconstruction Interval Millimeter Number",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41268,6 +41504,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41279,6 +41518,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "15105438",
+    "CDEFullName": "Specimen Aliquot Identifier",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41290,48 +41532,37 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "15112968",
+    "CDEFullName": "Laboratory Procedure Proteomic Profiling Analytical Fraction Type",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "Lipidome"
-        ],
+        "synonyms": [],
         "value": "Lipidome"
       },
       {
-        "synonyms": [
-          "Metabolome"
-        ],
+        "synonyms": [],
         "value": "Metabolome"
       },
       {
-        "synonyms": [
-          "Phosphoproteome"
-        ],
+        "synonyms": [],
         "value": "Phosphoproteome"
       },
       {
-        "synonyms": [
-          "Proteome"
-        ],
+        "synonyms": [],
         "value": "Proteome"
       },
       {
-        "synonyms": [
-          "Ubiquitylome"
-        ],
+        "synonyms": [],
         "value": "Ubiquitylome"
       },
       {
-        "synonyms": [
-          "Acetylome"
-        ],
+        "synonyms": [],
         "value": "Acetylome"
       },
       {
-        "synonyms": [
-          "Glycoproteome"
-        ],
+        "synonyms": [],
         "value": "Glycoproteome"
       }
     ],
@@ -41339,6 +41570,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2866141",
+    "CDEFullName": "Equipment Manufacturer Name Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41350,6 +41584,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2413274",
+    "CDEFullName": "Equipment Manufacturer Model Name Text",
+    "CDEVersion": "2.10",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41361,6 +41598,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "15089939",
+    "CDEFullName": "Research Activity Proteomics Study Design Description Text",
+    "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41372,6 +41612,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": "2413274",
+    "CDEFullName": "Manufacturer's Model Name",
+    "CDEVersion": "2.10",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41383,6 +41626,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41394,6 +41640,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41405,6 +41654,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41416,6 +41668,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41427,6 +41682,9 @@
     "version": "5.0.3"
   },
   {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
     "dataCommons": "CDS",
     "permissibleValues": [
       {
