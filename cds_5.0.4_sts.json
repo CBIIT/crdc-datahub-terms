@@ -38619,7 +38619,27 @@
     "permissibleValues": [
       {
         "synonyms": [],
-        "value": null
+        "value": "Ming's test value"
+      },
+      {
+        "synonyms": [],
+        "value": "Ming's test value with trailing spaces   "
+      },
+      {
+        "synonyms": [],
+        "value": "Ming's test value2 with trailing space "
+      },
+      {
+        "synonyms": [],
+        "value": "    Ming's test value with leading spaces"
+      },
+      {
+        "synonyms": [],
+        "value": " Ming's test value2 with leading space"
+      },
+      {
+        "synonyms": [],
+        "value": "   Ming's test value2 with leading and trailing space   "
       }
     ],
     "property": "tumor_tissue_type",
