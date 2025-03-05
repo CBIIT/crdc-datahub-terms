@@ -11,7 +11,7 @@
       }
     ],
     "property": "program_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11459801",
@@ -25,7 +25,7 @@
       }
     ],
     "property": "program_short_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -39,7 +39,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -53,7 +53,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -67,7 +67,7 @@
       }
     ],
     "property": "person_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -81,7 +81,7 @@
       }
     ],
     "property": "person_first_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -95,7 +95,7 @@
       }
     ],
     "property": "person_last_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -109,7 +109,7 @@
       }
     ],
     "property": "person_middle_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "10624734",
@@ -123,7 +123,7 @@
       }
     ],
     "property": "person_orcid",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -137,7 +137,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11459810",
@@ -151,7 +151,7 @@
       }
     ],
     "property": "study_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11459812",
@@ -165,7 +165,7 @@
       }
     ],
     "property": "study_short_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "5054234",
@@ -179,7 +179,7 @@
       }
     ],
     "property": "study_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "3444002",
@@ -193,7 +193,7 @@
       }
     ],
     "property": "study_description",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11160683",
@@ -312,7 +312,7 @@
       }
     ],
     "property": "study_type",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -326,7 +326,7 @@
       }
     ],
     "property": "dates_of_conduct",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -340,7 +340,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -354,7 +354,7 @@
       }
     ],
     "property": "associated_link_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822136",
@@ -368,7 +368,7 @@
       }
     ],
     "property": "associated_link_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822140",
@@ -382,7 +382,7 @@
       }
     ],
     "property": "associated_link_url",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -396,7 +396,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -410,7 +410,7 @@
       }
     ],
     "property": "image_collection_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14826008",
@@ -424,7 +424,7 @@
       }
     ],
     "property": "image_collection_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "12137353",
@@ -1217,7 +1217,7 @@
       }
     ],
     "property": "image_type_included",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11556141",
@@ -1231,7 +1231,7 @@
       }
     ],
     "property": "image_collection_url",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14826003",
@@ -1245,7 +1245,7 @@
       }
     ],
     "property": "repository_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14825946",
@@ -1273,7 +1273,7 @@
       }
     ],
     "property": "collection_access",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -1287,7 +1287,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "12220014",
@@ -1301,7 +1301,7 @@
       }
     ],
     "property": "participant_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14735824",
@@ -1333,7 +1333,7 @@
       }
     ],
     "property": "biomarker_results_available",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14735825",
@@ -1365,7 +1365,7 @@
       }
     ],
     "property": "radiology_report_available",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14735826",
@@ -1397,7 +1397,7 @@
       }
     ],
     "property": "radiology_images_available",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14735827",
@@ -1429,7 +1429,7 @@
       }
     ],
     "property": "histology_images_available",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -1443,7 +1443,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -1457,7 +1457,7 @@
       }
     ],
     "property": "demographic_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "12299548",
@@ -1471,7 +1471,7 @@
       }
     ],
     "property": "age_at_enrollment",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2192199",
@@ -1551,7 +1551,7 @@
       }
     ],
     "property": "race",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2192217",
@@ -1598,7 +1598,7 @@
       }
     ],
     "property": "ethnicity",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "7572817",
@@ -1669,62 +1669,7 @@
       }
     ],
     "property": "sex",
-    "version": "1.1.0"
-  },
-  {
-    "CDECode": "14927178",
-    "CDEFullName": "Person Gender Identity Type",
-    "CDEVersion": "1",
-    "dataCommons": "CTDC",
-    "permissibleValues": [
-      {
-        "synonyms": [
-          "Female Gender Identity"
-        ],
-        "value": "Female"
-      },
-      {
-        "synonyms": [
-          "Male Gender Identity"
-        ],
-        "value": "Male"
-      },
-      {
-        "synonyms": [
-          "Nonbinary gender identity",
-          "Non-binary gender identity",
-          "Identifies as gender non-binary",
-          "Identifies as nonbinary gender (finding)",
-          "Identifies as nonbinary gender",
-          "Identifies as gender nonbinary",
-          "Non-Binary Gender Identity"
-        ],
-        "value": "Non-Binary"
-      },
-      {
-        "synonyms": [
-          "Response Declined"
-        ],
-        "value": "Prefer Not to Answer"
-      },
-      {
-        "synonyms": [],
-        "value": "Not Reported"
-      },
-      {
-        "synonyms": [
-          "Unk",
-          "Not known",
-          "Unknown (qualifier value)",
-          "NOS, unknown",
-          "? = Unknown",
-          "unknown"
-        ],
-        "value": "Unknown"
-      }
-    ],
-    "property": "reported_gender",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2179643",
@@ -1738,7 +1683,7 @@
       }
     ],
     "property": "height",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2179689",
@@ -1752,7 +1697,7 @@
       }
     ],
     "property": "weight",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "653",
@@ -1766,7 +1711,7 @@
       }
     ],
     "property": "body_surface_area",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "6617540",
@@ -1869,7 +1814,7 @@
       }
     ],
     "property": "occupation",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14834966",
@@ -1883,7 +1828,7 @@
       }
     ],
     "property": "income",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2681552",
@@ -2007,7 +1952,7 @@
       }
     ],
     "property": "highest_level_of_education",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "10543100",
@@ -2021,7 +1966,7 @@
       }
     ],
     "property": "ncbi_taxonomy_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "10543082",
@@ -2035,7 +1980,7 @@
       }
     ],
     "property": "ncbi_taxonomy_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -2049,7 +1994,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -2063,7 +2008,7 @@
       }
     ],
     "property": "exposure_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11256813",
@@ -2131,7 +2076,7 @@
       }
     ],
     "property": "environmental_exposure_type",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "5205578",
@@ -2163,7 +2108,7 @@
       }
     ],
     "property": "carcinogen_exposure",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -2177,7 +2122,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -2191,7 +2136,7 @@
       }
     ],
     "property": "diagnosis_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14905532",
@@ -2257,7 +2202,7 @@
       }
     ],
     "property": "primary_diagnosis_disease_group",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -2307,7 +2252,7 @@
       }
     ],
     "property": "ctep_disease_term",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -2361,7 +2306,7 @@
       }
     ],
     "property": "meddra_disease_code",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -2495,7 +2440,7 @@
       }
     ],
     "property": "snomed_disease_term",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "6642369",
@@ -2509,7 +2454,7 @@
       }
     ],
     "property": "snomed_disease_code",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14883047",
@@ -2523,7 +2468,7 @@
       }
     ],
     "property": "primary_disease_site",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14842510",
@@ -2537,7 +2482,7 @@
       }
     ],
     "property": "histology",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14843594",
@@ -2551,7 +2496,7 @@
       }
     ],
     "property": "histological_subtype",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "3440332",
@@ -2702,7 +2647,7 @@
       }
     ],
     "property": "stage_of_disease",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11325685",
@@ -2828,7 +2773,7 @@
       }
     ],
     "property": "tumor_grade",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -2842,7 +2787,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -2856,7 +2801,7 @@
       }
     ],
     "property": "targeted_therapy_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14913015",
@@ -2870,7 +2815,7 @@
       }
     ],
     "property": "targeted_therapy",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2182728",
@@ -2884,7 +2829,7 @@
       }
     ],
     "property": "targeted_therapy_dose",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2321160",
@@ -4164,7 +4109,7 @@
       }
     ],
     "property": "targeted_therapy_dose_units",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2003878",
@@ -4701,7 +4646,7 @@
       }
     ],
     "property": "targeted_therapy_frequency",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14984532",
@@ -4715,7 +4660,7 @@
       }
     ],
     "property": "targeted_therapy_start_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14984563",
@@ -4729,7 +4674,7 @@
       }
     ],
     "property": "targeted_therapy_end_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "13383448",
@@ -4815,7 +4760,7 @@
       }
     ],
     "property": "best_response_to_targeted_therapy",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -4829,7 +4774,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -4843,7 +4788,7 @@
       }
     ],
     "property": "non_targeted_therapy_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14913015",
@@ -4857,7 +4802,7 @@
       }
     ],
     "property": "non_targeted_therapy",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2182728",
@@ -4871,7 +4816,7 @@
       }
     ],
     "property": "non_targeted_therapy_dose",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2321160",
@@ -6151,7 +6096,7 @@
       }
     ],
     "property": "non_targeted_therapy_dose_units",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2003878",
@@ -6688,7 +6633,7 @@
       }
     ],
     "property": "non_targeted_therapy_frequency",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14984532",
@@ -6702,7 +6647,7 @@
       }
     ],
     "property": "non_targeted_therapy_start_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14984563",
@@ -6716,7 +6661,7 @@
       }
     ],
     "property": "non_targeted_therapy_end_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "13383448",
@@ -6802,7 +6747,7 @@
       }
     ],
     "property": "best_response_to_non_targeted_therapy",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -6816,7 +6761,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -6830,7 +6775,7 @@
       }
     ],
     "property": "surgical_procedure_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "13383457",
@@ -6944,7 +6889,7 @@
       }
     ],
     "property": "surgical_procedure",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -6958,7 +6903,7 @@
       }
     ],
     "property": "surgical_procedure_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14980609",
@@ -6972,7 +6917,7 @@
       }
     ],
     "property": "surgical_procedure_anatomical_location",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "6765611",
@@ -7028,7 +6973,7 @@
       }
     ],
     "property": "surgical_procedure_therapeutic",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14918773",
@@ -7042,7 +6987,7 @@
       }
     ],
     "property": "surgical_procedure_findings",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "13362284",
@@ -7056,7 +7001,7 @@
       }
     ],
     "property": "extent_of_residual_disease",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -7070,7 +7015,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -7084,7 +7029,7 @@
       }
     ],
     "property": "radiological_procedure_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "6411539",
@@ -7098,7 +7043,7 @@
       }
     ],
     "property": "radiological_procedure",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -7112,7 +7057,7 @@
       }
     ],
     "property": "radiological_procedure_anatomical_location",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14986422",
@@ -7126,7 +7071,7 @@
       }
     ],
     "property": "radiation_dose",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "13383458",
@@ -7252,7 +7197,7 @@
       }
     ],
     "property": "radiation_dose_units",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14918782",
@@ -7266,7 +7211,7 @@
       }
     ],
     "property": "radiation_frequency",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "7063755",
@@ -7300,7 +7245,7 @@
       }
     ],
     "property": "radiation_extent",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14984532",
@@ -7314,7 +7259,7 @@
       }
     ],
     "property": "radiotherapy_start_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14984563",
@@ -7328,7 +7273,7 @@
       }
     ],
     "property": "radiotherapy_end_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "13383448",
@@ -7414,7 +7359,7 @@
       }
     ],
     "property": "best_response_to_radiotherapy",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -7428,7 +7373,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14822135",
@@ -7442,7 +7387,7 @@
       }
     ],
     "property": "participant_status_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "2847330",
@@ -7499,7 +7444,7 @@
       }
     ],
     "property": "survival_status",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "4783274",
@@ -8851,7 +8796,7 @@
       }
     ],
     "property": "primary_cause_of_death",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14834973",
@@ -8883,7 +8828,7 @@
       }
     ],
     "property": "off_study",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "13362265",
@@ -9024,7 +8969,7 @@
       }
     ],
     "property": "off_study_reason",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -9038,7 +8983,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14986442",
@@ -9052,7 +8997,7 @@
       }
     ],
     "property": "specimen_record_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14986443",
@@ -9122,7 +9067,7 @@
       }
     ],
     "property": "specimen_type",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "12445832",
@@ -9305,7 +9250,7 @@
       }
     ],
     "property": "specimen_category",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "12083894",
@@ -9319,7 +9264,7 @@
       }
     ],
     "property": "anatomical_collection_site",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14688604",
@@ -9369,7 +9314,7 @@
       }
     ],
     "property": "tissue_category",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "5899851",
@@ -15567,7 +15512,7 @@
       }
     ],
     "property": "assessment_timepoint",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "6642369",
@@ -15581,7 +15526,7 @@
       }
     ],
     "property": "collection_date",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": null,
@@ -15595,7 +15540,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11284037",
@@ -15609,7 +15554,7 @@
       }
     ],
     "property": "data_file_name",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14824731",
@@ -15769,7 +15714,7 @@
       }
     ],
     "property": "data_file_type",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11280338",
@@ -15783,7 +15728,7 @@
       }
     ],
     "property": "data_file_description",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11416926",
@@ -16249,7 +16194,7 @@
       }
     ],
     "property": "data_file_format",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11479876",
@@ -16263,7 +16208,7 @@
       }
     ],
     "property": "data_file_size",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11480133",
@@ -16277,7 +16222,7 @@
       }
     ],
     "property": "data_file_checksum_value",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11475057",
@@ -16305,7 +16250,7 @@
       }
     ],
     "property": "data_file_checksum_type",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11387114",
@@ -16338,7 +16283,7 @@
       }
     ],
     "property": "data_file_compression_status",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "14826100",
@@ -16352,7 +16297,7 @@
       }
     ],
     "property": "data_file_uuid",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "CDECode": "11556141",
@@ -16366,6 +16311,6 @@
       }
     ],
     "property": "data_file_location",
-    "version": "1.1.0"
+    "version": "1.2.0"
   }
 ]
