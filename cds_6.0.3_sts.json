@@ -2,7 +2,7 @@
   {
     "CDECode": "11444542",
     "CDEFullName": "Program Name Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -11,7 +11,7 @@
       }
     ],
     "property": "program_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -25,7 +25,7 @@
       }
     ],
     "property": "program_acronym",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -39,7 +39,7 @@
       }
     ],
     "property": "program_short_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -53,7 +53,7 @@
       }
     ],
     "property": "program_full_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -67,7 +67,7 @@
       }
     ],
     "property": "program_external_url",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -81,12 +81,12 @@
       }
     ],
     "property": "program_sort_order",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11459801",
     "CDEFullName": "Program Short Name Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -95,7 +95,7 @@
       }
     ],
     "property": "program_short_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -109,7 +109,7 @@
       }
     ],
     "property": "institution",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -123,7 +123,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -137,12 +137,12 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11459810",
     "CDEFullName": "Study Name",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -151,12 +151,12 @@
       }
     ],
     "property": "study_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11459812",
     "CDEFullName": "Study Short Name Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -165,7 +165,7 @@
       }
     ],
     "property": "study_acronym",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -179,7 +179,7 @@
       }
     ],
     "property": "study_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -193,7 +193,7 @@
       }
     ],
     "property": "short_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -207,7 +207,7 @@
       }
     ],
     "property": "study_external_url",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -221,7 +221,7 @@
       }
     ],
     "property": "primary_investigator_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -235,7 +235,7 @@
       }
     ],
     "property": "primary_investigator_email",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -249,7 +249,7 @@
       }
     ],
     "property": "co_investigator_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -263,7 +263,7 @@
       }
     ],
     "property": "co_investigator_email",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11524544",
@@ -277,7 +277,7 @@
       }
     ],
     "property": "phs_accession",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -291,7 +291,7 @@
       }
     ],
     "property": "bioproject_accession",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -317,7 +317,7 @@
       }
     ],
     "property": "index_date",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -331,12 +331,12 @@
       }
     ],
     "property": "cds_requestor",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11524545",
     "CDEFullName": "Funding Agency Organization Name Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -345,12 +345,12 @@
       }
     ],
     "property": "funding_agency",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11524546",
     "CDEFullName": "Funding Agency Program Name Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -359,7 +359,7 @@
       }
     ],
     "property": "funding_source_program_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3434057",
@@ -373,7 +373,7 @@
       }
     ],
     "property": "grant_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -387,7 +387,7 @@
       }
     ],
     "property": "clinical_trial_system",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14673514",
@@ -401,12 +401,12 @@
       }
     ],
     "property": "clinical_trial_identifier",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11524548",
     "CDEFullName": "Clinical Trial Treatment Arm Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -415,7 +415,7 @@
       }
     ],
     "property": "clinical_trial_arm",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "6118266",
@@ -464,7 +464,7 @@
       }
     ],
     "property": "organism_species",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11524549",
@@ -487,7 +487,7 @@
       }
     ],
     "property": "adult_or_childhood_study",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -501,7 +501,7 @@
       }
     ],
     "property": "data_types",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -515,7 +515,7 @@
       }
     ],
     "property": "file_types",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -537,7 +537,7 @@
       }
     ],
     "property": "data_access_level",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -551,7 +551,7 @@
       }
     ],
     "property": "cds_primary_bucket",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -565,7 +565,7 @@
       }
     ],
     "property": "cds_secondary_bucket",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -579,7 +579,7 @@
       }
     ],
     "property": "cds_tertiary_bucket",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11555662",
@@ -593,7 +593,7 @@
       }
     ],
     "property": "number_of_participants",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11555663",
@@ -607,14 +607,18 @@
       }
     ],
     "property": "number_of_samples",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
-    "CDECode": "12571096",
+    "CDECode": "14824731",
     "CDEFullName": "Data Collection Scientific Data Type Category",
     "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Genomics"
+      },
       {
         "synonyms": [
           "radiology orderable",
@@ -630,15 +634,140 @@
       },
       {
         "synonyms": [],
-        "value": "Genomics"
+        "value": "Proteomics"
       },
       {
         "synonyms": [],
-        "value": "Proteomics"
+        "value": "Image Annotation"
+      },
+      {
+        "synonyms": [
+          "Scientific Publication"
+        ],
+        "value": "Publication"
+      },
+      {
+        "synonyms": [
+          "Supplemental Data File"
+        ],
+        "value": "Supplemental"
+      },
+      {
+        "synonyms": [
+          "Sequencing Data"
+        ],
+        "value": "Sequence Data"
+      },
+      {
+        "synonyms": [
+          "Slide Image"
+        ],
+        "value": "Pathology Imaging"
+      },
+      {
+        "synonyms": [
+          "Image File"
+        ],
+        "value": "Radiology Imaging"
+      },
+      {
+        "synonyms": [
+          "Transcriptomics"
+        ],
+        "value": "Transcriptome Profiling"
+      },
+      {
+        "synonyms": [],
+        "value": "Gene Expression Analysis"
+      },
+      {
+        "synonyms": [
+          "Nuclear sap",
+          "Karyoplasm",
+          "Chromatin (substance)"
+        ],
+        "value": "Chromatin"
+      },
+      {
+        "synonyms": [
+          "Research or Clinical Assessment Tool"
+        ],
+        "value": "Clinical Measure Instrument"
+      },
+      {
+        "synonyms": [
+          "Copy Number Variation Assessment"
+        ],
+        "value": "Copy Number Variation"
+      },
+      {
+        "synonyms": [
+          "Mass Spectrometry Data"
+        ],
+        "value": "Mass Spectrometry"
+      },
+      {
+        "synonyms": [],
+        "value": "Methylation Analysis"
+      },
+      {
+        "synonyms": [
+          "Microarray Data"
+        ],
+        "value": "Microarray"
+      },
+      {
+        "synonyms": [
+          "Population Science Data"
+        ],
+        "value": "Population Science"
+      },
+      {
+        "synonyms": [],
+        "value": "Protein Expression"
+      },
+      {
+        "synonyms": [],
+        "value": "Proteomic Profile"
+      },
+      {
+        "synonyms": [
+          "qc",
+          "quality control"
+        ],
+        "value": "Quality Control"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Reported"
+      },
+      {
+        "synonyms": [],
+        "value": "Archive"
+      },
+      {
+        "synonyms": [
+          "congenital chromosomal abnormality",
+          "congenital chromosomal disease",
+          "anomaly of chromosome",
+          "Cytogenetic Abnormality"
+        ],
+        "value": "Genomic Structural Variation"
+      },
+      {
+        "synonyms": [],
+        "value": "Biospecimen"
+      },
+      {
+        "synonyms": [
+          "Clinical data",
+          "Clinical Data"
+        ],
+        "value": "Clinical"
       }
     ],
     "property": "study_data_types",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -652,7 +781,7 @@
       }
     ],
     "property": "file_types_and_format",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -666,12 +795,12 @@
       }
     ],
     "property": "size_of_data_being_uploaded",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11555664",
     "CDEFullName": "Electronic Data File Access Level Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -680,7 +809,7 @@
       }
     ],
     "property": "acl",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -698,7 +827,7 @@
       }
     ],
     "property": "study_access",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -712,7 +841,7 @@
       }
     ],
     "property": "authz",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -726,7 +855,7 @@
       }
     ],
     "property": "study_version",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2201713",
@@ -1448,7 +1577,7 @@
       }
     ],
     "property": "role_or_affiliation",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2663165",
@@ -1536,7 +1665,7 @@
       }
     ],
     "property": "title",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2179589",
@@ -1550,7 +1679,7 @@
       }
     ],
     "property": "first_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2179590",
@@ -1564,7 +1693,7 @@
       }
     ],
     "property": "middle_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2179591",
@@ -1578,7 +1707,7 @@
       }
     ],
     "property": "last_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2006475",
@@ -1627,7 +1756,7 @@
       }
     ],
     "property": "suffix",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2517550",
@@ -1641,7 +1770,7 @@
       }
     ],
     "property": "email",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -1655,7 +1784,7 @@
       }
     ],
     "property": "clinical_trial_repository",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -1669,7 +1798,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -1683,7 +1812,7 @@
       }
     ],
     "property": "study_participant_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12220014",
@@ -1697,7 +1826,7 @@
       }
     ],
     "property": "participant_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2192199",
@@ -1777,120 +1906,7 @@
       }
     ],
     "property": "race",
-    "version": "5.0.0"
-  },
-  {
-    "CDECode": "2200604",
-    "CDEFullName": "Person Gender Text Type",
-    "CDEVersion": "3.00",
-    "dataCommons": "CDS",
-    "permissibleValues": [
-      {
-        "synonyms": [
-          "Intersex (finding)"
-        ],
-        "value": "Intersex"
-      },
-      {
-        "synonyms": [],
-        "value": "Not Reported"
-      },
-      {
-        "synonyms": [
-          "Female Gender"
-        ],
-        "value": "Female"
-      },
-      {
-        "synonyms": [
-          "Not specified",
-          "Non-specific",
-          "Non-specified",
-          "Non-specific (qualifier value)"
-        ],
-        "value": "Unspecified"
-      },
-      {
-        "synonyms": [
-          "Male Gender"
-        ],
-        "value": "Male"
-      },
-      {
-        "synonyms": [
-          "Unk",
-          "Not known",
-          "Unknown (qualifier value)",
-          "NOS, unknown",
-          "? = Unknown",
-          "unknown"
-        ],
-        "value": "Unknown"
-      }
-    ],
-    "property": "gender",
-    "version": "5.0.0"
-  },
-  {
-    "CDECode": "2192217",
-    "CDEFullName": "Ethnic Group Category Text",
-    "CDEVersion": "2.00",
-    "dataCommons": "CDS",
-    "permissibleValues": [
-      {
-        "synonyms": [
-          "Not Allowed To Collect"
-        ],
-        "value": "Not allowed to collect"
-      },
-      {
-        "synonyms": [
-          "Unk",
-          "Not known",
-          "Unknown (qualifier value)",
-          "NOS, unknown",
-          "? = Unknown",
-          "unknown"
-        ],
-        "value": "Unknown"
-      },
-      {
-        "synonyms": [
-          "Not Reported"
-        ],
-        "value": "Not reported"
-      },
-      {
-        "synonyms": [
-          "Non-Hispanic or Latino",
-          "Not hispanic or latino"
-        ],
-        "value": "Not Hispanic or Latino"
-      },
-      {
-        "synonyms": [
-          "Hispanic origin",
-          "Hispanic"
-        ],
-        "value": "Hispanic or Latino"
-      }
-    ],
-    "property": "ethnicity",
-    "version": "5.0.0"
-  },
-  {
-    "CDECode": "14940691",
-    "CDEFullName": "Research Activity dbGaP Subject Identifier Text",
-    "CDEVersion": "1.00",
-    "dataCommons": "CDS",
-    "permissibleValues": [
-      {
-        "synonyms": [],
-        "value": null
-      }
-    ],
-    "property": "dbGaP_subject_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7572817",
@@ -1898,6 +1914,28 @@
     "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
+      {
+        "synonyms": [
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
+          "Cousin (person)",
+          "Cousin",
+          "Female Cousin"
+        ],
+        "value": "Female"
+      },
+      {
+        "synonyms": [
+          "M",
+          "Cousin (person)",
+          "Cousin",
+          "Male Cousin"
+        ],
+        "value": "Male"
+      },
       {
         "synonyms": [
           "Gender Identifier X"
@@ -1948,26 +1986,71 @@
           "unknown"
         ],
         "value": "Unknown"
-      },
-      {
-        "synonyms": [
-          "Female structure",
-          "Female individual",
-          "Female (finding)",
-          "Female structure (body structure)",
-          "female"
-        ],
-        "value": "Female"
-      },
-      {
-        "synonyms": [
-          "M"
-        ],
-        "value": "Male"
       }
     ],
     "property": "sex",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": "2192217",
+    "CDEFullName": "Ethnic Group Category Text",
+    "CDEVersion": "2.00",
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [
+          "Not Allowed To Collect"
+        ],
+        "value": "Not allowed to collect"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not reported"
+      },
+      {
+        "synonyms": [
+          "Non-Hispanic or Latino",
+          "Not hispanic or latino"
+        ],
+        "value": "Not Hispanic or Latino"
+      },
+      {
+        "synonyms": [
+          "Hispanic origin",
+          "Hispanic"
+        ],
+        "value": "Hispanic or Latino"
+      }
+    ],
+    "property": "ethnicity",
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": "14940691",
+    "CDEFullName": "Research Activity dbGaP Subject Identifier Text",
+    "CDEVersion": "1.00",
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "dbGaP_subject_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -1981,7 +2064,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -1995,7 +2078,7 @@
       }
     ],
     "property": "study_diagnosis_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -2009,7 +2092,7 @@
       }
     ],
     "property": "diagnosis_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "13471160",
@@ -2691,7 +2774,7 @@
       }
     ],
     "property": "disease_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2847330",
@@ -2748,7 +2831,7 @@
       }
     ],
     "property": "vital_status",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14905532",
@@ -2758,7 +2841,7 @@
     "permissibleValues": [
       {
         "synonyms": [],
-        "value": "Dysembryoplastic Neuroepithelial Tumor, Low-Grade Glioma, Polymorphous Low-Grade Neuroepithelial Tumor Of The Young"
+        "value": "Mesoblastic Nephroma"
       },
       {
         "synonyms": [],
@@ -5758,6 +5841,14 @@
       },
       {
         "synonyms": [],
+        "value": "Dysembryoplastic Neuroepithelial Tumor, Low-Grade Glioma, Polymorphous Low-Grade Neuroepithelial Tumor Of The Young"
+      },
+      {
+        "synonyms": [],
+        "value": "Head and Neck Squamous Cell Carcinoma"
+      },
+      {
+        "synonyms": [],
         "value": "Astroblastoma, Other, Other CNS Tumor, NOS Or NEC"
       },
       {
@@ -5947,14 +6038,10 @@
       {
         "synonyms": [],
         "value": "Adamantinomatous Craniopharyngioma"
-      },
-      {
-        "synonyms": [],
-        "value": "Mesoblastic Nephroma"
       }
     ],
     "property": "primary_diagnosis",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14883047",
@@ -6948,7 +7035,7 @@
       }
     ],
     "property": "primary_site",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "10609539",
@@ -6962,14 +7049,51 @@
       }
     ],
     "property": "age_at_diagnosis",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11325685",
     "CDEFullName": "Diagnosis Tumor Grade",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
+      {
+        "synonyms": [
+          "AJCC (American Joint Committee on Cancer) G4",
+          "American Joint Committee on Cancer grade G4",
+          "G4",
+          "American Joint Committee on Cancer grade G4 (qualifier value)",
+          "Undifferentiated (G4)",
+          "G4: undifferentiated",
+          "Tumour grade G4",
+          "Tumor grade G4",
+          "G4 grade (finding)",
+          "G4 grade"
+        ],
+        "value": "G4 Anaplastic"
+      },
+      {
+        "synonyms": [
+          "Grade 1 (qualifier value)",
+          "Grade I",
+          "Grade 1",
+          "Well differentiated (G1)"
+        ],
+        "value": "G1 Low Grade"
+      },
+      {
+        "synonyms": [],
+        "value": "G2 Intermediate Grade"
+      },
+      {
+        "synonyms": [
+          "AJCC (American Joint Committee on Cancer) G3",
+          "American Joint Committee on Cancer grade G3",
+          "G3",
+          "American Joint Committee on Cancer grade G3 (qualifier value)"
+        ],
+        "value": "G3 High Grade"
+      },
       {
         "synonyms": [
           "Unk",
@@ -6987,26 +7111,6 @@
       },
       {
         "synonyms": [
-          "AJCC (American Joint Committee on Cancer) GB",
-          "American Joint Committee on Cancer grade GB (qualifier value)",
-          "American Joint Committee on Cancer grade GB",
-          "Grade B"
-        ],
-        "value": "GB"
-      },
-      {
-        "synonyms": [
-          "G4: Undifferentiated histologic grade (qualifier value)",
-          "G4: Undifferentiated",
-          "G4: Undifferentiated histologic grade",
-          "Undifferentiated (qualifier value)",
-          "Anaplastic",
-          "Undifferentiated"
-        ],
-        "value": "G4"
-      },
-      {
-        "synonyms": [
           "Does not apply",
           "NA",
           "Not applicable",
@@ -7019,76 +7123,28 @@
       },
       {
         "synonyms": [
-          "AJCC (American Joint Committee on Cancer) LG",
-          "American Joint Committee on Cancer grade LG (qualifier value)",
-          "LG",
-          "American Joint Committee on Cancer grade LG",
-          "Low grade",
-          "low grade"
-        ],
-        "value": "Low Grade"
-      },
-      {
-        "synonyms": [],
-        "value": "Intermediate Grade"
-      },
-      {
-        "synonyms": [
-          "AJCC (American Joint Committee on Cancer) HG",
-          "American Joint Committee on Cancer grade HG",
-          "HG",
-          "American Joint Committee on Cancer grade HG (qualifier value)",
-          "high grade"
-        ],
-        "value": "High Grade"
-      },
-      {
-        "synonyms": [
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
+          "GX",
           "American Joint Committee on Cancer grade GX",
           "Grade cannot be assessed (GX)",
           "Grade X"
         ],
-        "value": "GX"
+        "value": "GX Grade Cannot Be Assessed"
       },
       {
         "synonyms": [
-          "Poorly differentiated (qualifier value)",
-          "Poorly differentiated",
-          "Poorly Differentiated"
+          "AJCC (American Joint Committee on Cancer) GB",
+          "American Joint Committee on Cancer grade GB (qualifier value)",
+          "GB",
+          "American Joint Committee on Cancer grade GB",
+          "Grade B"
         ],
-        "value": "G3"
-      },
-      {
-        "synonyms": [
-          "Moderately differentiated",
-          "Moderately differentiated (qualifier value)",
-          "Moderately Differentiated"
-        ],
-        "value": "G2"
-      },
-      {
-        "synonyms": [
-          "G1 stage",
-          "G1 grade",
-          "G1 grade (finding)",
-          "G1: well differentiated",
-          "Tumour grade G1",
-          "Tumor grade G1",
-          "G1: Well differentiated histologic grade (qualifier value)",
-          "G1: Well differentiated",
-          "G1: Well differentiated histologic grade",
-          "Differentiated",
-          "Well differentiated (qualifier value)",
-          "Well differentiated",
-          "Well Differentiated"
-        ],
-        "value": "G1"
+        "value": "GB Borderline"
       }
     ],
     "property": "tumor_grade",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3440331",
@@ -7164,7 +7220,7 @@
       }
     ],
     "property": "tumor_stage_clinical_m",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3440330",
@@ -7343,7 +7399,7 @@
       }
     ],
     "property": "tumor_stage_clinical_n",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3440328",
@@ -7617,7 +7673,7 @@
       }
     ],
     "property": "tumor_stage_clinical_t",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14714127",
@@ -7631,7 +7687,7 @@
       }
     ],
     "property": "morphology",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -7665,23 +7721,29 @@
       }
     ],
     "property": "incidence_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "13529783",
     "CDEFullName": "Disease Progression Or Recurrence Indicator",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
+      {
+        "synonyms": [
+          "Censored Data"
+        ],
+        "value": "Censored"
+      },
+      {
+        "synonyms": [],
+        "value": "No"
+      },
       {
         "synonyms": [
           "Not Allowed To Collect"
         ],
         "value": "Not Allowed to Collect"
-      },
-      {
-        "synonyms": [],
-        "value": "Not Reported"
       },
       {
         "synonyms": [
@@ -7696,6 +7758,10 @@
         "value": "Not Applicable"
       },
       {
+        "synonyms": [],
+        "value": "Not Reported"
+      },
+      {
         "synonyms": [
           "Unk",
           "Not known",
@@ -7707,10 +7773,6 @@
         "value": "Unknown"
       },
       {
-        "synonyms": [],
-        "value": "No"
-      },
-      {
         "synonyms": [
           "Yes (qualifier value)",
           "yes"
@@ -7719,12 +7781,12 @@
       }
     ],
     "property": "progression_or_recurrence",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12432576",
     "CDEFullName": "Subject First Treatment Date To Recurrence Day Count",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -7733,7 +7795,7 @@
       }
     ],
     "property": "days_to_recurrence",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12426616",
@@ -7747,7 +7809,7 @@
       }
     ],
     "property": "days_to_last_followup",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12447172",
@@ -7825,7 +7887,7 @@
       }
     ],
     "property": "last_known_disease_status",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -7839,7 +7901,7 @@
       }
     ],
     "property": "days_to_last_known_status",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14883058",
@@ -10305,7 +10367,7 @@
       }
     ],
     "property": "tissue_or_organ_of_origin",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14883054",
@@ -12771,12 +12833,12 @@
       }
     ],
     "property": "site_of_resection_or_biopsy",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12447170",
     "CDEFullName": "Subject Initial Cancer Diagnosis To Last Known Disease Status Day Count",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -12785,7 +12847,7 @@
       }
     ],
     "property": "days_to_last_known_disease_status",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -12799,7 +12861,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -12813,7 +12875,7 @@
       }
     ],
     "property": "treatment_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14737565",
@@ -13110,7 +13172,7 @@
       }
     ],
     "property": "treatment_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12305542",
@@ -13124,7 +13186,7 @@
       }
     ],
     "property": "days_to_treatment",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14913015",
@@ -31034,7 +31096,7 @@
       }
     ],
     "property": "therapeutic_agents",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "13383448",
@@ -31110,17 +31172,17 @@
       },
       {
         "synonyms": [
+          "partial response",
           "Partial response",
           "In partial remission",
           "In partial remission (qualifier value)",
-          "partial response",
           "Partial Remission"
         ],
         "value": "Partial Response"
       }
     ],
     "property": "response",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -31134,7 +31196,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "6921892",
@@ -31148,7 +31210,7 @@
       }
     ],
     "property": "sample_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11253427",
@@ -31202,7 +31264,7 @@
       }
     ],
     "property": "sample_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2003907",
@@ -31216,7 +31278,7 @@
       }
     ],
     "property": "sample_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12445832",
@@ -31399,7 +31461,7 @@
       }
     ],
     "property": "sample_type_category",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14688604",
@@ -31449,7 +31511,7 @@
       }
     ],
     "property": "sample_tumor_status",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12083894",
@@ -32827,12 +32889,12 @@
       }
     ],
     "property": "sample_anatomic_site",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14473376",
     "CDEFullName": "Subject Age At Specimen Collection Day Count",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32841,7 +32903,7 @@
       }
     ],
     "property": "sample_age_at_collection",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "5581201",
@@ -32855,7 +32917,7 @@
       }
     ],
     "property": "derived_from_specimen",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2230047",
@@ -32869,7 +32931,7 @@
       }
     ],
     "property": "biosample_accession",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -32883,7 +32945,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -32897,12 +32959,12 @@
       }
     ],
     "property": "file_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11284037",
     "CDEFullName": "Electronic Data File Name",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -32911,7 +32973,7 @@
       }
     ],
     "property": "file_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11416926",
@@ -33377,7 +33439,7 @@
       }
     ],
     "property": "file_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11280338",
@@ -33391,7 +33453,7 @@
       }
     ],
     "property": "file_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11479876",
@@ -33405,12 +33467,12 @@
       }
     ],
     "property": "file_size",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11556150",
     "CDEFullName": "Electronic Data File MD5 Checksum Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33419,12 +33481,12 @@
       }
     ],
     "property": "md5sum",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11556141",
     "CDEFullName": "Electronic File Pathname Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33433,14 +33495,20 @@
       }
     ],
     "property": "file_url_in_cds",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12373576",
     "CDEFullName": "Research Activity Experimental Method Type",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
+      {
+        "synonyms": [
+          "Liquid Chromatography/Tandem Mass Spectrometry"
+        ],
+        "value": "LC-MS/MS"
+      },
       {
         "synonyms": [],
         "value": "Methylation Analysis"
@@ -33474,43 +33542,19 @@
       },
       {
         "synonyms": [
-          "Bisulfite Sequencing"
-        ],
-        "value": "Bisulfite-Seq"
-      },
-      {
-        "synonyms": [
-          "Whole Genome Amplification"
-        ],
-        "value": "WGA"
-      },
-      {
-        "synonyms": [
           "Pathologic Examination"
         ],
         "value": "Pathological"
       },
       {
         "synonyms": [
-          "Whole Exome Sequencing"
-        ],
-        "value": "WXS"
-      },
-      {
-        "synonyms": [
           "Whole Transcriptome Sequencing"
         ],
         "value": "RNA-Seq"
-      },
-      {
-        "synonyms": [
-          "Single Cell RNA Sequencing"
-        ],
-        "value": "scRNA-Seq"
       }
     ],
     "property": "experimental_strategy_and_data_subtypes",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -33524,7 +33568,7 @@
       }
     ],
     "property": "submission_version",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -33538,7 +33582,7 @@
       }
     ],
     "property": "checksum_value",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -33552,7 +33596,7 @@
       }
     ],
     "property": "checksum_algorithm",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11595478",
@@ -33578,7 +33622,35 @@
       }
     ],
     "property": "file_mapping_level",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "release_datetime",
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "is_supplementary_file",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -33592,7 +33664,7 @@
       }
     ],
     "property": "crdc_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -33606,7 +33678,7 @@
       }
     ],
     "property": "genomic_info_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11555660",
@@ -33620,7 +33692,7 @@
       }
     ],
     "property": "library_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12373573",
@@ -33634,7 +33706,7 @@
       }
     ],
     "property": "bases",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11529035",
@@ -33648,7 +33720,7 @@
       }
     ],
     "property": "number_of_reads",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12426615",
@@ -33662,7 +33734,7 @@
       }
     ],
     "property": "avg_read_length",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11556322",
@@ -33738,12 +33810,12 @@
       }
     ],
     "property": "coverage",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11529031",
     "CDEFullName": "Genome Assembly NCBI Genetic Reference Sequence Identifier",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -33752,7 +33824,7 @@
       }
     ],
     "property": "reference_genome_assembly",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11636299",
@@ -33766,7 +33838,7 @@
       }
     ],
     "property": "custom_assembly_fasta_file_for_alignment",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11529028",
@@ -33780,14 +33852,20 @@
       }
     ],
     "property": "design_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "6273393",
     "CDEFullName": "Sequencing Library Technique Type",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
+      {
+        "synonyms": [
+          "Single Cell RNA Sequencing"
+        ],
+        "value": "scRNA-Seq"
+      },
       {
         "synonyms": [
           "Spatial Transcriptome Analysis"
@@ -33802,15 +33880,39 @@
       },
       {
         "synonyms": [
-          "DNA Sequencing"
-        ],
-        "value": "DNA-Seq"
-      },
-      {
-        "synonyms": [
           "Single Nucleus ATAC-Seq"
         ],
         "value": "snATAC-Seq"
+      },
+      {
+        "synonyms": [
+          "Concatenated Tag Sequencing"
+        ],
+        "value": "CTS"
+      },
+      {
+        "synonyms": [
+          "DNase-Seq"
+        ],
+        "value": "DNase-Hypersensitivity"
+      },
+      {
+        "synonyms": [
+          "EST Library"
+        ],
+        "value": "EST"
+      },
+      {
+        "synonyms": [
+          "FAIRE-Seq"
+        ],
+        "value": "FAIRE-seq"
+      },
+      {
+        "synonyms": [
+          "Finish Sequencing"
+        ],
+        "value": "FINISHING"
       },
       {
         "synonyms": [
@@ -33877,12 +33979,6 @@
           "Direct Sequencing of RNA Immunoprecipitates"
         ],
         "value": "RIP-Seq"
-      },
-      {
-        "synonyms": [
-          "Whole Transcriptome Sequencing"
-        ],
-        "value": "RNA-Seq"
       },
       {
         "synonyms": [
@@ -33991,40 +34087,10 @@
           "Other (qualifier value)"
         ],
         "value": "Other"
-      },
-      {
-        "synonyms": [
-          "Concatenated Tag Sequencing"
-        ],
-        "value": "CTS"
-      },
-      {
-        "synonyms": [
-          "DNase-Seq"
-        ],
-        "value": "DNase-Hypersensitivity"
-      },
-      {
-        "synonyms": [
-          "EST Library"
-        ],
-        "value": "EST"
-      },
-      {
-        "synonyms": [
-          "FAIRE-Seq"
-        ],
-        "value": "FAIRE-seq"
-      },
-      {
-        "synonyms": [
-          "Finish Sequencing"
-        ],
-        "value": "FINISHING"
       }
     ],
     "property": "library_strategy",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11527735",
@@ -34046,118 +34112,17 @@
       }
     ],
     "property": "library_layout",
-    "version": "5.0.0"
-  },
-  {
-    "CDECode": "6285979",
-    "CDEFullName": "Sequencing Library Specimen Source",
-    "CDEVersion": "1.00",
-    "dataCommons": "CDS",
-    "permissibleValues": [
-      {
-        "synonyms": [],
-        "value": "Not Reported"
-      },
-      {
-        "synonyms": [
-          "Ribonucleic acid (substance)",
-          "RNA - Ribonucleic acid",
-          "Ribonucleic acid",
-          "Ribonucleic Acid"
-        ],
-        "value": "RNA"
-      },
-      {
-        "synonyms": [
-          "Bulk Cell Specimen"
-        ],
-        "value": "Bulk cells"
-      },
-      {
-        "synonyms": [
-          "Bulk Nucleus Specimen"
-        ],
-        "value": "Bulk nuclei"
-      },
-      {
-        "synonyms": [
-          "Bulk Tissue Specimen"
-        ],
-        "value": "Bulk tissue"
-      },
-      {
-        "synonyms": [
-          "Single Cell Specimen"
-        ],
-        "value": "Single-cells"
-      },
-      {
-        "synonyms": [
-          "Single Nucleus Specimen"
-        ],
-        "value": "Single-nuclei"
-      },
-      {
-        "synonyms": [],
-        "value": "Genomic Single Cell"
-      },
-      {
-        "synonyms": [],
-        "value": "Genomic DNA"
-      },
-      {
-        "synonyms": [
-          "Other (qualifier value)",
-          "Source",
-          "Source (property)",
-          "Source (property) (qualifier value)",
-          "Source (attribute)",
-          "Sequencing Library"
-        ],
-        "value": "Other"
-      },
-      {
-        "synonyms": [],
-        "value": "Transcriptomic"
-      },
-      {
-        "synonyms": [],
-        "value": "Metagenomic"
-      },
-      {
-        "synonyms": [],
-        "value": "Metatranscriptomic"
-      },
-      {
-        "synonyms": [],
-        "value": "Synthetic"
-      },
-      {
-        "synonyms": [
-          "Viral Small RNA"
-        ],
-        "value": "Viral RNA"
-      },
-      {
-        "synonyms": [],
-        "value": "Transcriptomic Single Cell"
-      }
-    ],
-    "property": "library_source",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "6347743",
     "CDEFullName": "Sequencing Library Creation Method Type",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [
-          "RNA polyadenylation",
-          "RNA Polyadenylation"
-        ],
-        "value": "PolyA"
+        "synonyms": [],
+        "value": "Poly-A Enriched Genomic Library"
       },
       {
         "synonyms": [
@@ -34186,12 +34151,6 @@
       },
       {
         "synonyms": [
-          "Poly-A Enriched Genomic Library"
-        ],
-        "value": "Poly-T Enrichment"
-      },
-      {
-        "synonyms": [
           "rRNA Depleted Genomic Library"
         ],
         "value": "rRNA Depletion"
@@ -34203,50 +34162,38 @@
         "value": "miRNA Size Fractionation"
       },
       {
-        "synonyms": [],
-        "value": "Random"
+        "synonyms": [
+          "Other (qualifier value)",
+          "Method (attribute)",
+          "Method",
+          "Sequencing Library"
+        ],
+        "value": "Other"
       },
       {
         "synonyms": [
-          "PCR (polymerase chain reaction) technique",
-          "Polymerase chain reaction technique (qualifier value)",
-          "Polymerase chain reaction technique",
-          "Polymerase chain reaction",
-          "Polymerase Chain Reaction"
+          "Complementary deoxyribonucleic acid",
+          "Complementary deoxyribonucleic acid (substance)",
+          "Copy DNA",
+          "Complementary DNA"
         ],
-        "value": "PCR"
+        "value": "cDNA"
       },
       {
         "synonyms": [],
-        "value": "Random PCR"
-      },
-      {
-        "synonyms": [
-          "Reverse Transcriptase-Polymerase Chain Reaction"
-        ],
-        "value": "RT-PCR"
+        "value": "CF-H"
       },
       {
         "synonyms": [],
-        "value": "HMPR"
+        "value": "CF-T"
       },
       {
         "synonyms": [],
-        "value": "MF"
+        "value": "MDA"
       },
       {
         "synonyms": [],
-        "value": "CF-S"
-      },
-      {
-        "synonyms": [],
-        "value": "CF-M"
-      },
-      {
-        "synonyms": [
-          "Chromatin Immunoprecipitation"
-        ],
-        "value": "ChIP"
+        "value": "MSLL"
       },
       {
         "synonyms": [
@@ -34323,45 +34270,53 @@
       },
       {
         "synonyms": [],
-        "value": "Oligo-dT"
-      },
-      {
-        "synonyms": [],
-        "value": "CF-H"
-      },
-      {
-        "synonyms": [],
-        "value": "CF-T"
-      },
-      {
-        "synonyms": [],
-        "value": "MDA"
-      },
-      {
-        "synonyms": [],
-        "value": "MSLL"
+        "value": "Random"
       },
       {
         "synonyms": [
-          "Other (qualifier value)",
-          "Method (attribute)",
-          "Method",
-          "Sequencing Library"
+          "PCR (polymerase chain reaction) technique",
+          "Polymerase chain reaction technique (qualifier value)",
+          "Polymerase chain reaction technique",
+          "Polymerase chain reaction",
+          "Polymerase Chain Reaction"
         ],
-        "value": "Other"
+        "value": "PCR"
+      },
+      {
+        "synonyms": [],
+        "value": "Random PCR"
       },
       {
         "synonyms": [
-          "Complementary deoxyribonucleic acid",
-          "Complementary deoxyribonucleic acid (substance)",
-          "Copy DNA",
-          "Complementary DNA"
+          "Reverse Transcriptase-Polymerase Chain Reaction"
         ],
-        "value": "cDNA"
+        "value": "RT-PCR"
+      },
+      {
+        "synonyms": [],
+        "value": "HMPR"
+      },
+      {
+        "synonyms": [],
+        "value": "MF"
+      },
+      {
+        "synonyms": [],
+        "value": "CF-S"
+      },
+      {
+        "synonyms": [],
+        "value": "CF-M"
+      },
+      {
+        "synonyms": [
+          "Chromatin Immunoprecipitation"
+        ],
+        "value": "ChIP"
       }
     ],
     "property": "library_selection",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "6347771",
@@ -34437,7 +34392,7 @@
       }
     ],
     "property": "platform",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11529028",
@@ -34451,12 +34406,12 @@
       }
     ],
     "property": "instrument_model",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11529072",
     "CDEFullName": "Nucleotide Sequence Alignment Software Name Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -34465,7 +34420,7 @@
       }
     ],
     "property": "sequence_alignment_software",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -34479,7 +34434,7 @@
       }
     ],
     "property": "reporter_label",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -34493,10 +34448,10 @@
       }
     ],
     "property": "methylation_platform",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
-    "CDECode": "14808227",
+    "CDECode": "15235975",
     "CDEFullName": "Sequencing Library Cellular Material Source",
     "CDEVersion": "1.00",
     "dataCommons": "CDS",
@@ -34506,6 +34461,18 @@
           "Bulk Cell Specimen"
         ],
         "value": "Bulk Cells"
+      },
+      {
+        "synonyms": [
+          "Bulk Tissue Specimen"
+        ],
+        "value": "Bulk Tissue"
+      },
+      {
+        "synonyms": [
+          "Bulk Nucleus Specimen"
+        ],
+        "value": "Bulk Nuclei"
       },
       {
         "synonyms": [
@@ -34522,42 +34489,24 @@
       {
         "synonyms": [],
         "value": "Not Reported"
-      },
-      {
-        "synonyms": [
-          "Bulk Tissue Specimen"
-        ],
-        "value": "Bulk Tissue"
-      },
-      {
-        "synonyms": [
-          "Bulk Nucleus Specimen"
-        ],
-        "value": "Bulk Nuclei"
       }
     ],
     "property": "library_source_material",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
-    "CDECode": "14808232",
+    "CDECode": "15235981",
     "CDEFullName": "Sequencing Library Molecule Source",
     "CDEVersion": "1.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
         "synonyms": [],
-        "value": "Viral RNA"
+        "value": "Transcriptome"
       },
       {
         "synonyms": [],
         "value": "Not Reported"
-      },
-      {
-        "synonyms": [
-          "Transcriptomics"
-        ],
-        "value": "Transcriptomic"
       },
       {
         "synonyms": [],
@@ -34570,10 +34519,28 @@
       {
         "synonyms": [],
         "value": "Genomic DNA"
+      },
+      {
+        "synonyms": [],
+        "value": "Viral RNA"
       }
     ],
     "property": "library_source_molecule",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -34587,7 +34554,7 @@
       }
     ],
     "property": "study_link_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14607284",
@@ -34628,7 +34595,7 @@
       }
     ],
     "property": "de_identification_method_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612655",
@@ -34642,7 +34609,7 @@
       }
     ],
     "property": "de_identification_method_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612658",
@@ -34656,7 +34623,7 @@
       }
     ],
     "property": "de_identification_software",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14902606",
@@ -34682,7 +34649,7 @@
       }
     ],
     "property": "license",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7787673",
@@ -34696,7 +34663,7 @@
       }
     ],
     "property": "citation_or_DOI",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "10543100",
@@ -34710,7 +34677,7 @@
       }
     ],
     "property": "species",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12137353",
@@ -35503,7 +35470,7 @@
       }
     ],
     "property": "image_modality",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2866141",
@@ -35517,7 +35484,7 @@
       }
     ],
     "property": "imaging_equipment_manufacturer",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2413274",
@@ -35531,7 +35498,7 @@
       }
     ],
     "property": "imaging_equipment_model",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2413278",
@@ -35544,8 +35511,8 @@
         "value": null
       }
     ],
-    "property": "imaging_sofware",
-    "version": "5.0.0"
+    "property": "imaging_software",
+    "version": "6.0.3"
   },
   {
     "CDECode": "7787673",
@@ -35559,7 +35526,7 @@
       }
     ],
     "property": "imaging_protocol",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "6161035",
@@ -39642,7 +39609,7 @@
       }
     ],
     "property": "organ_or_tissue",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14617551",
@@ -39656,7 +39623,7 @@
       }
     ],
     "property": "performed_imaging_study_typeCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14670294",
@@ -39676,7 +39643,7 @@
       }
     ],
     "property": "longitudinal_temporal_event_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612661",
@@ -39690,7 +39657,21 @@
       }
     ],
     "property": "longitudinal_temporal_event_offset",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -39704,7 +39685,7 @@
       }
     ],
     "property": "MultiplexMicroscopy_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "6626651",
@@ -39925,7 +39906,7 @@
       }
     ],
     "property": "acquisition_method_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3288124",
@@ -40196,7 +40177,7 @@
       }
     ],
     "property": "tumor_tissue_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "65078",
@@ -40365,7 +40346,7 @@
       }
     ],
     "property": "tissue_fixative",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "8037927",
@@ -40409,7 +40390,7 @@
       }
     ],
     "property": "embedding_medium",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7789196",
@@ -40519,7 +40500,7 @@
       }
     ],
     "property": "staining_method",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788935",
@@ -40533,7 +40514,7 @@
       }
     ],
     "property": "objective",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788940",
@@ -40547,7 +40528,7 @@
       }
     ],
     "property": "nominal_magnification",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "8058286",
@@ -40606,7 +40587,7 @@
       }
     ],
     "property": "immersion",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788942",
@@ -40620,7 +40601,7 @@
       }
     ],
     "property": "lens_numerical_aperture",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788943",
@@ -40634,7 +40615,7 @@
       }
     ],
     "property": "working_distance",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7789196",
@@ -40744,7 +40725,7 @@
       }
     ],
     "property": "imaging_assay_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788945",
@@ -40769,7 +40750,7 @@
       }
     ],
     "property": "pyramid",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788945",
@@ -40794,7 +40775,7 @@
       }
     ],
     "property": "physical_size_x",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7786585",
@@ -40808,7 +40789,7 @@
       }
     ],
     "property": "physical_size_y",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7786586",
@@ -40822,7 +40803,7 @@
       }
     ],
     "property": "physical_size_z",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7794859",
@@ -40836,7 +40817,7 @@
       }
     ],
     "property": "size_c",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7794860",
@@ -40850,7 +40831,7 @@
       }
     ],
     "property": "size_t",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788567",
@@ -40871,7 +40852,7 @@
       }
     ],
     "property": "size_x",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788568",
@@ -40892,7 +40873,7 @@
       }
     ],
     "property": "size_y",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788569",
@@ -40913,7 +40894,7 @@
       }
     ],
     "property": "size_z",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7787678",
@@ -40927,12 +40908,12 @@
       }
     ],
     "property": "channel_metadata_filename",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "11556141",
     "CDEFullName": "Electronic File Pathname Text",
-    "CDEVersion": "1.00",
+    "CDEVersion": "2.00",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -40941,7 +40922,7 @@
       }
     ],
     "property": "channel_metadata_file_url_in_cds",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765171",
@@ -40955,7 +40936,7 @@
       }
     ],
     "property": "channel_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765172",
@@ -40969,7 +40950,7 @@
       }
     ],
     "property": "channel_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765176",
@@ -40983,7 +40964,7 @@
       }
     ],
     "property": "cycle_number",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765180",
@@ -40997,7 +40978,7 @@
       }
     ],
     "property": "sub_cycle_number",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765180",
@@ -41011,7 +40992,7 @@
       }
     ],
     "property": "target_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765184",
@@ -41025,7 +41006,7 @@
       }
     ],
     "property": "antibody_name",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14767247",
@@ -41039,7 +41020,7 @@
       }
     ],
     "property": "rrid_identifier",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14767255",
@@ -41053,7 +41034,7 @@
       }
     ],
     "property": "fluorophore",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14767258",
@@ -41067,7 +41048,7 @@
       }
     ],
     "property": "clone",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14769695",
@@ -41081,7 +41062,7 @@
       }
     ],
     "property": "lot",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14767261",
@@ -41095,7 +41076,7 @@
       }
     ],
     "property": "catalog_number",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765187",
@@ -41171,7 +41152,7 @@
       }
     ],
     "property": "excitation_wavelength",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14767264",
@@ -41247,7 +41228,7 @@
       }
     ],
     "property": "emission_wavelength",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765190",
@@ -41323,7 +41304,7 @@
       }
     ],
     "property": "excitation_bandwidth",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765193",
@@ -41399,7 +41380,7 @@
       }
     ],
     "property": "emission_bandwidth",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765198",
@@ -41413,7 +41394,7 @@
       }
     ],
     "property": "metal_isotope_element_abbreviation",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765201",
@@ -41427,7 +41408,7 @@
       }
     ],
     "property": "metal_isotope_element_mass",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765205",
@@ -41441,7 +41422,7 @@
       }
     ],
     "property": "oligo_barcode_upper_strand",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14765208",
@@ -41455,7 +41436,7 @@
       }
     ],
     "property": "oligo_barcode_lower_strand",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14767270",
@@ -41531,7 +41512,7 @@
       }
     ],
     "property": "dilution",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14768386",
@@ -41607,7 +41588,21 @@
       }
     ],
     "property": "concentration",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -41621,7 +41616,7 @@
       }
     ],
     "property": "NonDICOMCTimages_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2903347",
@@ -41635,7 +41630,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_singleCollimationWidth",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2903328",
@@ -41649,7 +41644,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_totalCollimationWidth",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2656117",
@@ -41663,7 +41658,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_gantryDetectorTilt",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2414556",
@@ -41677,12 +41672,12 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_spiralPitchFactor",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3882991",
     "CDEFullName": "Computed Tomography Dose Index Volume Quantity 8 Byte Number",
-    "CDEVersion": "1.00",
+    "CDEVersion": "1.10",
     "dataCommons": "CDS",
     "permissibleValues": [
       {
@@ -41691,7 +41686,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_ctdiVol",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612683",
@@ -41705,7 +41700,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_ctdiPhantomTypeCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2904496",
@@ -41719,7 +41714,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_kVp",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14617524",
@@ -41733,7 +41728,7 @@
       }
     ],
     "property": "CTAquisitionProtocolElement_exposureModulationType_Code",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2656119",
@@ -41747,7 +41742,7 @@
       }
     ],
     "property": "CTImageReconstructionProtocolElement_convolutionKernel",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14617525",
@@ -41761,7 +41756,21 @@
       }
     ],
     "property": "CTImageReconstructionProtocolElement_convolutionKernelGroupCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -41775,7 +41784,7 @@
       }
     ],
     "property": "NonDICOMMRimages_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14645641",
@@ -41789,7 +41798,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14607706",
@@ -41803,7 +41812,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_diffusionBValue",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14616426",
@@ -41817,7 +41826,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_diffusionDirectionalityCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14607707",
@@ -41831,7 +41840,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_magneticFieldStrength",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14616427",
@@ -41845,7 +41854,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_resonantNucleusCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14616428",
@@ -41859,7 +41868,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_acquisitionContrastCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14607722",
@@ -41880,7 +41889,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_inversionRecoveryIndicator",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14608594",
@@ -41894,7 +41903,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_pulseSequenceName",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14608595",
@@ -41915,7 +41924,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14608601",
@@ -41936,7 +41945,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_phaseContrastIndicator",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14608649",
@@ -41957,7 +41966,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14616429",
@@ -41971,7 +41980,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_arterialSpinLabelingContrastCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14616430",
@@ -41985,7 +41994,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612651",
@@ -42006,7 +42015,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612652",
@@ -42027,7 +42036,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_saturationRecoveryIndicator",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14616431",
@@ -42041,7 +42050,7 @@
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_spectrallySelectedSuppressionCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14616432",
@@ -42055,7 +42064,21 @@
       }
     ],
     "property": "MRImageReconstructionProtocolElement_complexImageComponentCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": "6626651",
@@ -42276,7 +42299,7 @@
       }
     ],
     "property": "acquisition_method_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3288124",
@@ -42547,7 +42570,7 @@
       }
     ],
     "property": "tumor_tissue_type",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "65078",
@@ -42716,7 +42739,7 @@
       }
     ],
     "property": "tissue_fixative",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "8037927",
@@ -42760,7 +42783,7 @@
       }
     ],
     "property": "embedding_medium",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7789196",
@@ -42870,7 +42893,7 @@
       }
     ],
     "property": "staining_method",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788935",
@@ -42884,7 +42907,7 @@
       }
     ],
     "property": "objective",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788940",
@@ -42898,7 +42921,7 @@
       }
     ],
     "property": "nominal_magnification",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "8058286",
@@ -42957,7 +42980,7 @@
       }
     ],
     "property": "immersion",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "7788942",
@@ -42971,7 +42994,7 @@
       }
     ],
     "property": "lens_numerical_aperture",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -42985,7 +43008,21 @@
       }
     ],
     "property": "NonDICOMpathologyImages_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -42999,7 +43036,7 @@
       }
     ],
     "property": "NonDICOMPETimages_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2656117",
@@ -43013,7 +43050,7 @@
       }
     ],
     "property": "PETImagingAcquisitionProtocolElement_gantryDetectorTilt",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612653",
@@ -43027,7 +43064,21 @@
       }
     ],
     "property": "Radiopharmaceutical_radionuclideCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -43041,7 +43092,7 @@
       }
     ],
     "property": "NonDICOMradiologyAllModalities_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2182389",
@@ -43055,7 +43106,7 @@
       }
     ],
     "property": "performed_imaging_study_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2902328",
@@ -43069,7 +43120,7 @@
       }
     ],
     "property": "performed_imaging_study_admittingDiagnosisCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "12137353",
@@ -43862,7 +43913,7 @@
       }
     ],
     "property": "performed_imaging_study_nonAcquisitionModalitiesInStudyCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2659474",
@@ -43880,7 +43931,7 @@
       }
     ],
     "property": "performed_imaging_study_lossyImageCompressionIndicator",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14670299",
@@ -43894,7 +43945,7 @@
       }
     ],
     "property": "performed_imaging_study_summary",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612662",
@@ -43908,7 +43959,7 @@
       }
     ],
     "property": "performed_imaging_study_primaryAnatomicSiteCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14670301",
@@ -43924,7 +43975,7 @@
       }
     ],
     "property": "performed_imaging_study_acquisitionTypeCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14617521",
@@ -43938,7 +43989,7 @@
       }
     ],
     "property": "performed_imaging_study_cardiacSynchronizationTechniqueCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612665",
@@ -43952,7 +44003,7 @@
       }
     ],
     "property": "performed_imaging_study_dataCollectionDiameter",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14617522",
@@ -43966,7 +44017,7 @@
       }
     ],
     "property": "performed_imaging_study_respiratoryMotionTechniqueCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14617523",
@@ -44003,7 +44054,7 @@
       }
     ],
     "property": "performed_imaging_study_bodyPositionCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14617557",
@@ -44017,7 +44068,7 @@
       }
     ],
     "property": "performed_imaging_study_algorithmCode",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612672",
@@ -44031,7 +44082,7 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionFieldOfViewHeight",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612674",
@@ -44045,7 +44096,7 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionFieldOfViewWidth",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2182085",
@@ -44059,7 +44110,7 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionDiameter",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "3113185",
@@ -44073,7 +44124,7 @@
       }
     ],
     "property": "performed_imaging_study_sliceThickness",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "14612682",
@@ -44087,7 +44138,35 @@
       }
     ],
     "property": "performed_imaging_study_reconstructionInterval",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "proteomic_info_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": "15105438",
@@ -44101,7 +44180,7 @@
       }
     ],
     "property": "aliquot_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "15112968",
@@ -44139,7 +44218,7 @@
       }
     ],
     "property": "analytical_fractions",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2866141",
@@ -44153,7 +44232,7 @@
       }
     ],
     "property": "instrument_make",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "2413274",
@@ -44167,7 +44246,7 @@
       }
     ],
     "property": "proteomic_instrument_model",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": "15089939",
@@ -44181,7 +44260,35 @@
       }
     ],
     "property": "proteomic_design_description",
-    "version": "5.0.0"
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": "2413274",
+    "CDEFullName": "Manufacturer's Model Name",
+    "CDEVersion": "2.10",
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "manufacturer_model_name",
+    "version": "6.0.3"
+  },
+  {
+    "CDECode": null,
+    "CDEFullName": null,
+    "CDEVersion": null,
+    "dataCommons": "CDS",
+    "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": null
+      }
+    ],
+    "property": "crdc_id",
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -44195,7 +44302,7 @@
       }
     ],
     "property": "data_version_id",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -44209,7 +44316,7 @@
       }
     ],
     "property": "data_version",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -44223,7 +44330,7 @@
       }
     ],
     "property": "datetime",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -44237,7 +44344,7 @@
       }
     ],
     "property": "model_version",
-    "version": "5.0.0"
+    "version": "6.0.3"
   },
   {
     "CDECode": null,
@@ -44251,6 +44358,6 @@
       }
     ],
     "property": "description",
-    "version": "5.0.0"
+    "version": "6.0.3"
   }
 ]

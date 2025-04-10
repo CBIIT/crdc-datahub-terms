@@ -1817,8 +1817,97 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "Skilled Worker"
+        ],
+        "value": "Craft and Related Trades Worker"
+      },
+      {
+        "synonyms": [
+          "Sales occupation",
+          "Selling occupation (occupation)",
+          "Selling occupation",
+          "Service Occupation",
+          "And",
+          "Salesperson"
+        ],
+        "value": "Service and Sales Workers"
+      },
+      {
+        "synonyms": [
+          "Professional Occupation"
+        ],
+        "value": "Professional"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [
+          "Military"
+        ],
+        "value": "Armed Forces Occupations"
+      },
+      {
+        "synonyms": [
+          "Manager (occupation)"
+        ],
+        "value": "Manager"
+      },
+      {
+        "synonyms": [
+          "Clerk (occupation)",
+          "Clerical occupation (occupation)",
+          "Clerical occupation",
+          "Clerk"
+        ],
+        "value": "Clerical support workers"
+      },
+      {
+        "synonyms": [
+          "Technologist - professional",
+          "Technologist (occupation)",
+          "Technologist",
+          "Technician",
+          "And",
+          "Associate",
+          "Professional Occupation"
+        ],
+        "value": "Technicians and Associate Professionals"
+      },
+      {
+        "synonyms": [
+          "Farming, Fishing, and Forestry Occupations"
+        ],
+        "value": "Skilled Agricultural, Forestry, and Fishery Workers"
+      },
+      {
+        "synonyms": [
+          "Profession",
+          "Occupation (occupation)",
+          "Job",
+          "Occupation",
+          "Occupations",
+          "Operator",
+          "Assemblers and Fabricators"
+        ],
+        "value": "Plant and Machine Operators and Assemblers"
+      },
+      {
+        "synonyms": [
+          "minimum",
+          "Profession",
+          "Occupation (occupation)",
+          "Job",
+          "Occupation",
+          "Occupations",
+          "Minimum",
+          "Work Skills"
+        ],
+        "value": "Elementary Occupation"
       }
     ],
     "property": "occupation",
@@ -2722,8 +2811,1274 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Milligram/milliliter (qualifier value)",
+          "Gram/liter (qualifier value)",
+          "Kilogram/cubic meter (qualifier value)",
+          "Kilogram/cubic metre",
+          "Kilogram/cubic meter",
+          "Micrograms per microlitre",
+          "Micrograms per microliter",
+          "mcg/mcL",
+          "milligram/millilitre",
+          "Milligram/milliliter",
+          "kg/m3",
+          "gram/litre",
+          "Gram/liter",
+          "g/L",
+          "Kilogram per Cubic Meter"
+        ],
+        "value": "mg/mL"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Unit/mcg"
+      },
+      {
+        "synonyms": [
+          "Microgram/minute (qualifier value)",
+          "ug/min",
+          "Microgram/minute",
+          "Microgram per Minute"
+        ],
+        "value": "mcg/min"
+      },
+      {
+        "synonyms": [],
+        "value": "mg/unit"
+      },
+      {
+        "synonyms": [
+          "Degrees Celsius (qualifier value)",
+          "degrees C",
+          "Degrees Celsius"
+        ],
+        "value": "Degree Celsius"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [
+          "Hundred Million Infectious Units per Milliliter"
+        ],
+        "value": "10^8 IFU/mL"
+      },
+      {
+        "synonyms": [
+          "Billion Infectious Units per Milliliter"
+        ],
+        "value": "10^9 IFU/mL"
+      },
+      {
+        "synonyms": [],
+        "value": "10E13 Viral Particles"
+      },
+      {
+        "synonyms": [
+          "Microcurie per Kilogram"
+        ],
+        "value": "uCi/kg"
+      },
+      {
+        "synonyms": [
+          "Thousand Cells per Kilogram"
+        ],
+        "value": "10E3 Cells/kg"
+      },
+      {
+        "synonyms": [
+          "Liter per Milligram per Hour"
+        ],
+        "value": "L/h/mg"
+      },
+      {
+        "synonyms": [
+          "Micromole per Liter per Minute"
+        ],
+        "value": "umol/L/min"
+      },
+      {
+        "synonyms": [],
+        "value": "10E9 IU/mL"
+      },
+      {
+        "synonyms": [],
+        "value": "10E10 Viral Particles"
+      },
+      {
+        "synonyms": [
+          "Million",
+          "Plaque Forming Unit"
+        ],
+        "value": "10E6 PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "10E11 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E11 Viral Particles"
+      },
+      {
+        "synonyms": [],
+        "value": "10E11 Cells/kg"
+      },
+      {
+        "synonyms": [
+          "obsolete cell",
+          "Cellular structures",
+          "Cellular structure",
+          "Cell structure",
+          "set of cells",
+          "Normal cell",
+          "Cell structure (cell structure)",
+          "Normal cell (cell)",
+          "Cell",
+          "cell",
+          "Cells",
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Thousand",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E3 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Hundred Million Cells",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E8 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Billion Cells",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E9 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "obsolete cell",
+          "Cellular structures",
+          "Cellular structure",
+          "Cell structure",
+          "set of cells",
+          "Normal cell",
+          "Cell structure (cell structure)",
+          "Normal cell (cell)",
+          "Cell",
+          "cell",
+          "Cells",
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Integer",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E10 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "Sievert (qualifier value)",
+          "Sievert"
+        ],
+        "value": "Sv"
+      },
+      {
+        "synonyms": [],
+        "value": "E+3 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+4 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+5 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+6 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+7 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+8 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+9 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+10 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+11 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E3 IU/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "mg/kg/day"
+      },
+      {
+        "synonyms": [
+          "Cells per Kilogram"
+        ],
+        "value": "Cells/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "MBq"
+      },
+      {
+        "synonyms": [],
+        "value": "Ampule"
+      },
+      {
+        "synonyms": [
+          "Breaths/minute (qualifier value)",
+          "Breaths/minute",
+          "breaths/min",
+          "BPM - breaths per minute",
+          "breaths per minute",
+          "Breaths per Minute"
+        ],
+        "value": "BPM"
+      },
+      {
+        "synonyms": [
+          "Cap Device"
+        ],
+        "value": "Capful"
+      },
+      {
+        "synonyms": [
+          "Unit/milliliter (qualifier value)",
+          "unit/mL",
+          "u/mL",
+          "U/mL",
+          "Unit/milliliter",
+          "unit/millilitre",
+          "Unit per Milliliter"
+        ],
+        "value": "Unit/mL"
+      },
+      {
+        "synonyms": [
+          "Inch (qualifier value)",
+          "in - inch",
+          "inches"
+        ],
+        "value": "Inch"
+      },
+      {
+        "synonyms": [],
+        "value": "mBq"
+      },
+      {
+        "synonyms": [],
+        "value": "10E9 Cells"
+      },
+      {
+        "synonyms": [
+          "Viral Particle Unit"
+        ],
+        "value": "IVRP"
+      },
+      {
+        "synonyms": [],
+        "value": "10E3 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E4 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E5 Cells"
+      },
+      {
+        "synonyms": [
+          "Million Cells"
+        ],
+        "value": "10E6 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E7 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E8 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E10 Cells"
+      },
+      {
+        "synonyms": [
+          "Millimole/liter (qualifier value)",
+          "umol/mL",
+          "Micromole/milliliter (qualifier value)",
+          "Micromole per millilitre",
+          "Micromole per milliliter",
+          "Micromole/millilitre",
+          "Micromole/milliliter",
+          "mcmol/mL",
+          "mM",
+          "millimolar",
+          "Millimole/liter",
+          "millimole/litre",
+          "mmol/L",
+          "Millimole per Liter"
+        ],
+        "value": "mM/L"
+      },
+      {
+        "synonyms": [
+          "International unit/milligram (qualifier value)",
+          "International unit/milligram",
+          "International Unit per Milligram"
+        ],
+        "value": "IU/mg"
+      },
+      {
+        "synonyms": [],
+        "value": "10E6 Cell/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "10E5 Cell/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "10E4 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "Unit/meter2",
+          "Unit/meter2 (qualifier value)",
+          "Unit per meter2",
+          "unit/m2",
+          "U/m2",
+          "Unit per square metre",
+          "Unit per square meter",
+          "Unit per metre squared",
+          "Unit per meter squared",
+          "Unit per Square Meter"
+        ],
+        "value": "Unit/m2"
+      },
+      {
+        "synonyms": [
+          "Millilitre",
+          "Milliliter",
+          "Milliliter (qualifier value)",
+          "cm3",
+          "cc"
+        ],
+        "value": "mL"
+      },
+      {
+        "synonyms": [
+          "Milligram per Inhalation"
+        ],
+        "value": "mg/inh"
+      },
+      {
+        "synonyms": [
+          "Milligram/day (qualifier value)",
+          "Milligrams/24 hours (qualifier value)",
+          "mg/day",
+          "mg/24h",
+          "Milligrams/24 hours",
+          "Milligram/day",
+          "Milligram per 24 Hours"
+        ],
+        "value": "mg/24hr"
+      },
+      {
+        "synonyms": [
+          "Liter/minute (qualifier value)",
+          "Litre/minute",
+          "Liter/minute",
+          "litre/minute",
+          "liter/minute",
+          "Liter per Minute"
+        ],
+        "value": "L/min"
+      },
+      {
+        "synonyms": [
+          "Intravenous Bag Dosing Unit"
+        ],
+        "value": "IV Bag"
+      },
+      {
+        "synonyms": [
+          "Bottle, device (physical object)",
+          "Bottle, device"
+        ],
+        "value": "Bottle"
+      },
+      {
+        "synonyms": [
+          "Area under the curve (qualifier value)",
+          "Area under the curve",
+          "Area Under Curve"
+        ],
+        "value": "AUC"
+      },
+      {
+        "synonyms": [],
+        "value": "10E8 PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "10E7 PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "Session"
+      },
+      {
+        "synonyms": [],
+        "value": "Seed"
+      },
+      {
+        "synonyms": [
+          "Patch (basic dose form)",
+          "Patch Dosage Form"
+        ],
+        "value": "Patch"
+      },
+      {
+        "synonyms": [],
+        "value": "10E9 PFU"
+      },
+      {
+        "synonyms": [
+          "Kilounit per Kilogram"
+        ],
+        "value": "kU/L"
+      },
+      {
+        "synonyms": [
+          "Tablespoonful - unit of product usage",
+          "Tablespoon - unit of product usage",
+          "Tablespoonful - unit of product usage (qualifier value)",
+          "Tablespoonful",
+          "Tablespoon",
+          "Tablespoon Dosing Unit"
+        ],
+        "value": "Tbsp"
+      },
+      {
+        "synonyms": [],
+        "value": "Tablet"
+      },
+      {
+        "synonyms": [
+          "rad",
+          "rad (qualifier value)",
+          "RAD - radiation absorbed dose",
+          "radiation absorbed dose"
+        ],
+        "value": "Rad"
+      },
+      {
+        "synonyms": [
+          "Milliliter/hour (qualifier value)",
+          "Millilitre/hour",
+          "Milliliter/hour",
+          "mL/h",
+          "Milliliter per Hour"
+        ],
+        "value": "mL/hr"
+      },
+      {
+        "synonyms": [
+          "Microgram/hour (qualifier value)",
+          "ug/hr",
+          "Microgram/hour",
+          "ug/h",
+          "Microgram per Hour"
+        ],
+        "value": "mcg/hr"
+      },
+      {
+        "synonyms": [
+          "Milligram/hour (qualifier value)",
+          "Milligram/hour",
+          "mg/h",
+          "Milligram per Hour"
+        ],
+        "value": "mg/hr"
+      },
+      {
+        "synonyms": [
+          "Milliequivalents/hour (qualifier value)",
+          "Milliequivalents/hour",
+          "Milliequivalents per hour",
+          "Milliequivalent per Hour"
+        ],
+        "value": "mEq/hr"
+      },
+      {
+        "synonyms": [
+          "Kilounit per Kilogram"
+        ],
+        "value": "kU/kg"
+      },
+      {
+        "synonyms": [
+          "Milligram per Week"
+        ],
+        "value": "mg/wk"
+      },
+      {
+        "synonyms": [],
+        "value": "Gallon"
+      },
+      {
+        "synonyms": [
+          "No information available",
+          "No information available (qualifier value)",
+          "No information",
+          "Information not available",
+          "No Information Available"
+        ],
+        "value": "No Srce"
+      },
+      {
+        "synonyms": [
+          "munit",
+          "Milliunit (qualifier value)",
+          "mU",
+          "Milliunit"
+        ],
+        "value": "millunit"
+      },
+      {
+        "synonyms": [
+          "Million Plaque Forming Units"
+        ],
+        "value": "mill PFU"
+      },
+      {
+        "synonyms": [
+          "Million unit (qualifier value)",
+          "Million unit",
+          "Million Units"
+        ],
+        "value": "MU"
+      },
+      {
+        "synonyms": [
+          "International Unit per Milligram of Alpha-Tocopherol"
+        ],
+        "value": "IU/mg A-TE"
+      },
+      {
+        "synonyms": [
+          "milligram (qualifier value)",
+          "milligram",
+          "Milligram"
+        ],
+        "value": "mg"
+      },
+      {
+        "synonyms": [
+          "International Unit of Vitamin A"
+        ],
+        "value": "IU Vit A"
+      },
+      {
+        "synonyms": [],
+        "value": "RAE"
+      },
+      {
+        "synonyms": [],
+        "value": "RE"
+      },
+      {
+        "synonyms": [
+          "Viral Particle Unit"
+        ],
+        "value": "VP"
+      },
+      {
+        "synonyms": [
+          "Microcurie (qualifier value)",
+          "uCi",
+          "microcurie",
+          "Microcurie"
+        ],
+        "value": "microCi"
+      },
+      {
+        "synonyms": [
+          "Unit/kilogram (qualifier value)",
+          "Unit per kilogram",
+          "unit/kg",
+          "U/kg",
+          "Unit/kilogram",
+          "Unit per Kilogram"
+        ],
+        "value": "Unit/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "tsp"
+      },
+      {
+        "synonyms": [],
+        "value": "Troche"
+      },
+      {
+        "synonyms": [],
+        "value": "Thousand"
+      },
+      {
+        "synonyms": [],
+        "value": "TCID"
+      },
+      {
+        "synonyms": [],
+        "value": "Suppstry"
+      },
+      {
+        "synonyms": [],
+        "value": "Spray"
+      },
+      {
+        "synonyms": [],
+        "value": "puff"
+      },
+      {
+        "synonyms": [
+          "Pounds/square inch (qualifier value)",
+          "lb/sq. in",
+          "Pounds/square inch",
+          "pounds/square inch",
+          "Pound per Square Inch"
+        ],
+        "value": "psi"
+      },
+      {
+        "synonyms": [
+          "picogram (qualifier value)",
+          "picogram",
+          "Picogram"
+        ],
+        "value": "pg"
+      },
+      {
+        "synonyms": [
+          "Plaque Forming Unit"
+        ],
+        "value": "PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "packet"
+      },
+      {
+        "synonyms": [
+          "Pascal (qualifier value)",
+          "Pascal",
+          "newton/square metre",
+          "newton/square meter",
+          "N/m2",
+          "N/sq. m"
+        ],
+        "value": "Pa"
+      },
+      {
+        "synonyms": [
+          "ounces (qualifier value)",
+          "ounces",
+          "ounce",
+          "Ounce"
+        ],
+        "value": "oz"
+      },
+      {
+        "synonyms": [
+          "Osmolality (observable entity)",
+          "Osmolality"
+        ],
+        "value": "osmol"
+      },
+      {
+        "synonyms": [
+          "nanomole (qualifier value)",
+          "nanomole",
+          "Nanomole"
+        ],
+        "value": "nmol"
+      },
+      {
+        "synonyms": [],
+        "value": "nm light"
+      },
+      {
+        "synonyms": [
+          "Nanogram/liter (qualifier value)",
+          "Picogram/milliliter (qualifier value)",
+          "pg/mL",
+          "picogram/millilitre",
+          "Picogram/milliliter",
+          "Nanogram/liter",
+          "nanogram/litre",
+          "Nanogram per Liter"
+        ],
+        "value": "ng/L"
+      },
+      {
+        "synonyms": [
+          "Nanogram per kilogram (qualifier value)",
+          "Nanogram/kilogram",
+          "Nanogram per kilogram",
+          "Nanogram per Kilogram"
+        ],
+        "value": "ng/kg"
+      },
+      {
+        "synonyms": [
+          "nanogram (qualifier value)",
+          "nanogram",
+          "Nanogram"
+        ],
+        "value": "ng"
+      },
+      {
+        "synonyms": [
+          "Nanocurie (qualifier value)",
+          "nanocurie",
+          "Nanocurie"
+        ],
+        "value": "nCi"
+      },
+      {
+        "synonyms": [
+          "Million Viral Particles"
+        ],
+        "value": "MVP"
+      },
+      {
+        "synonyms": [
+          "millivolt (qualifier value)",
+          "mV - millivolt",
+          "millivolt",
+          "Millivolt"
+        ],
+        "value": "mV"
+      },
+      {
+        "synonyms": [
+          "Milliinternational Unit per Square Meter"
+        ],
+        "value": "miu/m2"
+      },
+      {
+        "synonyms": [
+          "milliinternational unit (qualifier value)",
+          "mIU",
+          "milliinternational unit",
+          "Milliinternational Unit"
+        ],
+        "value": "miu"
+      },
+      {
+        "synonyms": [
+          "Megarad"
+        ],
+        "value": "Mrad"
+      },
+      {
+        "synonyms": [
+          "milliosmole (qualifier value)",
+          "milliosmole",
+          "Milliosmole"
+        ],
+        "value": "mosmol"
+      },
+      {
+        "synonyms": [
+          "mole - unit (qualifier value)",
+          "mole - unit",
+          "mol"
+        ],
+        "value": "Mole"
+      },
+      {
+        "synonyms": [
+          "millimole (qualifier value)",
+          "millimole",
+          "Millimole"
+        ],
+        "value": "mmol"
+      },
+      {
+        "synonyms": [
+          "microlitre/g",
+          "microliter/g",
+          "mL/kg (qualifier value)",
+          "Milliliter per Kilogram"
+        ],
+        "value": "mL/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "Million"
+      },
+      {
+        "synonyms": [
+          "micromole (qualifier value)",
+          "umol",
+          "micromole",
+          "Micromole"
+        ],
+        "value": "micromol"
+      },
+      {
+        "synonyms": [
+          "cubic millimeter",
+          "mm3",
+          "cubic millimetre",
+          "Microliter",
+          "Microliter (qualifier value)",
+          "uL",
+          "microlitre"
+        ],
+        "value": "microL"
+      },
+      {
+        "synonyms": [
+          "Megahertz (qualifier value)",
+          "Megahertz (MHz)",
+          "megahertz",
+          "Megahertz"
+        ],
+        "value": "MHz"
+      },
+      {
+        "synonyms": [
+          "Yeast (substance)",
+          "Yeast (organism)",
+          "Yeast",
+          "Ten",
+          "Million"
+        ],
+        "value": "YU"
+      },
+      {
+        "synonyms": [],
+        "value": "10E7 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "U/g",
+          "Unit/gram (qualifier value)",
+          "Unit per gram",
+          "Unit/gm",
+          "Unit/gram",
+          "Unit per Gram"
+        ],
+        "value": "Unit/g"
+      },
+      {
+        "synonyms": [],
+        "value": "mcg/m2"
+      },
+      {
+        "synonyms": [
+          "Cyclical",
+          "Cyclic",
+          "Cyclic (qualifier value)",
+          "Cycle",
+          "Courses (qualifier value)",
+          "Courses"
+        ],
+        "value": "Course"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Unit (qualifier value)",
+          "Units (attribute)",
+          "Units"
+        ],
+        "value": "Unit"
+      },
+      {
+        "synonyms": [
+          "Nanogram/milliliter (qualifier value)",
+          "Microgram/liter (qualifier value)",
+          "nanogram/millilitre",
+          "Nanogram/milliliter",
+          "Microgram/liter",
+          "microgram/litre",
+          "ug/L",
+          "Microgram per Liter"
+        ],
+        "value": "ng/mL"
+      },
+      {
+        "synonyms": [
+          "Caplet Dosing Unit"
+        ],
+        "value": "Caplet"
+      },
+      {
+        "synonyms": [
+          "Capsule (basic dose form)",
+          "Capsule Dosage Form"
+        ],
+        "value": "Capsule"
+      },
+      {
+        "synonyms": [
+          "Percent Unit"
+        ],
+        "value": "%"
+      },
+      {
+        "synonyms": [
+          "Application Unit"
+        ],
+        "value": "Applcatn"
+      },
+      {
+        "synonyms": [],
+        "value": "au"
+      },
+      {
+        "synonyms": [],
+        "value": "bill PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "Cells"
+      },
+      {
+        "synonyms": [
+          "Centigray (qualifier value)",
+          "centigray",
+          "Centigray"
+        ],
+        "value": "cGy"
+      },
+      {
+        "synonyms": [
+          "Curie (qualifier value)",
+          "curie",
+          "Curie"
+        ],
+        "value": "Ci"
+      },
+      {
+        "synonyms": [
+          "Decilitre",
+          "Deciliter",
+          "Deciliter (qualifier value)"
+        ],
+        "value": "dL"
+      },
+      {
+        "synonyms": [
+          "Dosage (attribute)",
+          "Dosage"
+        ],
+        "value": "Dose"
+      },
+      {
+        "synonyms": [
+          "Equivalent"
+        ],
+        "value": "Eq"
+      },
+      {
+        "synonyms": [
+          "gram",
+          "gram (qualifier value)",
+          "Gram"
+        ],
+        "value": "g"
+      },
+      {
+        "synonyms": [
+          "Gram/square meter (qualifier value)",
+          "Gram/square metre",
+          "Gram/square meter",
+          "Gram per Square Meter"
+        ],
+        "value": "g/m2"
+      },
+      {
+        "synonyms": [],
+        "value": "gtts"
+      },
+      {
+        "synonyms": [
+          "Gray",
+          "Gray (qualifier value)",
+          "gray"
+        ],
+        "value": "Gy"
+      },
+      {
+        "synonyms": [
+          "Hertz (qualifier value)",
+          "hertz",
+          "Hertz",
+          "cycles/second",
+          "cycles/s"
+        ],
+        "value": "Hz"
+      },
+      {
+        "synonyms": [],
+        "value": "Inhalatn"
+      },
+      {
+        "synonyms": [
+          "international unit (qualifier value)",
+          "IU",
+          "international units",
+          "international unit",
+          "International Unit"
+        ],
+        "value": "IUnit"
+      },
+      {
+        "synonyms": [
+          "international units per kilogram (qualifier value)",
+          "IU/kg",
+          "international unit/kilogram",
+          "international units per kilogram",
+          "International Unit per Kilogram"
+        ],
+        "value": "IUnit/kg"
+      },
+      {
+        "synonyms": [
+          "milliinternational unit/milliliter (qualifier value)",
+          "International unit/liter (qualifier value)",
+          "mIU/mL",
+          "milliinternational unit/millilitre",
+          "milliinternational unit/milliliter",
+          "IU/L",
+          "International unit/litre",
+          "International unit/liter",
+          "International Unit per Liter"
+        ],
+        "value": "IUnit/L"
+      },
+      {
+        "synonyms": [
+          "Joule per Square Centimeter"
+        ],
+        "value": "Jcm2"
+      },
+      {
+        "synonyms": [
+          "Kiloelectronvolt"
+        ],
+        "value": "KeV"
+      },
+      {
+        "synonyms": [
+          "kilogram (qualifier value)",
+          "kilogram",
+          "Kilogram"
+        ],
+        "value": "kg"
+      },
+      {
+        "synonyms": [
+          "Kilohertz (qualifier value)",
+          "kilohertz",
+          "Kilohertz"
+        ],
+        "value": "kHz"
+      },
+      {
+        "synonyms": [
+          "Kilopascal (qualifier value)",
+          "Kilopascal"
+        ],
+        "value": "kPa"
+      },
+      {
+        "synonyms": [
+          "Kilounit"
+        ],
+        "value": "kU"
+      },
+      {
+        "synonyms": [
+          "Liter (qualifier value)",
+          "Litre",
+          "Liter"
+        ],
+        "value": "L"
+      },
+      {
+        "synonyms": [
+          "ug",
+          "microgram (qualifier value)",
+          "microgram",
+          "Microgram"
+        ],
+        "value": "mcg"
+      },
+      {
+        "synonyms": [],
+        "value": "mcg/cm2"
+      },
+      {
+        "synonyms": [
+          "Microgram/kilogram (qualifier value)",
+          "Nanogram per gram (qualifier value)",
+          "Nanogram per gram",
+          "Nanogram/gram",
+          "ng/gm",
+          "ng/g",
+          "Microgram/kilogram",
+          "ug/kg",
+          "microg/kg",
+          "Microgram per Kilogram"
+        ],
+        "value": "mcg/kg"
+      },
+      {
+        "synonyms": [
+          "Millicurie (qualifier value)",
+          "Millicurie",
+          "millicurie"
+        ],
+        "value": "mCi"
+      },
+      {
+        "synonyms": [],
+        "value": "Measure"
+      },
+      {
+        "synonyms": [
+          "milliequivalent (qualifier value)",
+          "milliequivalent",
+          "Milliequivalent"
+        ],
+        "value": "mEq"
+      },
+      {
+        "synonyms": [
+          "Milliequivalent/24 hours (qualifier value)",
+          "mEq/24 hr",
+          "Milliequivalent/24 hours",
+          "milliequivalent/day",
+          "mEq/day",
+          "Milliequivalent per 24 hours",
+          "Milliequivalent per 24 Hours"
+        ],
+        "value": "mEq/24hr"
+      },
+      {
+        "synonyms": [
+          "Milliequivalents/deciliter (qualifier value)",
+          "Milliequivalents/deciliter",
+          "Milliequivalents per decilitre",
+          "Milliequivalents per deciliter",
+          "Milliequivalent per Deciliter"
+        ],
+        "value": "mEq/dL"
+      },
+      {
+        "synonyms": [
+          "Milliequivalent/liter (qualifier value)",
+          "Milliequivalent/liter",
+          "milliequivalent/litre",
+          "Milliequivalent per Liter"
+        ],
+        "value": "mEq/L"
+      },
+      {
+        "synonyms": [
+          "Million"
+        ],
+        "value": "MeV"
+      },
+      {
+        "synonyms": [
+          "Milligram/deciliter (qualifier value)",
+          "Milligram/decilitre",
+          "Milligram/deciliter",
+          "milligram/decilitre",
+          "Milligram per Deciliter"
+        ],
+        "value": "mg/dL"
+      },
+      {
+        "synonyms": [
+          "Microgram/gram",
+          "Microgram/gram (qualifier value)",
+          "Milligram/kilogram (qualifier value)",
+          "Milligram/kilogram",
+          "ug/g",
+          "microgram/g",
+          "microg/g",
+          "Milligram per Kilogram"
+        ],
+        "value": "mg/kg"
+      },
+      {
+        "synonyms": [
+          "Milligram/meter2",
+          "Milligram/metre2",
+          "mg/sq.m",
+          "Milligram/square meter (qualifier value)",
+          "Milligram/square metre",
+          "Milligram/square meter",
+          "Milligram per Square Meter"
+        ],
+        "value": "mg/m2"
       }
     ],
     "property": "targeted_therapy_dose_units",
@@ -2736,8 +4091,531 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Every Nineteen Hours"
+        ],
+        "value": "Every 19 hours"
+      },
+      {
+        "synonyms": [
+          "Not",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Negation"
+        ],
+        "value": "Not daily"
+      },
+      {
+        "synonyms": [
+          "q4wk",
+          "Every four weeks (qualifier value)",
+          "Every four weeks",
+          "Every Four Weeks"
+        ],
+        "value": "Every 4 weeks"
+      },
+      {
+        "synonyms": [
+          "Morning (qualifier value)",
+          "om - omni mane",
+          "mane",
+          "During morning",
+          "ante meridiem",
+          "am - ante meridiem",
+          "In the morning"
+        ],
+        "value": "Morning"
+      },
+      {
+        "synonyms": [
+          "Mid",
+          "Mid (qualifier value)",
+          "middle",
+          "Middle",
+          "Days",
+          "day (qualifier value)",
+          "d - day",
+          "days",
+          "Day",
+          "day"
+        ],
+        "value": "Mid-day"
+      },
+      {
+        "synonyms": [
+          "Early (qualifier value)",
+          "Earlier",
+          "Early",
+          "Evening (qualifier value)",
+          "During the evening",
+          "Evening"
+        ],
+        "value": "Early evening"
+      },
+      {
+        "synonyms": [
+          "Tardy",
+          "Late (qualifier value)",
+          "Later",
+          "Late",
+          "Evening (qualifier value)",
+          "During the evening",
+          "Evening"
+        ],
+        "value": "Later evening"
+      },
+      {
+        "synonyms": [
+          "Nocturnal",
+          "on - omni nocte",
+          "nocte",
+          "Night time (qualifier value)",
+          "At night",
+          "Night time",
+          "Night Time"
+        ],
+        "value": "Night"
+      },
+      {
+        "synonyms": [
+          "Changing (qualifier value)",
+          "Changing",
+          "Days",
+          "day (qualifier value)",
+          "d - day",
+          "days",
+          "Day",
+          "day",
+          "Change",
+          "From",
+          "To"
+        ],
+        "value": "Varied from day to day"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "<1 time per week"
+      },
+      {
+        "synonyms": [],
+        "value": "1-6 times per week"
+      },
+      {
+        "synonyms": [],
+        "value": "Daily or more"
+      },
+      {
+        "synonyms": [
+          "Triweekly",
+          "Triweekly (qualifier value)",
+          "Every three weeks",
+          "Every Three Weeks"
+        ],
+        "value": "every 3 weeks"
+      },
+      {
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly"
+        ],
+        "value": "every week"
+      },
+      {
+        "synonyms": [],
+        "value": "4 times a day"
+      },
+      {
+        "synonyms": [
+          "Once a day, at bedtime",
+          "Once a day, at bedtime (qualifier value)",
+          "qHS",
+          "Hour Of Sleep"
+        ],
+        "value": "At bedtime"
+      },
+      {
+        "synonyms": [
+          "Four to six hourly",
+          "Every four to six hours (qualifier value)",
+          "q4-6hr",
+          "4-6 hourly",
+          "Every four to six hours",
+          "Every Four to Six Hours"
+        ],
+        "value": "Every 4 to 6 hours"
+      },
+      {
+        "synonyms": [
+          "Every Four to Five Hours"
+        ],
+        "value": "Every 4 to 5 hours"
+      },
+      {
+        "synonyms": [
+          "Three to four hourly",
+          "Every three to four hours (qualifier value)",
+          "3-4 hourly",
+          "Every three to four hours",
+          "Every Three to Four Hours"
+        ],
+        "value": "Every 3 to 4 hours"
+      },
+      {
+        "synonyms": [
+          "Every one to two hours (qualifier value)",
+          "q1-2 hr",
+          "Every one to two hours",
+          "Every One to Two Hours"
+        ],
+        "value": "Every 1 to 2 hours"
+      },
+      {
+        "synonyms": [
+          "q24hr",
+          "Every twenty four hours (qualifier value)",
+          "Every twenty four hours",
+          "Every Twenty-Four Hours"
+        ],
+        "value": "Every 24 hours"
+      },
+      {
+        "synonyms": [
+          "Every Twenty-Three Hours"
+        ],
+        "value": "Every 23 hours"
+      },
+      {
+        "synonyms": [
+          "Every Twenty-Two Hours"
+        ],
+        "value": "Every 22 hours"
+      },
+      {
+        "synonyms": [
+          "Every Twenty-One Hours"
+        ],
+        "value": "Every 21 hours"
+      },
+      {
+        "synonyms": [
+          "Every twenty hours (qualifier value)",
+          "Every twenty hours",
+          "Every Twenty Hours"
+        ],
+        "value": "Every 20 hours"
+      },
+      {
+        "synonyms": [],
+        "value": "Once a day (Q.D.)"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)",
+          "Other",
+          "Specify"
+        ],
+        "value": "other, specify"
+      },
+      {
+        "synonyms": [],
+        "value": "immediately (Stat)"
+      },
+      {
+        "synonyms": [],
+        "value": "as needed (P.R.N)"
+      },
+      {
+        "synonyms": [],
+        "value": "every day (Q.D.)"
+      },
+      {
+        "synonyms": [],
+        "value": "every other day (Q.O.D.)"
+      },
+      {
+        "synonyms": [],
+        "value": "twice a day (B.I.D)"
+      },
+      {
+        "synonyms": [],
+        "value": "three times a day (T.I.D)"
+      },
+      {
+        "synonyms": [],
+        "value": "four times a day (Q.I.D)"
+      },
+      {
+        "synonyms": [],
+        "value": "twice a week (B.I.W)"
+      },
+      {
+        "synonyms": [],
+        "value": "three times a week (T.I.W)"
+      },
+      {
+        "synonyms": [],
+        "value": "before meals (A.C.)"
+      },
+      {
+        "synonyms": [],
+        "value": "after meals (P.C.)"
+      },
+      {
+        "synonyms": [],
+        "value": "at bedtime or hour of sleep (H.S.)"
+      },
+      {
+        "synonyms": [],
+        "value": "every 4 hours (Q4hr)"
+      },
+      {
+        "synonyms": [],
+        "value": "every 6 hours (Q6hr)"
+      },
+      {
+        "synonyms": [],
+        "value": "every 8 hours (Q8hr)"
+      },
+      {
+        "synonyms": [
+          "Every twelve hours (qualifier value)",
+          "q12h - Every twelve hours",
+          "Every twelve hours",
+          "Every Twelve Hours"
+        ],
+        "value": "every 12 hours (Q12hr)"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [],
+        "value": "Dose held"
+      },
+      {
+        "synonyms": [
+          "Intermittent",
+          "Intermittent (qualifier value)"
+        ],
+        "value": "Intermittent or as needed"
+      },
+      {
+        "synonyms": [
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)"
+        ],
+        "value": "Daily"
+      },
+      {
+        "synonyms": [],
+        "value": "PM/bedtime"
+      },
+      {
+        "synonyms": [],
+        "value": "AM"
+      },
+      {
+        "synonyms": [],
+        "value": "When needed"
+      },
+      {
+        "synonyms": [],
+        "value": "Six times a day"
+      },
+      {
+        "synonyms": [],
+        "value": "Eight times a day"
+      },
+      {
+        "synonyms": [
+          "Non-specific",
+          "Non-specified",
+          "Non-specific (qualifier value)",
+          "Unspecified"
+        ],
+        "value": "Not specified"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week"
+        ],
+        "value": "Weekly"
+      },
+      {
+        "synonyms": [
+          "per month",
+          "/month",
+          "per month (qualifier value)",
+          "Month",
+          "Every month",
+          "Monthly (qualifier value)"
+        ],
+        "value": "Monthly"
+      },
+      {
+        "synonyms": [],
+        "value": ">4X/day"
+      },
+      {
+        "synonyms": [
+          "Five times a day",
+          "Five times daily (qualifier value)",
+          "Five Times Daily"
+        ],
+        "value": "Five times daily"
+      },
+      {
+        "synonyms": [
+          "qPM",
+          "Once a day, in the evening (qualifier value)",
+          "Once a day, in the evening",
+          "QPM"
+        ],
+        "value": "Every evening"
+      },
+      {
+        "synonyms": [
+          "Hourly (qualifier value)",
+          "Hourly",
+          "Every Hour"
+        ],
+        "value": "Every hour"
+      },
+      {
+        "synonyms": [
+          "Every morning (qualifier value)",
+          "Every Morning"
+        ],
+        "value": "Every morning"
+      },
+      {
+        "synonyms": [
+          "Two hourly",
+          "Every two hours (qualifier value)",
+          "2 hourly",
+          "Every two hours",
+          "Every Two Hours"
+        ],
+        "value": "Every 2 hours"
+      },
+      {
+        "synonyms": [
+          "Three hourly",
+          "Every three hours (qualifier value)",
+          "3 hourly",
+          "Every three hours",
+          "Every Three Hours"
+        ],
+        "value": "Every 3 hours"
+      },
+      {
+        "synonyms": [
+          "q5hr",
+          "Every five hours (qualifier value)",
+          "Every five hours",
+          "Every Five Hours"
+        ],
+        "value": "Every 5 hours"
+      },
+      {
+        "synonyms": [
+          "Every six hours (qualifier value)",
+          "q6h - Every six hours",
+          "Every six hours",
+          "Every Six Hours"
+        ],
+        "value": "Every 6 hours"
+      },
+      {
+        "synonyms": [
+          "Every Seven Hours"
+        ],
+        "value": "Every 7 hours"
+      },
+      {
+        "synonyms": [
+          "Every Nine Hours"
+        ],
+        "value": "Every 9 hours"
+      },
+      {
+        "synonyms": [
+          "Every ten hours (qualifier value)",
+          "Every ten hours",
+          "Every Ten Hours"
+        ],
+        "value": "Every 10 hours"
+      },
+      {
+        "synonyms": [
+          "Every Eleven Hours"
+        ],
+        "value": "Every 11 hours"
+      },
+      {
+        "synonyms": [
+          "Every Thirteen Hours"
+        ],
+        "value": "Every 13 hours"
+      },
+      {
+        "synonyms": [
+          "Every Fourteen Hours"
+        ],
+        "value": "Every 14 hours"
+      },
+      {
+        "synonyms": [
+          "Every Fifteen Hours"
+        ],
+        "value": "Every 15 hours"
+      },
+      {
+        "synonyms": [
+          "q16hr",
+          "Every sixteen hours (qualifier value)",
+          "Every sixteen hours",
+          "Every Sixteen Hours"
+        ],
+        "value": "Every 16 hours"
+      },
+      {
+        "synonyms": [
+          "Every Seventeen Hours"
+        ],
+        "value": "Every 17 hours"
+      },
+      {
+        "synonyms": [
+          "q18hr",
+          "Every eighteen hours (qualifier value)",
+          "Every eighteen hours",
+          "Every Eighteen Hours"
+        ],
+        "value": "Every 18 hours"
       }
     ],
     "property": "targeted_therapy_frequency",
@@ -2920,8 +4798,1274 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Milligram/milliliter (qualifier value)",
+          "Gram/liter (qualifier value)",
+          "Kilogram/cubic meter (qualifier value)",
+          "Kilogram/cubic metre",
+          "Kilogram/cubic meter",
+          "Micrograms per microlitre",
+          "Micrograms per microliter",
+          "mcg/mcL",
+          "milligram/millilitre",
+          "Milligram/milliliter",
+          "kg/m3",
+          "gram/litre",
+          "Gram/liter",
+          "g/L",
+          "Kilogram per Cubic Meter"
+        ],
+        "value": "mg/mL"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Unit/mcg"
+      },
+      {
+        "synonyms": [
+          "Microgram/minute (qualifier value)",
+          "ug/min",
+          "Microgram/minute",
+          "Microgram per Minute"
+        ],
+        "value": "mcg/min"
+      },
+      {
+        "synonyms": [],
+        "value": "mg/unit"
+      },
+      {
+        "synonyms": [
+          "Degrees Celsius (qualifier value)",
+          "degrees C",
+          "Degrees Celsius"
+        ],
+        "value": "Degree Celsius"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [
+          "Hundred Million Infectious Units per Milliliter"
+        ],
+        "value": "10^8 IFU/mL"
+      },
+      {
+        "synonyms": [
+          "Billion Infectious Units per Milliliter"
+        ],
+        "value": "10^9 IFU/mL"
+      },
+      {
+        "synonyms": [],
+        "value": "10E13 Viral Particles"
+      },
+      {
+        "synonyms": [
+          "Microcurie per Kilogram"
+        ],
+        "value": "uCi/kg"
+      },
+      {
+        "synonyms": [
+          "Thousand Cells per Kilogram"
+        ],
+        "value": "10E3 Cells/kg"
+      },
+      {
+        "synonyms": [
+          "Liter per Milligram per Hour"
+        ],
+        "value": "L/h/mg"
+      },
+      {
+        "synonyms": [
+          "Micromole per Liter per Minute"
+        ],
+        "value": "umol/L/min"
+      },
+      {
+        "synonyms": [],
+        "value": "10E9 IU/mL"
+      },
+      {
+        "synonyms": [],
+        "value": "10E10 Viral Particles"
+      },
+      {
+        "synonyms": [
+          "Million",
+          "Plaque Forming Unit"
+        ],
+        "value": "10E6 PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "10E11 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E11 Viral Particles"
+      },
+      {
+        "synonyms": [],
+        "value": "10E11 Cells/kg"
+      },
+      {
+        "synonyms": [
+          "obsolete cell",
+          "Cellular structures",
+          "Cellular structure",
+          "Cell structure",
+          "set of cells",
+          "Normal cell",
+          "Cell structure (cell structure)",
+          "Normal cell (cell)",
+          "Cell",
+          "cell",
+          "Cells",
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Thousand",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E3 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Hundred Million Cells",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E8 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Billion Cells",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E9 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "obsolete cell",
+          "Cellular structures",
+          "Cellular structure",
+          "Cell structure",
+          "set of cells",
+          "Normal cell",
+          "Cell structure (cell structure)",
+          "Normal cell (cell)",
+          "Cell",
+          "cell",
+          "Cells",
+          "kilogram (qualifier value)",
+          "kg",
+          "kilogram",
+          "Integer",
+          "Kilogram",
+          "Value"
+        ],
+        "value": "10E10 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "Sievert (qualifier value)",
+          "Sievert"
+        ],
+        "value": "Sv"
+      },
+      {
+        "synonyms": [],
+        "value": "E+3 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+4 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+5 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+6 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+7 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+8 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+9 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+10 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "E+11 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E3 IU/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "mg/kg/day"
+      },
+      {
+        "synonyms": [
+          "Cells per Kilogram"
+        ],
+        "value": "Cells/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "MBq"
+      },
+      {
+        "synonyms": [],
+        "value": "Ampule"
+      },
+      {
+        "synonyms": [
+          "Breaths/minute (qualifier value)",
+          "Breaths/minute",
+          "breaths/min",
+          "BPM - breaths per minute",
+          "breaths per minute",
+          "Breaths per Minute"
+        ],
+        "value": "BPM"
+      },
+      {
+        "synonyms": [
+          "Cap Device"
+        ],
+        "value": "Capful"
+      },
+      {
+        "synonyms": [
+          "Unit/milliliter (qualifier value)",
+          "unit/mL",
+          "u/mL",
+          "U/mL",
+          "Unit/milliliter",
+          "unit/millilitre",
+          "Unit per Milliliter"
+        ],
+        "value": "Unit/mL"
+      },
+      {
+        "synonyms": [
+          "Inch (qualifier value)",
+          "in - inch",
+          "inches"
+        ],
+        "value": "Inch"
+      },
+      {
+        "synonyms": [],
+        "value": "mBq"
+      },
+      {
+        "synonyms": [],
+        "value": "10E9 Cells"
+      },
+      {
+        "synonyms": [
+          "Viral Particle Unit"
+        ],
+        "value": "IVRP"
+      },
+      {
+        "synonyms": [],
+        "value": "10E3 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E4 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E5 Cells"
+      },
+      {
+        "synonyms": [
+          "Million Cells"
+        ],
+        "value": "10E6 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E7 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E8 Cells"
+      },
+      {
+        "synonyms": [],
+        "value": "10E10 Cells"
+      },
+      {
+        "synonyms": [
+          "Millimole/liter (qualifier value)",
+          "umol/mL",
+          "Micromole/milliliter (qualifier value)",
+          "Micromole per millilitre",
+          "Micromole per milliliter",
+          "Micromole/millilitre",
+          "Micromole/milliliter",
+          "mcmol/mL",
+          "mM",
+          "millimolar",
+          "Millimole/liter",
+          "millimole/litre",
+          "mmol/L",
+          "Millimole per Liter"
+        ],
+        "value": "mM/L"
+      },
+      {
+        "synonyms": [
+          "International unit/milligram (qualifier value)",
+          "International unit/milligram",
+          "International Unit per Milligram"
+        ],
+        "value": "IU/mg"
+      },
+      {
+        "synonyms": [],
+        "value": "10E6 Cell/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "10E5 Cell/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "10E4 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "Unit/meter2",
+          "Unit/meter2 (qualifier value)",
+          "Unit per meter2",
+          "unit/m2",
+          "U/m2",
+          "Unit per square metre",
+          "Unit per square meter",
+          "Unit per metre squared",
+          "Unit per meter squared",
+          "Unit per Square Meter"
+        ],
+        "value": "Unit/m2"
+      },
+      {
+        "synonyms": [
+          "Millilitre",
+          "Milliliter",
+          "Milliliter (qualifier value)",
+          "cm3",
+          "cc"
+        ],
+        "value": "mL"
+      },
+      {
+        "synonyms": [
+          "Milligram per Inhalation"
+        ],
+        "value": "mg/inh"
+      },
+      {
+        "synonyms": [
+          "Milligram/day (qualifier value)",
+          "Milligrams/24 hours (qualifier value)",
+          "mg/day",
+          "mg/24h",
+          "Milligrams/24 hours",
+          "Milligram/day",
+          "Milligram per 24 Hours"
+        ],
+        "value": "mg/24hr"
+      },
+      {
+        "synonyms": [
+          "Liter/minute (qualifier value)",
+          "Litre/minute",
+          "Liter/minute",
+          "litre/minute",
+          "liter/minute",
+          "Liter per Minute"
+        ],
+        "value": "L/min"
+      },
+      {
+        "synonyms": [
+          "Intravenous Bag Dosing Unit"
+        ],
+        "value": "IV Bag"
+      },
+      {
+        "synonyms": [
+          "Bottle, device (physical object)",
+          "Bottle, device"
+        ],
+        "value": "Bottle"
+      },
+      {
+        "synonyms": [
+          "Area under the curve (qualifier value)",
+          "Area under the curve",
+          "Area Under Curve"
+        ],
+        "value": "AUC"
+      },
+      {
+        "synonyms": [],
+        "value": "10E8 PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "10E7 PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "Session"
+      },
+      {
+        "synonyms": [],
+        "value": "Seed"
+      },
+      {
+        "synonyms": [
+          "Patch (basic dose form)",
+          "Patch Dosage Form"
+        ],
+        "value": "Patch"
+      },
+      {
+        "synonyms": [],
+        "value": "10E9 PFU"
+      },
+      {
+        "synonyms": [
+          "Kilounit per Kilogram"
+        ],
+        "value": "kU/L"
+      },
+      {
+        "synonyms": [
+          "Tablespoonful - unit of product usage",
+          "Tablespoon - unit of product usage",
+          "Tablespoonful - unit of product usage (qualifier value)",
+          "Tablespoonful",
+          "Tablespoon",
+          "Tablespoon Dosing Unit"
+        ],
+        "value": "Tbsp"
+      },
+      {
+        "synonyms": [],
+        "value": "Tablet"
+      },
+      {
+        "synonyms": [
+          "rad",
+          "rad (qualifier value)",
+          "RAD - radiation absorbed dose",
+          "radiation absorbed dose"
+        ],
+        "value": "Rad"
+      },
+      {
+        "synonyms": [
+          "Milliliter/hour (qualifier value)",
+          "Millilitre/hour",
+          "Milliliter/hour",
+          "mL/h",
+          "Milliliter per Hour"
+        ],
+        "value": "mL/hr"
+      },
+      {
+        "synonyms": [
+          "Microgram/hour (qualifier value)",
+          "ug/hr",
+          "Microgram/hour",
+          "ug/h",
+          "Microgram per Hour"
+        ],
+        "value": "mcg/hr"
+      },
+      {
+        "synonyms": [
+          "Milligram/hour (qualifier value)",
+          "Milligram/hour",
+          "mg/h",
+          "Milligram per Hour"
+        ],
+        "value": "mg/hr"
+      },
+      {
+        "synonyms": [
+          "Milliequivalents/hour (qualifier value)",
+          "Milliequivalents/hour",
+          "Milliequivalents per hour",
+          "Milliequivalent per Hour"
+        ],
+        "value": "mEq/hr"
+      },
+      {
+        "synonyms": [
+          "Kilounit per Kilogram"
+        ],
+        "value": "kU/kg"
+      },
+      {
+        "synonyms": [
+          "Milligram per Week"
+        ],
+        "value": "mg/wk"
+      },
+      {
+        "synonyms": [],
+        "value": "Gallon"
+      },
+      {
+        "synonyms": [
+          "No information available",
+          "No information available (qualifier value)",
+          "No information",
+          "Information not available",
+          "No Information Available"
+        ],
+        "value": "No Srce"
+      },
+      {
+        "synonyms": [
+          "munit",
+          "Milliunit (qualifier value)",
+          "mU",
+          "Milliunit"
+        ],
+        "value": "millunit"
+      },
+      {
+        "synonyms": [
+          "Million Plaque Forming Units"
+        ],
+        "value": "mill PFU"
+      },
+      {
+        "synonyms": [
+          "Million unit (qualifier value)",
+          "Million unit",
+          "Million Units"
+        ],
+        "value": "MU"
+      },
+      {
+        "synonyms": [
+          "International Unit per Milligram of Alpha-Tocopherol"
+        ],
+        "value": "IU/mg A-TE"
+      },
+      {
+        "synonyms": [
+          "milligram (qualifier value)",
+          "milligram",
+          "Milligram"
+        ],
+        "value": "mg"
+      },
+      {
+        "synonyms": [
+          "International Unit of Vitamin A"
+        ],
+        "value": "IU Vit A"
+      },
+      {
+        "synonyms": [],
+        "value": "RAE"
+      },
+      {
+        "synonyms": [],
+        "value": "RE"
+      },
+      {
+        "synonyms": [
+          "Viral Particle Unit"
+        ],
+        "value": "VP"
+      },
+      {
+        "synonyms": [
+          "Microcurie (qualifier value)",
+          "uCi",
+          "microcurie",
+          "Microcurie"
+        ],
+        "value": "microCi"
+      },
+      {
+        "synonyms": [
+          "Unit/kilogram (qualifier value)",
+          "Unit per kilogram",
+          "unit/kg",
+          "U/kg",
+          "Unit/kilogram",
+          "Unit per Kilogram"
+        ],
+        "value": "Unit/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "tsp"
+      },
+      {
+        "synonyms": [],
+        "value": "Troche"
+      },
+      {
+        "synonyms": [],
+        "value": "Thousand"
+      },
+      {
+        "synonyms": [],
+        "value": "TCID"
+      },
+      {
+        "synonyms": [],
+        "value": "Suppstry"
+      },
+      {
+        "synonyms": [],
+        "value": "Spray"
+      },
+      {
+        "synonyms": [],
+        "value": "puff"
+      },
+      {
+        "synonyms": [
+          "Pounds/square inch (qualifier value)",
+          "lb/sq. in",
+          "Pounds/square inch",
+          "pounds/square inch",
+          "Pound per Square Inch"
+        ],
+        "value": "psi"
+      },
+      {
+        "synonyms": [
+          "picogram (qualifier value)",
+          "picogram",
+          "Picogram"
+        ],
+        "value": "pg"
+      },
+      {
+        "synonyms": [
+          "Plaque Forming Unit"
+        ],
+        "value": "PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "packet"
+      },
+      {
+        "synonyms": [
+          "Pascal (qualifier value)",
+          "Pascal",
+          "newton/square metre",
+          "newton/square meter",
+          "N/m2",
+          "N/sq. m"
+        ],
+        "value": "Pa"
+      },
+      {
+        "synonyms": [
+          "ounces (qualifier value)",
+          "ounces",
+          "ounce",
+          "Ounce"
+        ],
+        "value": "oz"
+      },
+      {
+        "synonyms": [
+          "Osmolality (observable entity)",
+          "Osmolality"
+        ],
+        "value": "osmol"
+      },
+      {
+        "synonyms": [
+          "nanomole (qualifier value)",
+          "nanomole",
+          "Nanomole"
+        ],
+        "value": "nmol"
+      },
+      {
+        "synonyms": [],
+        "value": "nm light"
+      },
+      {
+        "synonyms": [
+          "Nanogram/liter (qualifier value)",
+          "Picogram/milliliter (qualifier value)",
+          "pg/mL",
+          "picogram/millilitre",
+          "Picogram/milliliter",
+          "Nanogram/liter",
+          "nanogram/litre",
+          "Nanogram per Liter"
+        ],
+        "value": "ng/L"
+      },
+      {
+        "synonyms": [
+          "Nanogram per kilogram (qualifier value)",
+          "Nanogram/kilogram",
+          "Nanogram per kilogram",
+          "Nanogram per Kilogram"
+        ],
+        "value": "ng/kg"
+      },
+      {
+        "synonyms": [
+          "nanogram (qualifier value)",
+          "nanogram",
+          "Nanogram"
+        ],
+        "value": "ng"
+      },
+      {
+        "synonyms": [
+          "Nanocurie (qualifier value)",
+          "nanocurie",
+          "Nanocurie"
+        ],
+        "value": "nCi"
+      },
+      {
+        "synonyms": [
+          "Million Viral Particles"
+        ],
+        "value": "MVP"
+      },
+      {
+        "synonyms": [
+          "millivolt (qualifier value)",
+          "mV - millivolt",
+          "millivolt",
+          "Millivolt"
+        ],
+        "value": "mV"
+      },
+      {
+        "synonyms": [
+          "Milliinternational Unit per Square Meter"
+        ],
+        "value": "miu/m2"
+      },
+      {
+        "synonyms": [
+          "milliinternational unit (qualifier value)",
+          "mIU",
+          "milliinternational unit",
+          "Milliinternational Unit"
+        ],
+        "value": "miu"
+      },
+      {
+        "synonyms": [
+          "Megarad"
+        ],
+        "value": "Mrad"
+      },
+      {
+        "synonyms": [
+          "milliosmole (qualifier value)",
+          "milliosmole",
+          "Milliosmole"
+        ],
+        "value": "mosmol"
+      },
+      {
+        "synonyms": [
+          "mole - unit (qualifier value)",
+          "mole - unit",
+          "mol"
+        ],
+        "value": "Mole"
+      },
+      {
+        "synonyms": [
+          "millimole (qualifier value)",
+          "millimole",
+          "Millimole"
+        ],
+        "value": "mmol"
+      },
+      {
+        "synonyms": [
+          "microlitre/g",
+          "microliter/g",
+          "mL/kg (qualifier value)",
+          "Milliliter per Kilogram"
+        ],
+        "value": "mL/kg"
+      },
+      {
+        "synonyms": [],
+        "value": "Million"
+      },
+      {
+        "synonyms": [
+          "micromole (qualifier value)",
+          "umol",
+          "micromole",
+          "Micromole"
+        ],
+        "value": "micromol"
+      },
+      {
+        "synonyms": [
+          "cubic millimeter",
+          "mm3",
+          "cubic millimetre",
+          "Microliter",
+          "Microliter (qualifier value)",
+          "uL",
+          "microlitre"
+        ],
+        "value": "microL"
+      },
+      {
+        "synonyms": [
+          "Megahertz (qualifier value)",
+          "Megahertz (MHz)",
+          "megahertz",
+          "Megahertz"
+        ],
+        "value": "MHz"
+      },
+      {
+        "synonyms": [
+          "Yeast (substance)",
+          "Yeast (organism)",
+          "Yeast",
+          "Ten",
+          "Million"
+        ],
+        "value": "YU"
+      },
+      {
+        "synonyms": [],
+        "value": "10E7 Cell/kg"
+      },
+      {
+        "synonyms": [
+          "U/g",
+          "Unit/gram (qualifier value)",
+          "Unit per gram",
+          "Unit/gm",
+          "Unit/gram",
+          "Unit per Gram"
+        ],
+        "value": "Unit/g"
+      },
+      {
+        "synonyms": [],
+        "value": "mcg/m2"
+      },
+      {
+        "synonyms": [
+          "Cyclical",
+          "Cyclic",
+          "Cyclic (qualifier value)",
+          "Cycle",
+          "Courses (qualifier value)",
+          "Courses"
+        ],
+        "value": "Course"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Unit (qualifier value)",
+          "Units (attribute)",
+          "Units"
+        ],
+        "value": "Unit"
+      },
+      {
+        "synonyms": [
+          "Nanogram/milliliter (qualifier value)",
+          "Microgram/liter (qualifier value)",
+          "nanogram/millilitre",
+          "Nanogram/milliliter",
+          "Microgram/liter",
+          "microgram/litre",
+          "ug/L",
+          "Microgram per Liter"
+        ],
+        "value": "ng/mL"
+      },
+      {
+        "synonyms": [
+          "Caplet Dosing Unit"
+        ],
+        "value": "Caplet"
+      },
+      {
+        "synonyms": [
+          "Capsule (basic dose form)",
+          "Capsule Dosage Form"
+        ],
+        "value": "Capsule"
+      },
+      {
+        "synonyms": [
+          "Percent Unit"
+        ],
+        "value": "%"
+      },
+      {
+        "synonyms": [
+          "Application Unit"
+        ],
+        "value": "Applcatn"
+      },
+      {
+        "synonyms": [],
+        "value": "au"
+      },
+      {
+        "synonyms": [],
+        "value": "bill PFU"
+      },
+      {
+        "synonyms": [],
+        "value": "Cells"
+      },
+      {
+        "synonyms": [
+          "Centigray (qualifier value)",
+          "centigray",
+          "Centigray"
+        ],
+        "value": "cGy"
+      },
+      {
+        "synonyms": [
+          "Curie (qualifier value)",
+          "curie",
+          "Curie"
+        ],
+        "value": "Ci"
+      },
+      {
+        "synonyms": [
+          "Decilitre",
+          "Deciliter",
+          "Deciliter (qualifier value)"
+        ],
+        "value": "dL"
+      },
+      {
+        "synonyms": [
+          "Dosage (attribute)",
+          "Dosage"
+        ],
+        "value": "Dose"
+      },
+      {
+        "synonyms": [
+          "Equivalent"
+        ],
+        "value": "Eq"
+      },
+      {
+        "synonyms": [
+          "gram",
+          "gram (qualifier value)",
+          "Gram"
+        ],
+        "value": "g"
+      },
+      {
+        "synonyms": [
+          "Gram/square meter (qualifier value)",
+          "Gram/square metre",
+          "Gram/square meter",
+          "Gram per Square Meter"
+        ],
+        "value": "g/m2"
+      },
+      {
+        "synonyms": [],
+        "value": "gtts"
+      },
+      {
+        "synonyms": [
+          "Gray",
+          "Gray (qualifier value)",
+          "gray"
+        ],
+        "value": "Gy"
+      },
+      {
+        "synonyms": [
+          "Hertz (qualifier value)",
+          "hertz",
+          "Hertz",
+          "cycles/second",
+          "cycles/s"
+        ],
+        "value": "Hz"
+      },
+      {
+        "synonyms": [],
+        "value": "Inhalatn"
+      },
+      {
+        "synonyms": [
+          "international unit (qualifier value)",
+          "IU",
+          "international units",
+          "international unit",
+          "International Unit"
+        ],
+        "value": "IUnit"
+      },
+      {
+        "synonyms": [
+          "international units per kilogram (qualifier value)",
+          "IU/kg",
+          "international unit/kilogram",
+          "international units per kilogram",
+          "International Unit per Kilogram"
+        ],
+        "value": "IUnit/kg"
+      },
+      {
+        "synonyms": [
+          "milliinternational unit/milliliter (qualifier value)",
+          "International unit/liter (qualifier value)",
+          "mIU/mL",
+          "milliinternational unit/millilitre",
+          "milliinternational unit/milliliter",
+          "IU/L",
+          "International unit/litre",
+          "International unit/liter",
+          "International Unit per Liter"
+        ],
+        "value": "IUnit/L"
+      },
+      {
+        "synonyms": [
+          "Joule per Square Centimeter"
+        ],
+        "value": "Jcm2"
+      },
+      {
+        "synonyms": [
+          "Kiloelectronvolt"
+        ],
+        "value": "KeV"
+      },
+      {
+        "synonyms": [
+          "kilogram (qualifier value)",
+          "kilogram",
+          "Kilogram"
+        ],
+        "value": "kg"
+      },
+      {
+        "synonyms": [
+          "Kilohertz (qualifier value)",
+          "kilohertz",
+          "Kilohertz"
+        ],
+        "value": "kHz"
+      },
+      {
+        "synonyms": [
+          "Kilopascal (qualifier value)",
+          "Kilopascal"
+        ],
+        "value": "kPa"
+      },
+      {
+        "synonyms": [
+          "Kilounit"
+        ],
+        "value": "kU"
+      },
+      {
+        "synonyms": [
+          "Liter (qualifier value)",
+          "Litre",
+          "Liter"
+        ],
+        "value": "L"
+      },
+      {
+        "synonyms": [
+          "ug",
+          "microgram (qualifier value)",
+          "microgram",
+          "Microgram"
+        ],
+        "value": "mcg"
+      },
+      {
+        "synonyms": [],
+        "value": "mcg/cm2"
+      },
+      {
+        "synonyms": [
+          "Microgram/kilogram (qualifier value)",
+          "Nanogram per gram (qualifier value)",
+          "Nanogram per gram",
+          "Nanogram/gram",
+          "ng/gm",
+          "ng/g",
+          "Microgram/kilogram",
+          "ug/kg",
+          "microg/kg",
+          "Microgram per Kilogram"
+        ],
+        "value": "mcg/kg"
+      },
+      {
+        "synonyms": [
+          "Millicurie (qualifier value)",
+          "Millicurie",
+          "millicurie"
+        ],
+        "value": "mCi"
+      },
+      {
+        "synonyms": [],
+        "value": "Measure"
+      },
+      {
+        "synonyms": [
+          "milliequivalent (qualifier value)",
+          "milliequivalent",
+          "Milliequivalent"
+        ],
+        "value": "mEq"
+      },
+      {
+        "synonyms": [
+          "Milliequivalent/24 hours (qualifier value)",
+          "mEq/24 hr",
+          "Milliequivalent/24 hours",
+          "milliequivalent/day",
+          "mEq/day",
+          "Milliequivalent per 24 hours",
+          "Milliequivalent per 24 Hours"
+        ],
+        "value": "mEq/24hr"
+      },
+      {
+        "synonyms": [
+          "Milliequivalents/deciliter (qualifier value)",
+          "Milliequivalents/deciliter",
+          "Milliequivalents per decilitre",
+          "Milliequivalents per deciliter",
+          "Milliequivalent per Deciliter"
+        ],
+        "value": "mEq/dL"
+      },
+      {
+        "synonyms": [
+          "Milliequivalent/liter (qualifier value)",
+          "Milliequivalent/liter",
+          "milliequivalent/litre",
+          "Milliequivalent per Liter"
+        ],
+        "value": "mEq/L"
+      },
+      {
+        "synonyms": [
+          "Million"
+        ],
+        "value": "MeV"
+      },
+      {
+        "synonyms": [
+          "Milligram/deciliter (qualifier value)",
+          "Milligram/decilitre",
+          "Milligram/deciliter",
+          "milligram/decilitre",
+          "Milligram per Deciliter"
+        ],
+        "value": "mg/dL"
+      },
+      {
+        "synonyms": [
+          "Microgram/gram",
+          "Microgram/gram (qualifier value)",
+          "Milligram/kilogram (qualifier value)",
+          "Milligram/kilogram",
+          "ug/g",
+          "microgram/g",
+          "microg/g",
+          "Milligram per Kilogram"
+        ],
+        "value": "mg/kg"
+      },
+      {
+        "synonyms": [
+          "Milligram/meter2",
+          "Milligram/metre2",
+          "mg/sq.m",
+          "Milligram/square meter (qualifier value)",
+          "Milligram/square metre",
+          "Milligram/square meter",
+          "Milligram per Square Meter"
+        ],
+        "value": "mg/m2"
       }
     ],
     "property": "non_targeted_therapy_dose_units",
@@ -2934,8 +6078,531 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Every Nineteen Hours"
+        ],
+        "value": "Every 19 hours"
+      },
+      {
+        "synonyms": [
+          "Not",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Negation"
+        ],
+        "value": "Not daily"
+      },
+      {
+        "synonyms": [
+          "q4wk",
+          "Every four weeks (qualifier value)",
+          "Every four weeks",
+          "Every Four Weeks"
+        ],
+        "value": "Every 4 weeks"
+      },
+      {
+        "synonyms": [
+          "Morning (qualifier value)",
+          "om - omni mane",
+          "mane",
+          "During morning",
+          "ante meridiem",
+          "am - ante meridiem",
+          "In the morning"
+        ],
+        "value": "Morning"
+      },
+      {
+        "synonyms": [
+          "Mid",
+          "Mid (qualifier value)",
+          "middle",
+          "Middle",
+          "Days",
+          "day (qualifier value)",
+          "d - day",
+          "days",
+          "Day",
+          "day"
+        ],
+        "value": "Mid-day"
+      },
+      {
+        "synonyms": [
+          "Early (qualifier value)",
+          "Earlier",
+          "Early",
+          "Evening (qualifier value)",
+          "During the evening",
+          "Evening"
+        ],
+        "value": "Early evening"
+      },
+      {
+        "synonyms": [
+          "Tardy",
+          "Late (qualifier value)",
+          "Later",
+          "Late",
+          "Evening (qualifier value)",
+          "During the evening",
+          "Evening"
+        ],
+        "value": "Later evening"
+      },
+      {
+        "synonyms": [
+          "Nocturnal",
+          "on - omni nocte",
+          "nocte",
+          "Night time (qualifier value)",
+          "At night",
+          "Night time",
+          "Night Time"
+        ],
+        "value": "Night"
+      },
+      {
+        "synonyms": [
+          "Changing (qualifier value)",
+          "Changing",
+          "Days",
+          "day (qualifier value)",
+          "d - day",
+          "days",
+          "Day",
+          "day",
+          "Change",
+          "From",
+          "To"
+        ],
+        "value": "Varied from day to day"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "<1 time per week"
+      },
+      {
+        "synonyms": [],
+        "value": "1-6 times per week"
+      },
+      {
+        "synonyms": [],
+        "value": "Daily or more"
+      },
+      {
+        "synonyms": [
+          "Triweekly",
+          "Triweekly (qualifier value)",
+          "Every three weeks",
+          "Every Three Weeks"
+        ],
+        "value": "every 3 weeks"
+      },
+      {
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly"
+        ],
+        "value": "every week"
+      },
+      {
+        "synonyms": [],
+        "value": "4 times a day"
+      },
+      {
+        "synonyms": [
+          "Once a day, at bedtime",
+          "Once a day, at bedtime (qualifier value)",
+          "qHS",
+          "Hour Of Sleep"
+        ],
+        "value": "At bedtime"
+      },
+      {
+        "synonyms": [
+          "Four to six hourly",
+          "Every four to six hours (qualifier value)",
+          "q4-6hr",
+          "4-6 hourly",
+          "Every four to six hours",
+          "Every Four to Six Hours"
+        ],
+        "value": "Every 4 to 6 hours"
+      },
+      {
+        "synonyms": [
+          "Every Four to Five Hours"
+        ],
+        "value": "Every 4 to 5 hours"
+      },
+      {
+        "synonyms": [
+          "Three to four hourly",
+          "Every three to four hours (qualifier value)",
+          "3-4 hourly",
+          "Every three to four hours",
+          "Every Three to Four Hours"
+        ],
+        "value": "Every 3 to 4 hours"
+      },
+      {
+        "synonyms": [
+          "Every one to two hours (qualifier value)",
+          "q1-2 hr",
+          "Every one to two hours",
+          "Every One to Two Hours"
+        ],
+        "value": "Every 1 to 2 hours"
+      },
+      {
+        "synonyms": [
+          "q24hr",
+          "Every twenty four hours (qualifier value)",
+          "Every twenty four hours",
+          "Every Twenty-Four Hours"
+        ],
+        "value": "Every 24 hours"
+      },
+      {
+        "synonyms": [
+          "Every Twenty-Three Hours"
+        ],
+        "value": "Every 23 hours"
+      },
+      {
+        "synonyms": [
+          "Every Twenty-Two Hours"
+        ],
+        "value": "Every 22 hours"
+      },
+      {
+        "synonyms": [
+          "Every Twenty-One Hours"
+        ],
+        "value": "Every 21 hours"
+      },
+      {
+        "synonyms": [
+          "Every twenty hours (qualifier value)",
+          "Every twenty hours",
+          "Every Twenty Hours"
+        ],
+        "value": "Every 20 hours"
+      },
+      {
+        "synonyms": [],
+        "value": "Once a day (Q.D.)"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)",
+          "Other",
+          "Specify"
+        ],
+        "value": "other, specify"
+      },
+      {
+        "synonyms": [],
+        "value": "immediately (Stat)"
+      },
+      {
+        "synonyms": [],
+        "value": "as needed (P.R.N)"
+      },
+      {
+        "synonyms": [],
+        "value": "every day (Q.D.)"
+      },
+      {
+        "synonyms": [],
+        "value": "every other day (Q.O.D.)"
+      },
+      {
+        "synonyms": [],
+        "value": "twice a day (B.I.D)"
+      },
+      {
+        "synonyms": [],
+        "value": "three times a day (T.I.D)"
+      },
+      {
+        "synonyms": [],
+        "value": "four times a day (Q.I.D)"
+      },
+      {
+        "synonyms": [],
+        "value": "twice a week (B.I.W)"
+      },
+      {
+        "synonyms": [],
+        "value": "three times a week (T.I.W)"
+      },
+      {
+        "synonyms": [],
+        "value": "before meals (A.C.)"
+      },
+      {
+        "synonyms": [],
+        "value": "after meals (P.C.)"
+      },
+      {
+        "synonyms": [],
+        "value": "at bedtime or hour of sleep (H.S.)"
+      },
+      {
+        "synonyms": [],
+        "value": "every 4 hours (Q4hr)"
+      },
+      {
+        "synonyms": [],
+        "value": "every 6 hours (Q6hr)"
+      },
+      {
+        "synonyms": [],
+        "value": "every 8 hours (Q8hr)"
+      },
+      {
+        "synonyms": [
+          "Every twelve hours (qualifier value)",
+          "q12h - Every twelve hours",
+          "Every twelve hours",
+          "Every Twelve Hours"
+        ],
+        "value": "every 12 hours (Q12hr)"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [],
+        "value": "Dose held"
+      },
+      {
+        "synonyms": [
+          "Intermittent",
+          "Intermittent (qualifier value)"
+        ],
+        "value": "Intermittent or as needed"
+      },
+      {
+        "synonyms": [
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)"
+        ],
+        "value": "Daily"
+      },
+      {
+        "synonyms": [],
+        "value": "PM/bedtime"
+      },
+      {
+        "synonyms": [],
+        "value": "AM"
+      },
+      {
+        "synonyms": [],
+        "value": "When needed"
+      },
+      {
+        "synonyms": [],
+        "value": "Six times a day"
+      },
+      {
+        "synonyms": [],
+        "value": "Eight times a day"
+      },
+      {
+        "synonyms": [
+          "Non-specific",
+          "Non-specified",
+          "Non-specific (qualifier value)",
+          "Unspecified"
+        ],
+        "value": "Not specified"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week"
+        ],
+        "value": "Weekly"
+      },
+      {
+        "synonyms": [
+          "per month",
+          "/month",
+          "per month (qualifier value)",
+          "Month",
+          "Every month",
+          "Monthly (qualifier value)"
+        ],
+        "value": "Monthly"
+      },
+      {
+        "synonyms": [],
+        "value": ">4X/day"
+      },
+      {
+        "synonyms": [
+          "Five times a day",
+          "Five times daily (qualifier value)",
+          "Five Times Daily"
+        ],
+        "value": "Five times daily"
+      },
+      {
+        "synonyms": [
+          "qPM",
+          "Once a day, in the evening (qualifier value)",
+          "Once a day, in the evening",
+          "QPM"
+        ],
+        "value": "Every evening"
+      },
+      {
+        "synonyms": [
+          "Hourly (qualifier value)",
+          "Hourly",
+          "Every Hour"
+        ],
+        "value": "Every hour"
+      },
+      {
+        "synonyms": [
+          "Every morning (qualifier value)",
+          "Every Morning"
+        ],
+        "value": "Every morning"
+      },
+      {
+        "synonyms": [
+          "Two hourly",
+          "Every two hours (qualifier value)",
+          "2 hourly",
+          "Every two hours",
+          "Every Two Hours"
+        ],
+        "value": "Every 2 hours"
+      },
+      {
+        "synonyms": [
+          "Three hourly",
+          "Every three hours (qualifier value)",
+          "3 hourly",
+          "Every three hours",
+          "Every Three Hours"
+        ],
+        "value": "Every 3 hours"
+      },
+      {
+        "synonyms": [
+          "q5hr",
+          "Every five hours (qualifier value)",
+          "Every five hours",
+          "Every Five Hours"
+        ],
+        "value": "Every 5 hours"
+      },
+      {
+        "synonyms": [
+          "Every six hours (qualifier value)",
+          "q6h - Every six hours",
+          "Every six hours",
+          "Every Six Hours"
+        ],
+        "value": "Every 6 hours"
+      },
+      {
+        "synonyms": [
+          "Every Seven Hours"
+        ],
+        "value": "Every 7 hours"
+      },
+      {
+        "synonyms": [
+          "Every Nine Hours"
+        ],
+        "value": "Every 9 hours"
+      },
+      {
+        "synonyms": [
+          "Every ten hours (qualifier value)",
+          "Every ten hours",
+          "Every Ten Hours"
+        ],
+        "value": "Every 10 hours"
+      },
+      {
+        "synonyms": [
+          "Every Eleven Hours"
+        ],
+        "value": "Every 11 hours"
+      },
+      {
+        "synonyms": [
+          "Every Thirteen Hours"
+        ],
+        "value": "Every 13 hours"
+      },
+      {
+        "synonyms": [
+          "Every Fourteen Hours"
+        ],
+        "value": "Every 14 hours"
+      },
+      {
+        "synonyms": [
+          "Every Fifteen Hours"
+        ],
+        "value": "Every 15 hours"
+      },
+      {
+        "synonyms": [
+          "q16hr",
+          "Every sixteen hours (qualifier value)",
+          "Every sixteen hours",
+          "Every Sixteen Hours"
+        ],
+        "value": "Every 16 hours"
+      },
+      {
+        "synonyms": [
+          "Every Seventeen Hours"
+        ],
+        "value": "Every 17 hours"
+      },
+      {
+        "synonyms": [
+          "q18hr",
+          "Every eighteen hours (qualifier value)",
+          "Every eighteen hours",
+          "Every Eighteen Hours"
+        ],
+        "value": "Every 18 hours"
       }
     ],
     "property": "non_targeted_therapy_frequency",
@@ -3090,8 +6757,108 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Experimental Therapeutic Procedure"
+        ],
+        "value": "Experimental Procedure"
+      },
+      {
+        "synonyms": [
+          "Surgical",
+          "SURG",
+          "Surgery, NOS",
+          "surgery",
+          "Surgical (qualifier value)",
+          "Surgery (qualifier value)",
+          "surgical procedure",
+          "Surgical procedures",
+          "Surgical procedure",
+          "Surgery procedure",
+          "Surgical procedure (procedure)",
+          "Operative procedure",
+          "Operation NOS",
+          "Operation",
+          "H&P.SURG PROC",
+          "Surgical Procedure"
+        ],
+        "value": "Surgery"
+      },
+      {
+        "synonyms": [
+          "Eye Evisceration and Enucleation"
+        ],
+        "value": "Enucleation of Eye"
+      },
+      {
+        "synonyms": [
+          "Cryotherapy (procedure)",
+          "Cryotherapy - physiotherapeutic",
+          "Cryotherapy NOS",
+          "Cooling therapy",
+          "Therapy by cooling",
+          "Cold therapy (regime/therapy)",
+          "Therapeutic application of cold",
+          "Cryotherapy - action (qualifier value)",
+          "Cryotherapy - action",
+          "Cold therapy"
+        ],
+        "value": "Cryotherapy"
+      },
+      {
+        "synonyms": [
+          "Laser surgery",
+          "Laser surgical technique",
+          "Laser surgery (procedure)",
+          "Laser Surgery"
+        ],
+        "value": "Laser"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Not Reported"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [
+          "Fine needle aspiration biopsy - action (qualifier value)",
+          "Fine needle aspiration biopsy - action",
+          "fine-needle aspiration",
+          "fine needle aspiration",
+          "FNA - Fine needle aspiration",
+          "Aspiration biopsy",
+          "fine needle aspiration biopsy",
+          "Fine needle aspiration biopsy",
+          "Fine-Needle Aspiration"
+        ],
+        "value": "Fine Needle Aspiration"
+      },
+      {
+        "synonyms": [
+          "Biopsy (procedure)",
+          "BX - Biopsy",
+          "Biopsy - action (qualifier value)",
+          "Biopsy - action",
+          "Biopsy, nos",
+          "Biopsy NOS",
+          "biopsy"
+        ],
+        "value": "Biopsy"
       }
     ],
     "property": "surgical_procedure",
@@ -3286,8 +7053,120 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Centigray (qualifier value)",
+          "cGy",
+          "centigray",
+          "Centigray"
+        ],
+        "value": "cGY"
+      },
+      {
+        "synonyms": [
+          "Cobalt Gray Equivalent"
+        ],
+        "value": "CGE"
+      },
+      {
+        "synonyms": [
+          "Gray",
+          "Gray (qualifier value)",
+          "gray"
+        ],
+        "value": "Gy"
+      },
+      {
+        "synonyms": [
+          "Microgram/gram",
+          "Microgram/gram (qualifier value)",
+          "Milligram/kilogram (qualifier value)",
+          "Milligram/kilogram",
+          "ug/g",
+          "microgram/g",
+          "microg/g",
+          "Milligram per Kilogram"
+        ],
+        "value": "mg/kg"
+      },
+      {
+        "synonyms": [
+          "milligram (qualifier value)",
+          "milligram",
+          "Milligram"
+        ],
+        "value": "mg"
+      },
+      {
+        "synonyms": [
+          "Milligram/meter2",
+          "Milligram/metre2",
+          "mg/sq.m",
+          "Milligram/square meter (qualifier value)",
+          "Milligram/square metre",
+          "Milligram/square meter",
+          "Milligram per Square Meter"
+        ],
+        "value": "mg/m2"
+      },
+      {
+        "synonyms": [
+          "International units per square meter (qualifier value)",
+          "International unit/square metre",
+          "International unit/square meter",
+          "International units per square metre",
+          "International units per square meter",
+          "International unit per square metre",
+          "International unit per square meter",
+          "International unit per metre squared",
+          "International unit per meter squared",
+          "International Unit per Square Meter"
+        ],
+        "value": "IU/m2"
+      },
+      {
+        "synonyms": [
+          "international unit (qualifier value)",
+          "international units",
+          "international unit",
+          "International Unit"
+        ],
+        "value": "IU"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Not Reported"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Millilitre",
+          "Milliliter",
+          "Milliliter (qualifier value)",
+          "cm3",
+          "cc"
+        ],
+        "value": "mL"
+      },
+      {
+        "synonyms": [
+          "Percent (property)",
+          "Percent (property) (qualifier value)",
+          "percent",
+          "Percent",
+          "PCT",
+          "Percentage"
+        ],
+        "value": "%"
       }
     ],
     "property": "radiation_dose_units",
@@ -3314,8 +7193,28 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Radiation Treatment",
+          "Radiation Therapy (Procedure)",
+          "Radiotherapy NOS",
+          "radiotherapy",
+          "Radiotherapy",
+          "Radiation therapy",
+          "radiation therapy",
+          "Radiation",
+          "Radiation Therapy"
+        ],
+        "value": "Radiation, NOS"
+      },
+      {
+        "synonyms": [
+          "Limited Radiation Therapy"
+        ],
+        "value": "Limited Radiation"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Extensive Radiation"
       }
     ],
     "property": "radiation_extent",
@@ -3527,8 +7426,1346 @@
     "dataCommons": "CTDC",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Parkinson's disease NOS",
+          "Parkinson disease",
+          "Parkinson's disease",
+          "Parkinson's dis",
+          "Primary Parkinsonism",
+          "Syndrome Parkinson's",
+          "Parkinson's syndrome",
+          "Palsy shaking",
+          "Shaking palsy",
+          "Idiopathic Parkinsonism",
+          "PD - Parkinson's disease",
+          "Idiopathic Parkinson's disease",
+          "Parkinson's disease (disorder)",
+          "Paralysis agitans",
+          "Parkinsons disease",
+          "Disease Parkinson's",
+          "Parkinson Disease"
+        ],
+        "value": "Parkinson's Disease"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "End-stage Renal Disease"
+      },
+      {
+        "synonyms": [
+          "Kidney disease",
+          "Nephropathy NOS",
+          "Nephropathies",
+          "Nephropathy",
+          "Disorder renal",
+          "Renal disorder NOS",
+          "Renal disorder",
+          "Disorder kidney",
+          "Disorder of kidney",
+          "Kidney disorder",
+          "kidney disorder",
+          "Renal disease",
+          "Kidney disease (disorder)",
+          "Kidney diseases",
+          "Disease of kidney",
+          "Kidney Disease",
+          "Kidney Disorder"
+        ],
+        "value": "Renal Disorder, NOS"
+      },
+      {
+        "synonyms": [
+          "Spinal muscular atrophy",
+          "Spinal muscle wasting",
+          "Spinal muscle degeneration",
+          "Spinal muscl atrophy NOS",
+          "Spinal muscular atrophy, unspecified",
+          "SMA - Spinal muscular atrophy",
+          "Spinal muscular atrophy (disorder)",
+          "Spinal amyotrophy"
+        ],
+        "value": "Spinal Muscular Atrophy"
+      },
+      {
+        "synonyms": [
+          "Non-Cancer Related Death"
+        ],
+        "value": "Not Cancer Related"
+      },
+      {
+        "synonyms": [
+          "Cancer-Related Death"
+        ],
+        "value": "Cancer Related"
+      },
+      {
+        "synonyms": [],
+        "value": "Unacceptable Toxicity"
+      },
+      {
+        "synonyms": [
+          "Hepatic sinusoidal obstruction syndrome",
+          "Venoocclusive liver disease",
+          "Sinusoidal obstruction syndrome",
+          "Venoocclusive syndrome of the liver",
+          "Veno-occlusive disease of the liver",
+          "Veno-occlusive disease of the liver (disorder)",
+          "Hepatic veno-occlusive disease"
+        ],
+        "value": "Sinusoidal Obstruction Syndrome"
+      },
+      {
+        "synonyms": [
+          "Infections",
+          "Infection NOS",
+          "Infection",
+          "Not Otherwise Specified"
+        ],
+        "value": "Infection, NOS"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Reported"
+      },
+      {
+        "synonyms": [
+          "Surgical complication"
+        ],
+        "value": "Surgical Complication"
+      },
+      {
+        "synonyms": [
+          "Disorder of lung (disorder)",
+          "Pneumopathy",
+          "Disorder pulmonary",
+          "Pulmonary disorder",
+          "Lung disorder (NOS)",
+          "Disorder of lung",
+          "Disorder lung",
+          "Lung disorder NOS",
+          "Lung disorder",
+          "Pulmonary disease",
+          "Lung disease NOS",
+          "Lung Disease",
+          "Lung disease",
+          "Lung Disorder"
+        ],
+        "value": "Pulmonary Disease"
+      },
+      {
+        "synonyms": [],
+        "value": "Immunotherapy-Related"
+      },
+      {
+        "synonyms": [
+          "Card",
+          "Disorder of heart",
+          "Heart disorder",
+          "Heart disease, unspecified",
+          "Heart disease (disorder)",
+          "Morbus cordis",
+          "Cardiopathy",
+          "Disorder cardiac (NOS)",
+          "Cardiac disorders",
+          "Cardiac disorder NOS",
+          "Cardiac disorder",
+          "Heart disease NOS",
+          "Heart Disease",
+          "Heart disease",
+          "heart disease",
+          "Heart Disorder"
+        ],
+        "value": "Cardiac Disease"
+      },
+      {
+        "synonyms": [
+          "Adverse event NOS",
+          "Adverse event"
+        ],
+        "value": "Adverse Event"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Poisoning caused by drug or medicinal substance",
+          "Poisoning caused by drug AND/OR medicinal substance",
+          "Poisoning caused by drug AND/OR medicinal substance (disorder)",
+          "Poison-medicinal agt NOS",
+          "Medicinal poisoning",
+          "Medicament poisoning",
+          "Drug poisoning",
+          "Poisoning by unspecified drug or medicinal substance",
+          "Poisoning by drug or medicinal substance",
+          "Poisoning by drug AND/OR medicinal substance",
+          "Drug intoxication",
+          "Therapeutic agent toxicity",
+          "Drug toxicity NOS",
+          "Drug toxicity (NOS)",
+          "Drug toxicity",
+          "Drug Toxicity"
+        ],
+        "value": "Drug Related"
+      },
+      {
+        "synonyms": [
+          "infection due to virus",
+          "Disease due to virus",
+          "Viral infection NOS",
+          "viral infection",
+          "Infection viral",
+          "Viral infection, unspecified",
+          "Viral infection of unspecified site",
+          "Viral illness",
+          "Viral disease",
+          "Viral infectious disease",
+          "Viral disease (disorder)",
+          "Disease caused by virus",
+          "Viral Infection"
+        ],
+        "value": "Viral infection"
+      },
+      {
+        "synonyms": [
+          "Hepatic sinusoidal obstruction syndrome",
+          "Venoocclusive liver disease",
+          "Sinusoidal obstruction syndrome",
+          "Venoocclusive syndrome of the liver",
+          "Veno-occlusive disease of the liver",
+          "Veno-occlusive disease of the liver (disorder)",
+          "Hepatic veno-occlusive disease",
+          "Sinusoidal Obstruction Syndrome"
+        ],
+        "value": "Veno-occlusive disease (VOD) / sinusodial obstruction syndrome (SOS)"
+      },
+      {
+        "synonyms": [
+          "vascular region",
+          "vasc",
+          "vascular",
+          "Vascular",
+          "Not Otherwise Specified"
+        ],
+        "value": "Vascular, not otherwise specified"
+      },
+      {
+        "synonyms": [
+          "Unclassified",
+          "Unclassified (qualifier value)",
+          "Infectious disease",
+          "Contagious disease (navigational concept)",
+          "Communicable disease (navigational concept)",
+          "Infect/parasite dis NOS",
+          "Infections and infestations",
+          "infection",
+          "Infection",
+          "Infec",
+          "Infective disorder",
+          "Infectious and parasitic diseases, unspecified",
+          "Unspecified infectious and parasitic diseases",
+          "INFECTIOUS AND PARASITIC DISEASES",
+          "Infectious diseases",
+          "Infectious disease (disorder)",
+          "Contagious disease",
+          "Communicable disease",
+          "Not Otherwise Specified",
+          "Infectious Disorder"
+        ],
+        "value": "Unclassified infection / Infection NOS"
+      },
+      {
+        "synonyms": [
+          "Thrombocytopenia purpura",
+          "Thrombocytopenic purpura (disorder)",
+          "Thrombocytopaenic purpura",
+          "Purpura thrombocytopenic",
+          "Thrombocytopenic purpura",
+          "Thrombocytopenic Purpura"
+        ],
+        "value": "Thrombotic thrombocytopenic purpura (HUS/TTP)"
+      },
+      {
+        "synonyms": [
+          "Thromboembolism",
+          "Blood clot in blood vessel",
+          "Other venous embolism and thrombosis of unspecified site",
+          "Venous thrombosis NOS",
+          "Thromboembolus",
+          "Thromboembolism - lesion",
+          "Thromboembolic events",
+          "Thromboembolic event",
+          "Embolism and thrombosis of unspecified site",
+          "Thromboembolic disorder",
+          "Thromboembolic disorder (disorder)",
+          "Thromboembolic disease",
+          "Thromboembolus (morphologic abnormality)",
+          "Thromboembolism NOS",
+          "thromboembolism"
+        ],
+        "value": "Thromboembolic"
+      },
+      {
+        "synonyms": [
+          "Suicide (event)"
+        ],
+        "value": "Suicide"
+      },
+      {
+        "synonyms": [
+          "Infection in blood stream",
+          "Unspecified septicaemia",
+          "Unspecified septicemia",
+          "Septicemia NOS",
+          "Septicaemia NOS",
+          "Septicaemia",
+          "Septicemia"
+        ],
+        "value": "Sepsis"
+      },
+      {
+        "synonyms": [
+          "Respiratory failure, unspecified",
+          "Respiration failure",
+          "Respiratory failure (disorder)",
+          "Failure respiratory",
+          "Respiratory Failure"
+        ],
+        "value": "Respiratory failure"
+      },
+      {
+        "synonyms": [
+          "Renal insufficiency (disorder)",
+          "Unspecified kidney failure",
+          "Renal insufficiency syndrome",
+          "Renal insufficiency",
+          "Renal failure unspecified",
+          "Renal failure, unspecified",
+          "Renal failure syndrome",
+          "RF - Renal failure",
+          "Renal failure NOS",
+          "renal failure",
+          "Renal failure syndrome (disorder)",
+          "Failure kidney",
+          "Kidney failure",
+          "Renal Failure"
+        ],
+        "value": "Renal failure"
+      },
+      {
+        "synonyms": [
+          "Recurrence (qualifier value)",
+          "Recurrence",
+          "persistent",
+          "Progressive disease",
+          "Persistent",
+          "Progressive Disease"
+        ],
+        "value": "Recurrence/persistence/progression of disease reported for first HSCT"
+      },
+      {
+        "synonyms": [
+          "Radiation Treatment",
+          "Radiation Therapy (Procedure)",
+          "Radiotherapy NOS",
+          "radiotherapy",
+          "Radiotherapy",
+          "Radiation therapy",
+          "radiation therapy",
+          "Radiation",
+          "Interstitial pneumonitis",
+          "Interstitial pneumonia (disorder)",
+          "Interstitial pneumonia NOS",
+          "interstitial pneumonia",
+          "Pneumonia interstitial",
+          "Interstitial pneumonia",
+          "Radiation Therapy",
+          "Interstitial Pneumonia"
+        ],
+        "value": "Radiation IP"
+      },
+      {
+        "synonyms": [
+          "Pulmonary",
+          "Pulmonary (intended site)",
+          "Pulmonary, NOS",
+          "Haemorrhage",
+          "Hemorrhage term",
+          "Hem",
+          "Haemorrhage, unspecified",
+          "Hemorrhage, unspecified",
+          "Blood loss of (NOS)",
+          "Blood loss",
+          "Extravasation blood",
+          "Extravasation of blood",
+          "Bleeding (finding)",
+          "bleeding",
+          "Bleeding",
+          "Hemorrhage (morphologic abnormality)",
+          "Hemorrhage NOS",
+          "Hemorrhage (NOS)",
+          "hemorrhage",
+          "Haemorrhage NOS",
+          "Hemorrhage"
+        ],
+        "value": "Pulmonary hemorrhage"
+      },
+      {
+        "synonyms": [
+          "Pulmonary",
+          "Pulmonary (intended site)",
+          "Pulmonary, NOS",
+          "Failure"
+        ],
+        "value": "Pulmonary failure"
+      },
+      {
+        "synonyms": [
+          "Pulmonary artery embolism",
+          "Blood clot in artery of lung",
+          "Lung embolism",
+          "Blood Clot in Lungs",
+          "PE",
+          "pulmonary embolus",
+          "Embolus pulmonary",
+          "Pulmonary embolus",
+          "PE - Pulmonary embolism",
+          "Embolism lung",
+          "Pulmonary embolism (disorder)",
+          "Pulmonary embolism NOS",
+          "Embolism pulmonary",
+          "Pulmonary embolism",
+          "pulmonary embolism"
+        ],
+        "value": "Pulmonary Embolism"
+      },
+      {
+        "synonyms": [
+          "Protozoal diseases (B50-B64)",
+          "Protozoiasis",
+          "Protozoosis",
+          "Protozoan infection",
+          "Protozoal infectious disorders",
+          "Protozoan infection (disorder)",
+          "Unspecified protozoal disease",
+          "Protozoal diseases",
+          "Protozoal infection NOS",
+          "Infection protozoal",
+          "Protozoal Infection"
+        ],
+        "value": "Protozoal infection"
+      },
+      {
+        "synonyms": [
+          "pre",
+          "Prior",
+          "Prior to",
+          "Preceding",
+          "Malignant Neoplasm",
+          "malignant neoplasm",
+          "Malignant neoplasm",
+          "Malignant neoplasm NOS",
+          "Malignant neoplasms",
+          "Neoplasm malignant",
+          "Neoplasm, malignant",
+          "CA - Cancer",
+          "Cancer",
+          "cancer",
+          "Cancer (NOS)",
+          "Cancer NOS",
+          "Malignant neoplastic disease (disorder)",
+          "Malignant neoplastic disease",
+          "malignant neoplastic disease",
+          "Malignancy",
+          "malignancy",
+          "Malignant neoplasm without specification of site",
+          "Malignant tumor",
+          "Malignant tumour",
+          "Tumor, malignant, NOS",
+          "Unclassified tumor, malignant",
+          "Malignant neoplasm, without specification of site",
+          "Malignant neoplasm, primary site unspecified",
+          "Malignant neoplasm (morphologic abnormality)",
+          "Malignant neoplasm morphology",
+          "Unclassified malignant tumor",
+          "Unclassified malignant tumour",
+          "Before",
+          "before",
+          "Before (attribute)"
+        ],
+        "value": "Prior malignancy"
+      },
+      {
+        "synonyms": [
+          "Pulmonitis",
+          "Pneumonia, unspecified",
+          "Pneumonia (disorder)",
+          "pneumonia",
+          "Pneumonia",
+          "Not Otherwise Specified"
+        ],
+        "value": "Pneumonia NOS"
+      },
+      {
+        "synonyms": [
+          "Recurrent disease (disorder)",
+          "Recurrent disease",
+          "Persistent Disease",
+          "Or",
+          "Recurrent Disease"
+        ],
+        "value": "Persistence or recurrence of underlying disease"
+      },
+      {
+        "synonyms": [
+          "Thrombotic disorder (navigational concept)",
+          "Thrombosis (disorder)",
+          "Thrombosis (qualifier value)",
+          "Thrombotic disorder",
+          "Thrombosis NOS",
+          "thrombosis"
+        ],
+        "value": "Thrombosis"
+      },
+      {
+        "synonyms": [
+          "Infectious disease",
+          "Contagious disease (navigational concept)",
+          "Communicable disease (navigational concept)",
+          "Infect/parasite dis NOS",
+          "Infections and infestations",
+          "infection",
+          "Infec",
+          "Infective disorder",
+          "Infectious and parasitic diseases, unspecified",
+          "Unspecified infectious and parasitic diseases",
+          "INFECTIOUS AND PARASITIC DISEASES",
+          "Infectious diseases",
+          "Infectious disease (disorder)",
+          "Contagious disease",
+          "Communicable disease",
+          "Infectious Disorder"
+        ],
+        "value": "Infection"
+      },
+      {
+        "synonyms": [
+          "veno-occlusive disease",
+          "Venoocclusive disease NOS",
+          "Venoocclusive disease",
+          "Veno-Occlusive Disease"
+        ],
+        "value": "VOD"
+      },
+      {
+        "synonyms": [
+          "Toxic effect of",
+          "Toxic effect"
+        ],
+        "value": "Toxicity"
+      },
+      {
+        "synonyms": [
+          "Haemorrhage",
+          "Hemorrhage term",
+          "Hem",
+          "Haemorrhage, unspecified",
+          "Hemorrhage, unspecified",
+          "Blood loss of (NOS)",
+          "Blood loss",
+          "Extravasation blood",
+          "Extravasation of blood",
+          "Bleeding (finding)",
+          "bleeding",
+          "Bleeding",
+          "Hemorrhage (morphologic abnormality)",
+          "Hemorrhage NOS",
+          "Hemorrhage (NOS)",
+          "hemorrhage",
+          "Haemorrhage NOS"
+        ],
+        "value": "Hemorrhage"
+      },
+      {
+        "synonyms": [
+          "Graft-versus-host NOS",
+          "Graft-versus-host disease, unspecified",
+          "GVHD",
+          "GVH disease",
+          "Graft-versus-host disease",
+          "Graft versus host disease",
+          "graft-versus-host disease",
+          "graft versus host disease",
+          "Graft-versus-host disease <GVHD>",
+          "GVHD - Graft-versus-host disease",
+          "Graft-versus-host disease (disorder)"
+        ],
+        "value": "Graft Versus Host Disease"
+      },
+      {
+        "synonyms": [
+          "Retinoic acid syndrome",
+          "Differentiation syndrome due to and following chemotherapy co-occurrent with acute promyelocytic leukaemia",
+          "Differentiation syndrome due to and following chemotherapy co-occurrent with acute promyelocytic leukemia",
+          "Differentiation syndrome due to and following chemotherapy co-occurrent with acute promyelocytic leukemia (disorder)",
+          "Differentiation syndrome",
+          "ATRA syndrome",
+          "APL differentiation syndrome",
+          "Acute promyelocytic leukemia differentiation syndrome",
+          "Acute promyelocytic leukaemia differentiation syndrome"
+        ],
+        "value": "APL Differentiation Syndrome"
+      },
+      {
+        "synonyms": [
+          "Accident NOS",
+          "Unspecified accident",
+          "Accident",
+          "Accidents",
+          "Has died",
+          "Died",
+          "Death",
+          "Dead (finding)",
+          "Dead",
+          "Death (event)",
+          "obsolete death",
+          "Deceased",
+          "Expired",
+          "Death NOS",
+          "death"
+        ],
+        "value": "Accidental death"
+      },
+      {
+        "synonyms": [
+          "Ac graft-versus-host dis",
+          "AGVHD",
+          "Acute graft versus host disease",
+          "Acute graft-versus-host disease",
+          "Acute graft-versus-host disease (disorder)",
+          "Acute GVH disease",
+          "Acute Graft Versus Host Disease"
+        ],
+        "value": "Acute GVHD"
+      },
+      {
+        "synonyms": [
+          "Acute respiratory distress syndrome",
+          "ARDS",
+          "Acute respiratory distress syndrome in adult or child",
+          "Stiff lung",
+          "Acute respiratory distress syndrome (disorder)",
+          "Adult respiratory distress syndr",
+          "Syndrome adult respiratory",
+          "Vietnam lung",
+          "Shock lung",
+          "DaNang lung",
+          "Non-cardiogenic pulmonary oedema",
+          "Non-cardiogenic pulmonary edema",
+          "Non-cardiogenic pulmonary edema (disorder)",
+          "Pulmonary capillary leak syndrome",
+          "Congestive atelectasis",
+          "Adult respiratory stress syndrome",
+          "Adult RDS",
+          "Adult hyaline membrane disease",
+          "ARDS - Adult respiratory distress syndrome",
+          "Acquired respiratory distress syndrome",
+          "A.R.D.S.",
+          "Distress respiratory syndrome adults",
+          "Syndrome respiratory distress adult",
+          "Syndrome adult respiratory distress",
+          "Respiratory distress syndrome adult",
+          "Adult respiratory distress syndrome",
+          "adult respiratory distress syndrome",
+          "Acute Respiratory Distress Syndrome"
+        ],
+        "value": "Adult Respiratory Distress Syndrome (ARDS)"
+      },
+      {
+        "synonyms": [
+          "Pneumonitis aspiration",
+          "Aspiration pneumonitis",
+          "Aspiration pneumonitis (disorder)",
+          "Inhalational pneumonia",
+          "Inhalation pneumonia",
+          "Aspiration pneumonia (disorder)",
+          "Aspiration pneumonia NOS",
+          "Aspiration pneumonia",
+          "Pneumonia aspiration",
+          "Aspiration Pneumonitis"
+        ],
+        "value": "Aspiration Pneumonia"
+      },
+      {
+        "synonyms": [
+          "infection due to bacteria",
+          "Bacterial infection, unspecified",
+          "Bacterial infection of unspecified site",
+          "Bacterial infectious disorders",
+          "bacterial infectious disease",
+          "Bacterial infectious disease",
+          "Bacterial infectious disease (disorder)",
+          "Bacterial disease",
+          "Disease caused by bacteria",
+          "bacterial infection",
+          "Bacterial infection NOS",
+          "Infection bacterial",
+          "Bacterial Infection"
+        ],
+        "value": "Bacterial infection"
+      },
+      {
+        "synonyms": [
+          "Carmustine-containing product",
+          "Product containing carmustine (medicinal product)",
+          "Carmustine (substance)",
+          "BCNU",
+          "Carmustine",
+          "Interstitial pneumonitis",
+          "Interstitial pneumonia (disorder)",
+          "Interstitial pneumonia NOS",
+          "interstitial pneumonia",
+          "Pneumonia interstitial",
+          "Interstitial pneumonia",
+          "Interstitial Pneumonia"
+        ],
+        "value": "BCNU IP"
+      },
+      {
+        "synonyms": [
+          "Weak heart",
+          "Heart insufficiency",
+          "Myocardial failure",
+          "Heart failure, unspecified",
+          "HF - Heart failure",
+          "Heart failure (disorder)",
+          "Insufficiency cardiac",
+          "Cardiac insufficiency",
+          "Cardiac function failure",
+          "cardiac failure",
+          "Cardiac failure NOS",
+          "Cardiac failure (NOS)",
+          "Cardiac function failed",
+          "Failure heart",
+          "Heart failures",
+          "Heart failure NOS",
+          "Heart failure (NOS)",
+          "heart failure",
+          "Heart failure",
+          "Heart Failure"
+        ],
+        "value": "Cardiac failure"
+      },
+      {
+        "synonyms": [
+          "Cardio-respiratory arrest",
+          "Cardiorespiratory arrest (disorder)",
+          "Cardiorespiratory arrest",
+          "Cardiopulmonary arrest"
+        ],
+        "value": "Cardiopulmonary Arrest"
+      },
+      {
+        "synonyms": [
+          "Undetermined stroke",
+          "Stroke/CVA",
+          "Stroke",
+          "Cerebrovascular accident",
+          "Cerebral vascular events",
+          "Stroke syndrome",
+          "Stroke NOS",
+          "stroke",
+          "CVA",
+          "Stroke, not specified as hemorrhage or infarction",
+          "Stroke, not specified as haemorrhage or infarction",
+          "Apoplexy",
+          "apoplexy",
+          "Cerebrovascular accident (disorder)",
+          "CVA - Cerebrovascular accident",
+          "Cerebrovascular accidents",
+          "Cerebrovascular accident NOS",
+          "cerebrovascular accident",
+          "Accident cerebrovascular"
+        ],
+        "value": "Cardiovascular accident"
+      },
+      {
+        "synonyms": [
+          "Cardiovascular disease",
+          "CVS disease - cardiovascular system disease",
+          "CVD - cardiovascular disease",
+          "Disorder of cardiovascular system",
+          "Disorder of cardiovascular system (disorder)",
+          "Disorder cardiovascular (NOS)",
+          "Cardiovascular disorder (NOS)",
+          "Cardiovascular disorder NOS",
+          "Cardiovascular disorder",
+          "cardiovascular disorder",
+          "Cardiovascular disease, unspecified",
+          "Cardiovascular system disease",
+          "Ascvd",
+          "Disease affecting entire cardiovascular system",
+          "Disease affecting entire cardiovascular system (disorder)"
+        ],
+        "value": "Cardiovascular Disorder"
+      },
+      {
+        "synonyms": [
+          "Central nervous system",
+          "Structures of the central nervous system",
+          "Central nervous system structure",
+          "Structure of central nervous system",
+          "Structure of central nervous system (body structure)",
+          "Central Nervous System",
+          "Failure"
+        ],
+        "value": "Central nervous system(CNS) failure"
+      },
+      {
+        "synonyms": [
+          "Chronc graft-vs-host dis",
+          "CGVHD",
+          "Chronic GVH disease",
+          "Chronic graft-versus-host disease (disorder)",
+          "Chronic graft versus host disease",
+          "Chronic graft-versus-host disease",
+          "Chronic Graft Versus Host Disease"
+        ],
+        "value": "Chronic GVHD"
+      },
+      {
+        "synonyms": [
+          "Stigmata of Chronic Liver Disease"
+        ],
+        "value": "Chronic liver disease"
+      },
+      {
+        "synonyms": [
+          "Chronic obstructive pulmonary disease (disorder)",
+          "Chronic obstructive pulmonary disease",
+          "Chronic obstructive lung disease",
+          "Chronic pulmonary obstruction",
+          "COPD",
+          "Small airways disease",
+          "COAD",
+          "Chronic obstructive pulmonary disease, unspecified",
+          "chronic obstructive pulmonary disease",
+          "Chronic obstructive lung disease NOS",
+          "COPD - Chronic obstructive pulmonary disease",
+          "COLD - Chronic obstructive lung disease",
+          "Chronic airway obstruction",
+          "Chronic irreversible airway obstruction",
+          "Chronic obstruct airways disease",
+          "Chronic airway disease",
+          "COAD - Chronic obstructive airways disease",
+          "Chronic airflow limitation",
+          "CAL - Chronic airflow limitation",
+          "CAFL - Chronic airflow limitation",
+          "Chronic obstructive airway disease NOS",
+          "Chronic obstructive airways disease",
+          "Chronic obstructive airway disease",
+          "Obstructive airways disease (chronic)"
+        ],
+        "value": "Chronic Obstructive Pulmonary Disease"
+      },
+      {
+        "synonyms": [
+          "Congestive heart failure",
+          "CHF",
+          "congestive failure",
+          "CCF",
+          "Heart failure",
+          "Congestive heart failure, unspecified",
+          "Congestive heart failure (disorder)",
+          "Congestive heart disease",
+          "Chronic heart failure",
+          "Congestive heart failure (CHF)",
+          "CHF - Congestive heart failure",
+          "CHF NOS",
+          "Cardiac failures",
+          "Cardiac failure",
+          "Congestive cardiac failure",
+          "Cardiac failure, congestive",
+          "Cardiac failure congestive",
+          "CCF - Congestive cardiac failure",
+          "Congestive heart failure NOS",
+          "Failure heart congestive",
+          "congestive heart failure",
+          "Heart failure, congestive"
+        ],
+        "value": "Congestive Heart Failure"
+      },
+      {
+        "synonyms": [
+          "Disorder of coronary artery (disorder)",
+          "Coronary disease",
+          "CAD",
+          "Disorder coronary artery",
+          "Coronary artery disorders",
+          "Coronary artery disorder (NOS)",
+          "Coronary artery disorder",
+          "Disorder of coronary artery",
+          "CAD - Coronary artery disease",
+          "Coronary (artery) disease",
+          "Disease coronary artery",
+          "Coronary artery disease NOS",
+          "Coronary artery disease",
+          "Coronary Artery Disease"
+        ],
+        "value": "Coronary artery disease (atherosclerosis)"
+      },
+      {
+        "synonyms": [
+          "Dementia",
+          "Organic dementia",
+          "Dementia, unspecified",
+          "Unspecified dementia",
+          "Progressive dementia",
+          "Dementia, progressive",
+          "Dementia (disorder)",
+          "Amentia",
+          "Dementias",
+          "Dementia NOS",
+          "dementia"
+        ],
+        "value": "Dementia  (including Alzheimer's disease)"
+      },
+      {
+        "synonyms": [
+          "Diabetes mellitus (DM)",
+          "Diabetes mellitus (E08-E13)",
+          "Diabetes mellitus (including subtypes)",
+          "Unspecified diabetes mellitus",
+          "Diabetes mellitus (incl subtypes)",
+          "DM - Diabetes mellitus",
+          "Diabetes mellitus (disorder)",
+          "diabetes",
+          "Diabetes",
+          "Diabetes mellitus NOS",
+          "Diabetes mellitus"
+        ],
+        "value": "Diabetes Mellitus"
+      },
+      {
+        "synonyms": [
+          "Disseminated intravacular coagulation",
+          "Haemorrhagic fibrinogenolysis",
+          "Hemorrhagic fibrinogenolysis",
+          "DIC syndrome",
+          "DIC",
+          "Defibrination syndrome",
+          "Consumptive thrombohaemorrhagic disorder",
+          "Consumptive thrombohemorrhagic disorder",
+          "Consumptive coagulopathy",
+          "Consumption coagulopathy",
+          "Dissem. intravasc. coagulation",
+          "Disseminated intravascular coagulation (disorder)",
+          "DIC - Disseminated intravascular coagulation",
+          "Disseminated intravascular coagulation [defibrination syndrome]",
+          "Disseminated intravascular coagulation",
+          "Disseminated Intravascular Coagulation"
+        ],
+        "value": "Disseminated intravascular coagulation (DIC)"
+      },
+      {
+        "synonyms": [
+          "Faltering growth",
+          "FTT - failure to thrive",
+          "Failure to thrive (disorder)",
+          "Failure to thrive"
+        ],
+        "value": "Failure to Thrive"
+      },
+      {
+        "synonyms": [
+          "Mycotic disease",
+          "Mycoses (B35-B49)",
+          "Unspecified mycosis",
+          "Infection mycotic",
+          "Fungus infection",
+          "Infection fungal (mycotic)",
+          "Fungal infection NOS",
+          "Infection fungal",
+          "Mycosis (disorder)",
+          "Fungal infectious disorders",
+          "Fungal infectious disease",
+          "Disease caused by fungus",
+          "Mycosis",
+          "MYCOSES",
+          "Mycoses",
+          "Fungal Infection"
+        ],
+        "value": "Fungal infection"
+      },
+      {
+        "synonyms": [
+          "Gastroenteral",
+          "Gastroenteral (intended site)",
+          "Gastrointestinal",
+          "Failure"
+        ],
+        "value": "Gastrointestinal (GI) failure (not liver)"
+      },
+      {
+        "synonyms": [
+          "Gastroenteral",
+          "Gastroenteral (intended site)",
+          "Gastrointestinal",
+          "Haemorrhage",
+          "Hemorrhage term",
+          "Hem",
+          "Haemorrhage, unspecified",
+          "Hemorrhage, unspecified",
+          "Blood loss of (NOS)",
+          "Blood loss",
+          "Extravasation blood",
+          "Extravasation of blood",
+          "Bleeding (finding)",
+          "bleeding",
+          "Bleeding",
+          "Hemorrhage (morphologic abnormality)",
+          "Hemorrhage NOS",
+          "Hemorrhage (NOS)",
+          "hemorrhage",
+          "Haemorrhage NOS",
+          "Hemorrhage"
+        ],
+        "value": "Gastrointestinal hemorrhage"
+      },
+      {
+        "synonyms": [
+          "Transplant rejections",
+          "Transplant rejection",
+          "Immunologic graft rejection",
+          "Graft rejection (finding)",
+          "Cellular graft rejection",
+          "Graft rejection",
+          "Graft Failure"
+        ],
+        "value": "Graft rejection or failure"
+      },
+      {
+        "synonyms": [
+          "Haemorrhage",
+          "Hemorrhage term",
+          "Hem",
+          "Haemorrhage, unspecified",
+          "Hemorrhage, unspecified",
+          "Blood loss of (NOS)",
+          "Blood loss",
+          "Extravasation blood",
+          "Extravasation of blood",
+          "Bleeding (finding)",
+          "bleeding",
+          "Bleeding",
+          "Hemorrhage (morphologic abnormality)",
+          "Hemorrhage NOS",
+          "Hemorrhage (NOS)",
+          "hemorrhage",
+          "Haemorrhage NOS",
+          "Hemorrhage",
+          "Not Otherwise Specified"
+        ],
+        "value": "Hemorrhage, not otherwise specified"
+      },
+      {
+        "synonyms": [
+          "Haemorrhage",
+          "Cystitis",
+          "Hemorrhage",
+          "cystitis",
+          "Cystitis NOS",
+          "Cystitis (NOS)",
+          "Bladder infection",
+          "Bladder inflammation",
+          "Cystalgia",
+          "Cystitis (disorder)",
+          "Cystitis, unspecified",
+          "Urinary bladder inflammation",
+          "Cystitis of the urinary bladder",
+          "Haemorrhage NOS",
+          "hemorrhage",
+          "Hemorrhage (NOS)",
+          "Hemorrhage NOS",
+          "Hemorrhage (morphologic abnormality)",
+          "Bleeding",
+          "bleeding",
+          "Bleeding (finding)",
+          "Extravasation of blood",
+          "Extravasation blood",
+          "Blood loss",
+          "Blood loss of (NOS)",
+          "Hemorrhage, unspecified",
+          "Haemorrhage, unspecified",
+          "Hem",
+          "Hemorrhage term"
+        ],
+        "value": "Hemorrhagic cystitis"
+      },
+      {
+        "synonyms": [
+          "Liver inflammation",
+          "Hepatitis, unspecified",
+          "Nonspecific hepatitis",
+          "Hepatitis nonspecific",
+          "Inflammatory disorder of liver",
+          "Inflammatory liver disease, unspecified",
+          "Inflammatory liver disease",
+          "Inflammatory disease of liver",
+          "Inflammatory disease of liver (disorder)",
+          "Hepatitis NOS",
+          "hepatitis"
+        ],
+        "value": "Hepatitis"
+      },
+      {
+        "synonyms": [],
+        "value": "Herpes"
+      },
+      {
+        "synonyms": [
+          "Human immunodeficiency virus (HIV)",
+          "Human immunodeficiency virus",
+          "Human immunodeficiency virus (organism)",
+          "HIV - Human immunodeficiency virus",
+          "HIV",
+          "acquired immune deficiency syndrome [AIDS]",
+          "Acquired immune deficiency syndrome (disorder)",
+          "Acquired immuno deficiency syndrome",
+          "Acquired immune deficiency syndr",
+          "Immunodeficiency due to human immunodeficiency virus infection",
+          "Autoimmune deficiency syndrome",
+          "AIDS",
+          "Acquired immunodeficiency syndrome, unspecified",
+          "acquired immune deficiency syndrome",
+          "Acquired immune deficiency syndrome",
+          "AIDS - Acquired immunodeficiency syndrome",
+          "Acquired immune deficiency syndrome (AIDS)",
+          "Acquired immunodeficiency syndromes",
+          "Acquired immunodeficiency syndrome NOS",
+          "Acquired immunodeficiency syndrome",
+          "Human Immunodeficiency Virus",
+          "And/Or",
+          "Acquired Immunodeficiency Syndrome"
+        ],
+        "value": "HIV/AIDS"
+      },
+      {
+        "synonyms": [
+          "Infectious disease",
+          "Contagious disease (navigational concept)",
+          "Communicable disease (navigational concept)",
+          "Infect/parasite dis NOS",
+          "Infections and infestations",
+          "infection",
+          "Infection",
+          "Infec",
+          "Infective disorder",
+          "Infectious and parasitic diseases, unspecified",
+          "Unspecified infectious and parasitic diseases",
+          "INFECTIOUS AND PARASITIC DISEASES",
+          "Infectious diseases",
+          "Infectious disease (disorder)",
+          "Contagious disease",
+          "Communicable disease",
+          "Organism (attribute)",
+          "Organism - attribute",
+          "Organism (organism)",
+          "Organism",
+          "Not identified",
+          "Infectious Disorder",
+          "Not Identified"
+        ],
+        "value": "Infection, organism not identified"
+      },
+      {
+        "synonyms": [
+          "Grippe",
+          "Flu syndrome",
+          "Syndrome flu",
+          "Flu",
+          "Influenza (disorder)",
+          "Influenza NOS"
+        ],
+        "value": "Influenza"
+      },
+      {
+        "synonyms": [
+          "Interstitial pneumonitis",
+          "Interstitial pneumonia (disorder)",
+          "Interstitial pneumonia NOS",
+          "interstitial pneumonia",
+          "Pneumonia interstitial",
+          "Interstitial pneumonia",
+          "Not Otherwise Specified",
+          "Interstitial Pneumonia"
+        ],
+        "value": "Interstitial Pneumonia (IP) NOS"
+      },
+      {
+        "synonyms": [
+          "Intracranial haemorrhage",
+          "Bleeding within the skull",
+          "Intracranial hemorr NOS",
+          "Unspecified intracranial haemorrhage",
+          "Intracranial hemorrhage, unspecified",
+          "Intracranial haemorrhage, unspecified",
+          "Unspecified intracranial hemorrhage",
+          "Intracranial hemorrhage (disorder)",
+          "Bleeding intracranial",
+          "Intracranial hemorrhage NOS",
+          "Intracranial haemorrhage NOS",
+          "Hemorrhage intracranial",
+          "Haemorrhage intracranial",
+          "Intracranial Hemorrhage"
+        ],
+        "value": "Intracranial hemorrhage"
+      },
+      {
+        "synonyms": [
+          "Idiopathic pneumonia syndrome (disorder)",
+          "Idiopathic pneumonia syndrome",
+          "Idiopathic",
+          "Unknown (origin)",
+          "idiopathic",
+          "Cryptogenic",
+          "Idiopathic cause",
+          "Agnogenic",
+          "Unknown (origin) (qualifier value)",
+          "Idiopathic Pneumonia Syndrome"
+        ],
+        "value": "IPS, idiopathic"
+      },
+      {
+        "synonyms": [
+          "Idiopathic pneumonia syndrome (disorder)",
+          "Idiopathic pneumonia syndrome",
+          "Cytomegalovirus species",
+          "Salivary gland virus",
+          "Genus Cytomegalovirus (organism)",
+          "Genus Cytomegalovirus",
+          "CMV",
+          "Cytomegalovirus",
+          "Idiopathic Pneumonia Syndrome",
+          "Viral"
+        ],
+        "value": "IPS, viral, cytomegalovirus(CMV)"
+      },
+      {
+        "synonyms": [
+          "Idiopathic pneumonia syndrome (disorder)",
+          "Idiopathic pneumonia syndrome",
+          "Other (qualifier value)",
+          "Other",
+          "Idiopathic Pneumonia Syndrome",
+          "Viral"
+        ],
+        "value": "IPS, viral, other"
+      },
+      {
+        "synonyms": [
+          "Liver",
+          "hepar",
+          "Liver structure",
+          "Liver structure (body structure)",
+          "liver",
+          "Failure"
+        ],
+        "value": "Liver failure (not VOD)"
+      },
+      {
+        "synonyms": [
+          "Multiple organ dysfunction syndrome",
+          "MODS - Multiple organ dysfunction syndrome",
+          "Multiorgan failure",
+          "MOF",
+          "Multisystem organ failure",
+          "Multiple organ systems failure",
+          "Multiple systems organ failure",
+          "Multi organ failure",
+          "Multi-organ failure",
+          "MSOF - Multiple systems organ failure",
+          "MOSF - Multiple organ systems failure",
+          "MOF - Multiple organ failure",
+          "Multiple organ failure (disorder)",
+          "Multiple organ failure"
+        ],
+        "value": "Multiple Organ Failure"
+      },
+      {
+        "synonyms": [
+          "MI - myocardial infarction",
+          "MI",
+          "cardiac infarction",
+          "Heart attack",
+          "Myocardial infarct",
+          "Infarct myocardial",
+          "Infarction of heart",
+          "Myocardial infarction (disorder)",
+          "Cardiac infarction",
+          "Attack heart (NOS)",
+          "Attack coronary",
+          "myocardial infarction",
+          "Myocardial Infarction"
+        ],
+        "value": "Myocardial infarction"
+      },
+      {
+        "synonyms": [
+          "Natural (qualifier value)",
+          "Natural",
+          "Death diagnosis",
+          "Cause of death (observable entity)",
+          "Condition fatal-cause of death",
+          "Cause of death",
+          "Cause of Death"
+        ],
+        "value": "Natural causes"
+      },
+      {
+        "synonyms": [
+          "Cancer treatment",
+          "Non-Protocol",
+          "Cancer Therapeutic Procedure"
+        ],
+        "value": "Non-protocol cancer therapy"
+      },
+      {
+        "synonyms": [
+          "{Organ}",
+          "organ",
+          "Failure",
+          "Organ",
+          "Not Otherwise Specified"
+        ],
+        "value": "Organ failure, not otherwise specified"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)",
+          "Other",
+          "Reason for (attribute)",
+          "Indication for (attribute)",
+          "Reason for",
+          "Justification",
+          "indication",
+          "Indications",
+          "With indication",
+          "Indication of",
+          "Indication for",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Reason"
+        ],
+        "value": "Other cause"
       }
     ],
     "property": "primary_cause_of_death",
@@ -4136,6 +9373,14 @@
           "Specify"
         ],
         "value": "Other"
+      },
+      {
+        "synonyms": [],
+        "value": "End of Consolidation I"
+      },
+      {
+        "synonyms": [],
+        "value": "End of Consolidation II"
       },
       {
         "synonyms": [
@@ -10362,6 +15607,31 @@
     "CDEVersion": "1",
     "dataCommons": "CTDC",
     "permissibleValues": [
+      {
+        "synonyms": [],
+        "value": "Genomics"
+      },
+      {
+        "synonyms": [
+          "radiology orderable",
+          "imaging service request",
+          "Imaging technique (qualifier value)",
+          "imaging procedure",
+          "Imaging (Procedure)",
+          "Imaging procedure",
+          "Imaging technique",
+          "Imaging Procedure"
+        ],
+        "value": "Imaging"
+      },
+      {
+        "synonyms": [],
+        "value": "Proteomics"
+      },
+      {
+        "synonyms": [],
+        "value": "Image Annotation"
+      },
       {
         "synonyms": [
           "Scientific Publication"

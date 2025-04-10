@@ -424,7 +424,16 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
+        "synonyms": [
+          "Canis lupus familiaris",
+          "Canis domesticus",
+          "Canis canis",
+          "Canis familiaris",
+          "Domestic dog",
+          "Canis lupus subspecies familiaris",
+          "Canis lupus subspecies familiaris (organism)",
+          "Dog"
+        ],
         "value": "Canine"
       },
       {
@@ -432,11 +441,25 @@
         "value": "Cell Line"
       },
       {
-        "synonyms": [],
+        "synonyms": [
+          "Human - origin (qualifier value)",
+          "Human - origin",
+          "Homo sapiens (organism)",
+          "Homo sapiens"
+        ],
         "value": "Human"
       },
       {
-        "synonyms": [],
+        "synonyms": [
+          "Mus <genus>",
+          "mice <Mus>",
+          "mouse <Mus>",
+          "Genus Mus (organism)",
+          "Genus Mus",
+          "mouse",
+          "mice",
+          "Mus"
+        ],
         "value": "Mouse"
       }
     ],
@@ -712,8 +735,716 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Medical physicist (occupation)",
+          "Medical physicist"
+        ],
+        "value": "Medical Physicist"
+      },
+      {
+        "synonyms": [
+          "Supervisor",
+          "Supervisor (occupation)",
+          "Manager (occupation)",
+          "Manager",
+          "Or"
+        ],
+        "value": "Administrator or Manager"
+      },
+      {
+        "synonyms": [
+          "Proxy Respondent"
+        ],
+        "value": "Respondent"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Data Submitter"
+      },
+      {
+        "synonyms": [
+          "ENABLE",
+          "Coach"
+        ],
+        "value": "ENABLE Coach"
+      },
+      {
+        "synonyms": [
+          "Alternative",
+          "Principal investigator (occupation)",
+          "Principal investigator",
+          "Principal Investigator"
+        ],
+        "value": "Alternative Principal Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "SHE Instructor"
+      },
+      {
+        "synonyms": [],
+        "value": "Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "Nurse Coach"
+      },
+      {
+        "synonyms": [],
+        "value": "Site Personnel"
+      },
+      {
+        "synonyms": [],
+        "value": "Interventional Radiologist"
+      },
+      {
+        "synonyms": [
+          "Clinical nurse specialist (occupation)",
+          "CNS - Clinical nurse specialist",
+          "Clinical nurse specialist"
+        ],
+        "value": "Clinical Nurse Specialist"
+      },
+      {
+        "synonyms": [
+          "infusion",
+          "Infusion",
+          "Infusion - action (qualifier value)",
+          "Infusion - action",
+          "Infusion (procedure)",
+          "Infusion procedures",
+          "Sr - Nursing sister",
+          "Nursing sister",
+          "Professional nurse",
+          "Nursing personnel",
+          "Nursing sister (occupation)",
+          "Professional nurse (occupation)",
+          "Nursing personnel (occupation)",
+          "Nurse",
+          "Nurses",
+          "Infusion Procedure"
+        ],
+        "value": "Infusion Nurse"
+      },
+      {
+        "synonyms": [
+          "Gastroenterologist (occupation)"
+        ],
+        "value": "Gastroenterologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Primary care physician"
+      },
+      {
+        "synonyms": [],
+        "value": "PCP"
+      },
+      {
+        "synonyms": [
+          "Medical oncologist",
+          "Medical oncologist (occupation)"
+        ],
+        "value": "Medical Oncologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Oncology Nurse"
+      },
+      {
+        "synonyms": [
+          "Nurse practitioner (occupation)",
+          "Nurse practitioner"
+        ],
+        "value": "Nurse Practitioner"
+      },
+      {
+        "synonyms": [
+          "Physician assistant (occupation)",
+          "PA - physician assistant",
+          "Physician assistant"
+        ],
+        "value": "Physician Assistant"
+      },
+      {
+        "synonyms": [],
+        "value": "Surgical Oncologist"
+      },
+      {
+        "synonyms": [
+          "Software Development"
+        ],
+        "value": "Developer"
+      },
+      {
+        "synonyms": [
+          "Software Maintenance"
+        ],
+        "value": "Maintainer"
+      },
+      {
+        "synonyms": [],
+        "value": "Site Coordinator"
+      },
+      {
+        "synonyms": [
+          "Principal investigator (occupation)",
+          "Principal investigator"
+        ],
+        "value": "Principal Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Funded Principal Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Contract Principal Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Study Chair"
+      },
+      {
+        "synonyms": [],
+        "value": "Site Leader"
+      },
+      {
+        "synonyms": [],
+        "value": "Scientific Monitor"
+      },
+      {
+        "synonyms": [],
+        "value": "Review Specialist"
+      },
+      {
+        "synonyms": [],
+        "value": "Review Liaison"
+      },
+      {
+        "synonyms": [],
+        "value": "Protocol Review Chair"
+      },
+      {
+        "synonyms": [],
+        "value": "Protocol Lead Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Protocol Chair"
+      },
+      {
+        "synonyms": [],
+        "value": "Project Officer"
+      },
+      {
+        "synonyms": [],
+        "value": "Program Specialist"
+      },
+      {
+        "synonyms": [],
+        "value": "Medical Monitor"
+      },
+      {
+        "synonyms": [],
+        "value": "Grant Specialist"
+      },
+      {
+        "synonyms": [],
+        "value": "Contract Officer"
+      },
+      {
+        "synonyms": [],
+        "value": "Co-Project Officer"
+      },
+      {
+        "synonyms": [],
+        "value": "Concept Review Chair"
+      },
+      {
+        "synonyms": [],
+        "value": "Clinical Research Associate"
+      },
+      {
+        "synonyms": [
+          "Mail to Contact"
+        ],
+        "value": "Mail to contact"
+      },
+      {
+        "synonyms": [
+          "Principal investigator (occupation)",
+          "Principal investigator",
+          "Principal Investigator"
+        ],
+        "value": "Principal Investigator (MGR)"
+      },
+      {
+        "synonyms": [],
+        "value": "PMB Drug Company Contact"
+      },
+      {
+        "synonyms": [],
+        "value": "Grant Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Secondary CDUS Contact"
+      },
+      {
+        "synonyms": [],
+        "value": "Primary CDUS Contact"
+      },
+      {
+        "synonyms": [],
+        "value": "Division Head"
+      },
+      {
+        "synonyms": [],
+        "value": "Group Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "ABS Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "AdEERS Contact"
+      },
+      {
+        "synonyms": [],
+        "value": "Account Administrator"
+      },
+      {
+        "synonyms": [],
+        "value": "Adverse Event Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "CEP Member"
+      },
+      {
+        "synonyms": [],
+        "value": "Agent Inspector"
+      },
+      {
+        "synonyms": [],
+        "value": "CDU Web Contact"
+      },
+      {
+        "synonyms": [],
+        "value": "Registration Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "Address Module Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "Head of Division"
+      },
+      {
+        "synonyms": [],
+        "value": "Participant Chief"
+      },
+      {
+        "synonyms": [],
+        "value": "Branch Chief"
+      },
+      {
+        "synonyms": [],
+        "value": "Shipping Designee"
+      },
+      {
+        "synonyms": [],
+        "value": "Protocol Specialist"
+      },
+      {
+        "synonyms": [],
+        "value": "Drug Company Contact"
+      },
+      {
+        "synonyms": [],
+        "value": "Program Director"
+      },
+      {
+        "synonyms": [],
+        "value": "Primary Shipping Designee"
+      },
+      {
+        "synonyms": [],
+        "value": "Checklist Supervisor"
+      },
+      {
+        "synonyms": [],
+        "value": "Checklist Completer"
+      },
+      {
+        "synonyms": [],
+        "value": "Site Investigator"
+      },
+      {
+        "synonyms": [
+          "Employee (person)"
+        ],
+        "value": "Employee"
+      },
+      {
+        "synonyms": [],
+        "value": "Protocol Chair at an Organization"
+      },
+      {
+        "synonyms": [
+          "Mail Contact"
+        ],
+        "value": "Mail Contact (Mgr)"
+      },
+      {
+        "synonyms": [],
+        "value": "Agent Expert"
+      },
+      {
+        "synonyms": [],
+        "value": "Associate"
+      },
+      {
+        "synonyms": [],
+        "value": "Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Data Manager"
+      },
+      {
+        "synonyms": [
+          "Social worker",
+          "SW - Social worker",
+          "Social worker (occupation)"
+        ],
+        "value": "Social Worker"
+      },
+      {
+        "synonyms": [],
+        "value": "Referring Physician"
+      },
+      {
+        "synonyms": [
+          "Medical doctor",
+          "Physician (occupation)",
+          "Doctor"
+        ],
+        "value": "Physician"
+      },
+      {
+        "synonyms": [
+          "Pharmacist (occupation)"
+        ],
+        "value": "Pharmacist"
+      },
+      {
+        "synonyms": [
+          "Patient (person)",
+          "patient"
+        ],
+        "value": "Patient"
+      },
+      {
+        "synonyms": [
+          "Sr - Nursing sister",
+          "Nursing sister",
+          "Professional nurse",
+          "Nursing personnel",
+          "Nursing sister (occupation)",
+          "Professional nurse (occupation)",
+          "Nursing personnel (occupation)",
+          "Nurses"
+        ],
+        "value": "Nurse"
+      },
+      {
+        "synonyms": [
+          "Contact person (person)",
+          "Contact person"
+        ],
+        "value": "Contact Person"
+      },
+      {
+        "synonyms": [],
+        "value": "Abstractor"
+      },
+      {
+        "synonyms": [],
+        "value": "Submitting Pathologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Subject Recruiter"
+      },
+      {
+        "synonyms": [],
+        "value": "Sponsor Medical Expert"
+      },
+      {
+        "synonyms": [],
+        "value": "Reviewing Pathologist"
+      },
+      {
+        "synonyms": [
+          "Radiation oncologist",
+          "Radiation oncologist (occupation)"
+        ],
+        "value": "Radiation Oncologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Project Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "Referring Pathologist"
+      },
+      {
+        "synonyms": [
+          "Regulatory Contact"
+        ],
+        "value": "Regulatory Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "Representative Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Research Clinician"
+      },
+      {
+        "synonyms": [
+          "Research nurse (occupation)",
+          "Research nurse"
+        ],
+        "value": "Research Nurse"
+      },
+      {
+        "synonyms": [
+          "Registrar (occupation)"
+        ],
+        "value": "Registrar"
+      },
+      {
+        "synonyms": [
+          "Surgeon (occupation)"
+        ],
+        "value": "Surgeon"
+      },
+      {
+        "synonyms": [],
+        "value": "Research Pathologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Reviewing Radiologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Site Representative Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Sponsor/Medical Expert"
+      },
+      {
+        "synonyms": [
+          "Statistician (occupation)"
+        ],
+        "value": "Statistician"
+      },
+      {
+        "synonyms": [
+          "Study Chair"
+        ],
+        "value": "Study Chairperson"
+      },
+      {
+        "synonyms": [
+          "Research study coordinator (occupation)",
+          "Research study coordinator",
+          "Study coordinator"
+        ],
+        "value": "Study Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "Community Educator"
+      },
+      {
+        "synonyms": [
+          "Legal guardian",
+          "Legal guardian (person)",
+          "Legal custodian"
+        ],
+        "value": "Guardian"
+      },
+      {
+        "synonyms": [],
+        "value": "Laboratory Director"
+      },
+      {
+        "synonyms": [
+          "Laboratory technologist (occupation)",
+          "Laboratory technologist"
+        ],
+        "value": "Laboratory Technologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Lead Drug Monitor"
+      },
+      {
+        "synonyms": [],
+        "value": "Legal Representative of the Sponsor"
+      },
+      {
+        "synonyms": [
+          "Neuropathologist (occupation)"
+        ],
+        "value": "Neuropathologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Pharmaceutical Liaison"
+      },
+      {
+        "synonyms": [
+          "Pharmacologist (occupation)"
+        ],
+        "value": "Pharmacologist"
+      },
+      {
+        "synonyms": [
+          "Physicist (occupation)"
+        ],
+        "value": "Physicist"
+      },
+      {
+        "synonyms": [
+          "Member of public",
+          "Member of public (person)"
+        ],
+        "value": "Population Member"
+      },
+      {
+        "synonyms": [
+          "Assigned practitioner (occupation)",
+          "Assigned practitioner"
+        ],
+        "value": "Practitioner Assigned"
+      },
+      {
+        "synonyms": [],
+        "value": "Protocol Author"
+      },
+      {
+        "synonyms": [],
+        "value": "Sponsor"
+      },
+      {
+        "synonyms": [],
+        "value": "Treating Physician"
+      },
+      {
+        "synonyms": [
+          "Admitting physician (occupation)",
+          "Admitting physician"
+        ],
+        "value": "Admitting Physician"
+      },
+      {
+        "synonyms": [
+          "Attending physician (occupation)",
+          "Attending physician"
+        ],
+        "value": "Attending Physician"
+      },
+      {
+        "synonyms": [
+          "Audiologist (occupation)"
+        ],
+        "value": "Audiologist"
+      },
+      {
+        "synonyms": [],
+        "value": "Bronchoscopist"
+      },
+      {
+        "synonyms": [],
+        "value": "Central Reviewer"
+      },
+      {
+        "synonyms": [],
+        "value": "Clinical Coordinator"
+      },
+      {
+        "synonyms": [],
+        "value": "Co-Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Consulting Physician"
+      },
+      {
+        "synonyms": [],
+        "value": "Coordinating Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Evaluator"
+      },
+      {
+        "synonyms": [],
+        "value": "Practitioner"
+      },
+      {
+        "synonyms": [
+          "Translator (occupation)"
+        ],
+        "value": "Translator"
+      },
+      {
+        "synonyms": [],
+        "value": "Participant"
+      },
+      {
+        "synonyms": [
+          "Interpreter (occupation)"
+        ],
+        "value": "Interpreter"
+      },
+      {
+        "synonyms": [],
+        "value": "Interviewer"
+      },
+      {
+        "synonyms": [
+          "Healthcare professional",
+          "Healthcare worker",
+          "Healthcare professional (occupation)",
+          "Health profession",
+          "Care personnel",
+          "Health care personnel"
+        ],
+        "value": "Health Care Provider"
+      },
+      {
+        "synonyms": [],
+        "value": "Grant Principal Investigator"
+      },
+      {
+        "synonyms": [],
+        "value": "Letter of Intent Review Chair"
+      },
+      {
+        "synonyms": [],
+        "value": "Mail Contact"
       }
     ],
     "property": "role_or_affiliation",
@@ -726,8 +1457,82 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Sister"
+        ],
+        "value": "Sr."
+      },
+      {
+        "synonyms": [
+          "Reverend"
+        ],
+        "value": "Rev."
+      },
+      {
+        "synonyms": [
+          "Rabbi"
+        ],
+        "value": "R."
+      },
+      {
+        "synonyms": [
+          "Professor"
+        ],
+        "value": "Prof."
+      },
+      {
+        "synonyms": [
+          "Ms"
+        ],
+        "value": "Ms."
+      },
+      {
+        "synonyms": [
+          "Mrs"
+        ],
+        "value": "Mrs."
+      },
+      {
+        "synonyms": [
+          "Mister"
+        ],
+        "value": "Mr."
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Miss"
+      },
+      {
+        "synonyms": [
+          "Father",
+          "Father (person)"
+        ],
+        "value": "Fr."
+      },
+      {
+        "synonyms": [
+          "Doctor"
+        ],
+        "value": "Dr."
+      },
+      {
+        "synonyms": [
+          "Chaplain (occupation)",
+          "Chaplain"
+        ],
+        "value": "Ch."
+      },
+      {
+        "synonyms": [
+          "Brother"
+        ],
+        "value": "Br."
+      },
+      {
+        "synonyms": [
+          "Bishop"
+        ],
+        "value": "Bish."
       }
     ],
     "property": "title",
@@ -782,8 +1587,43 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "First (qualifier value)",
+          "first",
+          "First",
+          "1st"
+        ],
+        "value": "I"
+      },
+      {
+        "synonyms": [
+          "Senior"
+        ],
+        "value": "Sr."
+      },
+      {
+        "synonyms": [
+          "Junior"
+        ],
+        "value": "Jr."
+      },
+      {
+        "synonyms": [
+          "Fourth"
+        ],
+        "value": "IV"
+      },
+      {
+        "synonyms": [
+          "Third"
+        ],
+        "value": "III"
+      },
+      {
+        "synonyms": [
+          "Second"
+        ],
+        "value": "II"
       }
     ],
     "property": "suffix",
@@ -1304,8 +2144,8 @@
           "Melanoma, NOS",
           "Melanoma",
           "melanoma",
-          "Melanocytic Nevus",
-          "And"
+          "And",
+          "Melanocytic Nevus"
         ],
         "value": "Nevi and Melanomas"
       },
@@ -30396,7 +31236,176 @@
     "permissibleValues": [
       {
         "synonyms": [],
-        "value": null
+        "value": "Cell Line"
+      },
+      {
+        "synonyms": [
+          "Central nervous system",
+          "Structures of the central nervous system",
+          "Central nervous system structure",
+          "Structure of central nervous system",
+          "Structure of central nervous system (body structure)"
+        ],
+        "value": "Central Nervous System"
+      },
+      {
+        "synonyms": [
+          "Deoxyribonucleic acid (substance)",
+          "DNA - Deoxyribonucleic acid",
+          "Deoxyribonucleic acid",
+          "deoxyribonucleic acid"
+        ],
+        "value": "DNA"
+      },
+      {
+        "synonyms": [
+          "Ribonucleic acid (substance)",
+          "RNA - Ribonucleic acid",
+          "Ribonucleic acid",
+          "Ribonucleic Acid"
+        ],
+        "value": "RNA"
+      },
+      {
+        "synonyms": [
+          "Saliva (substance)"
+        ],
+        "value": "Saliva"
+      },
+      {
+        "synonyms": [
+          "Skin structure",
+          "Skin structure (body structure)",
+          "Skin, NOS",
+          "SKIN",
+          "skin"
+        ],
+        "value": "Skin"
+      },
+      {
+        "synonyms": [
+          "Xg - Xenograft",
+          "Xenograft (substance)",
+          "Heterograft",
+          "Heteroplastic graft",
+          "Heterologous graft"
+        ],
+        "value": "Xenograft"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [],
+        "value": "Not Reported"
+      },
+      {
+        "synonyms": [
+          "Mouth Rinse Specimen"
+        ],
+        "value": "Mouth Rinse"
+      },
+      {
+        "synonyms": [
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue"
+        ],
+        "value": "Tissue"
+      },
+      {
+        "synonyms": [
+          "Urine (substance)"
+        ],
+        "value": "Urine"
+      },
+      {
+        "synonyms": [
+          "Sputum (substance)",
+          "Expectoration"
+        ],
+        "value": "Sputum"
+      },
+      {
+        "synonyms": [
+          "Body Fld"
+        ],
+        "value": "Body Fluid or Substance"
+      },
+      {
+        "synonyms": [
+          "Stools",
+          "Feces (substance)",
+          "Dung",
+          "feces",
+          "Faeces",
+          "Feces"
+        ],
+        "value": "Stool"
+      },
+      {
+        "synonyms": [
+          "obsolete cell",
+          "Cellular structures",
+          "Cellular structure",
+          "Cell structure",
+          "set of cells",
+          "Normal cell",
+          "Cell structure (cell structure)",
+          "Normal cell (cell)",
+          "Cell",
+          "cell"
+        ],
+        "value": "Cells"
+      },
+      {
+        "synonyms": [
+          "Bone marrow",
+          "Whole body>Bone marrow",
+          "All bone marrow",
+          "All bone marrow (body structure)",
+          "Haematopoietic marrow",
+          "Hematopoietic marrow",
+          "Bone marrow structure",
+          "Bone marrow structure (body structure)",
+          "Marrow (bone)",
+          "bone marrow"
+        ],
+        "value": "Bone Marrow"
+      },
+      {
+        "synonyms": [
+          "Peritoneal effusion",
+          "Accumulation of fluid in the abdomen",
+          "Hydroperitonia",
+          "Hydroperitoneum",
+          "Ascites (disorder)",
+          "Hydrops abdominis",
+          "Ascites NOS",
+          "ascites",
+          "Peritoneal Effusion"
+        ],
+        "value": "Ascites"
+      },
+      {
+        "synonyms": [
+          "portion of blood",
+          "Blood (substance)",
+          "blood"
+        ],
+        "value": "Blood"
+      },
+      {
+        "synonyms": [],
+        "value": "Analyte"
       }
     ],
     "property": "sample_type_category",
@@ -32672,8 +33681,70 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "synonyms": [
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "synonyms": [
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
       }
     ],
     "property": "coverage",
@@ -38562,8 +39633,14 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Baseline Assessment"
+        ],
+        "value": "Baseline"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Enrollment"
       }
     ],
     "property": "longitudinal_temporal_event_type",
@@ -38605,7 +39682,214 @@
     "permissibleValues": [
       {
         "synonyms": [],
-        "value": null
+        "value": "Pancreaticoduodenectomy"
+      },
+      {
+        "synonyms": [
+          "core biopsy procedure",
+          "Core needle biopsy (procedure)",
+          "core biopsy",
+          "needle core biopsy",
+          "core needle biopsy",
+          "Core Biopsy"
+        ],
+        "value": "Core needle biopsy"
+      },
+      {
+        "synonyms": [],
+        "value": "Forceps Biopsy"
+      },
+      {
+        "synonyms": [
+          "Non-specific",
+          "Non-specified",
+          "Non-specific (qualifier value)",
+          "Unspecified"
+        ],
+        "value": "Not specified"
+      },
+      {
+        "synonyms": [
+          "Reexcision",
+          "Reexcision (procedure)",
+          "Re-Excision"
+        ],
+        "value": "Re-excision"
+      },
+      {
+        "synonyms": [
+          "Skin punch biopsy",
+          "Punch biopsy of skin",
+          "Punch biopsy of skin (procedure)",
+          "Punch Biopsy"
+        ],
+        "value": "Punch biopsy"
+      },
+      {
+        "synonyms": [
+          "Shave biopsy (procedure)",
+          "Shave biopsy - action",
+          "Shave biopsy - action (qualifier value)",
+          "Shave Biopsy"
+        ],
+        "value": "Shave biopsy"
+      },
+      {
+        "synonyms": [
+          "Simple lymphadenectomy",
+          "lymphadenectomy",
+          "Lymphadenectomy",
+          "Excision of lymph node (procedure)",
+          "Excision of group of lymph nodes (procedure)",
+          "Excision of group of lymph nodes",
+          "Excision of lymph node",
+          "Lymph node excision",
+          "Regional Lymph Nodes",
+          "Regional Lymph Node"
+        ],
+        "value": "Lymphadenectomy (regional nodes)"
+      },
+      {
+        "synonyms": [
+          "Sentinel lymph node biopsy (procedure)",
+          "Sentinel lymph node biopsy",
+          "Sentinel Lymph Node Biopsy"
+        ],
+        "value": "Sentinel node biopsy"
+      },
+      {
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not reported"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Does not apply",
+          "NA",
+          "Not applicable.",
+          "Not applicable (qualifier value)",
+          "N/A",
+          "not applicable",
+          "Not Applicable"
+        ],
+        "value": "Not applicable"
+      },
+      {
+        "synonyms": [
+          "Incisional biopsy",
+          "Open biopsy (procedure)",
+          "Open biopsy",
+          "Incisional biopsy (procedure)",
+          "Incision and biopsy",
+          "Incision biopsy",
+          "Incisional biopsy - action (qualifier value)",
+          "Incisional biopsy - action"
+        ],
+        "value": "Incisional Biopsy"
+      },
+      {
+        "synonyms": [
+          "Blood specimen (specimen)",
+          "Blood sample",
+          "Blood specimen",
+          "Blood Sample"
+        ],
+        "value": "Blood draw"
+      },
+      {
+        "synonyms": [
+          "excisional biopsy",
+          "Excisional biopsy (procedure)",
+          "Excisional biopsy",
+          "Excision biopsy (qualifier value)",
+          "Excision biopsy"
+        ],
+        "value": "Excisional Biopsy"
+      },
+      {
+        "synonyms": [
+          "Surgical resection",
+          "Resection",
+          "Removal technique",
+          "Surgical removal",
+          "SR - Surgical removal",
+          "Removal",
+          "Surgical removal (procedure)",
+          "Removal procedure",
+          "Removal - procedure",
+          "Removal (procedure)",
+          "Incision and removal",
+          "Excision procedure",
+          "Excision (procedure)",
+          "ectomy",
+          "Surgical removal - action",
+          "Removal - action",
+          "Removal - action (qualifier value)",
+          "Surgical removal - action (qualifier value)",
+          "Excision - action (qualifier value)",
+          "Excision - action",
+          "Abscission",
+          "Excision"
+        ],
+        "value": "Surgical Resection"
+      },
+      {
+        "synonyms": [
+          "post-mortem",
+          "post mortem",
+          "postmortem",
+          "Necropsy",
+          "Postmortem examination (procedure)",
+          "Postmortem examination",
+          "PM - Postmortem examination",
+          "Autopsy examination (procedure)",
+          "Autopsy examination"
+        ],
+        "value": "Autopsy"
+      },
+      {
+        "synonyms": [
+          "Fine needle aspiration biopsy - action (qualifier value)",
+          "Fine needle aspiration biopsy - action",
+          "fine-needle aspiration",
+          "fine needle aspiration",
+          "FNA - Fine needle aspiration",
+          "Aspiration biopsy",
+          "fine needle aspiration biopsy",
+          "Fine needle aspiration biopsy",
+          "Fine-Needle Aspiration"
+        ],
+        "value": "Fine needle aspirate"
+      },
+      {
+        "synonyms": [
+          "Biopsy (procedure)",
+          "BX - Biopsy",
+          "Biopsy - action (qualifier value)",
+          "Biopsy - action",
+          "Biopsy, nos",
+          "Biopsy NOS",
+          "biopsy"
+        ],
+        "value": "Biopsy"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
       }
     ],
     "property": "acquisition_method_type",
@@ -38618,8 +39902,265 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "In situ (qualifier value)",
+          "In situ",
+          "In Situ",
+          "Premalignant"
+        ],
+        "value": "Premalignant - in situ"
+      },
+      {
+        "synonyms": [
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue"
+        ],
+        "value": "Tissue"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "post-therapy",
+          "post therapy",
+          "Tumor Tissue Sample",
+          "Post-Therapy"
+        ],
+        "value": "Tumor post-therapy"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample",
+          "Post Neoadjuvant Therapy Sample"
+        ],
+        "value": "Tumor post-neoadjuvant therapy\u00a0\u00a0\u00a0\u00a0"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample",
+          "Post-Adjuvant Therapy"
+        ],
+        "value": "Tumor post-adjuvant therapy\u00a0\u00a0\u00a0\u00a0\u00a0"
+      },
+      {
+        "synonyms": [
+          "Tissue",
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue"
+        ],
+        "value": "Normal"
+      },
+      {
+        "synonyms": [
+          "Tissue",
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue",
+          "Distant (qualifier value)",
+          "Distant"
+        ],
+        "value": "Normal distant"
+      },
+      {
+        "synonyms": [
+          "Tissue",
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue",
+          "Next to",
+          "Juxta-posed (qualifier value)",
+          "Juxta-posed",
+          "Juxta-",
+          "adjacent",
+          "Adjacent to",
+          "Adjacent"
+        ],
+        "value": "Normal adjacent"
+      },
+      {
+        "synonyms": [
+          "Hypercellularity",
+          "Cellular proliferation",
+          "Hyperplasia (morphologic abnormality)",
+          "Hyperplasia NOS",
+          "hyperplasia",
+          "Hyperplasia",
+          "Atypia"
+        ],
+        "value": "Atypia or hyperplasia"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Does not apply",
+          "NA",
+          "Not applicable.",
+          "Not applicable (qualifier value)",
+          "N/A",
+          "not applicable",
+          "Not Applicable"
+        ],
+        "value": "Not applicable"
+      },
+      {
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not reported"
+      },
+      {
+        "synonyms": [
+          "Locally Recurrent Malignant Neoplasm"
+        ],
+        "value": "Local recurrence"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Premalignant"
+      },
+      {
+        "synonyms": [
+          "Xg - Xenograft",
+          "Xenograft (substance)",
+          "Heterograft",
+          "Heteroplastic graft",
+          "Heterologous graft"
+        ],
+        "value": "Xenograft"
+      },
+      {
+        "synonyms": [
+          "Not Otherwise Specified"
+        ],
+        "value": "NOS"
+      },
+      {
+        "synonyms": [
+          "Add",
+          "Additional",
+          "Primary Neoplasm"
+        ],
+        "value": "Additional Primary"
+      },
+      {
+        "synonyms": [
+          "Not",
+          "treatment",
+          "Treatments",
+          "therapy",
+          "Therapies",
+          "Therapy",
+          "Therapy (regime/therapy)",
+          "Therapeutic procedure (procedure)",
+          "procedure",
+          "Therapeutic intervention",
+          "Therapeutic procedure NOS",
+          "Therapeutic procedure",
+          "Malignant (qualifier value)",
+          "malignant",
+          "Malignant",
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Negation",
+          "Therapeutic Procedure",
+          "Tumor Tissue Sample"
+        ],
+        "value": "Primary"
+      },
+      {
+        "synonyms": [
+          "MT - metastatic to",
+          "Metastatic to (attribute)",
+          "Metastatic to",
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample"
+        ],
+        "value": "Metastatic"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample"
+        ],
+        "value": "Recurrent"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "De novo",
+          "Not",
+          "treatment",
+          "Treatments",
+          "therapy",
+          "Therapies",
+          "Therapy",
+          "Therapy (regime/therapy)",
+          "Therapeutic procedure (procedure)",
+          "procedure",
+          "Therapeutic intervention",
+          "Therapeutic procedure NOS",
+          "Therapeutic procedure",
+          "Tumor Tissue Sample",
+          "From",
+          "de novo",
+          "Negation",
+          "Therapeutic Procedure"
+        ],
+        "value": "Tumor specimen from de novo untreated malignancy of the bladder"
       }
     ],
     "property": "tumor_tissue_type",
@@ -38983,8 +40524,53 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "Oil (substance)"
+        ],
+        "value": "Oil"
+      },
+      {
+        "synonyms": [
+          "H2O - water",
+          "Water-containing product",
+          "Product containing water (medicinal product)",
+          "Water (substance)",
+          "Watering"
+        ],
+        "value": "Water"
+      },
+      {
+        "synonyms": [
+          "Air (substance)"
+        ],
+        "value": "Air"
+      },
+      {
+        "synonyms": [
+          "1,2,3-propanetriol",
+          "Glycerol-containing product",
+          "Glycerin-containing product",
+          "Glycerin",
+          "Product containing glycerol (medicinal product)",
+          "Glycerol (substance)"
+        ],
+        "value": "Glycerol"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [
+          "plural",
+          "Plural",
+          "Multiple (qualifier value)",
+          "multiple",
+          "Multiple"
+        ],
+        "value": "Multi"
       }
     ],
     "property": "immersion",
@@ -39135,8 +40721,19 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "True (qualifier value)",
+          "true"
+        ],
+        "value": "True"
+      },
+      {
+        "synonyms": [
+          "Pseudo",
+          "False (qualifier value)",
+          "false"
+        ],
+        "value": "False"
       }
     ],
     "property": "pyramid",
@@ -39149,8 +40746,19 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "True (qualifier value)",
+          "true"
+        ],
+        "value": "True"
+      },
+      {
+        "synonyms": [
+          "Pseudo",
+          "False (qualifier value)",
+          "false"
+        ],
+        "value": "False"
       }
     ],
     "property": "physical_size_x",
@@ -39219,8 +40827,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "Micrometer",
+          "Micrometer (qualifier value)",
+          "um",
+          "micrometre",
+          "micron",
+          "Micron"
+        ],
+        "value": "\u00b5m"
       }
     ],
     "property": "size_x",
@@ -39233,8 +40848,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "Micrometer",
+          "Micrometer (qualifier value)",
+          "um",
+          "micrometre",
+          "micron",
+          "Micron"
+        ],
+        "value": "\u00b5m"
       }
     ],
     "property": "size_y",
@@ -39247,8 +40869,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "Micrometer",
+          "Micrometer (qualifier value)",
+          "um",
+          "micrometre",
+          "micron",
+          "Micron"
+        ],
+        "value": "\u00b5m"
       }
     ],
     "property": "size_z",
@@ -39443,8 +41072,70 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "synonyms": [
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "synonyms": [
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
       }
     ],
     "property": "excitation_wavelength",
@@ -39457,8 +41148,70 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "synonyms": [
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "synonyms": [
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
       }
     ],
     "property": "emission_wavelength",
@@ -39471,8 +41224,70 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "synonyms": [
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "synonyms": [
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
       }
     ],
     "property": "excitation_bandwidth",
@@ -39485,8 +41300,70 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "synonyms": [
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "synonyms": [
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
       }
     ],
     "property": "emission_bandwidth",
@@ -39555,8 +41432,70 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "synonyms": [
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "synonyms": [
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
       }
     ],
     "property": "dilution",
@@ -39569,8 +41508,70 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "synonyms": [
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "synonyms": [
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
       }
     ],
     "property": "concentration",
@@ -39640,7 +41641,7 @@
     "permissibleValues": [
       {
         "synonyms": [],
-        "value": null
+        "value": "e.g., 2:1"
       }
     ],
     "property": "CTAquisitionProtocolElement_spiralPitchFactor",
@@ -39835,8 +41836,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Yes (qualifier value)",
+          "yes"
+        ],
+        "value": "Yes"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "No"
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_inversionRecoveryIndicator",
@@ -39863,8 +41871,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Yes (qualifier value)",
+          "yes"
+        ],
+        "value": "Yes"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "No"
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator",
@@ -39877,8 +41892,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Yes (qualifier value)",
+          "yes"
+        ],
+        "value": "Yes"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "No"
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_phaseContrastIndicator",
@@ -39891,8 +41913,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Yes (qualifier value)",
+          "yes"
+        ],
+        "value": "Yes"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "No"
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator",
@@ -39933,8 +41962,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Yes (qualifier value)",
+          "yes"
+        ],
+        "value": "Yes"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "No"
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator",
@@ -39947,8 +41983,15 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "Yes (qualifier value)",
+          "yes"
+        ],
+        "value": "Yes"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "No"
       }
     ],
     "property": "MRImageAcquisitionProtocolElement_saturationRecoveryIndicator",
@@ -39990,7 +42033,214 @@
     "permissibleValues": [
       {
         "synonyms": [],
-        "value": null
+        "value": "Pancreaticoduodenectomy"
+      },
+      {
+        "synonyms": [
+          "core biopsy procedure",
+          "Core needle biopsy (procedure)",
+          "core biopsy",
+          "needle core biopsy",
+          "core needle biopsy",
+          "Core Biopsy"
+        ],
+        "value": "Core needle biopsy"
+      },
+      {
+        "synonyms": [],
+        "value": "Forceps Biopsy"
+      },
+      {
+        "synonyms": [
+          "Non-specific",
+          "Non-specified",
+          "Non-specific (qualifier value)",
+          "Unspecified"
+        ],
+        "value": "Not specified"
+      },
+      {
+        "synonyms": [
+          "Reexcision",
+          "Reexcision (procedure)",
+          "Re-Excision"
+        ],
+        "value": "Re-excision"
+      },
+      {
+        "synonyms": [
+          "Skin punch biopsy",
+          "Punch biopsy of skin",
+          "Punch biopsy of skin (procedure)",
+          "Punch Biopsy"
+        ],
+        "value": "Punch biopsy"
+      },
+      {
+        "synonyms": [
+          "Shave biopsy (procedure)",
+          "Shave biopsy - action",
+          "Shave biopsy - action (qualifier value)",
+          "Shave Biopsy"
+        ],
+        "value": "Shave biopsy"
+      },
+      {
+        "synonyms": [
+          "Simple lymphadenectomy",
+          "lymphadenectomy",
+          "Lymphadenectomy",
+          "Excision of lymph node (procedure)",
+          "Excision of group of lymph nodes (procedure)",
+          "Excision of group of lymph nodes",
+          "Excision of lymph node",
+          "Lymph node excision",
+          "Regional Lymph Nodes",
+          "Regional Lymph Node"
+        ],
+        "value": "Lymphadenectomy (regional nodes)"
+      },
+      {
+        "synonyms": [
+          "Sentinel lymph node biopsy (procedure)",
+          "Sentinel lymph node biopsy",
+          "Sentinel Lymph Node Biopsy"
+        ],
+        "value": "Sentinel node biopsy"
+      },
+      {
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not reported"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Does not apply",
+          "NA",
+          "Not applicable.",
+          "Not applicable (qualifier value)",
+          "N/A",
+          "not applicable",
+          "Not Applicable"
+        ],
+        "value": "Not applicable"
+      },
+      {
+        "synonyms": [
+          "Incisional biopsy",
+          "Open biopsy (procedure)",
+          "Open biopsy",
+          "Incisional biopsy (procedure)",
+          "Incision and biopsy",
+          "Incision biopsy",
+          "Incisional biopsy - action (qualifier value)",
+          "Incisional biopsy - action"
+        ],
+        "value": "Incisional Biopsy"
+      },
+      {
+        "synonyms": [
+          "Blood specimen (specimen)",
+          "Blood sample",
+          "Blood specimen",
+          "Blood Sample"
+        ],
+        "value": "Blood draw"
+      },
+      {
+        "synonyms": [
+          "excisional biopsy",
+          "Excisional biopsy (procedure)",
+          "Excisional biopsy",
+          "Excision biopsy (qualifier value)",
+          "Excision biopsy"
+        ],
+        "value": "Excisional Biopsy"
+      },
+      {
+        "synonyms": [
+          "Surgical resection",
+          "Resection",
+          "Removal technique",
+          "Surgical removal",
+          "SR - Surgical removal",
+          "Removal",
+          "Surgical removal (procedure)",
+          "Removal procedure",
+          "Removal - procedure",
+          "Removal (procedure)",
+          "Incision and removal",
+          "Excision procedure",
+          "Excision (procedure)",
+          "ectomy",
+          "Surgical removal - action",
+          "Removal - action",
+          "Removal - action (qualifier value)",
+          "Surgical removal - action (qualifier value)",
+          "Excision - action (qualifier value)",
+          "Excision - action",
+          "Abscission",
+          "Excision"
+        ],
+        "value": "Surgical Resection"
+      },
+      {
+        "synonyms": [
+          "post-mortem",
+          "post mortem",
+          "postmortem",
+          "Necropsy",
+          "Postmortem examination (procedure)",
+          "Postmortem examination",
+          "PM - Postmortem examination",
+          "Autopsy examination (procedure)",
+          "Autopsy examination"
+        ],
+        "value": "Autopsy"
+      },
+      {
+        "synonyms": [
+          "Fine needle aspiration biopsy - action (qualifier value)",
+          "Fine needle aspiration biopsy - action",
+          "fine-needle aspiration",
+          "fine needle aspiration",
+          "FNA - Fine needle aspiration",
+          "Aspiration biopsy",
+          "fine needle aspiration biopsy",
+          "Fine needle aspiration biopsy",
+          "Fine-Needle Aspiration"
+        ],
+        "value": "Fine needle aspirate"
+      },
+      {
+        "synonyms": [
+          "Biopsy (procedure)",
+          "BX - Biopsy",
+          "Biopsy - action (qualifier value)",
+          "Biopsy - action",
+          "Biopsy, nos",
+          "Biopsy NOS",
+          "biopsy"
+        ],
+        "value": "Biopsy"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
       }
     ],
     "property": "acquisition_method_type",
@@ -40003,8 +42253,265 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
+        "synonyms": [
+          "In situ (qualifier value)",
+          "In situ",
+          "In Situ",
+          "Premalignant"
+        ],
+        "value": "Premalignant - in situ"
+      },
+      {
+        "synonyms": [
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue"
+        ],
+        "value": "Tissue"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "post-therapy",
+          "post therapy",
+          "Tumor Tissue Sample",
+          "Post-Therapy"
+        ],
+        "value": "Tumor post-therapy"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample",
+          "Post Neoadjuvant Therapy Sample"
+        ],
+        "value": "Tumor post-neoadjuvant therapy\u00a0\u00a0\u00a0\u00a0"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample",
+          "Post-Adjuvant Therapy"
+        ],
+        "value": "Tumor post-adjuvant therapy\u00a0\u00a0\u00a0\u00a0\u00a0"
+      },
+      {
+        "synonyms": [
+          "Tissue",
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue"
+        ],
+        "value": "Normal"
+      },
+      {
+        "synonyms": [
+          "Tissue",
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue",
+          "Distant (qualifier value)",
+          "Distant"
+        ],
+        "value": "Normal distant"
+      },
+      {
+        "synonyms": [
+          "Tissue",
+          "Body tissue structure",
+          "Body tissue structure (body structure)",
+          "Body tissue",
+          "Next to",
+          "Juxta-posed (qualifier value)",
+          "Juxta-posed",
+          "Juxta-",
+          "adjacent",
+          "Adjacent to",
+          "Adjacent"
+        ],
+        "value": "Normal adjacent"
+      },
+      {
+        "synonyms": [
+          "Hypercellularity",
+          "Cellular proliferation",
+          "Hyperplasia (morphologic abnormality)",
+          "Hyperplasia NOS",
+          "hyperplasia",
+          "Hyperplasia",
+          "Atypia"
+        ],
+        "value": "Atypia or hyperplasia"
+      },
+      {
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "synonyms": [
+          "Does not apply",
+          "NA",
+          "Not applicable.",
+          "Not applicable (qualifier value)",
+          "N/A",
+          "not applicable",
+          "Not Applicable"
+        ],
+        "value": "Not applicable"
+      },
+      {
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not reported"
+      },
+      {
+        "synonyms": [
+          "Locally Recurrent Malignant Neoplasm"
+        ],
+        "value": "Local recurrence"
+      },
+      {
         "synonyms": [],
-        "value": null
+        "value": "Premalignant"
+      },
+      {
+        "synonyms": [
+          "Xg - Xenograft",
+          "Xenograft (substance)",
+          "Heterograft",
+          "Heteroplastic graft",
+          "Heterologous graft"
+        ],
+        "value": "Xenograft"
+      },
+      {
+        "synonyms": [
+          "Not Otherwise Specified"
+        ],
+        "value": "NOS"
+      },
+      {
+        "synonyms": [
+          "Add",
+          "Additional",
+          "Primary Neoplasm"
+        ],
+        "value": "Additional Primary"
+      },
+      {
+        "synonyms": [
+          "Not",
+          "treatment",
+          "Treatments",
+          "therapy",
+          "Therapies",
+          "Therapy",
+          "Therapy (regime/therapy)",
+          "Therapeutic procedure (procedure)",
+          "procedure",
+          "Therapeutic intervention",
+          "Therapeutic procedure NOS",
+          "Therapeutic procedure",
+          "Malignant (qualifier value)",
+          "malignant",
+          "Malignant",
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Negation",
+          "Therapeutic Procedure",
+          "Tumor Tissue Sample"
+        ],
+        "value": "Primary"
+      },
+      {
+        "synonyms": [
+          "MT - metastatic to",
+          "Metastatic to (attribute)",
+          "Metastatic to",
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample"
+        ],
+        "value": "Metastatic"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "Tumor Tissue Sample"
+        ],
+        "value": "Recurrent"
+      },
+      {
+        "synonyms": [
+          "Tumor tissue specimen (specimen)",
+          "Tumour tissue specimen",
+          "Tumor tissue specimen",
+          "Tumor tissue sample",
+          "Tumour tissue sample",
+          "Tumour tissue",
+          "Tumor tissue",
+          "De novo",
+          "Not",
+          "treatment",
+          "Treatments",
+          "therapy",
+          "Therapies",
+          "Therapy",
+          "Therapy (regime/therapy)",
+          "Therapeutic procedure (procedure)",
+          "procedure",
+          "Therapeutic intervention",
+          "Therapeutic procedure NOS",
+          "Therapeutic procedure",
+          "Tumor Tissue Sample",
+          "From",
+          "de novo",
+          "Negation",
+          "Therapeutic Procedure"
+        ],
+        "value": "Tumor specimen from de novo untreated malignancy of the bladder"
       }
     ],
     "property": "tumor_tissue_type",
@@ -40368,8 +42875,53 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "Oil (substance)"
+        ],
+        "value": "Oil"
+      },
+      {
+        "synonyms": [
+          "H2O - water",
+          "Water-containing product",
+          "Product containing water (medicinal product)",
+          "Water (substance)",
+          "Watering"
+        ],
+        "value": "Water"
+      },
+      {
+        "synonyms": [
+          "Air (substance)"
+        ],
+        "value": "Air"
+      },
+      {
+        "synonyms": [
+          "1,2,3-propanetriol",
+          "Glycerol-containing product",
+          "Glycerin-containing product",
+          "Glycerin",
+          "Product containing glycerol (medicinal product)",
+          "Glycerol (substance)"
+        ],
+        "value": "Glycerol"
+      },
+      {
+        "synonyms": [
+          "Other (qualifier value)"
+        ],
+        "value": "Other"
+      },
+      {
+        "synonyms": [
+          "plural",
+          "Plural",
+          "Multiple (qualifier value)",
+          "multiple",
+          "Multiple"
+        ],
+        "value": "Multi"
       }
     ],
     "property": "immersion",
@@ -41333,8 +43885,10 @@
     "dataCommons": "CDS",
     "permissibleValues": [
       {
-        "synonyms": [],
-        "value": null
+        "synonyms": [
+          "Three-Dimensional Imaging"
+        ],
+        "value": "3D"
       }
     ],
     "property": "performed_imaging_study_acquisitionTypeCode",
