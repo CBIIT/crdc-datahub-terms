@@ -28305,6 +28305,12 @@
       },
       {
         "property": "treatment.treatment_type",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CCDI",
         "version": "2.0.0"
       },
@@ -60821,6 +60827,15 @@
         "version": "1.4.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "treatment.response",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "treatment_response.response",
         "model": "CCDI",
         "version": "2.0.0"
@@ -61829,11 +61844,24 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "file.file_type",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.file_type",
         "model": "CCDI",
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "generic_file.file_type",
         "model": "CCDI",
         "version": "2.0.0"
@@ -62563,6 +62591,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "file.file_mapping_level",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "generic_file.file_mapping_level",
         "model": "CCDI",
         "version": "2.0.0"
@@ -62573,6 +62610,10 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "clinical_measure_file.file_mapping_level",
         "model": "CCDI",
         "version": "2.1.0"
@@ -71905,6 +71946,12 @@
     "models": [
       {
         "property": "diagnosis.tumor_stage_clinical_t",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CCDI",
         "version": "2.0.0"
       },
@@ -72268,6 +72315,12 @@
     "models": [
       {
         "property": "diagnosis.tumor_stage_clinical_n",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CCDI",
         "version": "2.0.0"
       },
@@ -72565,6 +72618,12 @@
     "models": [
       {
         "property": "diagnosis.tumor_stage_clinical_m",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CCDI",
         "version": "2.0.0"
       },
@@ -79328,6 +79387,12 @@
     "models": [
       {
         "property": "participant.race",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CCDI",
         "version": "2.0.0"
       },
@@ -79522,6 +79587,20 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "image.image_modality",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_nonAcquisitionModalitiesInStudyCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "pathology_file.image_modality",
         "model": "CCDI",
         "version": "2.1.0"
@@ -81419,6 +81498,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.echoPulseSequenceCategoryCode",
         "model": "CCDI",
         "version": "2.1.0"
@@ -81538,6 +81626,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_diffusionDirectionalityCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.diffusionDirectionalityCode",
         "model": "CCDI",
         "version": "2.1.0"
@@ -81662,6 +81759,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_acquisitionContrastCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.acquisitionContrastCode",
         "model": "CCDI",
         "version": "2.1.0"
@@ -81821,6 +81927,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_inversionRecoveryIndicator",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.inversionRecoveryIndicator",
         "model": "CCDI",
         "version": "2.1.0"
@@ -81936,6 +82051,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.multipleSpinEchoIndicator",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82051,6 +82175,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_phaseContrastIndicator",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.phaseContrastIndicator",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82166,6 +82299,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.timeOfFlightContrastIndicator",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82281,6 +82423,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.steadyStatePulseSequenceCode",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82405,6 +82556,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.echoPlanarPulseSequenceIndicator",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82520,6 +82680,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_saturationRecoveryIndicator",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.saturationRecoveryIndicator",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82635,6 +82804,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_spectrallySelectedSuppressionCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.spectrallySelectedSuppressionCode",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82759,6 +82937,15 @@
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageReconstructionProtocolElement_complexImageComponentCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "radiology_file.complexImageComponentCode",
         "model": "CCDI",
         "version": "2.1.0"
@@ -82874,6 +83061,12 @@
     "models": [
       {
         "property": "sample.sample_tumor_status",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CCDI",
         "version": "2.0.0"
       },
@@ -83693,11 +83886,24 @@
     "CDEFullName": "Sequencing Library Read Layout Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "genomic_info.library_layout",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.library_layout",
         "model": "CCDI",
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.library_layout",
         "model": "CCDI",
         "version": "2.1.0"
@@ -84013,11 +84219,24 @@
     "CDEFullName": "Sequencing Library Platform Name",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "genomic_info.platform",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.platform",
         "model": "CCDI",
         "version": "2.0.0"
       },
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.platform",
         "model": "CCDI",
         "version": "2.1.0"
@@ -84556,6 +84775,15 @@
     "CDEFullName": "Genome Assembly Sequence Depth of Coverage Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "genomic_info.coverage",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.coverage",
         "model": "CCDI",
         "version": "2.0.0"
@@ -85997,6 +86225,15 @@
     "CDEFullName": "Sample Organism Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "study.organism_species",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "study_admin.organism_species",
         "model": "CCDI",
         "version": "2.0.0"
@@ -87418,6 +87655,15 @@
     "CDEFullName": "Participant Vital Status Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "diagnosis.vital_status",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "survival.last_known_survival_status",
         "model": "CCDI",
         "version": "2.0.0"
@@ -180261,6 +180507,12 @@
     "models": [
       {
         "property": "study.acl",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -183281,6 +183533,15 @@
     "CDEFullName": "Sequencing Library Creation Method Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "genomic_info.library_selection",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.library_selection",
         "model": "CCDI",
         "version": "2.1.0"
@@ -183522,6 +183783,15 @@
     "CDEFullName": "Sequencing Library Technique Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "genomic_info.library_strategy",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.library_strategy",
         "model": "CCDI",
         "version": "2.1.0"
@@ -183939,6 +184209,15 @@
     "CDEFullName": "Genome Assembly NCBI Genetic Reference Sequence Identifier",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "genomic_info.reference_genome_assembly",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "sequencing_file.reference_genome_assembly",
         "model": "CCDI",
         "version": "2.0.0"
@@ -183988,6 +184267,15 @@
     "CDEFullName": "Research Activity Experimental Method Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "file.experimental_strategy_and_data_subtypes",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CCDI",
+>>>>>>> Stashed changes
         "property": "study.experimental_strategy_and_data_subtype",
         "model": "CCDI",
         "version": "2.1.0"
@@ -197827,6 +198115,12 @@
     "models": [
       {
         "property": "diagnosis.tumor_grade",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -260544,6 +260838,12 @@
     "models": [
       {
         "property": "study.adult_or_childhood_study",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -260656,6 +260956,12 @@
     "models": [
       {
         "property": "study.role_or_affiliation",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -261769,6 +262075,12 @@
     "models": [
       {
         "property": "study.title",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -261949,6 +262261,12 @@
     "models": [
       {
         "property": "study.suffix",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -262197,6 +262515,12 @@
     "models": [
       {
         "property": "participant.ethnicity",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -262331,6 +262655,12 @@
     "models": [
       {
         "property": "participant.sex",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -262500,6 +262830,12 @@
     "models": [
       {
         "property": "diagnosis.disease_type",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -263076,6 +263412,12 @@
     "models": [
       {
         "property": "diagnosis.primary_diagnosis",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -283050,6 +283392,12 @@
     "models": [
       {
         "property": "diagnosis.primary_site",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -284364,6 +284712,12 @@
     "models": [
       {
         "property": "diagnosis.morphology",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -290299,6 +290653,12 @@
     "models": [
       {
         "property": "diagnosis.last_known_disease_status",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -290503,6 +290863,12 @@
     "models": [
       {
         "property": "diagnosis.tissue_or_organ_of_origin",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -293657,6 +294023,12 @@
     "models": [
       {
         "property": "diagnosis.site_of_resection_or_biopsy",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -296811,6 +297183,12 @@
     "models": [
       {
         "property": "treatment.therapeutic_agents",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -319270,6 +319648,12 @@
     "models": [
       {
         "property": "sample.sample_type",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -319409,6 +319793,12 @@
     "models": [
       {
         "property": "sample.sample_type_category",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -319694,6 +320084,12 @@
     "models": [
       {
         "property": "sample.sample_anatomic_site",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -321493,7 +321889,20 @@
     "models": [
       {
         "property": "genomic_info.design_description",
+<<<<<<< Updated upstream
         "model": "CDS",
+=======
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "genomic_info.instrument_model",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "genomic_info.design_description",
+>>>>>>> Stashed changes
         "version": "4.0.4"
       },
       {
@@ -322202,6 +322611,12 @@
     "models": [
       {
         "property": "image.de_identification_method_type",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -322329,6 +322744,12 @@
     "models": [
       {
         "property": "image.license",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -322433,6 +322854,12 @@
     "models": [
       {
         "property": "image.organ_or_tissue",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -325444,6 +325871,15 @@
     "CDEFullName": "Image Lossy Compression Code",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_lossyImageCompressionIndicator",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.performed_imaging_study_lossyImageCompressionIndicator",
         "model": "CDS",
         "version": "4.0.4"
@@ -325538,6 +325974,15 @@
     "CDEFullName": "Image Study Spatial Acquisition Type Code",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_acquisitionTypeCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.performed_imaging_study_acquisitionTypeCode",
         "model": "CDS",
         "version": "4.0.4"
@@ -325634,6 +326079,15 @@
     "CDEFullName": "Image Study Cardiac Synchronization Technique Code Name",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_cardiacSynchronizationTechniqueCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.performed_imaging_study_cardiacSynchronizationTechniqueCode",
         "model": "CDS",
         "version": "4.0.4"
@@ -325748,6 +326202,15 @@
     "CDEFullName": "Image Study Respiratory Motion Technique Code Name",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_respiratoryMotionTechniqueCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.performed_imaging_study_respiratoryMotionTechniqueCode",
         "model": "CDS",
         "version": "4.0.4"
@@ -325872,6 +326335,15 @@
     "CDEFullName": "Image Study Body Position Name",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_bodyPositionCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.performed_imaging_study_bodyPositionCode",
         "model": "CDS",
         "version": "4.0.4"
@@ -325994,6 +326466,12 @@
     "models": [
       {
         "property": "image.longitudinal_temporal_event_type",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "4.0.4"
       },
@@ -326096,6 +326574,15 @@
     "CDEFullName": "Computed Tomography Pitch Factor Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_spiralPitchFactor",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.CTAquisitionProtocolElement_spiralPitchFactor",
         "model": "CDS",
         "version": "4.0.4"
@@ -326190,6 +326677,15 @@
     "CDEFullName": "Imaging Technique Exposure Modulation Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_exposureModulationType_Code",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.CTAquisitionProtocolElement_exposureModulationType_Code",
         "model": "CDS",
         "version": "4.0.4"
@@ -326299,6 +326795,15 @@
     "CDEFullName": "Image Acquisition Resonant Nucleus Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_resonantNucleusCode",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.MRImageAcquisitionProtocolElement_resonantNucleusCode",
         "model": "CDS",
         "version": "4.0.4"
@@ -326428,6 +326933,20 @@
     "CDEFullName": "Biospecimen Acquisition Method Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.acquisition_method_type",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "NonDICOMpathologyImages.acquisition_method_type",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.acquisition_method_type",
         "model": "CDS",
         "version": "4.0.4"
@@ -326766,6 +327285,20 @@
     "CDEFullName": "Tumor Tissue Disease Description Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.tumor_tissue_type",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "NonDICOMpathologyImages.tumor_tissue_type",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.tumor_tissue_type",
         "model": "CDS",
         "version": "4.0.4"
@@ -327052,6 +327585,20 @@
     "CDEFullName": "Specimen Fixative Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.tissue_fixative",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "NonDICOMpathologyImages.tissue_fixative",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.tissue_fixative",
         "model": "CDS",
         "version": "4.0.4"
@@ -327393,6 +327940,20 @@
     "CDEFullName": "Biospecimen Collection Medium Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.embedding_medium",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "NonDICOMpathologyImages.embedding_medium",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.embedding_medium",
         "model": "CDS",
         "version": "4.0.4"
@@ -327563,6 +328124,25 @@
     "CDEFullName": "Imaging Assay Technology Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.staining_method",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.imaging_assay_type",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "NonDICOMpathologyImages.staining_method",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.staining_method",
         "model": "CDS",
         "version": "4.0.4"
@@ -327897,6 +328477,20 @@
     "CDEFullName": "Microscope Device Immersion Medium Type",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.immersion",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "NonDICOMpathologyImages.immersion",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.immersion",
         "model": "CDS",
         "version": "4.0.4"
@@ -328097,6 +328691,20 @@
     "CDEFullName": "Image Processing Pyramid Representation True False Indicator",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.pyramid",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.physical_size_x",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.pyramid",
         "model": "CDS",
         "version": "4.0.4"
@@ -328285,6 +328893,15 @@
     "CDEFullName": "OME TIFF X-Dimension Pixel Measurement",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.size_x",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.size_x",
         "model": "CDS",
         "version": "4.0.4"
@@ -328386,6 +329003,15 @@
     "CDEFullName": "OME TIFF Y-Dimension Pixel Measurement",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.size_y",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.size_y",
         "model": "CDS",
         "version": "4.0.4"
@@ -328487,6 +329113,15 @@
     "CDEFullName": "OME TIFF Z-Dimension Pixel Measurement",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.size_z",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.size_z",
         "model": "CDS",
         "version": "4.0.4"
@@ -328588,6 +329223,15 @@
     "CDEFullName": "Multiplex Imaging Excitation Wavelength Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.excitation_wavelength",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.excitation_wavelength",
         "model": "CDS",
         "version": "4.0.4"
@@ -328752,6 +329396,15 @@
     "CDEFullName": "Multiplex Imaging Emission Wavelength Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.emission_wavelength",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.emission_wavelength",
         "model": "CDS",
         "version": "4.0.4"
@@ -328916,6 +329569,15 @@
     "CDEFullName": "Multiplex Imaging Excitation Bandwidth Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.excitation_bandwidth",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.excitation_bandwidth",
         "model": "CDS",
         "version": "4.0.4"
@@ -329080,6 +329742,15 @@
     "CDEFullName": "Multiplex Imaging Emission Bandwidth Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.emission_bandwidth",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.emission_bandwidth",
         "model": "CDS",
         "version": "4.0.4"
@@ -329244,6 +329915,15 @@
     "CDEFullName": "Multiplex Imaging Final Dilution Ratio Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.dilution",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.dilution",
         "model": "CDS",
         "version": "4.0.4"
@@ -329408,6 +330088,15 @@
     "CDEFullName": "Multiplex Imaging Final Concentration Number",
     "models": [
       {
+<<<<<<< Updated upstream
+=======
+        "model": "CDS",
+        "property": "MultiplexMicroscopy.concentration",
+        "version": "7.0.0"
+      },
+      {
+        "model": "CDS",
+>>>>>>> Stashed changes
         "property": "image.concentration",
         "model": "CDS",
         "version": "4.0.4"
@@ -345918,6 +346607,12 @@
     "models": [
       {
         "property": "diagnosis.progression_or_recurrence",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
@@ -346036,6 +346731,12 @@
     "models": [
       {
         "property": "genomic_info.library_source_material",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.2"
       },
@@ -346122,6 +346823,12 @@
     "models": [
       {
         "property": "genomic_info.library_source_molecule",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.2"
       },
@@ -346208,6 +346915,12 @@
     "models": [
       {
         "property": "proteomic.analytical_fractions",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.2"
       },
@@ -346316,6 +347029,12 @@
     "models": [
       {
         "property": "proteomic.manufacturer_model_name",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.2"
       },
@@ -371114,6 +371833,12 @@
     "models": [
       {
         "property": "study.study_data_types",
+<<<<<<< Updated upstream
+=======
+        "version": "7.0.0"
+      },
+      {
+>>>>>>> Stashed changes
         "model": "CDS",
         "version": "6.0.3"
       },
