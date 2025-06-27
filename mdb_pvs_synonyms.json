@@ -383543,5 +383543,791 @@
         "value": "Clinical"
       }
     ]
+  },
+  {
+    "CDECode": "11416926",
+    "CDEVersion": "2.00",
+    "CDEFullName": "Data File Format Type",
+    "models": [
+      {
+        "property": "file.file_type",
+        "model": "CDS",
+        "version": "8.0.2-76a5b2d"
+      }
+    ],
+    "permissibleValues": [
+      {
+        "ncit_concept_code": "C164050",
+        "synonyms": [
+          "Excel Open XML Format"
+        ],
+        "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C210442",
+        "synonyms": [
+          "DOC Format"
+        ],
+        "value": "DOC"
+      },
+      {
+        "ncit_concept_code": "C209893",
+        "synonyms": [
+          "IDPicker File Format"
+        ],
+        "value": "idpDB"
+      },
+      {
+        "ncit_concept_code": "C209895",
+        "synonyms": [
+          "Reference Data Set File Format"
+        ],
+        "value": "rds"
+      },
+      {
+        "ncit_concept_code": "C209889",
+        "synonyms": [
+          "Cytoscape Input File Format"
+        ],
+        "value": "CNS"
+      },
+      {
+        "ncit_concept_code": "C209890",
+        "synonyms": [
+          "HET Group Dictionary Entry Format"
+        ],
+        "value": "DICT"
+      },
+      {
+        "ncit_concept_code": "C209894",
+        "synonyms": [
+          "Affymetrix Probe Sets Library File"
+        ],
+        "value": "cdf"
+      },
+      {
+        "ncit_concept_code": "C209891",
+        "synonyms": [
+          "Pedigree File Format"
+        ],
+        "value": "PED"
+      },
+      {
+        "ncit_concept_code": "C209892",
+        "synonyms": [
+          "Segmented Data Format"
+        ],
+        "value": "SEG"
+      },
+      {
+        "ncit_concept_code": "C209896",
+        "synonyms": [
+          "Rich Text Format"
+        ],
+        "value": "RTF"
+      },
+      {
+        "ncit_concept_code": "C184806",
+        "synonyms": [
+          "TBI Format"
+        ],
+        "value": "TBI"
+      },
+      {
+        "ncit_concept_code": "C205749",
+        "synonyms": [
+          "HTSeq-Count Output Format"
+        ],
+        "value": "HTSeq Count"
+      },
+      {
+        "ncit_concept_code": "C204352",
+        "synonyms": [
+          "Genomic Variant Call Format"
+        ],
+        "value": "gVCF"
+      },
+      {
+        "ncit_concept_code": "C203672",
+        "synonyms": [
+          "HIC File Format"
+        ],
+        "value": "HIC"
+      },
+      {
+        "ncit_concept_code": "C184749",
+        "synonyms": [
+          "BEDPE Format"
+        ],
+        "value": "BEDPE Format"
+      },
+      {
+        "ncit_concept_code": "C201789",
+        "synonyms": [
+          "mtx"
+        ],
+        "value": "mtx"
+      },
+      {
+        "ncit_concept_code": "C201788",
+        "synonyms": [
+          "mzIdentML"
+        ],
+        "value": "mzIdentML"
+      },
+      {
+        "ncit_concept_code": "C184778",
+        "synonyms": [
+          "MEX Format"
+        ],
+        "value": "MEX"
+      },
+      {
+        "ncit_concept_code": "C192224",
+        "synonyms": [
+          "CRAI File"
+        ],
+        "value": "CRAI"
+      },
+      {
+        "ncit_concept_code": "C191737",
+        "synonyms": [
+          "Affymetrix CEL Format"
+        ],
+        "value": "CEL"
+      },
+      {
+        "ncit_concept_code": "C172215",
+        "synonyms": [
+          "Mutation Annotation Format"
+        ],
+        "value": "MAF"
+      },
+      {
+        "ncit_concept_code": "C184769",
+        "synonyms": [
+          "JSON Format"
+        ],
+        "value": "JSON"
+      },
+      {
+        "ncit_concept_code": "C184768",
+        "synonyms": [
+          "JPEG 2000 Format"
+        ],
+        "value": "JPEG 2000"
+      },
+      {
+        "ncit_concept_code": "C48230",
+        "synonyms": [
+          "JPEG"
+        ],
+        "value": "JPEG"
+      },
+      {
+        "ncit_concept_code": "C172212",
+        "synonyms": [
+          "Investigation Description Format"
+        ],
+        "value": "IDF"
+      },
+      {
+        "ncit_concept_code": "C184762",
+        "synonyms": [
+          "IDAT Format"
+        ],
+        "value": "IDAT"
+      },
+      {
+        "ncit_concept_code": "C190192",
+        "synonyms": [
+          "ZIP Format"
+        ],
+        "value": "ZIP"
+      },
+      {
+        "ncit_concept_code": "C190193",
+        "synonyms": [
+          "YAML Language"
+        ],
+        "value": "YAML"
+      },
+      {
+        "ncit_concept_code": "C70631",
+        "synonyms": [
+          "TIFF"
+        ],
+        "value": "TIFF"
+      },
+      {
+        "ncit_concept_code": "C45967",
+        "synonyms": [
+          "Extensible Markup Language"
+        ],
+        "value": "XML"
+      },
+      {
+        "ncit_concept_code": "C172213",
+        "synonyms": [
+          "Array Design Format"
+        ],
+        "value": "ADF"
+      },
+      {
+        "ncit_concept_code": "C190162",
+        "synonyms": [
+          "AVI Format"
+        ],
+        "value": "AVI"
+      },
+      {
+        "ncit_concept_code": "C190163",
+        "synonyms": [
+          "BAI File"
+        ],
+        "value": "BAI"
+      },
+      {
+        "ncit_concept_code": "C153249",
+        "synonyms": [
+          "Binary Alignment Map"
+        ],
+        "value": "BAM"
+      },
+      {
+        "ncit_concept_code": "C153367",
+        "synonyms": [
+          "BED Format"
+        ],
+        "value": "BED"
+      },
+      {
+        "ncit_concept_code": "C190165",
+        "synonyms": [
+          "Bedgraph Format"
+        ],
+        "value": "bedgraph"
+      },
+      {
+        "ncit_concept_code": "C190166",
+        "synonyms": [
+          "BigBed Format"
+        ],
+        "value": "bigBed"
+      },
+      {
+        "ncit_concept_code": "C190167",
+        "synonyms": [
+          "BigWig Format"
+        ],
+        "value": "bigWig"
+      },
+      {
+        "ncit_concept_code": "C190168",
+        "synonyms": [
+          "Binary Format"
+        ],
+        "value": "Binary Format"
+      },
+      {
+        "ncit_concept_code": "C190164",
+        "synonyms": [
+          "BCR Biotab Format"
+        ],
+        "value": "BCR Biotab"
+      },
+      {
+        "ncit_concept_code": "C190169",
+        "synonyms": [
+          "BIOM Format"
+        ],
+        "value": "BIOM"
+      },
+      {
+        "ncit_concept_code": "C190170",
+        "synonyms": [
+          "CRAM Format"
+        ],
+        "value": "CRAM"
+      },
+      {
+        "ncit_concept_code": "C182456",
+        "synonyms": [
+          "Comma Separated Values Format"
+        ],
+        "value": "CSV"
+      },
+      {
+        "ncit_concept_code": "C190171",
+        "synonyms": [
+          "DOCX Format"
+        ],
+        "value": "DOCX"
+      },
+      {
+        "ncit_concept_code": "C190172",
+        "synonyms": [
+          "DSV Format"
+        ],
+        "value": "DSV"
+      },
+      {
+        "ncit_concept_code": "C47845",
+        "synonyms": [
+          "FASTA Format"
+        ],
+        "value": "FASTA"
+      },
+      {
+        "ncit_concept_code": "C172212",
+        "synonyms": [
+          "Investigation Description Format"
+        ],
+        "value": "FASTQ"
+      },
+      {
+        "ncit_concept_code": "C190173",
+        "synonyms": [
+          "GCT/RES Format"
+        ],
+        "value": "GCT/Res Format"
+      },
+      {
+        "ncit_concept_code": "C49059",
+        "synonyms": [
+          "DICOM"
+        ],
+        "value": "DICOM"
+      },
+      {
+        "ncit_concept_code": "C190174",
+        "synonyms": [
+          "GenBank Format"
+        ],
+        "value": "GenBank Format"
+      },
+      {
+        "ncit_concept_code": "C190175",
+        "synonyms": [
+          "General Feature Format Version 3"
+        ],
+        "value": "GFF3"
+      },
+      {
+        "ncit_concept_code": "C190176",
+        "synonyms": [
+          "GenePix Results Format"
+        ],
+        "value": "GPR"
+      },
+      {
+        "ncit_concept_code": "C190177",
+        "synonyms": [
+          "GTF Format"
+        ],
+        "value": "GTF"
+      },
+      {
+        "ncit_concept_code": "C184763",
+        "synonyms": [
+          "Hierarchical Data Format 5"
+        ],
+        "value": "HDF5"
+      },
+      {
+        "ncit_concept_code": "C142380",
+        "synonyms": [
+          "Hypertext Markup Language"
+        ],
+        "value": "HTML"
+      },
+      {
+        "ncit_concept_code": "C80220",
+        "synonyms": [
+          "gzip File Format"
+        ],
+        "value": "GZIP Format"
+      },
+      {
+        "ncit_concept_code": "C82937",
+        "synonyms": [
+          "MAGE-TAB"
+        ],
+        "value": "MAGE-TAB"
+      },
+      {
+        "ncit_concept_code": "C190178",
+        "synonyms": [
+          "MAT Format"
+        ],
+        "value": "MAT"
+      },
+      {
+        "ncit_concept_code": "C190180",
+        "synonyms": [
+          "MP4 Format"
+        ],
+        "value": "MPEG-4"
+      },
+      {
+        "ncit_concept_code": "C190181",
+        "synonyms": [
+          "Mass Spectrometry Markup Language"
+        ],
+        "value": "mzML"
+      },
+      {
+        "ncit_concept_code": "C47924",
+        "synonyms": [
+          "Mass Spectrometry Extensible Markup Language"
+        ],
+        "value": "mzXML"
+      },
+      {
+        "ncit_concept_code": "C190183",
+        "synonyms": [
+          "NIfTI Format"
+        ],
+        "value": "NIFTI Format"
+      },
+      {
+        "ncit_concept_code": "C190179",
+        "synonyms": [
+          "MATLAB Script File"
+        ],
+        "value": "MATLAB Script"
+      },
+      {
+        "ncit_concept_code": "C181618",
+        "synonyms": [
+          "Open Microscopy Environment Tagged Image File Format"
+        ],
+        "value": "OME-TIFF"
+      },
+      {
+        "ncit_concept_code": "C63805",
+        "synonyms": [
+          "Portable Document Format"
+        ],
+        "value": "PDF"
+      },
+      {
+        "ncit_concept_code": "C85873",
+        "synonyms": [
+          "Plain Text Data Format"
+        ],
+        "value": "Plain Text Data Format"
+      },
+      {
+        "ncit_concept_code": "C85437",
+        "synonyms": [
+          "Portable Network Graphics"
+        ],
+        "value": "PNG"
+      },
+      {
+        "ncit_concept_code": "C190186",
+        "synonyms": [
+          "R Format"
+        ],
+        "value": "R File Format"
+      },
+      {
+        "ncit_concept_code": "C190187",
+        "synonyms": [
+          "R Markdown Format"
+        ],
+        "value": "R Markdown"
+      },
+      {
+        "ncit_concept_code": "C172211",
+        "synonyms": [
+          "Sample and Data Relationship Format"
+        ],
+        "value": "SDRF"
+      },
+      {
+        "ncit_concept_code": "C190188",
+        "synonyms": [
+          "Sequence Record Format"
+        ],
+        "value": "Sequence Record Format"
+      },
+      {
+        "ncit_concept_code": "C85435",
+        "synonyms": [
+          "Scalable Vector Graphics"
+        ],
+        "value": "SVG"
+      },
+      {
+        "ncit_concept_code": "C190184",
+        "synonyms": [
+          "Python Script Format"
+        ],
+        "value": "Python Script Format"
+      },
+      {
+        "ncit_concept_code": "C172214",
+        "synonyms": [
+          "Spectral View Settings Format"
+        ],
+        "value": "SVS"
+      },
+      {
+        "ncit_concept_code": "C190189",
+        "synonyms": [
+          "TAR Format"
+        ],
+        "value": "TAR"
+      },
+      {
+        "ncit_concept_code": "C190190",
+        "synonyms": [
+          "Thermo RAW Format"
+        ],
+        "value": "Thermo RAW"
+      },
+      {
+        "ncit_concept_code": "C164049",
+        "synonyms": [
+          "Tab-Separated Value Format"
+        ],
+        "value": "TSV"
+      },
+      {
+        "ncit_concept_code": "C85873",
+        "synonyms": [
+          "Plain Text Data Format"
+        ],
+        "value": "TXT"
+      },
+      {
+        "ncit_concept_code": "C172216",
+        "synonyms": [
+          "Variant Call File Format"
+        ],
+        "value": "VCF"
+      },
+      {
+        "ncit_concept_code": "C190191",
+        "synonyms": [
+          "XLS Format"
+        ],
+        "value": "XLS"
+      }
+    ]
+  },
+  {
+    "CDECode": "14824731",
+    "CDEVersion": "2.00",
+    "CDEFullName": "Data File Content Category",
+    "models": [
+      {
+        "property": "study.study_data_types",
+        "model": "CDS",
+        "version": "8.0.2-76a5b2d"
+      }
+    ],
+    "permissibleValues": [
+      {
+        "ncit_concept_code": "C84343",
+        "synonyms": [
+          "Genomics"
+        ],
+        "value": "Genomics"
+      },
+      {
+        "ncit_concept_code": "C17369",
+        "synonyms": [
+          "radiology orderable",
+          "imaging service request",
+          "Imaging technique (qualifier value)",
+          "imaging procedure",
+          "Imaging (Procedure)",
+          "Imaging procedure",
+          "Imaging technique",
+          "Imaging Procedure"
+        ],
+        "value": "Imaging"
+      },
+      {
+        "ncit_concept_code": "C20085",
+        "synonyms": [
+          "Proteomics"
+        ],
+        "value": "Proteomics"
+      },
+      {
+        "ncit_concept_code": "C211970",
+        "synonyms": [
+          "Image Annotation"
+        ],
+        "value": "Image Annotation"
+      },
+      {
+        "ncit_concept_code": "C19026",
+        "synonyms": [
+          "Scientific Publication"
+        ],
+        "value": "Publication"
+      },
+      {
+        "ncit_concept_code": "C175247",
+        "synonyms": [
+          "Supplemental Data File"
+        ],
+        "value": "Supplemental"
+      },
+      {
+        "ncit_concept_code": "C153329",
+        "synonyms": [
+          "Sequencing Data"
+        ],
+        "value": "Sequence Data"
+      },
+      {
+        "ncit_concept_code": "C165215",
+        "synonyms": [
+          "Slide Image"
+        ],
+        "value": "Pathology Imaging"
+      },
+      {
+        "ncit_concept_code": "C175246",
+        "synonyms": [
+          "Image File"
+        ],
+        "value": "Radiology Imaging"
+      },
+      {
+        "ncit_concept_code": "C153189",
+        "synonyms": [
+          "Transcriptomics"
+        ],
+        "value": "Transcriptome Profiling"
+      },
+      {
+        "ncit_concept_code": "C63479",
+        "synonyms": [
+          "Gene Expression Analysis"
+        ],
+        "value": "Gene Expression Analysis"
+      },
+      {
+        "ncit_concept_code": "C13201",
+        "synonyms": [
+          "Nuclear sap",
+          "Karyoplasm",
+          "Chromatin (substance)",
+          "Chromatin"
+        ],
+        "value": "Chromatin"
+      },
+      {
+        "ncit_concept_code": "C20993",
+        "synonyms": [
+          "Research or Clinical Assessment Tool"
+        ],
+        "value": "Clinical Measure Instrument"
+      },
+      {
+        "ncit_concept_code": "C181330",
+        "synonyms": [
+          "Copy Number Variation Assessment"
+        ],
+        "value": "Copy Number Variation"
+      },
+      {
+        "ncit_concept_code": "C211501",
+        "synonyms": [
+          "Mass Spectrometry Data"
+        ],
+        "value": "Mass Spectrometry"
+      },
+      {
+        "ncit_concept_code": "C190764",
+        "synonyms": [
+          "Methylation Analysis"
+        ],
+        "value": "Methylation Analysis"
+      },
+      {
+        "ncit_concept_code": "C211504",
+        "synonyms": [
+          "Microarray Data"
+        ],
+        "value": "Microarray"
+      },
+      {
+        "ncit_concept_code": "C211500",
+        "synonyms": [
+          "Population Science Data"
+        ],
+        "value": "Population Science"
+      },
+      {
+        "ncit_concept_code": "C18966",
+        "synonyms": [
+          "Protein Expression"
+        ],
+        "value": "Protein Expression"
+      },
+      {
+        "ncit_concept_code": "C97139",
+        "synonyms": [
+          "Proteomic Profile"
+        ],
+        "value": "Proteomic Profile"
+      },
+      {
+        "ncit_concept_code": "C15311",
+        "synonyms": [
+          "qc",
+          "quality control",
+          "Quality Control"
+        ],
+        "value": "Quality Control"
+      },
+      {
+        "ncit_concept_code": "C43234",
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not Reported"
+      },
+      {
+        "ncit_concept_code": "C156018",
+        "synonyms": [
+          "Archive"
+        ],
+        "value": "Archive"
+      },
+      {
+        "ncit_concept_code": "C2950",
+        "synonyms": [
+          "congenital chromosomal abnormality",
+          "congenital chromosomal disease",
+          "anomaly of chromosome",
+          "Cytogenetic Abnormality"
+        ],
+        "value": "Genomic Structural Variation"
+      },
+      {
+        "ncit_concept_code": "C70699",
+        "synonyms": [
+          "Biospecimen"
+        ],
+        "value": "Biospecimen"
+      },
+      {
+        "ncit_concept_code": "C15783",
+        "synonyms": [
+          "Clinical data",
+          "Clinical Data"
+        ],
+        "value": "Clinical"
+      }
+    ]
   }
 ]
