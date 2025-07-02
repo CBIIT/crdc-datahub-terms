@@ -107612,6 +107612,18 @@
           "Once a day, at bedtime",
           "Once a day, at bedtime (qualifier value)",
           "qHS",
+          "Hour Of Sleep",
+          "Hour of Sleep"
+        ],
+        "value": "At bedtime"
+      },
+      {
+        "ncit_concept_code": "C64593",
+        "synonyms": [
+          "Hour of Sleep",
+          "Once a day, at bedtime",
+          "Once a day, at bedtime (qualifier value)",
+          "qHS",
           "Hour Of Sleep"
         ],
         "value": "At bedtime"
@@ -107946,6 +107958,16 @@
       {
         "ncit_concept_code": "C64595",
         "synonyms": [
+          "Every morning (qualifier value)",
+          "Every Morning",
+          "QAM"
+        ],
+        "value": "Every morning"
+      },
+      {
+        "ncit_concept_code": "C64595",
+        "synonyms": [
+          "QAM",
           "Every morning (qualifier value)",
           "Every Morning"
         ],
@@ -201254,6 +201276,18 @@
           "Once a day, at bedtime",
           "Once a day, at bedtime (qualifier value)",
           "qHS",
+          "Hour Of Sleep",
+          "Hour of Sleep"
+        ],
+        "value": "At Bedtime"
+      },
+      {
+        "ncit_concept_code": "C64593",
+        "synonyms": [
+          "Hour of Sleep",
+          "Once a day, at bedtime",
+          "Once a day, at bedtime (qualifier value)",
+          "qHS",
           "Hour Of Sleep"
         ],
         "value": "At Bedtime"
@@ -201261,6 +201295,16 @@
       {
         "ncit_concept_code": "C64595",
         "synonyms": [
+          "Every morning (qualifier value)",
+          "Every Morning",
+          "QAM"
+        ],
+        "value": "Every morning"
+      },
+      {
+        "ncit_concept_code": "C64595",
+        "synonyms": [
+          "QAM",
           "Every morning (qualifier value)",
           "Every Morning"
         ],
