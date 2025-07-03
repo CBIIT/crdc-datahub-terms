@@ -64736,6 +64736,34 @@
         "value": "XLSX"
       },
       {
+        "ncit_concept_code": "C219048",
+        "synonyms": [
+          "SAS Binary Format"
+        ],
+        "value": "SAS binary"
+      },
+      {
+        "ncit_concept_code": "C219047",
+        "synonyms": [
+          "STATA Statistical Software for Data Science"
+        ],
+        "value": "STATA"
+      },
+      {
+        "ncit_concept_code": "C219046",
+        "synonyms": [
+          "SPSS File Format"
+        ],
+        "value": "SPSS"
+      },
+      {
+        "ncit_concept_code": "C219045",
+        "synonyms": [
+          "Statistical Analysis System File Format"
+        ],
+        "value": "SAS"
+      },
+      {
         "ncit_concept_code": "C210442",
         "synonyms": [
           "DOC Format"
@@ -111690,6 +111718,18 @@
           "Once a day, at bedtime",
           "Once a day, at bedtime (qualifier value)",
           "qHS",
+          "Hour Of Sleep",
+          "Hour of Sleep"
+        ],
+        "value": "At bedtime"
+      },
+      {
+        "ncit_concept_code": "C64593",
+        "synonyms": [
+          "Hour of Sleep",
+          "Once a day, at bedtime",
+          "Once a day, at bedtime (qualifier value)",
+          "qHS",
           "Hour Of Sleep"
         ],
         "value": "At bedtime"
@@ -112030,6 +112070,16 @@
       {
         "ncit_concept_code": "C64595",
         "synonyms": [
+          "Every morning (qualifier value)",
+          "Every Morning",
+          "QAM"
+        ],
+        "value": "Every morning"
+      },
+      {
+        "ncit_concept_code": "C64595",
+        "synonyms": [
+          "QAM",
           "Every morning (qualifier value)",
           "Every Morning"
         ],
@@ -148150,6 +148200,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -150781,6 +150832,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -197921,6 +197973,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -206390,6 +206443,18 @@
           "Once a day, at bedtime",
           "Once a day, at bedtime (qualifier value)",
           "qHS",
+          "Hour Of Sleep",
+          "Hour of Sleep"
+        ],
+        "value": "At Bedtime"
+      },
+      {
+        "ncit_concept_code": "C64593",
+        "synonyms": [
+          "Hour of Sleep",
+          "Once a day, at bedtime",
+          "Once a day, at bedtime (qualifier value)",
+          "qHS",
           "Hour Of Sleep"
         ],
         "value": "At Bedtime"
@@ -206397,6 +206462,16 @@
       {
         "ncit_concept_code": "C64595",
         "synonyms": [
+          "Every morning (qualifier value)",
+          "Every Morning",
+          "QAM"
+        ],
+        "value": "Every morning"
+      },
+      {
+        "ncit_concept_code": "C64595",
+        "synonyms": [
+          "QAM",
           "Every morning (qualifier value)",
           "Every Morning"
         ],
@@ -206581,6 +206656,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C63479",
+        "synonyms": [
+          "Gene Expression Analysis"
+        ],
+        "value": "Gene Expression Analysis"
+      },
       {
         "ncit_concept_code": "C84343",
         "synonyms": [
@@ -239869,6 +239951,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -243486,6 +243569,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -396693,6 +396777,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -399483,6 +399568,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C63479",
+        "synonyms": [
+          "Gene Expression Analysis"
+        ],
+        "value": "Gene Expression Analysis"
+      },
       {
         "ncit_concept_code": "C84343",
         "synonyms": [
