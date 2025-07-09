@@ -31202,6 +31202,62 @@
         "value": "Aclarubicin"
       },
       {
+        "ncit_concept_code": "C129710",
+        "synonyms": [
+          "BTK Inhibitor TL-895"
+        ],
+        "value": "Tyrosine Kinase Inhibitor TL-895"
+      },
+      {
+        "ncit_concept_code": "C169928",
+        "synonyms": [
+          "Efaprinermin Alfa"
+        ],
+        "value": "Trimeric GITRL-Fc OMP-336B11"
+      },
+      {
+        "ncit_concept_code": "C184921",
+        "synonyms": [
+          "Lerapolturev"
+        ],
+        "value": "Recombinant Oncolytic Poliovirus PVS-RIPO"
+      },
+      {
+        "ncit_concept_code": "C199060",
+        "synonyms": [
+          "Imsapepimut"
+        ],
+        "value": "IDO Peptide Vaccine IO102"
+      },
+      {
+        "ncit_concept_code": "C166499",
+        "synonyms": [
+          "Alteminostat"
+        ],
+        "value": "HDAC Inhibitor CKD-581"
+      },
+      {
+        "ncit_concept_code": "C173877",
+        "synonyms": [
+          "Taniraleucel"
+        ],
+        "value": "Cord Blood-derived Expanded Natural Killer Cells PNK-007"
+      },
+      {
+        "ncit_concept_code": "C175740",
+        "synonyms": [
+          "Alnuctamab"
+        ],
+        "value": "BCMA x CD3 T-cell Engaging Antibody CC-93269"
+      },
+      {
+        "ncit_concept_code": "C203075",
+        "synonyms": [
+          "Lacutoclax"
+        ],
+        "value": "Bcl-2 Inhibitor LP-108"
+      },
+      {
         "ncit_concept_code": "C156043",
         "synonyms": [
           "Zirconium Zr 89 Panitumumab"
@@ -48056,6 +48112,13 @@
           "Liposomal SN-38"
         ],
         "value": "Liposomal SN-38"
+      },
+      {
+        "ncit_concept_code": "C188608",
+        "synonyms": [
+          "Rhenium Re 186 Obisbemeda"
+        ],
+        "value": "Liposomal Rhenium Re 186"
       },
       {
         "ncit_concept_code": "C107679",
