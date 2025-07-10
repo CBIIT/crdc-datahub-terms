@@ -29162,6 +29162,19 @@
       {
         "ncit_concept_code": "C15632",
         "synonyms": [
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
           "Prior",
           "Prior to",
           "Preceding",
@@ -31554,6 +31567,19 @@
       {
         "ncit_concept_code": "C15632",
         "synonyms": [
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
           "Prior",
           "Prior to",
           "Preceding",
@@ -88509,6 +88535,7 @@
         "ncit_concept_code": "C20821",
         "synonyms": [
           "weeks",
+          "Prescription",
           "Visits",
           "During (attribute)",
           "During",
@@ -98036,6 +98063,7 @@
         "ncit_concept_code": "C20821",
         "synonyms": [
           "weeks",
+          "Prescription",
           "Visits",
           "During (attribute)",
           "During",
@@ -102963,6 +102991,19 @@
       {
         "ncit_concept_code": "C15632",
         "synonyms": [
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
           "Prior",
           "Prior to",
           "Preceding",
@@ -105416,6 +105457,20 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C48660",
+        "synonyms": [
+          "Does not apply",
+          "NA",
+          "Not applicable",
+          "Not applicable.",
+          "Not applicable (qualifier value)",
+          "N/A",
+          "not applicable",
+          "Not Applicable"
+        ],
+        "value": "Not Applicable"
+      },
+      {
         "ncit_concept_code": "C132222",
         "synonyms": [
           "Prefers not to answer",
@@ -107257,16 +107312,81 @@
       {
         "ncit_concept_code": "C25472",
         "synonyms": [
-          "Prior",
-          "Prior to",
-          "Preceding",
-          "pre",
-          "Before (attribute)",
-          "before",
-          "Before",
+          "Malignant neoplasm (morphologic abnormality)",
+          "One",
+          "Four",
+          "Months",
+          "month (qualifier value)",
+          "months",
+          "month",
+          "Dose",
+          "Dosage (attribute)",
+          "Dosage",
+          "Visits",
+          "Two",
+          "Weeks",
+          "wk",
+          "week (qualifier value)",
+          "weeks",
+          "Week",
+          "week",
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
+          "Radiation Treatment",
+          "Radiation Therapy (Procedure)",
+          "Radiotherapy NOS",
+          "radiotherapy",
+          "Radiotherapy",
+          "Radiation therapy",
+          "radiation therapy",
+          "Radiation",
+          "Unclassified malignant tumour",
+          "Unclassified malignant tumor",
+          "Cancer",
+          "Malignant tumour",
+          "Malignant tumor",
+          "Malignancy",
+          "Malignant neoplasm morphology",
+          "Malignant neoplasm",
           "Cyclical",
           "Cyclic",
           "Cyclic (qualifier value)",
+          "Before",
+          "before",
+          "Before (attribute)",
+          "pre",
+          "Preceding",
+          "Prior to",
+          "Prior",
+          "malignant neoplasm",
+          "Malignant neoplasm NOS",
+          "Malignant neoplasms",
+          "Neoplasm malignant",
+          "Neoplasm, malignant",
+          "CA - Cancer",
+          "cancer",
+          "Cancer (NOS)",
+          "Cancer NOS",
+          "Malignant neoplastic disease (disorder)",
+          "Malignant neoplastic disease",
+          "malignant neoplastic disease",
+          "malignancy",
+          "Malignant neoplasm without specification of site",
+          "Tumor, malignant, NOS",
+          "Unclassified tumor, malignant",
+          "Malignant neoplasm, without specification of site",
+          "Malignant neoplasm, primary site unspecified",
           "Cycle"
         ],
         "value": "Course"
@@ -108485,6 +108605,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C90169",
+        "synonyms": [
+          "Persistent Disease"
+        ],
+        "value": "Persistent Disease"
+      },
       {
         "ncit_concept_code": "C159946",
         "synonyms": [
@@ -111206,6 +111333,15 @@
           "Other"
         ],
         "value": "Other"
+      },
+      {
+        "ncit_concept_code": "C38155",
+        "synonyms": [
+          "Recurrent disease (disorder)",
+          "Recurrent disease",
+          "Recurrent Disease"
+        ],
+        "value": "Relapse"
       },
       {
         "ncit_concept_code": null,
@@ -115024,6 +115160,19 @@
       {
         "ncit_concept_code": "C15632",
         "synonyms": [
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
           "Prior",
           "Prior to",
           "Preceding",
@@ -115822,6 +115971,13 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C63479",
+        "synonyms": [
+          "Gene Expression Analysis"
+        ],
+        "value": "Gene Expression Analysis"
+      },
+      {
         "ncit_concept_code": "C84343",
         "synonyms": [
           "Genomics"
@@ -116054,6 +116210,34 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C219048",
+        "synonyms": [
+          "SAS Binary Format"
+        ],
+        "value": "SAS binary"
+      },
+      {
+        "ncit_concept_code": "C219047",
+        "synonyms": [
+          "STATA Statistical Software for Data Science"
+        ],
+        "value": "STATA"
+      },
+      {
+        "ncit_concept_code": "C219046",
+        "synonyms": [
+          "SPSS File Format"
+        ],
+        "value": "SPSS"
+      },
+      {
+        "ncit_concept_code": "C219045",
+        "synonyms": [
+          "Statistical Analysis System File Format"
+        ],
+        "value": "SAS"
       },
       {
         "ncit_concept_code": "C210442",
@@ -184512,6 +184696,19 @@
       {
         "ncit_concept_code": "C15632",
         "synonyms": [
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
           "Prior",
           "Prior to",
           "Preceding",
@@ -200791,37 +200988,91 @@
       {
         "ncit_concept_code": "C29844",
         "synonyms": [
-          "Prior",
-          "Prior to",
-          "Preceding",
-          "pre",
-          "Before (attribute)",
-          "before",
-          "Before",
-          "60",
-          "Days",
-          "day (qualifier value)",
-          "d - day",
-          "days",
-          "Day",
-          "day",
+          "Surgical procedure",
+          "Located in",
+          "Has setting",
+          "Has location",
+          "Found in",
+          "In (attribute)",
+          "Arising from",
+          "Of",
+          "In",
+          "Within",
+          "Months",
+          "month (qualifier value)",
+          "months",
+          "month",
+          "Four",
+          "yr",
+          "year (qualifier value)",
+          "years",
+          "year",
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
+          "One",
+          "Surgery",
+          "Surgical",
+          "SURG",
+          "Surgery, NOS",
+          "surgery",
+          "Surgical (qualifier value)",
+          "Surgery (qualifier value)",
+          "surgical procedure",
+          "Surgical procedures",
+          "week",
+          "Week",
+          "weeks",
+          "week (qualifier value)",
+          "wk",
+          "Weeks",
+          "12",
+          "13",
+          "Two",
+          "9",
+          "14",
+          "11",
+          "40",
+          "30",
           "Cyclical",
           "Cyclic",
           "Cyclic (qualifier value)",
-          "30",
-          "40",
-          "11",
-          "14",
-          "9",
-          "Two",
-          "13",
-          "12",
-          "Weeks",
-          "wk",
-          "week (qualifier value)",
-          "weeks",
-          "Week",
-          "week",
+          "day",
+          "Day",
+          "days",
+          "d - day",
+          "day (qualifier value)",
+          "Days",
+          "60",
+          "Before",
+          "before",
+          "Before (attribute)",
+          "pre",
+          "Preceding",
+          "Prior to",
+          "Prior",
+          "Changing",
+          "Changing (qualifier value)",
+          "Middle",
+          "middle",
+          "Mid",
+          "Mid (qualifier value)",
+          "H&P.SURG PROC",
+          "Operation",
+          "Operation NOS",
+          "Operative procedure",
+          "Surgical procedure (procedure)",
+          "Surgery procedure",
           "Week"
         ],
         "value": "WEEKS"
@@ -264885,6 +265136,19 @@
       {
         "ncit_concept_code": "C15632",
         "synonyms": [
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
           "Prior",
           "Prior to",
           "Preceding",
@@ -266044,6 +266308,7 @@
         "ncit_concept_code": "C20821",
         "synonyms": [
           "weeks",
+          "Prescription",
           "Visits",
           "During (attribute)",
           "During",
@@ -356825,6 +357090,34 @@
         "value": "XLSX"
       },
       {
+        "ncit_concept_code": "C219048",
+        "synonyms": [
+          "SAS Binary Format"
+        ],
+        "value": "SAS binary"
+      },
+      {
+        "ncit_concept_code": "C219047",
+        "synonyms": [
+          "STATA Statistical Software for Data Science"
+        ],
+        "value": "STATA"
+      },
+      {
+        "ncit_concept_code": "C219046",
+        "synonyms": [
+          "SPSS File Format"
+        ],
+        "value": "SPSS"
+      },
+      {
+        "ncit_concept_code": "C219045",
+        "synonyms": [
+          "Statistical Analysis System File Format"
+        ],
+        "value": "SAS"
+      },
+      {
         "ncit_concept_code": "C210442",
         "synonyms": [
           "DOC Format"
@@ -386013,6 +386306,7 @@
         "ncit_concept_code": "C20821",
         "synonyms": [
           "weeks",
+          "Prescription",
           "Visits",
           "During (attribute)",
           "During",
@@ -392787,6 +393081,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C63479",
+        "synonyms": [
+          "Gene Expression Analysis"
+        ],
+        "value": "Gene Expression Analysis"
+      },
       {
         "ncit_concept_code": "C84343",
         "synonyms": [
