@@ -62718,6 +62718,34 @@
         "value": "XLSX"
       },
       {
+        "ncit_concept_code": "C219048",
+        "synonyms": [
+          "SAS Binary Format"
+        ],
+        "value": "SAS binary"
+      },
+      {
+        "ncit_concept_code": "C219047",
+        "synonyms": [
+          "STATA Statistical Software for Data Science"
+        ],
+        "value": "STATA"
+      },
+      {
+        "ncit_concept_code": "C219046",
+        "synonyms": [
+          "SPSS File Format"
+        ],
+        "value": "SPSS"
+      },
+      {
+        "ncit_concept_code": "C219045",
+        "synonyms": [
+          "Statistical Analysis System File Format"
+        ],
+        "value": "SAS"
+      },
+      {
         "ncit_concept_code": "C210442",
         "synonyms": [
           "DOC Format"
@@ -101005,6 +101033,34 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C219048",
+        "synonyms": [
+          "SAS Binary Format"
+        ],
+        "value": "SAS binary"
+      },
+      {
+        "ncit_concept_code": "C219047",
+        "synonyms": [
+          "STATA Statistical Software for Data Science"
+        ],
+        "value": "STATA"
+      },
+      {
+        "ncit_concept_code": "C219046",
+        "synonyms": [
+          "SPSS File Format"
+        ],
+        "value": "SPSS"
+      },
+      {
+        "ncit_concept_code": "C219045",
+        "synonyms": [
+          "Statistical Analysis System File Format"
+        ],
+        "value": "SAS"
       },
       {
         "ncit_concept_code": "C210442",
@@ -368919,6 +368975,34 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C219048",
+        "synonyms": [
+          "SAS Binary Format"
+        ],
+        "value": "SAS binary"
+      },
+      {
+        "ncit_concept_code": "C219047",
+        "synonyms": [
+          "STATA Statistical Software for Data Science"
+        ],
+        "value": "STATA"
+      },
+      {
+        "ncit_concept_code": "C219046",
+        "synonyms": [
+          "SPSS File Format"
+        ],
+        "value": "SPSS"
+      },
+      {
+        "ncit_concept_code": "C219045",
+        "synonyms": [
+          "Statistical Analysis System File Format"
+        ],
+        "value": "SAS"
       },
       {
         "ncit_concept_code": "C210442",
