@@ -107266,6 +107266,7 @@
         "synonyms": [
           "milligram (qualifier value)",
           "milligram",
+          "Milligram",
           "Milligram"
         ],
         "value": "mg"
@@ -107405,6 +107406,7 @@
           "ounces (qualifier value)",
           "ounces",
           "ounce",
+          "Ounce",
           "Ounce"
         ],
         "value": "oz"
@@ -107879,6 +107881,7 @@
         "ncit_concept_code": "C48155",
         "synonyms": [
           "gram",
+          "Gram",
           "gram (qualifier value)",
           "Gram"
         ],
@@ -107992,6 +107995,7 @@
           "cell",
           "Cells",
           "kilogram (qualifier value)",
+          "Kilogram",
           "kilogram",
           "Kilogram"
         ],
@@ -109490,6 +109494,7 @@
         "synonyms": [
           "milligram (qualifier value)",
           "milligram",
+          "Milligram",
           "Milligram"
         ],
         "value": "mg"
@@ -186859,6 +186864,7 @@
         "ncit_concept_code": "C48155",
         "synonyms": [
           "gram",
+          "Gram",
           "gram (qualifier value)",
           "Gram"
         ],
@@ -196207,6 +196213,7 @@
         "synonyms": [
           "milligram (qualifier value)",
           "milligram",
+          "Milligram",
           "Milligram"
         ],
         "value": "mg"
@@ -196310,6 +196317,7 @@
         "ncit_concept_code": "C48155",
         "synonyms": [
           "gram",
+          "Gram",
           "gram (qualifier value)",
           "Gram"
         ],
@@ -197803,6 +197811,7 @@
           "ounces (qualifier value)",
           "ounces",
           "ounce",
+          "Ounce",
           "Ounce"
         ],
         "value": "oz"
@@ -201571,6 +201580,7 @@
           "cell",
           "Cells",
           "kilogram (qualifier value)",
+          "Kilogram",
           "kilogram",
           "Kilogram"
         ],
