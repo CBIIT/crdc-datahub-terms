@@ -188033,6 +188033,20 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C219552",
+        "synonyms": [
+          "Bulk RNA Sequencing"
+        ],
+        "value": "Bulk RNA-Seq"
+      },
+      {
+        "ncit_concept_code": "C129432",
+        "synonyms": [
+          "mRNA Sequencing"
+        ],
+        "value": "mRNA-Seq"
+      },
+      {
         "ncit_concept_code": "C171152",
         "synonyms": [
           "Single Cell RNA Sequencing"
