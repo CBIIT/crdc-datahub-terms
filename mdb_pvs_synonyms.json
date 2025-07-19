@@ -108406,6 +108406,70 @@
         "value": "Every 19 hours"
       },
       {
+        "ncit_concept_code": "C139177",
+        "synonyms": [
+          "q7days",
+          "Every seven days (qualifier value)",
+          "Every 7 days",
+          "Every Seven Days"
+        ],
+        "value": "Every seven days"
+      },
+      {
+        "ncit_concept_code": "C89789",
+        "synonyms": [
+          "q6mo",
+          "Every six months (qualifier value)",
+          "Semi-annual",
+          "Semi-annual (qualifier value)",
+          "Every 6 months",
+          "Every Six Months"
+        ],
+        "value": "Every six months"
+      },
+      {
+        "ncit_concept_code": "C64537",
+        "synonyms": [
+          "Trimonthly",
+          "Quarterly",
+          "Trimonthly (qualifier value)",
+          "q3mo",
+          "Every twelve weeks",
+          "Every Three Months"
+        ],
+        "value": "Every three months"
+      },
+      {
+        "ncit_concept_code": "C71127",
+        "synonyms": [
+          "Fortnightly",
+          "Biweekly (qualifier value)",
+          "Alternate weeks",
+          "Biweekly",
+          "Every Two Weeks"
+        ],
+        "value": "Every two weeks"
+      },
+      {
+        "ncit_concept_code": "C64576",
+        "synonyms": [
+          "Single event",
+          "Single event (qualifier value)",
+          "Once"
+        ],
+        "value": "Once"
+      },
+      {
+        "ncit_concept_code": "C53279",
+        "synonyms": [
+          "Continue",
+          "Continual (qualifier value)",
+          "Continual",
+          "Continue"
+        ],
+        "value": "Continuous"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Not daily"
