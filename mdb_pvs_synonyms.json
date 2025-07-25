@@ -27,6 +27,11 @@
       {
         "property": "diagnosis.diagnosis",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -219,12 +224,12 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Supratentorial ependymoma, ZFTA fusion-positive"
+        "value": "Supratentorial ependymoma,\u00a0ZFTA\u00a0fusion-positive"
       },
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Supratentorial ependymoma, YAP1 fusion-positive"
+        "value": "Supratentorial ependymoma,\u00a0YAP1\u00a0fusion-positive"
       },
       {
         "ncit_concept_code": null,
@@ -299,7 +304,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Spinal ependymoma, MYCN-amplified"
+        "value": "Spinal ependymoma,\u00a0MYCN-amplified"
       },
       {
         "ncit_concept_code": null,
@@ -484,7 +489,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Primary intracranial sarcoma, DICER1-mutant"
+        "value": "Primary intracranial sarcoma,\u00a0DICER1-mutant"
       },
       {
         "ncit_concept_code": null,
@@ -724,11 +729,6 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Papillary carcinoma, encapsulated, of thyroid"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Papillary adenocarcinoma, NOS"
       },
       {
@@ -775,11 +775,6 @@
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Osteoblastoma, NOS"
       },
       {
         "ncit_concept_code": null,
@@ -1154,12 +1149,12 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Medulloblastoma, SHH-activated and TP53-wildtype"
+        "value": "Medulloblastoma, SHH-activated and\u00a0TP53-wildtype"
       },
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Medulloblastoma, SHH-activated and TP53-mutant"
+        "value": "Medulloblastoma, SHH-activated and\u00a0TP53-mutant"
       },
       {
         "ncit_concept_code": null,
@@ -1689,11 +1684,6 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Fibroblastic osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Fibroma, NOS"
       },
       {
@@ -1859,7 +1849,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Diffuse astrocytoma, MYB- or MYBL1-altered"
+        "value": "Diffuse astrocytoma,\u00a0MYB- or\u00a0MYBL1-altered"
       },
       {
         "ncit_concept_code": null,
@@ -1874,7 +1864,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Desmoplastic myxoid tumor of the pineal region, SMARCB1-mutant"
+        "value": "Desmoplastic myxoid tumor of the pineal region,\u00a0SMARCB1-mutant"
       },
       {
         "ncit_concept_code": null,
@@ -1954,7 +1944,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "CNS tumor with BCOR internal tandem duplication"
+        "value": "CNS tumor with\u00a0BCOR\u00a0internal tandem duplication"
       },
       {
         "ncit_concept_code": null,
@@ -1974,7 +1964,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "CNS neuroblastoma, FOXR2-activated"
+        "value": "CNS neuroblastoma,\u00a0FOXR2-activated"
       },
       {
         "ncit_concept_code": null,
@@ -2220,11 +2210,6 @@
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Benign cystic nephroma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Basal cell adenocarcinoma"
       },
       {
         "ncit_concept_code": null,
@@ -2544,7 +2529,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Astroblastoma, MN1-altered"
+        "value": "Astroblastoma,\u00a0MN1-altered"
       },
       {
         "ncit_concept_code": null,
@@ -2555,6 +2540,81 @@
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Astrocytoma, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Supratentorial ependymoma, ZFTA fusion-positive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Supratentorial ependymoma, YAP1 fusion-positive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Spinal ependymoma, MYCN-amplified"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Primary intracranial sarcoma, DICER1-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary carcinoma, encapsulated, of thyroid"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Osteoblastoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, SHH-activated and TP53-wildtype"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, SHH-activated and TP53-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Fibroblastic osteosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse astrocytoma, MYB- or MYBL1-altered"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic myxoid tumor of the pineal region, SMARCB1-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS tumor with BCOR internal tandem duplication"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS neuroblastoma, FOXR2-activated"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Basal cell adenocarcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Astroblastoma, MN1-altered"
       },
       {
         "ncit_concept_code": null,
@@ -23212,6 +23272,11 @@
       {
         "property": "diagnosis.diagnosis_classification_system",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_classification_system",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -23292,6 +23357,11 @@
         "property": "diagnosis.diagnosis_classification_system",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_classification_system",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.diagnosis_classification_system",
@@ -33769,6 +33839,11 @@
       {
         "property": "participant.sex_at_birth",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "participant.sex_at_birth",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -34291,6 +34366,11 @@
       {
         "property": "survival.cause_of_death",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.cause_of_death",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -34393,6 +34473,11 @@
         "property": "treatment.treatment_type",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "treatment.treatment_type",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "treatment.treatment_type",
@@ -34944,6 +35029,11 @@
         "property": "treatment.treatment_agent",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "treatment.treatment_agent",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "treatment.treatment_agent",
@@ -67318,6 +67408,11 @@
         "version": "3.2.2"
       },
       {
+        "property": "treatment_response.response",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
         "property": "treatment.treatment_outcome",
         "model": "CDS",
         "version": "4.0.4"
@@ -67593,6 +67688,11 @@
       {
         "property": "treatment_response.response_category",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "treatment_response.response_category",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -67756,6 +67856,11 @@
         "property": "treatment_response.response_system",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "treatment_response.response_system",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "treatment_response.response_system",
@@ -69746,6 +69851,11 @@
         "property": "diagnosis.diagnosis_basis",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_basis",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.diagnosis_basis",
@@ -80409,6 +80519,11 @@
       {
         "property": "diagnosis.laterality",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.laterality",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -84913,6 +85028,11 @@
         "version": "3.2.2"
       },
       {
+        "property": "laboratory_test.laboratory_test_name",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
         "property": "laboratory_test.test",
         "model": "C3DC",
         "version": "2.0.0"
@@ -86393,6 +86513,11 @@
         "property": "genetic_analysis.genomic_source_category",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "genetic_analysis.genomic_source_category",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -93617,6 +93742,11 @@
         "property": "consent_group.consent_group_number",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "consent_group.consent_group_number",
@@ -193603,6 +193733,11 @@
         "property": "laboratory_test.laboratory_test_method",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "laboratory_test.laboratory_test_method",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -193836,6 +193971,11 @@
         "property": "laboratory_test.test_result_unit",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "laboratory_test.test_unit",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "laboratory_test.result_unit",
@@ -195856,6 +195996,11 @@
         "version": "3.2.2"
       },
       {
+        "property": "genetic_analysis.reference_genome",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
         "property": "genomic_info.reference_genome_assembly",
         "model": "CDS",
         "version": "6.0.3"
@@ -196032,6 +196177,11 @@
         "property": "study.study_status",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "study.study_status",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "study.study_status",
@@ -201653,6 +201803,11 @@
         "property": "treatment.dose_unit",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "treatment.dose_unit",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "treatment.dose_unit",
@@ -209671,6 +209826,11 @@
       {
         "property": "treatment.dose_route",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "treatment.dose_route",
+        "model": "C3DC",
         "version": "2.1.0"
       }
     ],
@@ -209809,6 +209969,11 @@
         "property": "treatment.dose_frequency",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "treatment.dose_frequency",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "treatment.dose_frequency",
@@ -210286,6 +210451,11 @@
       },
       {
         "property": "diagnosis.tumor_grade",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
         "model": "CDS",
         "version": "6.0.4"
       },
@@ -210420,6 +210590,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -210844,6 +211019,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -211546,6 +211726,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -211719,6 +211904,11 @@
         "property": "genetic_analysis.reported_significance",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "genetic_analysis.reported_significance",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -211793,6 +211983,11 @@
         "property": "genetic_analysis.chromosome",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "genetic_analysis.chromosome",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -212083,6 +212278,11 @@
         "property": "laboratory_test.laboratory_test_name",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "laboratory_test.laboratory_test_name",
+        "model": "C3DC",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -305066,6 +305266,11 @@
         "version": "6.0.3"
       },
       {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
         "property": "diagnosis.morphology",
         "model": "CDS",
         "version": "4.0.4"
@@ -352577,6 +352782,11 @@
       {
         "property": "diagnosis.disease_phase",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.disease_phase",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -352763,6 +352973,16 @@
       {
         "property": "diagnosis.tumor_classification",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sample.tumor_classification",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_classification",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -352934,6 +353154,16 @@
         "property": "sample.anatomic_site",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.anatomic_site",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sample.anatomic_site",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.anatomic_site",
@@ -361209,6 +361439,11 @@
       {
         "property": "diagnosis.toronto_childhood_cancer_staging",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.toronto_childhood_cancer_staging",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -361883,6 +362118,11 @@
       {
         "property": "diagnosis.tumor_stage_clinical_t",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_t",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -362176,6 +362416,11 @@
       {
         "property": "diagnosis.tumor_stage_clinical_n",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_n",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -362403,6 +362648,11 @@
       {
         "property": "diagnosis.tumor_stage_clinical_m",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_m",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -362506,6 +362756,11 @@
         "property": "participant.race",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "participant.race",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "participant.race",
@@ -362621,6 +362876,11 @@
         "property": "sample.sample_tumor_status",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "sample.sample_tumor_status",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "sample.sample_tumor_status",
@@ -362817,6 +363077,11 @@
         "property": "study.study_id",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "study.study_id",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "study.study_id",
@@ -363647,6 +363912,11 @@
       {
         "property": "survival.last_known_survival_status",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.last_known_survival_status",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -363737,6 +364007,16 @@
         "property": "survival.first_event",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "survival.event_free_survival_status",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.first_event",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "survival.event_free_survival_status",
@@ -363981,6 +364261,11 @@
         "property": "genetic_analysis.alteration",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "genetic_analysis.alteration",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "genetic_analysis.alteration",
@@ -365820,6 +366105,11 @@
       {
         "property": "genetic_analysis.status",
         "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "genetic_analysis.status",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -366059,6 +366349,11 @@
         "property": "reference_file.file_type",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "reference_file.file_type",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "reference_file.file_type",
@@ -366343,6 +366638,11 @@
         "property": "reference_file.file_type",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "reference_file.file_type",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "reference_file.file_type",
@@ -383341,6 +383641,11 @@
         "property": "sample.sample_description",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "sample.sample_description",
+        "model": "C3DC",
+        "version": "3.1.0"
       },
       {
         "property": "sample.sample_description",
