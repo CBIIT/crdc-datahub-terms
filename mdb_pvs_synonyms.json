@@ -72,6 +72,11 @@
       {
         "property": "diagnosis.diagnosis",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -81,6 +86,2548 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Astrocytoma, IDH-mutant"
+      },
+      {
+        "ncit_concept_code": "C17998",
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown",
+          "Unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "see diagnosis_comment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Not Reported"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Normal Tissue"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Healthy Control"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "[---- Miscellaneous ----]"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Yolk sac tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Yolk sac tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Wilms"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Vipoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Unknown, to be completed later"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Undifferentiated sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Tumor cells, uncertain whether benign or malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Tumor cells, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Tumor cells, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Transitional cell carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Transient abnormal myelopoiesis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Thymoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Thymic carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Therapy-related myeloid neoplasm"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Teratoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Teratoma, malignant, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Teratoma with somatic-type malignancy"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Teratocarcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Tenosynovial giant cell tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Telangiectatic osteosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "T-cell/histiocyte rich large B-cell lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "T-cell and NK/T-cell lymphomas"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "T-Cell Acute Lymphoblastic Leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "T lymphoblastic leukemia/lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Synovial sarcoma, spindle cell"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Synovial sarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Synovial sarcoma, biphasic"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sympathetic paraganglioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Supratentorial ependymoma,\u00a0ZFTA\u00a0fusion-positive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Supratentorial ependymoma,\u00a0YAP1\u00a0fusion-positive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Supratentorial ependymoma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Supratentorial ependymoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Subependymoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Subependymal giant cell astrocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Subcutaneous panniculitis-like T-cell lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Squamous cell carcinoma, small cell, nonkeratinizing"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Squamous cell carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Squamous cell carcinoma, metastatic, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Squamous cell carcinoma, large cell, nonkeratinizing, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Squamous cell carcinoma in situ, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Spindle cell sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Spindle cell rhabdomyosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Spindle cell carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Spinal ependymoma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Spinal ependymoma,\u00a0MYCN-amplified"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Spinal ependymoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Solitary fibrous tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Solitary fibrous tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Solid pseudopapillary tumor of ovary"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Solid pseudopapillary neoplasm of pancreas"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Soft tissue tumor, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Smooth muscle tumor of uncertain malignant potential"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Small cell sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Small cell carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Signet ring cell carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sex cord-gonadal stromal tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sex cord-gonadal stromal tumor, mixed forms"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sex cord-gonadal stromal tumor, incompletely differentiated"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sertoli-Leydig cell tumor, poorly differentiated"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sertoli-Leydig cell tumor of intermediate differentiation, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sertoli cell tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Serous carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Seminoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Secretory carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sclerosing stromal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Schwannoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Schwannoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Rosette-forming glioneuronal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Rosai-Dorfman disease"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Rhabdomyosarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Rhabdomyosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Rhabdomyoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Rhabdoid tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Retinoblastoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Retinoblastoma, diffuse"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Renal cell carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Proliferative dermal lesion in congenital nevus"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Primitive Neuroectodermal Tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Primary intracranial sarcoma,\u00a0DICER1-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Primary diffuse large B-cell lymphoma of the CNS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Primary cutaneous follicle center lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Primary cutaneous CD30 positive T-cell lymphoproliferative disorder"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Precursor T-cell lymphoblastic leukemia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Precursor cell lymphoblastic lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Precursor cell lymphoblastic leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Precursor B-cell lymphoblastic leukemia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Posterior fossa ependymoma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Posterior fossa ependymoma, group PFB"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Posterior fossa ependymoma, group PFA"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Posterior fossa ependymoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Polymorphous low-grade neuroepithelial tumor of the young"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Plexiform neurofibroma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Plexiform fibrohistiocytic tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pleuropulmonary blastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pleomorphic xanthoastrocytoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pleomorphic xanthoastrocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pleomorphic rhabdomyosarcoma, adult type"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pleomorphic liposarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Plasmacytoma, extramedullary"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pituitary blastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pituitary adenoma/PitNET"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pituitary adenoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pituicytoma, granular cell tumor of the sellar region, and spindle cell oncocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pineocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pineoblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pinealoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pineal parenchymal tumor of intermediate differentiation"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pilomyxoid astrocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pilocytic astrocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pigmented dermatofibrosarcoma protuberans"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pheochromocytoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Periosteal osteosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Perineurioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Parosteal osteosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Paraganglioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Paraganglioma, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Paraganglioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary urothelial carcinoma, non-invasive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary tumor of the pineal region"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary tumor of pineal region"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary microcarcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary intralymphatic angioendothelioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary glioneuronal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary craniopharyngioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary carcinoma, follicular variant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Papillary adenocarcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pancreatoblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pancreatic neuroendocrine tumor, nonfunctioning"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Other, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Other low-grade B-cell lymphomas of the CNS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Other CNS tumor, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Other CNS Embryonal tumors"
+      },
+      {
+        "ncit_concept_code": "C17649",
+        "synonyms": [
+          "Unspecified leukemia",
+          "CNS embryonal tumor, NOS",
+          "Leukaemia",
+          "Leukemia",
+          "Leukaemia, disease",
+          "Leukemia, disease",
+          "Other (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication for",
+          "Indication of",
+          "With indication",
+          "Indications",
+          "indication",
+          "Justification",
+          "Reason for",
+          "Indication for (attribute)",
+          "Reason for (attribute)",
+          "Idiopathic pneumonia syndrome",
+          "Idiopathic pneumonia syndrome (disorder)",
+          "leukemia",
+          "Leukaemia NOS",
+          "Leukaemias",
+          "Leukemia NOS",
+          "Leukemia, NOS",
+          "Leukemias",
+          "Leukemias, NOS",
+          "Leukaemia of unspecified cell type",
+          "Leukemia of unspecified cell type",
+          "Leukemia, disease (disorder)",
+          "Unspecified leukemia without mention of remission",
+          "Unspecified leukaemia without mention of remission",
+          "Leukaemia, unspecified",
+          "Leukaemia unspecified",
+          "Leukemia unspecified",
+          "Leukemia, unspecified",
+          "Unspecified leukaemia",
+          "Other"
+        ],
+        "value": "Other"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Osteosarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Osteosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ossifying fibromyxoid tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Oligodendroglioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Oligodendroglioma, anaplastic, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Oligoastrocytoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Olfactory neurocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Olfactory neuroblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Odontogenic Carcinosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Nuclear protein in testis (NUT)-associated carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Nodular melanoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neuroma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neurofibromatosis, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neurofibroma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neurofibroma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neuroepithelioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neuroendocrine tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neuroendocrine carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neuroblastoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neuroblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Nephroblastoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neoplasm, uncertain whether benign or malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neoplasm, metastatic"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neoplasm, malignant, uncertain whether primary or metastatic"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neoplasm, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neoplasm, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myxopapillary ependymoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myxoid liposarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myxoid glioneuronal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myxoid chondrosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myxofibrosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myofibromatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myofibroma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myofibroblastic tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myoepithelial carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myeloproliferative neoplasm, unclassifiable"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myeloid sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myeloid leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myeloid leukemia associated with Down syndrome"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myelodysplastic syndrome, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myelodysplastic syndrome with single lineage dysplasia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myelodysplastic syndrome with multilineage dysplasia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Myelodysplastic syndrome with excess blasts"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mycosis fungoides"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Multinodular and vacuolating neuronal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mucoepidermoid carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mucinous adenocarcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mixed type rhabdomyosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mixed phenotype acute leukemia, T/myeloid, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mixed phenotype acute leukemia, B/myeloid, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mixed germ cell tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Metastatic signet ring cell carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Metastases to the meninges"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Metastases to the brain and spinal cord parenchyma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mesothelioma, biphasic, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mesoblastic nephroma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mesenchymal chondrosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Merkel cell carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningothelial meningioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningiomatosis, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningioma, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningeal melanomatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningeal melanocytosis and meningeal melanomatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningeal melanocytoma and meningeal melanoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningeal melanocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Meningeal melanocytic neoplasms (includes melanoma)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Melanotic schwannoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Melanotic neuroectodermal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Melanoma in situ"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloepithelioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, WNT-activated, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, WNT-activated"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, SHH-activated and\u00a0TP53-wildtype"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, SHH-activated and\u00a0TP53-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, non-WNT/non-SHH"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, Group 4"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma, Group 3"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medulloblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Medullary carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mediastinal large B-cell lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mature teratoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Mast cell leukemia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Marginal zone B-cell lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "MALT lymphoma of the dura"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant tumor, spindle cell type"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant tumor, small cell type"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant peripheral nerve sheath tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant peripheral nerve sheath tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant melanotic nerve sheath tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant melanoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant melanoma arising in giant congenital nevus"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant lymphoma, non-Hodgkin, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Malignant histiocytosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lymphoproliferative disorder, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lymphomatoid granulomatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lymphoid leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lymphoepithelial carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lymphangioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Low-grade glioma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Low-Grade Glioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Low cumulative sun damage melanoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Liposarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lipoblastomatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Leydig cell tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Leydig cell tumor, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lentiginous melanocytic nevus"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Leiomyosarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Leiomyoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Large cell medulloblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Langerhans cell histiocytosis, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Langerhans cell histiocytosis, disseminated"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Langerhans cell histiocytosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Lactotroph adenoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Juvenile xanthogranuloma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Juvenile myelomonocytic leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Intravascular large B-cell lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Intraductal papillary mucinous neoplasm with an associated invasive carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Intracranial mesenchymal tumor, FET-CREB fusion-positive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Infantile fibrosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Infant-type hemispheric glioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Immunodeficiency-associated CNS lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Immature teratoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hybrid nerve sheath tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hodgkin lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hodgkin lymphoma, nodular sclerosis, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Histiocytic sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "High-grade glioma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "High-Grade Glioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "High-grade astrocytoma with piloid features"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "HHV8 positive diffuse large B-cell lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hepatosplenic T-cell lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hepatocellular carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hepatocellular carcinoma, fibrolamellar"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hepatoblastoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hemangiosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hemangiomas and vascular malformations"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hemangioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hemangioendothelioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hemangioendothelioma, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Hemangioblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Granulosa cell tumor, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Granulosa cell tumor, juvenile"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Glomus tumor, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Gliosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Glioneuronal and neuronal tumors, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Glioneuronal and neuronal tumors"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Gliomatosis cerebri"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Glioma, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Glioblastoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Glioblastoma, IDH-wildtype"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Glioblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Giant cell tumor of soft parts, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Giant cell tumor of bone, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Giant cell tumor of bone, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Giant cell glioblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Germinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Germ cell tumor, nonseminomatous"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Genital rhabdomyoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Gastrointestinal stromal tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Gastrointestinal stromal tumor, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Gastrointestinal stromal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ganglioneuroma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ganglioneuroblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ganglioglioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ganglioglioma, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ganglioglioma, anaplastic"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ganglioglioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Gangliocytoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Gangliocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Follicular lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Follicular carcinoma, minimally invasive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Follicular adenoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Follicular adenocarcinoma, well differentiated"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Fibrosarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Fibroma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Fibrillary astrocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Extraventricular neurocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ewing sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Erdheim-Chester disease"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Epithelioid sarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Epithelioid mesothelioma, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Epithelioid hemangioendothelioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Epithelial-myoepithelial carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Epithelial tumor, benign"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ependymoma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ependymoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ependymoma, anaplastic"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Ependymoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Endometrioid adenocarcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal tumor with multilayered rosettes, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal tumor with multilayered rosettes, C19MC altered"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal tumor with multilayered rosettes with C19MC alteration"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal tumor with multilayered rosettes"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal rhabdomyosarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Embryonal carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Dysplastic cerebellar gangliocytoma (Lhermitte-Duclos disease)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Dysembryoplastic neuroepithelial tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse pediatric-type high-grade glioma, H3-wildtype and IDH-wildtype"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse midline glioma, H3 K27M-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse midline glioma, H3 K27-altered"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse low-grade glioma, MAPK pathway-altered"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse leptomeningeal glioneuronal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse large B-cell lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse hemispheric glioma, H3 G34-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse glioneuronal tumor with oligodendroglioma-like features and nuclear clusters"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Diffuse astrocytoma,\u00a0MYB- or\u00a0MYBL1-altered"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic small round cell tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic nodular medulloblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic myxoid tumor of the pineal region,\u00a0SMARCB1-mutant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic melanoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic infantile ganglioglioma / desmoplastic infantile astrocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic infantile astrocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Desmoplastic fibroma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Dermoid cyst, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Dermatofibrosarcoma protuberans, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Dermatofibrosarcoma protuberans, fibrosarcomatous"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cutaneous T-cell lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cribriform neuroepithelial tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cribriform carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Craniopharyngioma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Craniopharyngioma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Craniopharyngioma, adamantinomatous"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Craniopharyngioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Composite Hodgkin and non-Hodgkin lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS tumor with\u00a0BCOR\u00a0internal tandem duplication"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS Sarcoma, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS Sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS Non-Germinomatous Germ Cell Tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS neuroblastoma,\u00a0FOXR2-activated"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS Germinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS Germ Cell Tumors, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS Germ Cell Tumors"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS embryonal tumor, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS embryonal tumor, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS embryonal tumor with rhabdoid features"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CNS embryonal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Clear cell sarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Clear cell sarcoma of kidney"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Clear cell meningioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Clear cell adenocarcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CIC-rearranged sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chronic myeloid leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chronic myelogenous leukemia, BCR/ABL positive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chronic eosinophilic leukemia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choroid plexus tumors, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choroid Plexus tumors"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choroid plexus papilloma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choroid plexus papilloma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choroid plexus carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choriocarcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choriocarcinoma combined with other germ cell elements"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Choriocarcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chordoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chordoma (including poorly differentiated chordoma)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chordoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chordoid glioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chondrosarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chondrosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chondroid chordoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Chondroblastic osteosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cholangiocarcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cerebellar liponeurocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Central primitive neuroectodermal tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Central osteosarcoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Central neurocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cavernous hemangioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinomatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinoma, undifferentiated, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinoma, metastatic, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinoma, diffuse type"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinoma in situ, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinoma ex pleomorphic adenoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Carcinoid tumor of uncertain malignant potential"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Burkitt lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Burkitt Lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Blue nevus, malignant"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Benign cystic nephroma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B-Cell Acute Lymphoblastic Leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma, BCR-ABL1-like"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma with hypodiploidy (Hypodiploid ALL)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "B lymphoblastic leukemia/lymphoma with hyperdiploidy"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Atypical Meningioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Atypical choroid plexus papilloma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "ATRT, NOS or NEC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "ATRT-TYR"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "ATRT-SHH"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "ATRT-MYC"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Atypical teratoid/rhabdoid tumor"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Astrocytoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Abdominal fibromatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acinar cell carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute erythroid leukemia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute Leukemias of Ambiguous Lineage"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute Lymphoblastic Leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute megakaryoblastic leukemia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute monocytic leukemia"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia with abnormal marrow eosinophils"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia with biallelic mutation of CEBPA"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia with mutated NPM1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia with myelodysplasia-related changes"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia without maturation"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia, 11q23 abnormalities"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia, minimal differentiation"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myeloid leukemia, t(8;21)(q22;q22)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute myelomonocytic leukemia, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Acute promyelocytic leukemia, t(15;17)(q22;q11-12)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adamantinomatous craniopharyngioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenocarcinoma in adenomatous polyposis coli"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenocarcinoma in situ in adenomatous polyp"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenocarcinoma with mixed subtypes"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenocarcinoma with neuroendocrine differentiation"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenocarcinoma, metastatic, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenocarcinoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenoid cystic carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adenosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adrenal cortical adenoma, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adrenal cortical carcinoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Aggressive fibromatosis"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Alveolar rhabdomyosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Alveolar soft part sarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Anaplastic Ependymoma, Posterior Fossa"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Anaplastic Large Cell Lymphoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Anaplastic large cell lymphoma (ALK+/ALK\u2212)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Anaplastic large cell lymphoma, ALK positive"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Anaplastic large cell lymphoma, T-cell and Null-cell type"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Anaplastic Meningioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Angiocentric glioma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Angiomatoid fibrous histiocytoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Angiomyofibroblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Angiomyosarcoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Astroblastoma"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Astroblastoma,\u00a0MN1-altered"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Astrocytoma, anaplastic, NOS"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Astrocytoma, benign"
+      },
       {
         "ncit_concept_code": null,
         "synonyms": [],
@@ -2654,189 +5201,6 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Astrocytoma, IDH-mutant"
-      },
-      {
-        "ncit_concept_code": "C17998",
-        "synonyms": [
-          "Unk",
-          "Not known",
-          "Unknown (qualifier value)",
-          "NOS, unknown",
-          "? = Unknown",
-          "unknown",
-          "Unknown"
-        ],
-        "value": "Unknown"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "see diagnosis_comment"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Not Reported"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Normal Tissue"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Healthy Control"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "[---- Miscellaneous ----]"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Yolk sac tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Yolk sac tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Wilms"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Vipoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Unknown, to be completed later"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Undifferentiated sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Tumor cells, uncertain whether benign or malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Tumor cells, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Tumor cells, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Transitional cell carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Transient abnormal myelopoiesis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Thymoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Thymic carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Therapy-related myeloid neoplasm"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Teratoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Teratoma, malignant, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Teratoma with somatic-type malignancy"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Teratocarcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Tenosynovial giant cell tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Telangiectatic osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "T-cell/histiocyte rich large B-cell lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "T-cell and NK/T-cell lymphomas"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "T-Cell Acute Lymphoblastic Leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "T lymphoblastic leukemia/lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Synovial sarcoma, spindle cell"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Synovial sarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Synovial sarcoma, biphasic"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sympathetic paraganglioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Supratentorial ependymoma, ZFTA fusion-positive"
       },
       {
@@ -2847,257 +5211,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Supratentorial ependymoma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Supratentorial ependymoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Subependymoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Subependymal giant cell astrocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Subcutaneous panniculitis-like T-cell lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Squamous cell carcinoma, small cell, nonkeratinizing"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Squamous cell carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Squamous cell carcinoma, metastatic, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Squamous cell carcinoma, large cell, nonkeratinizing, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Squamous cell carcinoma in situ, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Spindle cell sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Spindle cell rhabdomyosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Spindle cell carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Spinal ependymoma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Spinal ependymoma, MYCN-amplified"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Spinal ependymoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Solitary fibrous tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Solitary fibrous tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Solid pseudopapillary tumor of ovary"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Solid pseudopapillary neoplasm of pancreas"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Soft tissue tumor, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Smooth muscle tumor of uncertain malignant potential"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Small cell sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Small cell carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Signet ring cell carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sex cord-gonadal stromal tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sex cord-gonadal stromal tumor, mixed forms"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sex cord-gonadal stromal tumor, incompletely differentiated"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sertoli-Leydig cell tumor, poorly differentiated"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sertoli-Leydig cell tumor of intermediate differentiation, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sertoli cell tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Serous carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Seminoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Secretory carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sclerosing stromal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Schwannoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Schwannoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Sarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Rosette-forming glioneuronal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Rosai-Dorfman disease"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Rhabdomyosarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Rhabdomyosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Rhabdomyoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Rhabdoid tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Retinoblastoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Retinoblastoma, diffuse"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Renal cell carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Proliferative dermal lesion in congenital nevus"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Primitive Neuroectodermal Tumor"
       },
       {
         "ncit_concept_code": null,
@@ -3107,706 +5221,12 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Primary diffuse large B-cell lymphoma of the CNS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Primary cutaneous follicle center lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Primary cutaneous CD30 positive T-cell lymphoproliferative disorder"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Precursor T-cell lymphoblastic leukemia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Precursor cell lymphoblastic lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Precursor cell lymphoblastic leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Precursor B-cell lymphoblastic leukemia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Posterior fossa ependymoma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Posterior fossa ependymoma, group PFB"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Posterior fossa ependymoma, group PFA"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Posterior fossa ependymoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Polymorphous low-grade neuroepithelial tumor of the young"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Plexiform neurofibroma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Plexiform fibrohistiocytic tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pleuropulmonary blastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pleomorphic xanthoastrocytoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pleomorphic xanthoastrocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pleomorphic rhabdomyosarcoma, adult type"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pleomorphic liposarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Plasmacytoma, extramedullary"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pituitary blastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pituitary adenoma/PitNET"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pituitary adenoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pituicytoma, granular cell tumor of the sellar region, and spindle cell oncocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pineocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pineoblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pinealoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pineal parenchymal tumor of intermediate differentiation"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pilomyxoid astrocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pilocytic astrocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pigmented dermatofibrosarcoma protuberans"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pheochromocytoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Periosteal osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Perineurioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Parosteal osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Paraganglioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Paraganglioma, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Paraganglioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary urothelial carcinoma, non-invasive"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary tumor of the pineal region"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary tumor of pineal region"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary microcarcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary intralymphatic angioendothelioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary glioneuronal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary craniopharyngioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Papillary carcinoma, follicular variant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Papillary carcinoma, encapsulated of thyroid"
       },
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Papillary adenocarcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pancreatoblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Pancreatic neuroendocrine tumor, nonfunctioning"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Other, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Other low-grade B-cell lymphomas of the CNS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Other CNS tumor, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Other CNS Embryonal tumors"
-      },
-      {
-        "ncit_concept_code": "C17649",
-        "synonyms": [
-          "Unspecified leukemia",
-          "CNS embryonal tumor, NOS",
-          "Leukaemia",
-          "Leukemia",
-          "Leukaemia, disease",
-          "Leukemia, disease",
-          "Other (qualifier value)",
-          "Indication of (contextual qualifier)",
-          "Indication of (contextual qualifier) (qualifier value)",
-          "Indication for",
-          "Indication of",
-          "With indication",
-          "Indications",
-          "indication",
-          "Justification",
-          "Reason for",
-          "Indication for (attribute)",
-          "Reason for (attribute)",
-          "Idiopathic pneumonia syndrome",
-          "Idiopathic pneumonia syndrome (disorder)",
-          "leukemia",
-          "Leukaemia NOS",
-          "Leukaemias",
-          "Leukemia NOS",
-          "Leukemia, NOS",
-          "Leukemias",
-          "Leukemias, NOS",
-          "Leukaemia of unspecified cell type",
-          "Leukemia of unspecified cell type",
-          "Leukemia, disease (disorder)",
-          "Unspecified leukemia without mention of remission",
-          "Unspecified leukaemia without mention of remission",
-          "Leukaemia, unspecified",
-          "Leukaemia unspecified",
-          "Leukemia unspecified",
-          "Leukemia, unspecified",
-          "Unspecified leukaemia",
-          "Other"
-        ],
-        "value": "Other"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Osteosarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Osteoblastoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ossifying fibromyxoid tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Oligodendroglioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Oligodendroglioma, anaplastic, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Oligoastrocytoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Olfactory neurocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Olfactory neuroblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Odontogenic Carcinosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Nuclear protein in testis (NUT)-associated carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Nodular melanoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neuroma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neurofibromatosis, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neurofibroma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neurofibroma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neuroepithelioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neuroendocrine tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neuroendocrine carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neuroblastoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neuroblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Nephroblastoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neoplasm, uncertain whether benign or malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neoplasm, metastatic"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neoplasm, malignant, uncertain whether primary or metastatic"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neoplasm, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Neoplasm, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myxopapillary ependymoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myxoid liposarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myxoid glioneuronal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myxoid chondrosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myxofibrosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myofibromatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myofibroma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myofibroblastic tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myoepithelial carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myeloproliferative neoplasm, unclassifiable"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myeloid sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myeloid leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myeloid leukemia associated with Down syndrome"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myelodysplastic syndrome, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myelodysplastic syndrome with single lineage dysplasia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myelodysplastic syndrome with multilineage dysplasia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Myelodysplastic syndrome with excess blasts"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mycosis fungoides"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Multinodular and vacuolating neuronal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mucoepidermoid carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mucinous adenocarcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mixed type rhabdomyosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mixed phenotype acute leukemia, T/myeloid, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mixed phenotype acute leukemia, B/myeloid, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mixed germ cell tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Metastatic signet ring cell carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Metastases to the meninges"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Metastases to the brain and spinal cord parenchyma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mesothelioma, biphasic, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mesoblastic nephroma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mesenchymal chondrosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Merkel cell carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningothelial meningioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningiomatosis, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningioma, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningeal melanomatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningeal melanocytosis and meningeal melanomatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningeal melanocytoma and meningeal melanoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningeal melanocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Meningeal melanocytic neoplasms (includes melanoma)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Melanotic schwannoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Melanotic neuroectodermal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Melanoma in situ"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloepithelioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, WNT-activated, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, WNT-activated"
       },
       {
         "ncit_concept_code": null,
@@ -3821,697 +5241,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Medulloblastoma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, non-WNT/non-SHH"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, Group 4"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, Group 3"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medullary carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mediastinal large B-cell lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mature teratoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Mast cell leukemia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Marginal zone B-cell lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "MALT lymphoma of the dura"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant tumor, spindle cell type"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant tumor, small cell type"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant peripheral nerve sheath tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant peripheral nerve sheath tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant melanotic nerve sheath tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant melanoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant melanoma arising in giant congenital nevus"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant lymphoma, non-Hodgkin, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Malignant histiocytosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lymphoproliferative disorder, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lymphomatoid granulomatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lymphoid leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lymphoepithelial carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lymphangioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Low-grade glioma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Low-Grade Glioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Low cumulative sun damage melanoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Liposarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lipoblastomatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Leydig cell tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Leydig cell tumor, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lentiginous melanocytic nevus"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Leiomyosarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Leiomyoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Large cell medulloblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Langerhans cell histiocytosis, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Langerhans cell histiocytosis, disseminated"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Langerhans cell histiocytosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Lactotroph adenoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Juvenile xanthogranuloma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Juvenile myelomonocytic leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Intravascular large B-cell lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Intraductal papillary mucinous neoplasm with an associated invasive carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Intracranial mesenchymal tumor, FET-CREB fusion-positive"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Infantile fibrosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Infant-type hemispheric glioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Immunodeficiency-associated CNS lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Immature teratoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hybrid nerve sheath tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hodgkin lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hodgkin lymphoma, nodular sclerosis, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Histiocytic sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "High-grade glioma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "High-Grade Glioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "High-grade astrocytoma with piloid features"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "HHV8 positive diffuse large B-cell lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hepatosplenic T-cell lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hepatocellular carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hepatocellular carcinoma, fibrolamellar"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hepatoblastoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hemangiosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hemangiomas and vascular malformations"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hemangioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hemangioendothelioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hemangioendothelioma, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Hemangioblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Granulosa cell tumor, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Granulosa cell tumor, juvenile"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Glomus tumor, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Gliosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Glioneuronal and neuronal tumors, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Glioneuronal and neuronal tumors"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Gliomatosis cerebri"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Glioma, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Glioblastoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Glioblastoma, IDH-wildtype"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Glioblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Giant cell tumor of soft parts, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Giant cell tumor of bone, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Giant cell tumor of bone, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Giant cell glioblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Germinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Germ cell tumor, nonseminomatous"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Genital rhabdomyoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Gastrointestinal stromal tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Gastrointestinal stromal tumor, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Gastrointestinal stromal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ganglioneuroma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ganglioneuroblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ganglioglioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ganglioglioma, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ganglioglioma, anaplastic"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ganglioglioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Gangliocytoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Gangliocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Follicular lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Follicular carcinoma, minimally invasive"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Follicular adenoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Follicular adenocarcinoma, well differentiated"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Fibrosarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Fibroma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Fibroblastic osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Fibrillary astrocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Extraventricular neurocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ewing sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Erdheim-Chester disease"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Epithelioid sarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Epithelioid mesothelioma, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Epithelioid hemangioendothelioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Epithelial-myoepithelial carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Epithelial tumor, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ependymoma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ependymoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ependymoma, anaplastic"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Ependymoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Endometrioid adenocarcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal tumor with multilayered rosettes, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal tumor with multilayered rosettes, C19MC altered"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal tumor with multilayered rosettes with C19MC alteration"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal tumor with multilayered rosettes"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal rhabdomyosarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Embryonal carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Dysplastic cerebellar gangliocytoma (Lhermitte-Duclos disease)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Dysembryoplastic neuroepithelial tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse pediatric-type high-grade glioma, H3-wildtype and IDH-wildtype"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse midline glioma, H3 K27M-mutant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse midline glioma, H3 K27-altered"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse low-grade glioma, MAPK pathway-altered"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse leptomeningeal glioneuronal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse large B-cell lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse hemispheric glioma, H3 G34-mutant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse glioneuronal tumor with oligodendroglioma-like features and nuclear clusters"
       },
       {
         "ncit_concept_code": null,
@@ -4521,92 +5251,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Desmoplastic small round cell tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Desmoplastic nodular medulloblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Desmoplastic myxoid tumor of the pineal region, SMARCB1-mutant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Desmoplastic melanoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Desmoplastic infantile ganglioglioma / desmoplastic infantile astrocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Desmoplastic infantile astrocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Desmoplastic fibroma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Dermoid cyst, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Dermatofibrosarcoma protuberans, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Dermatofibrosarcoma protuberans, fibrosarcomatous"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Cutaneous T-cell lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Cribriform neuroepithelial tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Cribriform carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Craniopharyngioma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Craniopharyngioma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Craniopharyngioma, adamantinomatous"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Craniopharyngioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Composite Hodgkin and non-Hodgkin lymphoma"
       },
       {
         "ncit_concept_code": null,
@@ -4616,267 +5261,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "CNS Sarcoma, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS Sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS Non-Germinomatous Germ Cell Tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "CNS neuroblastoma, FOXR2-activated"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS Germinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS Germ Cell Tumors, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS Germ Cell Tumors"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS embryonal tumor, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS embryonal tumor, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS embryonal tumor with rhabdoid features"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS embryonal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Clear cell sarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Clear cell sarcoma of kidney"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Clear cell meningioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Clear cell adenocarcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CIC-rearranged sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chronic myeloid leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chronic myelogenous leukemia, BCR/ABL positive"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chronic eosinophilic leukemia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choroid plexus tumors, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choroid Plexus tumors"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choroid plexus papilloma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choroid plexus papilloma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choroid plexus carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choriocarcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choriocarcinoma combined with other germ cell elements"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Choriocarcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chordoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chordoma (including poorly differentiated chordoma)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chordoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chordoid glioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chondrosarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chondrosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chondroid chordoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Chondroblastic osteosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Cholangiocarcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Cerebellar liponeurocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Central primitive neuroectodermal tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Central osteosarcoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Central neurocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Cavernous hemangioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinomatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinoma, undifferentiated, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinoma, metastatic, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinoma, diffuse type"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinoma in situ, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinoma ex pleomorphic adenoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Carcinoid tumor of uncertain malignant potential"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Burkitt lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Burkitt Lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Blue nevus, malignant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Benign cystic nephroma"
       },
       {
         "ncit_concept_code": null,
@@ -4886,317 +5271,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "B-Cell Acute Lymphoblastic Leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma, BCR-ABL1-like"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma with hypodiploidy (Hypodiploid ALL)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "B lymphoblastic leukemia/lymphoma with hyperdiploidy"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Atypical Meningioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Atypical choroid plexus papilloma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "ATRT, NOS or NEC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "ATRT-TYR"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "ATRT-SHH"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "ATRT-MYC"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Atypical teratoid/rhabdoid tumor"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Astrocytoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Abdominal fibromatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acinar cell carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute erythroid leukemia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute Leukemias of Ambiguous Lineage"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute Lymphoblastic Leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute megakaryoblastic leukemia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute monocytic leukemia"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia with abnormal marrow eosinophils"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia with biallelic mutation of CEBPA"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia with mutated NPM1"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia with myelodysplasia-related changes"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia without maturation"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia, 11q23 abnormalities"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia, minimal differentiation"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myeloid leukemia, t(8;21)(q22;q22)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute myelomonocytic leukemia, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Acute promyelocytic leukemia, t(15;17)(q22;q11-12)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adamantinomatous craniopharyngioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenocarcinoma in adenomatous polyposis coli"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenocarcinoma in situ in adenomatous polyp"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenocarcinoma with mixed subtypes"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenocarcinoma with neuroendocrine differentiation"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenocarcinoma, metastatic, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenocarcinoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenoid cystic carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adenosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adrenal cortical adenoma, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Adrenal cortical carcinoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Aggressive fibromatosis"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Alveolar rhabdomyosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Alveolar soft part sarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Anaplastic Ependymoma, Posterior Fossa"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Anaplastic Large Cell Lymphoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Anaplastic large cell lymphoma (ALK+/ALK-)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Anaplastic large cell lymphoma, ALK positive"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Anaplastic large cell lymphoma, T-cell and Null-cell type"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Anaplastic Meningioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Angiocentric glioma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Angiomatoid fibrous histiocytoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Angiomyofibroblastoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Angiomyosarcoma"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Astroblastoma"
       },
       {
         "ncit_concept_code": null,
@@ -5206,77 +5281,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Astrocytoma, anaplastic, NOS"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Astrocytoma, benign"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
         "value": "Anaplastic large cell lymphoma (ALK+/ALK-)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Supratentorial ependymoma,\u00a0ZFTA\u00a0fusion-positive"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Supratentorial ependymoma,\u00a0YAP1\u00a0fusion-positive"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Spinal ependymoma,\u00a0MYCN-amplified"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Primary intracranial sarcoma,\u00a0DICER1-mutant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, SHH-activated and\u00a0TP53-wildtype"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Medulloblastoma, SHH-activated and\u00a0TP53-mutant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Diffuse astrocytoma,\u00a0MYB- or\u00a0MYBL1-altered"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Desmoplastic myxoid tumor of the pineal region,\u00a0SMARCB1-mutant"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS tumor with\u00a0BCOR\u00a0internal tandem duplication"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "CNS neuroblastoma,\u00a0FOXR2-activated"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Anaplastic large cell lymphoma (ALK+/ALK\u2212)"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Astroblastoma,\u00a0MN1-altered"
       },
       {
         "ncit_concept_code": null,
@@ -21423,6 +21428,11 @@
       {
         "property": "diagnosis.diagnosis_classification_system",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_classification_system",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -21543,6 +21553,11 @@
         "property": "diagnosis.diagnosis_classification_system",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "diagnosis.diagnosis_classification_system",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.diagnosis_classification_system",
@@ -32028,6 +32043,11 @@
       {
         "property": "participant.sex_at_birth",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "participant.sex_at_birth",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -32761,6 +32781,11 @@
       },
       {
         "property": "treatment.treatment_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "treatment.treatment_type",
         "model": "CDS",
         "version": "5.0.3"
       },
@@ -33329,6 +33354,11 @@
         "property": "treatment.treatment_agent",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "treatment.treatment_agent",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "treatment.treatment_agent",
@@ -65793,6 +65823,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "treatment_response.response",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "treatment.response",
         "model": "CDS",
         "version": "5.0.3"
@@ -66083,6 +66118,11 @@
       {
         "property": "treatment_response.response_category",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "treatment_response.response_category",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -66286,6 +66326,11 @@
         "property": "treatment_response.response_system",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "treatment_response.response_system",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "treatment_response.response_system",
@@ -67210,6 +67255,46 @@
         "property": "study_admin.file_types_and_format",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "clinical_measure_file.file_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "cytogenomic_file.file_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "methylation_array_file.file_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.file_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.file_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "generic_file.file_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.file_type",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "study_admin.file_types_and_format",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "file.file_type",
@@ -68174,6 +68259,41 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "clinical_measure_file.file_mapping_level",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "cytogenomic_file.file_mapping_level",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "methylation_array_file.file_mapping_level",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.file_mapping_level",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.file_mapping_level",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "generic_file.file_mapping_level",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.file_mapping_level",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "file.file_mapping_level",
         "model": "CDS",
         "version": "5.0.3"
@@ -68676,6 +68796,16 @@
         "property": "sequencing_file.checksum_algorithm",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "clinical_measure_file.checksum_algorithm",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.checksum_algorithm",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "clinical_measure_file.checksum_algorithm",
@@ -72604,6 +72734,11 @@
       {
         "property": "diagnosis.diagnosis_basis",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_basis",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -72674,6 +72809,11 @@
         "property": "diagnosis.disease_phase",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "diagnosis.disease_phase",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.disease_phase",
@@ -72900,6 +73040,16 @@
         "property": "sample.tumor_classification",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "diagnosis.tumor_classification",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sample.tumor_classification",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.tumor_classification",
@@ -73150,6 +73300,21 @@
         "property": "sample.anatomic_site",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "diagnosis.anatomic_site",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.anatomic_site",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sample.anatomic_site",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.anatomic_site",
@@ -81448,6 +81613,16 @@
       {
         "property": "diagnosis.toronto_childhood_cancer_staging",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_source",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.toronto_childhood_cancer_staging",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -82094,6 +82269,11 @@
       },
       {
         "property": "diagnosis.tumor_stage_clinical_t",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_t",
         "model": "CDS",
         "version": "8.0.2"
       },
@@ -82542,6 +82722,11 @@
       },
       {
         "property": "diagnosis.tumor_stage_clinical_n",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_n",
         "model": "CDS",
         "version": "8.0.2"
       },
@@ -82924,6 +83109,11 @@
       },
       {
         "property": "diagnosis.tumor_stage_clinical_m",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_m",
         "model": "CDS",
         "version": "8.0.2"
       },
@@ -83118,6 +83308,11 @@
         "property": "diagnosis.tumor_stage_source",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "diagnosis.tumor_stage_source",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.tumor_stage_source",
@@ -83686,6 +83881,11 @@
       {
         "property": "diagnosis.laterality",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.laterality",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -83825,6 +84025,11 @@
         "property": "exposure.years_smoked",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "exposure.years_smoked",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "exposure.years_smoked",
@@ -84368,6 +84573,11 @@
       {
         "property": "exposure.alcohol_history",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.alcohol_history",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -84480,6 +84690,11 @@
         "property": "exposure.alcohol_intensity",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "exposure.alcohol_intensity",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "exposure.alcohol_intensity",
@@ -84666,6 +84881,31 @@
       {
         "property": "exposure.asbestos_exposure",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.coal_dust_exposure",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.environmental_tobacco_smoke_exposure",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.radon_exposure",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.respirable_crystalline_silica_exposure",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.asbestos_exposure",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -84832,6 +85072,11 @@
       {
         "property": "exposure.smoking_frequency",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.smoking_frequency",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -84916,6 +85161,11 @@
       {
         "property": "exposure.time_between_waking_and_first_smoke",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "exposure.time_between_waking_and_first_smoke",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -84989,6 +85239,11 @@
         "property": "exposure.tobacco_smoking_status",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "exposure.tobacco_smoking_status",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "exposure.tobacco_smoking_status",
@@ -85088,6 +85343,11 @@
         "property": "exposure.type_of_smoke_exposure",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "exposure.type_of_smoke_exposure",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "exposure.type_of_smoke_exposure",
@@ -85390,6 +85650,11 @@
         "property": "exposure.type_of_tobacco_used",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "exposure.type_of_tobacco_used",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "exposure.type_of_tobacco_used",
@@ -86467,6 +86732,11 @@
       {
         "property": "medical_history.medical_history_category",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "medical_history.medical_history_category",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -86643,6 +86913,11 @@
         "property": "medical_history.medical_history_condition",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "medical_history.medical_history_condition",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "medical_history.medical_history_condition",
@@ -88755,6 +89030,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "laboratory_test.laboratory_test_name",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "molecular_test.laboratory_test_name",
         "model": "CCDI",
         "version": "2.1.0-9f42edc"
@@ -90451,6 +90731,11 @@
       {
         "property": "genetic_analysis.genomic_source_category",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "genetic_analysis.genomic_source_category",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -90884,6 +91169,11 @@
       },
       {
         "property": "participant.race",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "participant.race",
         "model": "CDS",
         "version": "8.0.2"
       },
@@ -91241,6 +91531,16 @@
         "property": "radiology_file.image_modality",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "pathology_file.image_modality",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.image_modality",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "image.image_modality",
@@ -92612,6 +92912,11 @@
       {
         "property": "pathology_file.staining_method",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.staining_method",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -92775,6 +93080,16 @@
       {
         "property": "pathology_file.deidentification_method",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.deidentification_method",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.deidentification_method",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -92870,6 +93185,11 @@
         "property": "pdx.implantation_type",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "pdx.implantation_type",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "pdx.implantation_type",
@@ -93043,6 +93363,11 @@
       },
       {
         "property": "pdx.implantation_site",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pdx.implantation_site",
         "model": "CDS",
         "version": "8.0.2"
       },
@@ -93209,6 +93534,11 @@
         "property": "pdx.tumor_confirmed_not_to_be_mus_or_ebv_origin",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "pdx.tumor_confirmed_not_to_be_mus_or_ebv_origin",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "pdx.tumor_confirmed_not_to_be_mus_or_ebv_origin",
@@ -93384,6 +93714,16 @@
         "property": "radiology_file.diffusionBValue",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "radiology_file.echoPulseSequenceCategoryCode",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.diffusionBValue",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode",
@@ -93593,6 +93933,11 @@
         "property": "radiology_file.diffusionDirectionalityCode",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "radiology_file.diffusionDirectionalityCode",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_diffusionDirectionalityCode",
@@ -93822,6 +94167,16 @@
         "property": "radiology_file.arterialSpinLabelingContrastCode",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "radiology_file.acquisitionContrastCode",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.arterialSpinLabelingContrastCode",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_acquisitionContrastCode",
@@ -94073,6 +94428,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "radiology_file.inversionRecoveryIndicator",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_inversionRecoveryIndicator",
         "model": "CDS",
         "version": "5.0.3"
@@ -94271,6 +94631,11 @@
         "property": "radiology_file.multipleSpinEchoIndicator",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "radiology_file.multipleSpinEchoIndicator",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator",
@@ -94473,6 +94838,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "radiology_file.phaseContrastIndicator",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_phaseContrastIndicator",
         "model": "CDS",
         "version": "5.0.3"
@@ -94673,6 +95043,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "radiology_file.timeOfFlightContrastIndicator",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator",
         "model": "CDS",
         "version": "5.0.3"
@@ -94871,6 +95246,11 @@
         "property": "radiology_file.steadyStatePulseSequenceCode",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "radiology_file.steadyStatePulseSequenceCode",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode",
@@ -95082,6 +95462,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "radiology_file.echoPlanarPulseSequenceIndicator",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator",
         "model": "CDS",
         "version": "5.0.3"
@@ -95282,6 +95667,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "radiology_file.saturationRecoveryIndicator",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_saturationRecoveryIndicator",
         "model": "CDS",
         "version": "5.0.3"
@@ -95480,6 +95870,11 @@
         "property": "radiology_file.spectrallySelectedSuppressionCode",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "radiology_file.spectrallySelectedSuppressionCode",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_spectrallySelectedSuppressionCode",
@@ -95691,6 +96086,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "radiology_file.complexImageComponentCode",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "NonDICOMMRimages.MRImageReconstructionProtocolElement_complexImageComponentCode",
         "model": "CDS",
         "version": "5.0.3"
@@ -95893,6 +96293,11 @@
         "property": "sample.sample_tumor_status",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "sample.sample_tumor_status",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "sample.sample_tumor_status",
@@ -96836,6 +97241,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "sequencing_file.library_layout",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "genomic_info.library_layout",
         "model": "CDS",
         "version": "5.0.3"
@@ -97241,6 +97651,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "sequencing_file.platform",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "genomic_info.platform",
         "model": "CDS",
         "version": "5.0.3"
@@ -97430,6 +97845,11 @@
         "property": "sequencing_file.instrument_model",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "sequencing_file.instrument_model",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "sequencing_file.instrument_model",
@@ -97930,6 +98350,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "sequencing_file.coverage",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "genomic_info.coverage",
         "model": "CDS",
         "version": "5.0.3"
@@ -98292,6 +98717,11 @@
       {
         "property": "sequencing_file.reverse_transcription_primer",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.reverse_transcription_primer",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -98391,6 +98821,11 @@
         "property": "study.study_id",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "study.study_id",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "study.study_id",
@@ -99093,6 +99528,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "consent_group.consent_group_number",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "study.consent_number",
         "model": "CCDI",
         "version": "2.1.0-9f42edc"
@@ -99470,6 +99910,11 @@
       },
       {
         "property": "study.study_data_types",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "study.study_data_types",
         "model": "CDS",
         "version": "5.0.4"
       },
@@ -99741,6 +100186,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "study_admin.organism_species",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "study.organism_species",
         "model": "CDS",
         "version": "8.0.2"
@@ -99896,6 +100346,11 @@
         "property": "study_admin.adult_or_childhood_study",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "study_admin.adult_or_childhood_study",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "study_admin.adult_or_childhood_study",
@@ -100902,6 +101357,11 @@
       {
         "property": "study_personnel.institution",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "study_personnel.institution",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -101355,6 +101815,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "survival.last_known_survival_status",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "diagnosis.vital_status",
         "model": "CDS",
         "version": "8.0.2"
@@ -101721,6 +102186,11 @@
       {
         "property": "survival.follow_up_category",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.follow_up_category",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -101781,6 +102251,11 @@
         "property": "survival.follow_up_other",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "survival.follow_up_other",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "survival.follow_up_other",
@@ -105831,6 +106306,11 @@
       {
         "property": "survival.comorbidity",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.comorbidity",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -108232,6 +108712,11 @@
       {
         "property": "survival.comorbidity_method_of_diagnosis",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.comorbidity_method_of_diagnosis",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -109123,6 +109608,11 @@
       {
         "property": "survival.cause_of_death",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.cause_of_death",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -109330,6 +109820,21 @@
         "property": "synonym.domain_category",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "synonym.repository_of_synonym_id",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "synonym.domain_description",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "synonym.domain_category",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "synonym.repository_of_synonym_id",
@@ -124266,6 +124771,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "CCDI",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -124370,8 +124880,47 @@
         "value": "Other CNS Embryonal tumors"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C17649",
+        "synonyms": [
+          "Unspecified leukemia",
+          "CNS embryonal tumor, NOS",
+          "Leukaemia",
+          "Leukemia",
+          "Leukaemia, disease",
+          "Leukemia, disease",
+          "Other (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication for",
+          "Indication of",
+          "With indication",
+          "Indications",
+          "indication",
+          "Justification",
+          "Reason for",
+          "Indication for (attribute)",
+          "Reason for (attribute)",
+          "Idiopathic pneumonia syndrome",
+          "Idiopathic pneumonia syndrome (disorder)",
+          "leukemia",
+          "Leukaemia NOS",
+          "Leukaemias",
+          "Leukemia NOS",
+          "Leukemia, NOS",
+          "Leukemias",
+          "Leukemias, NOS",
+          "Leukaemia of unspecified cell type",
+          "Leukemia of unspecified cell type",
+          "Leukemia, disease (disorder)",
+          "Unspecified leukemia without mention of remission",
+          "Unspecified leukaemia without mention of remission",
+          "Leukaemia, unspecified",
+          "Leukaemia unspecified",
+          "Leukemia unspecified",
+          "Leukemia, unspecified",
+          "Unspecified leukaemia",
+          "Other"
+        ],
         "value": "Other"
       },
       {
@@ -124452,7 +125001,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Atypical teratoid/rhabdoid tumor "
+        "value": "Atypical teratoid/rhabdoid tumor"
       },
       {
         "ncit_concept_code": null,
@@ -124780,47 +125329,8 @@
         "value": "Other CNS Embryonal tumors"
       },
       {
-        "ncit_concept_code": "C17649",
-        "synonyms": [
-          "Unspecified leukemia",
-          "CNS embryonal tumor, NOS",
-          "Leukaemia",
-          "Leukemia",
-          "Leukaemia, disease",
-          "Leukemia, disease",
-          "Other (qualifier value)",
-          "Indication of (contextual qualifier)",
-          "Indication of (contextual qualifier) (qualifier value)",
-          "Indication for",
-          "Indication of",
-          "With indication",
-          "Indications",
-          "indication",
-          "Justification",
-          "Reason for",
-          "Indication for (attribute)",
-          "Reason for (attribute)",
-          "Idiopathic pneumonia syndrome",
-          "Idiopathic pneumonia syndrome (disorder)",
-          "leukemia",
-          "Leukaemia NOS",
-          "Leukaemias",
-          "Leukemia NOS",
-          "Leukemia, NOS",
-          "Leukemias",
-          "Leukemias, NOS",
-          "Leukaemia of unspecified cell type",
-          "Leukemia of unspecified cell type",
-          "Leukemia, disease (disorder)",
-          "Unspecified leukemia without mention of remission",
-          "Unspecified leukaemia without mention of remission",
-          "Leukaemia, unspecified",
-          "Leukaemia unspecified",
-          "Leukemia unspecified",
-          "Leukemia, unspecified",
-          "Unspecified leukaemia",
-          "Other"
-        ],
+        "ncit_concept_code": null,
+        "synonyms": [],
         "value": "Other"
       },
       {
@@ -124901,7 +125411,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Atypical teratoid/rhabdoid tumor"
+        "value": "Atypical teratoid/rhabdoid tumor "
       },
       {
         "ncit_concept_code": null,
@@ -125488,6 +125998,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "CCDI",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -126211,6 +126726,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "CCDI",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -133163,6 +133683,11 @@
         "property": "genetic_analysis.chromosome",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "genetic_analysis.chromosome",
+        "model": "CCDI",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -135218,6 +135743,11 @@
         "property": "laboratory_test.laboratory_test_name",
         "model": "C3DC",
         "version": "3.2.2"
+      },
+      {
+        "property": "laboratory_test.laboratory_test_name",
+        "model": "CCDI",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -206305,6 +206835,111 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "clinical_measure_file.file_access",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "clinical_measure_file.acl",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "clinical_measure_file.authz",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "cytogenomic_file.file_access",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "cytogenomic_file.acl",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "cytogenomic_file.authz",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "methylation_array_file.file_access",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "methylation_array_file.acl",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "methylation_array_file.authz",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.file_access",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.acl",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.authz",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.file_access",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.acl",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.authz",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "generic_file.file_access",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "generic_file.acl",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "generic_file.authz",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.file_access",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.acl",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.authz",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "study.acl",
         "model": "CDS",
         "version": "8.0.2"
@@ -207597,6 +208232,11 @@
       {
         "property": "family_relationship.relationship",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "family_relationship.relationship",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -208566,6 +209206,11 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "laboratory_test.laboratory_test_method",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "molecular_test.molecular_analysis_method",
         "model": "CCDI",
         "version": "2.1.0-9f42edc"
@@ -208852,6 +209497,11 @@
         "property": "molecular_test.test_unit",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "laboratory_test.test_unit",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "molecular_test.test_unit",
@@ -209931,6 +210581,11 @@
       {
         "property": "pathology_file.fixation_embedding_method",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.fixation_embedding_method",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -210253,6 +210908,11 @@
         "property": "sequencing_file.library_selection",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "sequencing_file.library_selection",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "genomic_info.library_selection",
@@ -210579,6 +211239,11 @@
         "property": "sequencing_file.library_strategy",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "sequencing_file.library_strategy",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "genomic_info.library_strategy",
@@ -210973,6 +211638,11 @@
       {
         "property": "sequencing_file.library_source_material",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.library_source_material",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -211055,6 +211725,11 @@
         "property": "sequencing_file.library_source_molecule",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "sequencing_file.library_source_molecule",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "sequencing_file.library_source_molecule",
@@ -211213,6 +211888,16 @@
         "version": "2.1.0-04f69bd"
       },
       {
+        "property": "genetic_analysis.reference_genome",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.reference_genome_assembly",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "genomic_info.reference_genome_assembly",
         "model": "CDS",
         "version": "8.0.2"
@@ -211340,6 +212025,11 @@
         "property": "study.experimental_strategy_and_data_subtype",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "study.experimental_strategy_and_data_subtype",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "file.experimental_strategy_and_data_subtypes",
@@ -211493,6 +212183,11 @@
       {
         "property": "study.study_status",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "study.study_status",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -211569,6 +212264,16 @@
         "property": "survival.event_free_survival_status",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "survival.first_event",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.event_free_survival_status",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "survival.first_event",
@@ -211814,6 +212519,11 @@
         "property": "survival.adverse_event",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "survival.adverse_event",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "survival.adverse_event",
@@ -215920,6 +216630,11 @@
       {
         "property": "survival.risk_factor",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "survival.risk_factor",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -217281,6 +217996,11 @@
         "property": "treatment.dose_unit",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "treatment.dose_unit",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "treatment.dose_unit",
@@ -225359,6 +226079,11 @@
       {
         "property": "treatment.dose_route",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "treatment.dose_route",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -225537,6 +226262,11 @@
         "property": "treatment.dose_frequency",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "treatment.dose_frequency",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "treatment.dose_frequency",
@@ -226112,6 +226842,41 @@
       {
         "property": "clinical_measure_file.data_category",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "cytogenomic_file.data_category",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "methylation_array_file.data_category",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "pathology_file.data_category",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "radiology_file.data_category",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "generic_file.data_category",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "sequencing_file.data_category",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "clinical_measure_file.data_category",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -226431,6 +227196,11 @@
       {
         "property": "genetic_analysis.reported_significance",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "genetic_analysis.reported_significance",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -226556,6 +227326,11 @@
         "property": "genetic_analysis.alteration",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "genetic_analysis.alteration",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "genetic_analysis.alteration",
@@ -228435,6 +229210,11 @@
       {
         "property": "genetic_analysis.status",
         "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "genetic_analysis.status",
+        "model": "CCDI",
         "version": "2.1.0-9f42edc"
       },
       {
@@ -228590,6 +229370,16 @@
         "property": "diagnosis.tumor_grade_source",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.tumor_grade_source",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "diagnosis.tumor_grade",
@@ -292488,6 +293278,11 @@
         "property": "study.curation_status",
         "model": "CCDI",
         "version": "3.1.0-bef4a77"
+      },
+      {
+        "property": "study.curation_status",
+        "model": "CCDI",
+        "version": "3.1.0"
       }
     ],
     "permissibleValues": [
@@ -292794,6 +293589,11 @@
         "property": "study_personnel.personnel_type",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
+      },
+      {
+        "property": "study_personnel.personnel_type",
+        "model": "CCDI",
+        "version": "3.1.0"
       },
       {
         "property": "study.role_or_affiliation",
@@ -317075,6 +317875,11 @@
         "version": "5.0.3"
       },
       {
+        "property": "diagnosis.diagnosis_category",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
         "property": "diagnosis.morphology",
         "model": "CDS",
         "version": "8.0.2"
@@ -317242,8 +318047,47 @@
         "value": "Other CNS Embryonal tumors"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C17649",
+        "synonyms": [
+          "Unspecified leukemia",
+          "CNS embryonal tumor, NOS",
+          "Leukaemia",
+          "Leukemia",
+          "Leukaemia, disease",
+          "Leukemia, disease",
+          "Other (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication for",
+          "Indication of",
+          "With indication",
+          "Indications",
+          "indication",
+          "Justification",
+          "Reason for",
+          "Indication for (attribute)",
+          "Reason for (attribute)",
+          "Idiopathic pneumonia syndrome",
+          "Idiopathic pneumonia syndrome (disorder)",
+          "leukemia",
+          "Leukaemia NOS",
+          "Leukaemias",
+          "Leukemia NOS",
+          "Leukemia, NOS",
+          "Leukemias",
+          "Leukemias, NOS",
+          "Leukaemia of unspecified cell type",
+          "Leukemia of unspecified cell type",
+          "Leukemia, disease (disorder)",
+          "Unspecified leukemia without mention of remission",
+          "Unspecified leukaemia without mention of remission",
+          "Leukaemia, unspecified",
+          "Leukaemia unspecified",
+          "Leukemia unspecified",
+          "Leukemia, unspecified",
+          "Unspecified leukaemia",
+          "Other"
+        ],
         "value": "Other"
       },
       {
@@ -317324,7 +318168,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Atypical teratoid/rhabdoid tumor "
+        "value": "Atypical teratoid/rhabdoid tumor"
       },
       {
         "ncit_concept_code": null,
@@ -317652,47 +318496,8 @@
         "value": "Other CNS Embryonal tumors"
       },
       {
-        "ncit_concept_code": "C17649",
-        "synonyms": [
-          "Unspecified leukemia",
-          "CNS embryonal tumor, NOS",
-          "Leukaemia",
-          "Leukemia",
-          "Leukaemia, disease",
-          "Leukemia, disease",
-          "Other (qualifier value)",
-          "Indication of (contextual qualifier)",
-          "Indication of (contextual qualifier) (qualifier value)",
-          "Indication for",
-          "Indication of",
-          "With indication",
-          "Indications",
-          "indication",
-          "Justification",
-          "Reason for",
-          "Indication for (attribute)",
-          "Reason for (attribute)",
-          "Idiopathic pneumonia syndrome",
-          "Idiopathic pneumonia syndrome (disorder)",
-          "leukemia",
-          "Leukaemia NOS",
-          "Leukaemias",
-          "Leukemia NOS",
-          "Leukemia, NOS",
-          "Leukemias",
-          "Leukemias, NOS",
-          "Leukaemia of unspecified cell type",
-          "Leukemia of unspecified cell type",
-          "Leukemia, disease (disorder)",
-          "Unspecified leukemia without mention of remission",
-          "Unspecified leukaemia without mention of remission",
-          "Leukaemia, unspecified",
-          "Leukaemia unspecified",
-          "Leukemia unspecified",
-          "Leukemia, unspecified",
-          "Unspecified leukaemia",
-          "Other"
-        ],
+        "ncit_concept_code": null,
+        "synonyms": [],
         "value": "Other"
       },
       {
@@ -317773,7 +318578,7 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
-        "value": "Atypical teratoid/rhabdoid tumor"
+        "value": "Atypical teratoid/rhabdoid tumor "
       },
       {
         "ncit_concept_code": null,
