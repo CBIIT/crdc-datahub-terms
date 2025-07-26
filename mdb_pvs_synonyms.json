@@ -211593,6 +211593,15 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C38155",
+        "synonyms": [
+          "Recurrent disease (disorder)",
+          "Recurrent disease",
+          "Recurrent Disease"
+        ],
+        "value": "Relapse"
+      },
+      {
         "ncit_concept_code": "C121972",
         "synonyms": [
           "Induction Death"
