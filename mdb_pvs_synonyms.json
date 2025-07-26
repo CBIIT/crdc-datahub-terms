@@ -42,6 +42,11 @@
       {
         "property": "diagnosis.diagnosis",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.diagnosis",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -21383,6 +21388,11 @@
       {
         "property": "diagnosis.diagnosis_classification_system",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_classification_system",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -21493,6 +21503,11 @@
         "property": "diagnosis.diagnosis_classification_system",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_classification_system",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "diagnosis.diagnosis_classification_system",
@@ -31968,6 +31983,11 @@
       {
         "property": "participant.sex_at_birth",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "participant.sex_at_birth",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -32506,6 +32526,11 @@
       {
         "property": "survival.cause_of_death",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "survival.cause_of_death",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -32673,6 +32698,11 @@
         "property": "treatment.treatment_type",
         "model": "CDS",
         "version": "7.0.0"
+      },
+      {
+        "property": "treatment.treatment_type",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "treatment.treatment_type",
@@ -33239,6 +33269,11 @@
         "property": "treatment.treatment_agent",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "treatment.treatment_agent",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "treatment.treatment_agent",
@@ -65688,6 +65723,11 @@
         "version": "7.0.0"
       },
       {
+        "property": "treatment_response.response",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
         "property": "treatment.response",
         "model": "CDS",
         "version": "8.0.0"
@@ -65973,6 +66013,11 @@
       {
         "property": "treatment_response.response_category",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "treatment_response.response_category",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -66166,6 +66211,11 @@
         "property": "treatment_response.response_system",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "treatment_response.response_system",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "treatment_response.response_system",
@@ -72470,6 +72520,11 @@
         "property": "diagnosis.diagnosis_basis",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_basis",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "diagnosis.diagnosis_basis",
@@ -83546,6 +83601,11 @@
       {
         "property": "diagnosis.laterality",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.laterality",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -88605,6 +88665,11 @@
         "version": "3.1.0"
       },
       {
+        "property": "laboratory_test.laboratory_test_name",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
         "property": "laboratory_test.test",
         "model": "C3DC",
         "version": "2.0.0"
@@ -90297,6 +90362,11 @@
         "property": "genetic_analysis.genomic_source_category",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "genetic_analysis.genomic_source_category",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "genetic_analysis.genomic_source_category",
@@ -98936,6 +99006,11 @@
         "property": "consent_group.consent_group_number",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "study.consent_number",
@@ -109120,6 +109195,21 @@
         "property": "synonym.domain_category",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "synonym.repository_of_synonym_id",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "synonym.domain_description",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "synonym.domain_category",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "synonym.repository_of_synonym_id",
@@ -124076,6 +124166,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.2.0"
       }
     ],
     "permissibleValues": [
@@ -125288,6 +125383,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.2.0"
       }
     ],
     "permissibleValues": [
@@ -126001,6 +126101,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.2.0"
       }
     ],
     "permissibleValues": [
@@ -132943,6 +133048,11 @@
         "property": "genetic_analysis.chromosome",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "genetic_analysis.chromosome",
+        "model": "C3DC",
+        "version": "3.2.0"
       }
     ],
     "permissibleValues": [
@@ -134988,6 +135098,11 @@
         "property": "laboratory_test.laboratory_test_name",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "laboratory_test.laboratory_test_name",
+        "model": "C3DC",
+        "version": "3.2.0"
       }
     ],
     "permissibleValues": [
@@ -208321,6 +208436,11 @@
         "version": "3.1.0"
       },
       {
+        "property": "laboratory_test.laboratory_test_method",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
         "property": "molecular_test.molecular_analysis_method",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
@@ -208582,6 +208702,11 @@
         "property": "laboratory_test.test_unit",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "laboratory_test.test_result_unit",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "laboratory_test.result_unit",
@@ -210938,6 +211063,11 @@
         "version": "3.1.0"
       },
       {
+        "property": "genetic_analysis.reference_genome",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
         "property": "genomic_info.reference_genome_assembly",
         "model": "CDS",
         "version": "7.0.0"
@@ -211209,6 +211339,11 @@
         "property": "study.study_status",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "study.study_status",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "study.study_status",
@@ -216982,6 +217117,11 @@
         "property": "treatment.dose_unit",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "treatment.dose_unit",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "treatment.dose_unit",
@@ -225050,6 +225190,11 @@
       {
         "property": "treatment.dose_route",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "treatment.dose_route",
+        "model": "C3DC",
         "version": "2.1.0"
       },
       {
@@ -225218,6 +225363,11 @@
         "property": "treatment.dose_frequency",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "treatment.dose_frequency",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "treatment.dose_frequency",
@@ -226106,6 +226256,11 @@
       },
       {
         "property": "genetic_analysis.reported_significance",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "genetic_analysis.reported_significance",
         "model": "CCDI",
         "version": "2.1.0-04f69bd"
       },
@@ -226207,6 +226362,11 @@
         "property": "genetic_analysis.alteration",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "genetic_analysis.alteration",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "genetic_analysis.alteration",
@@ -228076,6 +228236,11 @@
       {
         "property": "genetic_analysis.status",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "genetic_analysis.status",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -228226,6 +228391,11 @@
         "property": "diagnosis.tumor_grade",
         "model": "CDS",
         "version": "7.0.0"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "diagnosis.tumor_grade",
@@ -316706,6 +316876,11 @@
         "version": "7.0.0"
       },
       {
+        "property": "diagnosis.diagnosis_category",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
         "property": "diagnosis.morphology",
         "model": "CDS",
         "version": "8.0.0"
@@ -371982,6 +372157,11 @@
       {
         "property": "laboratory_test.specimen",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "laboratory_test.specimen",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -384188,6 +384368,11 @@
       {
         "property": "diagnosis.disease_phase",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.disease_phase",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -384384,6 +384569,16 @@
       {
         "property": "diagnosis.tumor_classification",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "sample.tumor_classification",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.tumor_classification",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -384565,6 +384760,16 @@
         "property": "sample.anatomic_site",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "diagnosis.anatomic_site",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "sample.anatomic_site",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "diagnosis.anatomic_site",
@@ -392813,6 +393018,11 @@
       {
         "property": "diagnosis.toronto_childhood_cancer_staging",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.toronto_childhood_cancer_staging",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -393492,6 +393702,11 @@
       {
         "property": "diagnosis.tumor_stage_clinical_t",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_t",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -393790,6 +394005,11 @@
       {
         "property": "diagnosis.tumor_stage_clinical_n",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_n",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -394022,6 +394242,11 @@
       {
         "property": "diagnosis.tumor_stage_clinical_m",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_m",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -394130,6 +394355,11 @@
         "property": "participant.race",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "participant.race",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "participant.race",
@@ -394250,6 +394480,11 @@
         "property": "sample.sample_tumor_status",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "sample.sample_tumor_status",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "sample.sample_tumor_status",
@@ -394451,6 +394686,11 @@
         "property": "study.study_id",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "study.study_id",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "study.study_id",
@@ -395286,6 +395526,11 @@
       {
         "property": "survival.last_known_survival_status",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "survival.last_known_survival_status",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -395382,6 +395627,16 @@
         "property": "survival.first_event",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "survival.event_free_survival_status",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "survival.first_event",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "survival.event_free_survival_status",
@@ -395800,6 +396055,11 @@
       {
         "property": "reference_file.file_type",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "reference_file.file_type",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -396089,6 +396349,11 @@
       {
         "property": "reference_file.file_type",
         "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "reference_file.file_type",
+        "model": "C3DC",
         "version": "2.0.0"
       },
       {
@@ -396147,6 +396412,11 @@
         "property": "sample.sample_description",
         "model": "C3DC",
         "version": "3.1.0"
+      },
+      {
+        "property": "sample.sample_description",
+        "model": "C3DC",
+        "version": "3.2.0"
       },
       {
         "property": "sample.sample_description",
