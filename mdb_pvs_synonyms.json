@@ -83495,8 +83495,22 @@
         "value": "Weekly Drinker"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C25473",
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
+          "Not",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Daily"
+        ],
         "value": "Daily Drinker"
       }
     ]
@@ -83713,6 +83727,12 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
           "Not",
           "Every day",
           "Each day",
@@ -84347,6 +84367,26 @@
       {
         "ncit_concept_code": "C25204",
         "synonyms": [
+          "Twin",
+          "Twin sibling",
+          "Twin sibling (person)",
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Siblings",
           "Sibling (person)",
           "Sibling"
@@ -84411,6 +84451,13 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandmother (person)",
           "Grand-mother",
           "Grandmother"
@@ -84729,6 +84776,23 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Brother (person)",
           "Brother"
         ],
@@ -84737,6 +84801,9 @@
       {
         "ncit_concept_code": "C25174",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Father (person)",
           "Father"
         ],
@@ -84745,6 +84812,9 @@
       {
         "ncit_concept_code": "C25189",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Maternal",
           "Mother (person)",
           "Mother"
@@ -84754,6 +84824,23 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sr - Sister",
           "Sister (person)",
           "Sister"
@@ -84763,6 +84850,13 @@
       {
         "ncit_concept_code": "C71385",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandparents",
           "Grandparent (person)",
           "Grand-parent",
@@ -84773,6 +84867,9 @@
       {
         "ncit_concept_code": "C42709",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Parents",
           "Parental",
           "Parent (person)",
@@ -84785,6 +84882,9 @@
       {
         "ncit_concept_code": "C42708",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Child of (finding)",
           "Child of",
           "Offspring"
@@ -84794,6 +84894,10 @@
       {
         "ncit_concept_code": "C71404",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Uncle (person)",
           "Uncle"
         ],
@@ -84845,6 +84949,10 @@
       {
         "ncit_concept_code": "C71405",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Aunt (person)",
           "Aunt"
         ],
@@ -84878,6 +84986,9 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Son (person)",
           "Son"
         ],
@@ -84886,6 +84997,9 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Natural daughter (person)",
           "Natural daughter",
           "Biological daughter",
@@ -84915,6 +85029,10 @@
       {
         "ncit_concept_code": "C71391",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sibling (person)",
           "Half sibling",
           "Half-sibling",
@@ -84925,6 +85043,10 @@
       {
         "ncit_concept_code": "C71402",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-brother (person)",
           "Half-brother",
           "Half Brother"
@@ -84934,6 +85056,10 @@
       {
         "ncit_concept_code": "C71403",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sister (person)",
           "Half-sister",
           "Half Sister"
@@ -84943,6 +85069,13 @@
       {
         "ncit_concept_code": "C71387",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandfather (person)",
           "Grand-father",
           "Grandfather"
@@ -84952,6 +85085,9 @@
       {
         "ncit_concept_code": "C71397",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Grandchild (person)",
           "Grand child",
           "Grandchild"
@@ -85007,6 +85143,14 @@
       {
         "ncit_concept_code": "C71410",
         "synonyms": [
+          "M",
+          "Male",
+          "Female",
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
           "Cousin (person)",
           "Cousin"
         ],
@@ -85015,6 +85159,10 @@
       {
         "ncit_concept_code": "C71411",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "First cousin (person)",
           "First cousin",
           "First Cousin"
@@ -85967,8 +86115,13 @@
         "value": "Autism Spectrum Disorder"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C6729",
+        "synonyms": [
+          "Attenuated familial polyposis coli",
+          "Attenuated familial adenomatous polyposis",
+          "Attenuated familial adenomatous polyposis (disorder)",
+          "Attenuated Familial Adenomatous Polyposis"
+        ],
         "value": "Attenuated Familial Adenomatous Polyposis"
       },
       {
@@ -86049,8 +86202,19 @@
         "value": "Thyroid Cancer"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C3359",
+        "synonyms": [
+          "Malignant soft tissue tumor of skeletal muscle differentiation",
+          "Malignant soft tissue tumour of skeletal muscle differentiation",
+          "Rhabdomyosarcoma (morphologic abnormality)",
+          "Rhabdosarcoma",
+          "Rhabdomyosarcoma (disorder)",
+          "Rhabdomyosarcomas",
+          "Rhabdomyosarcoma, NOS",
+          "Rhabdomyosarcoma NOS",
+          "rhabdomyosarcoma",
+          "Rhabdomyosarcoma"
+        ],
         "value": "Rhabdomyosarcoma"
       },
       {
@@ -103693,6 +103857,15 @@
       {
         "ncit_concept_code": "C114476",
         "synonyms": [
+          "Dairy product",
+          "Intolerance to lactose (finding)",
+          "Intolerance to lactose",
+          "Intolerance to milk (finding)",
+          "Milk intolerance",
+          "Intolerance to milk",
+          "Lactose intolerance, unspecified",
+          "Alactasia",
+          "Lactose intolerance",
           "Allergic reaction",
           "Allergy, unspecified",
           "Allergy NOS",
@@ -104107,6 +104280,22 @@
       {
         "ncit_concept_code": "C84445",
         "synonyms": [
+          "NASH",
+          "Non-alcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis (disorder)",
+          "Nonalcoholic steatohepatitis (NASH)",
+          "NASH - Nonalcoholic steatohepatitis",
+          "non-alcoholic steatohepatitis",
+          "nonalcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis",
+          "Metabolic Dysfunction-Associated Steatohepatitis"
+        ],
+        "value": "Nonalcoholic Steatohepatitis"
+      },
+      {
+        "ncit_concept_code": "C84445",
+        "synonyms": [
+          "Metabolic Dysfunction-Associated Steatohepatitis",
           "NASH",
           "Non-alcoholic steatohepatitis",
           "Nonalcoholic steatohepatitis (disorder)",
@@ -104565,8 +104754,16 @@
         "value": "Common Variable Immunodeficiency"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C26729",
+        "synonyms": [
+          "Connective tissue disease",
+          "Disorder of connective tissue (disorder)",
+          "Connective tissue disorder",
+          "Disorder of connective tissue",
+          "Connective tissue disorders",
+          "Connective tissue disorder NOS",
+          "Connective Tissue Disorder"
+        ],
         "value": "Connective Tissue Disorder"
       },
       {
@@ -105068,8 +105265,10 @@
     ],
     "permissibleValues": [
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C158758",
+        "synonyms": [
+          "Resection"
+        ],
         "value": "Surgical Resection"
       },
       {
@@ -106570,6 +106769,9 @@
       {
         "ncit_concept_code": "C25174",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Father",
           "Father (person)",
           "Father"
@@ -118034,6 +118236,12 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
           "Not",
           "Every day",
           "Each day",
@@ -143778,8 +143986,19 @@
         "value": "Adenosarcoma with other heterologous element (specify)"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C3359",
+        "synonyms": [
+          "Malignant soft tissue tumor of skeletal muscle differentiation",
+          "Malignant soft tissue tumour of skeletal muscle differentiation",
+          "Rhabdomyosarcoma (morphologic abnormality)",
+          "Rhabdosarcoma",
+          "Rhabdomyosarcoma (disorder)",
+          "Rhabdomyosarcomas",
+          "Rhabdomyosarcoma, NOS",
+          "Rhabdomyosarcoma NOS",
+          "rhabdomyosarcoma",
+          "Rhabdomyosarcoma"
+        ],
         "value": "Rhabdomyosarcoma"
       },
       {
@@ -148563,8 +148782,22 @@
         "value": "Weekly Drinker"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C25473",
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
+          "Not",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Daily"
+        ],
         "value": "Daily Drinker"
       }
     ]
@@ -149558,8 +149791,19 @@
         "value": "Wilms Tumor"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C3359",
+        "synonyms": [
+          "Malignant soft tissue tumor of skeletal muscle differentiation",
+          "Malignant soft tissue tumour of skeletal muscle differentiation",
+          "Rhabdomyosarcoma (morphologic abnormality)",
+          "Rhabdosarcoma",
+          "Rhabdomyosarcoma (disorder)",
+          "Rhabdomyosarcomas",
+          "Rhabdomyosarcoma, NOS",
+          "Rhabdomyosarcoma NOS",
+          "rhabdomyosarcoma",
+          "Rhabdomyosarcoma"
+        ],
         "value": "Rhabdomyosarcoma"
       },
       {
@@ -149636,6 +149880,9 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Son (person)",
           "Son"
         ],
@@ -149644,6 +149891,9 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Natural daughter (person)",
           "Natural daughter",
           "Biological daughter",
@@ -149707,6 +149957,23 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Brother (person)",
           "Brother"
         ],
@@ -149715,6 +149982,23 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sr - Sister",
           "Sister (person)",
           "Sister"
@@ -149835,6 +150119,26 @@
       {
         "ncit_concept_code": "C25204",
         "synonyms": [
+          "Twin",
+          "Twin sibling",
+          "Twin sibling (person)",
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Siblings",
           "Sibling (person)",
           "Sibling"
@@ -149969,6 +150273,13 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandmother (person)",
           "Grand-mother",
           "Grandmother"
@@ -150018,6 +150329,9 @@
       {
         "ncit_concept_code": "C25189",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Maternal",
           "Mother (person)",
           "Mother"
@@ -150027,6 +150341,10 @@
       {
         "ncit_concept_code": "C71403",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sister (person)",
           "Half-sister",
           "Half Sister"
@@ -150036,6 +150354,10 @@
       {
         "ncit_concept_code": "C71402",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-brother (person)",
           "Half-brother",
           "Half Brother"
@@ -150045,6 +150367,9 @@
       {
         "ncit_concept_code": "C25174",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Father (person)",
           "Father"
         ],
@@ -150072,6 +150397,13 @@
       {
         "ncit_concept_code": "C71385",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandparents",
           "Grandparent (person)",
           "Grand-parent",
@@ -150082,6 +150414,9 @@
       {
         "ncit_concept_code": "C42709",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Parents",
           "Parental",
           "Parent (person)",
@@ -150094,6 +150429,9 @@
       {
         "ncit_concept_code": "C42708",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Child of (finding)",
           "Child of",
           "Offspring"
@@ -150103,6 +150441,10 @@
       {
         "ncit_concept_code": "C71404",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Uncle (person)",
           "Uncle"
         ],
@@ -150139,6 +150481,10 @@
       {
         "ncit_concept_code": "C71405",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Aunt (person)",
           "Aunt"
         ],
@@ -150177,6 +150523,10 @@
       {
         "ncit_concept_code": "C71391",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sibling (person)",
           "Half sibling",
           "Half-sibling",
@@ -150187,6 +150537,13 @@
       {
         "ncit_concept_code": "C71387",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandfather (person)",
           "Grand-father",
           "Grandfather"
@@ -150196,6 +150553,9 @@
       {
         "ncit_concept_code": "C71397",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Grandchild (person)",
           "Grand child",
           "Grandchild"
@@ -150243,6 +150603,14 @@
       {
         "ncit_concept_code": "C71410",
         "synonyms": [
+          "M",
+          "Male",
+          "Female",
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
           "Cousin (person)",
           "Cousin"
         ],
@@ -150251,6 +150619,10 @@
       {
         "ncit_concept_code": "C71411",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "First cousin (person)",
           "First cousin",
           "First Cousin"
@@ -154735,6 +155107,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -157412,6 +157785,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -195698,6 +196072,16 @@
         "value": "Maternal Half Sister"
       },
       {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Male Cousin"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Female Cousin"
+      },
+      {
         "ncit_concept_code": "C96582",
         "synonyms": [
           "Biological Paternal Cousin"
@@ -195737,6 +196121,9 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Son (person)",
           "Son"
         ],
@@ -195745,6 +196132,9 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Natural daughter (person)",
           "Natural daughter",
           "Biological daughter",
@@ -195808,6 +196198,23 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Brother (person)",
           "Brother"
         ],
@@ -195816,6 +196223,23 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sr - Sister",
           "Sister (person)",
           "Sister"
@@ -195936,6 +196360,26 @@
       {
         "ncit_concept_code": "C25204",
         "synonyms": [
+          "Twin",
+          "Twin sibling",
+          "Twin sibling (person)",
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Siblings",
           "Sibling (person)",
           "Sibling"
@@ -196070,6 +196514,13 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandmother (person)",
           "Grand-mother",
           "Grandmother"
@@ -196119,6 +196570,9 @@
       {
         "ncit_concept_code": "C25189",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Maternal",
           "Mother (person)",
           "Mother"
@@ -196128,6 +196582,10 @@
       {
         "ncit_concept_code": "C71403",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sister (person)",
           "Half-sister",
           "Half Sister"
@@ -196137,6 +196595,10 @@
       {
         "ncit_concept_code": "C71402",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-brother (person)",
           "Half-brother",
           "Half Brother"
@@ -196146,6 +196608,9 @@
       {
         "ncit_concept_code": "C25174",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Father (person)",
           "Father"
         ],
@@ -196173,6 +196638,13 @@
       {
         "ncit_concept_code": "C71385",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandparents",
           "Grandparent (person)",
           "Grand-parent",
@@ -196183,6 +196655,9 @@
       {
         "ncit_concept_code": "C42709",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Parents",
           "Parental",
           "Parent (person)",
@@ -196195,6 +196670,9 @@
       {
         "ncit_concept_code": "C42708",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Child of (finding)",
           "Child of",
           "Offspring"
@@ -196204,6 +196682,10 @@
       {
         "ncit_concept_code": "C71404",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Uncle (person)",
           "Uncle"
         ],
@@ -196240,6 +196722,10 @@
       {
         "ncit_concept_code": "C71405",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Aunt (person)",
           "Aunt"
         ],
@@ -196278,6 +196764,10 @@
       {
         "ncit_concept_code": "C71391",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sibling (person)",
           "Half sibling",
           "Half-sibling",
@@ -196288,6 +196778,13 @@
       {
         "ncit_concept_code": "C71387",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandfather (person)",
           "Grand-father",
           "Grandfather"
@@ -196297,6 +196794,9 @@
       {
         "ncit_concept_code": "C71397",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Grandchild (person)",
           "Grand child",
           "Grandchild"
@@ -196344,6 +196844,14 @@
       {
         "ncit_concept_code": "C71410",
         "synonyms": [
+          "M",
+          "Male",
+          "Female",
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
           "Cousin (person)",
           "Cousin"
         ],
@@ -196352,6 +196860,10 @@
       {
         "ncit_concept_code": "C71411",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "First cousin (person)",
           "First cousin",
           "First Cousin"
@@ -197183,6 +197695,18 @@
       {
         "ncit_concept_code": "C48154",
         "synonyms": [
+          "Located in",
+          "Has setting",
+          "Has location",
+          "Found in",
+          "In (attribute)",
+          "Arising from",
+          "Of",
+          "In",
+          "Within",
+          "Greater-than symbol >",
+          "Greater-than symbol > (qualifier value)",
+          ">",
           "60",
           "30",
           "minutes",
@@ -199084,6 +199608,15 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C38155",
+        "synonyms": [
+          "Recurrent disease (disorder)",
+          "Recurrent disease",
+          "Recurrent Disease"
+        ],
+        "value": "Relapse"
+      },
       {
         "ncit_concept_code": "C121972",
         "synonyms": [
@@ -204546,6 +205079,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -208909,6 +209443,12 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
           "Not",
           "Every day",
           "Each day",
@@ -212244,6 +212784,8 @@
       {
         "ncit_concept_code": "C29848",
         "synonyms": [
+          "Four",
+          "9",
           "Two",
           "One",
           "yr",
@@ -212532,6 +213074,18 @@
       {
         "ncit_concept_code": "C48154",
         "synonyms": [
+          "Located in",
+          "Has setting",
+          "Has location",
+          "Found in",
+          "In (attribute)",
+          "Arising from",
+          "Of",
+          "In",
+          "Within",
+          "Greater-than symbol >",
+          "Greater-than symbol > (qualifier value)",
+          ">",
           "60",
           "30",
           "minutes",
@@ -212894,6 +213448,12 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
           "Not",
           "Every day",
           "Each day",
@@ -213263,6 +213823,12 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
           "Not",
           "Each day",
           "Day",
@@ -237963,8 +238529,19 @@
         "value": "Adenosarcoma with other heterologous element (specify)"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C3359",
+        "synonyms": [
+          "Malignant soft tissue tumor of skeletal muscle differentiation",
+          "Malignant soft tissue tumour of skeletal muscle differentiation",
+          "Rhabdomyosarcoma (morphologic abnormality)",
+          "Rhabdosarcoma",
+          "Rhabdomyosarcoma (disorder)",
+          "Rhabdomyosarcomas",
+          "Rhabdomyosarcoma, NOS",
+          "Rhabdomyosarcoma NOS",
+          "rhabdomyosarcoma",
+          "Rhabdomyosarcoma"
+        ],
         "value": "Rhabdomyosarcoma"
       },
       {
@@ -245853,8 +246430,22 @@
         "value": "Weekly Drinker"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C25473",
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
+          "Not",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Daily"
+        ],
         "value": "Daily Drinker"
       }
     ]
@@ -246446,8 +247037,19 @@
         "value": "Wilms Tumor"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C3359",
+        "synonyms": [
+          "Malignant soft tissue tumor of skeletal muscle differentiation",
+          "Malignant soft tissue tumour of skeletal muscle differentiation",
+          "Rhabdomyosarcoma (morphologic abnormality)",
+          "Rhabdosarcoma",
+          "Rhabdomyosarcoma (disorder)",
+          "Rhabdomyosarcomas",
+          "Rhabdomyosarcoma, NOS",
+          "Rhabdomyosarcoma NOS",
+          "rhabdomyosarcoma",
+          "Rhabdomyosarcoma"
+        ],
         "value": "Rhabdomyosarcoma"
       },
       {
@@ -246508,6 +247110,9 @@
       {
         "ncit_concept_code": "C42708",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Child of (finding)",
           "Child of",
           "Offspring"
@@ -246794,6 +247399,9 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Son (person)",
           "Son"
         ],
@@ -246802,6 +247410,9 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Natural daughter (person)",
           "Natural daughter",
           "Biological daughter",
@@ -246865,6 +247476,23 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Brother (person)",
           "Brother"
         ],
@@ -246873,6 +247501,23 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sr - Sister",
           "Sister (person)",
           "Sister"
@@ -246993,6 +247638,26 @@
       {
         "ncit_concept_code": "C25204",
         "synonyms": [
+          "Twin",
+          "Twin sibling",
+          "Twin sibling (person)",
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Siblings",
           "Sibling (person)",
           "Sibling"
@@ -247127,6 +247792,13 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandmother (person)",
           "Grand-mother",
           "Grandmother"
@@ -247176,6 +247848,9 @@
       {
         "ncit_concept_code": "C25189",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Maternal",
           "Mother (person)",
           "Mother"
@@ -247185,6 +247860,10 @@
       {
         "ncit_concept_code": "C71403",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sister (person)",
           "Half-sister",
           "Half Sister"
@@ -247194,6 +247873,10 @@
       {
         "ncit_concept_code": "C71402",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-brother (person)",
           "Half-brother",
           "Half Brother"
@@ -247203,6 +247886,9 @@
       {
         "ncit_concept_code": "C25174",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Father (person)",
           "Father"
         ],
@@ -247230,6 +247916,13 @@
       {
         "ncit_concept_code": "C71385",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandparents",
           "Grandparent (person)",
           "Grand-parent",
@@ -247240,6 +247933,9 @@
       {
         "ncit_concept_code": "C42709",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Parents",
           "Parental",
           "Parent (person)",
@@ -247252,6 +247948,9 @@
       {
         "ncit_concept_code": "C42708",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Child of (finding)",
           "Child of",
           "Offspring"
@@ -247261,6 +247960,10 @@
       {
         "ncit_concept_code": "C71404",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Uncle (person)",
           "Uncle"
         ],
@@ -247297,6 +248000,10 @@
       {
         "ncit_concept_code": "C71405",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Aunt (person)",
           "Aunt"
         ],
@@ -247335,6 +248042,10 @@
       {
         "ncit_concept_code": "C71391",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sibling (person)",
           "Half sibling",
           "Half-sibling",
@@ -247345,6 +248056,13 @@
       {
         "ncit_concept_code": "C71387",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandfather (person)",
           "Grand-father",
           "Grandfather"
@@ -247354,6 +248072,9 @@
       {
         "ncit_concept_code": "C71397",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Grandchild (person)",
           "Grand child",
           "Grandchild"
@@ -247401,6 +248122,14 @@
       {
         "ncit_concept_code": "C71410",
         "synonyms": [
+          "M",
+          "Male",
+          "Female",
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
           "Cousin (person)",
           "Cousin"
         ],
@@ -247409,6 +248138,10 @@
       {
         "ncit_concept_code": "C71411",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "First cousin (person)",
           "First cousin",
           "First Cousin"
@@ -251907,6 +252640,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -255570,6 +256304,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -286074,6 +286809,9 @@
       {
         "ncit_concept_code": "C25174",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Father",
           "Father (person)",
           "Father"
@@ -379295,8 +380033,10 @@
         "value": "Incisional Biopsy"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C158758",
+        "synonyms": [
+          "Resection"
+        ],
         "value": "Surgical Resection"
       },
       {
@@ -381810,8 +382550,19 @@
         "value": "Salivary Gland Basal Cell Adenocarcinoma"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C3359",
+        "synonyms": [
+          "Malignant soft tissue tumor of skeletal muscle differentiation",
+          "Malignant soft tissue tumour of skeletal muscle differentiation",
+          "Rhabdomyosarcoma (morphologic abnormality)",
+          "Rhabdosarcoma",
+          "Rhabdomyosarcoma (disorder)",
+          "Rhabdomyosarcomas",
+          "Rhabdomyosarcoma, NOS",
+          "Rhabdomyosarcoma NOS",
+          "rhabdomyosarcoma",
+          "Rhabdomyosarcoma"
+        ],
         "value": "Rhabdomyosarcoma"
       },
       {
@@ -387916,6 +388667,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C63479",
+        "synonyms": [
+          "Gene Expression Analysis"
+        ],
+        "value": "Gene Expression Analysis"
+      },
       {
         "ncit_concept_code": "C84343",
         "synonyms": [
@@ -399816,8 +400574,22 @@
         "value": "Weekly Drinker"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C25473",
+        "synonyms": [
+          "Weekly (qualifier value)",
+          "Every week",
+          "Each week",
+          "Weekly",
+          "Alcohol use",
+          "Alcohol product use",
+          "Not",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Daily"
+        ],
         "value": "Daily Drinker"
       }
     ]
@@ -400506,6 +401278,9 @@
       {
         "ncit_concept_code": "C42708",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Child of (finding)",
           "Child of",
           "Offspring"
@@ -400792,6 +401567,9 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Son (person)",
           "Son"
         ],
@@ -400800,6 +401578,9 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Natural daughter (person)",
           "Natural daughter",
           "Biological daughter",
@@ -400863,6 +401644,23 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Brother (person)",
           "Brother"
         ],
@@ -400871,6 +401669,23 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sr - Sister",
           "Sister (person)",
           "Sister"
@@ -400991,6 +401806,26 @@
       {
         "ncit_concept_code": "C25204",
         "synonyms": [
+          "Twin",
+          "Twin sibling",
+          "Twin sibling (person)",
+          "Fraternal twin sibling (person)",
+          "Fraternal twin sibling",
+          "Heterozygous twin",
+          "Fraternal twin",
+          "Fraternal twin (person)",
+          "Uniovular twins",
+          "Monozygous twin",
+          "Monovular twins",
+          "Monochorial twins",
+          "Identical twins",
+          "Identical twin",
+          "Identical twin (person)",
+          "Monozygotic twins (finding)",
+          "Monozygotic twins",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Siblings",
           "Sibling (person)",
           "Sibling"
@@ -401125,6 +401960,13 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandmother (person)",
           "Grand-mother",
           "Grandmother"
@@ -401174,6 +402016,9 @@
       {
         "ncit_concept_code": "C25189",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Maternal",
           "Mother (person)",
           "Mother"
@@ -401183,6 +402028,10 @@
       {
         "ncit_concept_code": "C71403",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sister (person)",
           "Half-sister",
           "Half Sister"
@@ -401192,6 +402041,10 @@
       {
         "ncit_concept_code": "C71402",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-brother (person)",
           "Half-brother",
           "Half Brother"
@@ -401201,6 +402054,9 @@
       {
         "ncit_concept_code": "C25174",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Father (person)",
           "Father"
         ],
@@ -401228,6 +402084,13 @@
       {
         "ncit_concept_code": "C71385",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandparents",
           "Grandparent (person)",
           "Grand-parent",
@@ -401238,6 +402101,9 @@
       {
         "ncit_concept_code": "C42709",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Parents",
           "Parental",
           "Parent (person)",
@@ -401250,6 +402116,9 @@
       {
         "ncit_concept_code": "C42708",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Child of (finding)",
           "Child of",
           "Offspring"
@@ -401259,6 +402128,10 @@
       {
         "ncit_concept_code": "C71404",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Uncle (person)",
           "Uncle"
         ],
@@ -401295,6 +402168,10 @@
       {
         "ncit_concept_code": "C71405",
         "synonyms": [
+          "Maternal relative (person)",
+          "Maternal relative",
+          "Paternal relative (person)",
+          "Paternal relative",
           "Aunt (person)",
           "Aunt"
         ],
@@ -401333,6 +402210,10 @@
       {
         "ncit_concept_code": "C71391",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Half-sibling (person)",
           "Half sibling",
           "Half-sibling",
@@ -401343,6 +402224,13 @@
       {
         "ncit_concept_code": "C71387",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Grandfather (person)",
           "Grand-father",
           "Grandfather"
@@ -401352,6 +402240,9 @@
       {
         "ncit_concept_code": "C71397",
         "synonyms": [
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Grandchild (person)",
           "Grand child",
           "Grandchild"
@@ -401399,6 +402290,14 @@
       {
         "ncit_concept_code": "C71410",
         "synonyms": [
+          "M",
+          "Male",
+          "Female",
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
           "Cousin (person)",
           "Cousin"
         ],
@@ -401407,6 +402306,10 @@
       {
         "ncit_concept_code": "C71411",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "First cousin (person)",
           "First cousin",
           "First Cousin"
@@ -402309,8 +403212,13 @@
         "value": "Autism Spectrum Disorder"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C6729",
+        "synonyms": [
+          "Attenuated familial polyposis coli",
+          "Attenuated familial adenomatous polyposis",
+          "Attenuated familial adenomatous polyposis (disorder)",
+          "Attenuated Familial Adenomatous Polyposis"
+        ],
         "value": "Attenuated Familial Adenomatous Polyposis"
       },
       {
@@ -402391,8 +403299,19 @@
         "value": "Thyroid Cancer"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C3359",
+        "synonyms": [
+          "Malignant soft tissue tumor of skeletal muscle differentiation",
+          "Malignant soft tissue tumour of skeletal muscle differentiation",
+          "Rhabdomyosarcoma (morphologic abnormality)",
+          "Rhabdosarcoma",
+          "Rhabdomyosarcoma (disorder)",
+          "Rhabdomyosarcomas",
+          "Rhabdomyosarcoma, NOS",
+          "Rhabdomyosarcoma NOS",
+          "rhabdomyosarcoma",
+          "Rhabdomyosarcoma"
+        ],
         "value": "Rhabdomyosarcoma"
       },
       {
@@ -409617,6 +410536,15 @@
       {
         "ncit_concept_code": "C114476",
         "synonyms": [
+          "Dairy product",
+          "Intolerance to lactose (finding)",
+          "Intolerance to lactose",
+          "Intolerance to milk (finding)",
+          "Milk intolerance",
+          "Intolerance to milk",
+          "Lactose intolerance, unspecified",
+          "Alactasia",
+          "Lactose intolerance",
           "Allergic reaction",
           "Allergy, unspecified",
           "Allergy NOS",
@@ -410031,6 +410959,22 @@
       {
         "ncit_concept_code": "C84445",
         "synonyms": [
+          "NASH",
+          "Non-alcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis (disorder)",
+          "Nonalcoholic steatohepatitis (NASH)",
+          "NASH - Nonalcoholic steatohepatitis",
+          "non-alcoholic steatohepatitis",
+          "nonalcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis",
+          "Metabolic Dysfunction-Associated Steatohepatitis"
+        ],
+        "value": "Nonalcoholic Steatohepatitis"
+      },
+      {
+        "ncit_concept_code": "C84445",
+        "synonyms": [
+          "Metabolic Dysfunction-Associated Steatohepatitis",
           "NASH",
           "Non-alcoholic steatohepatitis",
           "Nonalcoholic steatohepatitis (disorder)",
@@ -410489,8 +411433,16 @@
         "value": "Common Variable Immunodeficiency"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C26729",
+        "synonyms": [
+          "Connective tissue disease",
+          "Disorder of connective tissue (disorder)",
+          "Connective tissue disorder",
+          "Disorder of connective tissue",
+          "Connective tissue disorders",
+          "Connective tissue disorder NOS",
+          "Connective Tissue Disorder"
+        ],
         "value": "Connective Tissue Disorder"
       },
       {
@@ -410982,8 +411934,10 @@
     ],
     "permissibleValues": [
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C158758",
+        "synonyms": [
+          "Resection"
+        ],
         "value": "Surgical Resection"
       },
       {
@@ -412548,6 +413502,7 @@
           "Polyp of colon",
           "Polyp of colon (disorder)",
           "Colonic polyp",
+          "Colon Polyp",
           "Colon Polyp"
         ],
         "value": "Colon polyps"
@@ -415445,6 +416400,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C63479",
+        "synonyms": [
+          "Gene Expression Analysis"
+        ],
+        "value": "Gene Expression Analysis"
+      },
       {
         "ncit_concept_code": "C84343",
         "synonyms": [
