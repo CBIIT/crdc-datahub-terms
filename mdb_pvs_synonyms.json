@@ -2828,6 +2828,14 @@
         "value": "Medical Physicist"
       },
       {
+        "ncit_concept_code": "C17821",
+        "synonyms": [
+          "Oncologist (occupation)",
+          "Oncologist"
+        ],
+        "value": "Oncologist"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Administrator or Manager"
@@ -33954,9 +33962,8 @@
         "value": "10024193"
       },
       {
-        "ncit_concept_code": "C9306",
+        "ncit_concept_code": "C3377",
         "synonyms": [
-          "Soft Tissue Neoplasm",
           "Soft tissue neoplasm",
           "Tumour of soft tissue",
           "Tumor of soft tissue",
@@ -33971,6 +33978,29 @@
           "Sarcoma of connective tissue",
           "Sarcoma of soft tissue",
           "Soft tissue sarcoma",
+          "Soft Tissue Sarcoma",
+          "Soft Tissue Neoplasm"
+        ],
+        "value": "10039494"
+      },
+      {
+        "ncit_concept_code": "C9306",
+        "synonyms": [
+          "Soft tissue neoplasm",
+          "Tumour of soft tissue",
+          "Tumor of soft tissue",
+          "Soft tissue tumour",
+          "Soft tissue tumor",
+          "Neoplasm of soft tissue (disorder)",
+          "Neoplasm of soft tissues",
+          "Neoplasm of soft tissue",
+          "Non-rhabdomyosarcoma soft-tissue sarcoma",
+          "Sarcoma of connective tissue (disorder)",
+          "Sarcoma of soft tissue (disorder)",
+          "Sarcoma of connective tissue",
+          "Sarcoma of soft tissue",
+          "Soft tissue sarcoma",
+          "Soft Tissue Neoplasm",
           "Soft Tissue Sarcoma"
         ],
         "value": "10039494"
@@ -37024,8 +37054,8 @@
         "ncit_concept_code": "C48155",
         "synonyms": [
           "gram",
-          "Gram",
           "gram (qualifier value)",
+          "Gram",
           "Gram"
         ],
         "value": "g"
@@ -37126,6 +37156,8 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
+          "kilogram (qualifier value)",
+          "kilogram",
           "obsolete cell",
           "Cellular structures",
           "Cellular structure",
@@ -37137,9 +37169,7 @@
           "Cell",
           "cell",
           "Cells",
-          "kilogram (qualifier value)",
           "Kilogram",
-          "kilogram",
           "Kilogram"
         ],
         "value": "kg"
@@ -37660,10 +37690,10 @@
       {
         "ncit_concept_code": "C64593",
         "synonyms": [
-          "Hour of Sleep",
           "Once a day, at bedtime",
           "Once a day, at bedtime (qualifier value)",
           "qHS",
+          "Hour of Sleep",
           "Hour Of Sleep"
         ],
         "value": "At bedtime"
@@ -38036,8 +38066,8 @@
       {
         "ncit_concept_code": "C64595",
         "synonyms": [
-          "QAM",
           "Every morning (qualifier value)",
+          "QAM",
           "Every Morning"
         ],
         "value": "Every morning"
@@ -138696,9 +138726,8 @@
         "value": "RB Transcriptional Corepressor 1"
       },
       {
-        "ncit_concept_code": "C9306",
+        "ncit_concept_code": "C3377",
         "synonyms": [
-          "Soft Tissue Neoplasm",
           "Soft tissue neoplasm",
           "Tumour of soft tissue",
           "Tumor of soft tissue",
@@ -138713,6 +138742,28 @@
           "Sarcoma of connective tissue",
           "Sarcoma of soft tissue",
           "Soft tissue sarcoma",
+          "Soft Tissue Neoplasm"
+        ],
+        "value": "Soft Tissue Sarcoma"
+      },
+      {
+        "ncit_concept_code": "C9306",
+        "synonyms": [
+          "Soft tissue neoplasm",
+          "Tumour of soft tissue",
+          "Tumor of soft tissue",
+          "Soft tissue tumour",
+          "Soft tissue tumor",
+          "Neoplasm of soft tissue (disorder)",
+          "Neoplasm of soft tissues",
+          "Neoplasm of soft tissue",
+          "Non-rhabdomyosarcoma soft-tissue sarcoma",
+          "Sarcoma of connective tissue (disorder)",
+          "Sarcoma of soft tissue (disorder)",
+          "Sarcoma of connective tissue",
+          "Sarcoma of soft tissue",
+          "Soft tissue sarcoma",
+          "Soft Tissue Neoplasm",
           "Soft Tissue Sarcoma"
         ],
         "value": "Soft Tissue Sarcoma"
@@ -147956,8 +148007,8 @@
       {
         "ncit_concept_code": "C149592",
         "synonyms": [
-          "Injection Method of Administration",
           "By injection",
+          "Injection Method of Administration",
           "Injection Method of Administration"
         ],
         "value": "Injection"
@@ -177705,14 +177756,17 @@
       {
         "ncit_concept_code": "C84445",
         "synonyms": [
+          "Metabolic dysfunction-associated steatohepatitis",
+          "MASH - metabolic dysfunction-associated steatohepatitis",
+          "Metabolic dysfunction-associated steatohepatitis (disorder)",
+          "Nonalcoholic steatohepatitis",
           "NASH",
           "Non-alcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis (disorder)",
           "Nonalcoholic steatohepatitis (NASH)",
           "NASH - Nonalcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis (disorder)",
           "non-alcoholic steatohepatitis",
           "nonalcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis",
           "Metabolic Dysfunction-Associated Steatohepatitis"
         ],
         "value": "Nonalcoholic Steatohepatitis"
@@ -177720,15 +177774,18 @@
       {
         "ncit_concept_code": "C84445",
         "synonyms": [
-          "Metabolic Dysfunction-Associated Steatohepatitis",
+          "Metabolic dysfunction-associated steatohepatitis",
+          "MASH - metabolic dysfunction-associated steatohepatitis",
+          "Metabolic dysfunction-associated steatohepatitis (disorder)",
+          "Nonalcoholic steatohepatitis",
           "NASH",
           "Non-alcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis (disorder)",
           "Nonalcoholic steatohepatitis (NASH)",
           "NASH - Nonalcoholic steatohepatitis",
+          "Metabolic Dysfunction-Associated Steatohepatitis",
+          "Nonalcoholic steatohepatitis (disorder)",
           "non-alcoholic steatohepatitis",
           "nonalcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis",
           "Nonalcoholic Steatohepatitis"
         ],
         "value": "Nonalcoholic Steatohepatitis"
@@ -183518,6 +183575,53 @@
         "value": "Other"
       },
       {
+        "ncit_concept_code": "C54734",
+        "synonyms": [
+          "Pre-Therapy"
+        ],
+        "value": "Pre-treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Post-treatment (immediately after LITT)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Within 72-hours post-LITT"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "2 months post-LITT"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "4 months post-LITT"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "6 months post-LITT"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "12 months post-LITT"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "18 months post-LITT"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "24 months post-LITT"
+      },
+      {
         "ncit_concept_code": "C38155",
         "synonyms": [
           "Recurrent disease (disorder)",
@@ -188942,6 +189046,14 @@
           "Medical Physicist"
         ],
         "value": "Medical Physicist"
+      },
+      {
+        "ncit_concept_code": "C17821",
+        "synonyms": [
+          "Oncologist (occupation)",
+          "Oncologist"
+        ],
+        "value": "Oncologist"
       },
       {
         "ncit_concept_code": null,
@@ -231179,8 +231291,8 @@
         "ncit_concept_code": "C48155",
         "synonyms": [
           "gram",
-          "Gram",
           "gram (qualifier value)",
+          "Gram",
           "Gram"
         ],
         "value": "g"
@@ -240587,8 +240699,8 @@
         "ncit_concept_code": "C48155",
         "synonyms": [
           "gram",
-          "Gram",
           "gram (qualifier value)",
+          "Gram",
           "Gram"
         ],
         "value": "g"
@@ -240953,8 +241065,8 @@
         "ncit_concept_code": "C48577",
         "synonyms": [
           "Imperial fluid ounce",
-          "Fluid Ounce British",
           "Imperial fluid ounce (qualifier value)",
+          "Fluid Ounce British",
           "Fluid Ounce British"
         ],
         "value": "foz_br"
@@ -245807,6 +245919,18 @@
         "ncit_concept_code": "C25301",
         "synonyms": [
           "Surgical procedure",
+          "Days",
+          "day (qualifier value)",
+          "d - day",
+          "days",
+          "Day",
+          "day",
+          "Weeks",
+          "wk",
+          "week (qualifier value)",
+          "weeks",
+          "Week",
+          "week",
           "Located in",
           "Has setting",
           "Has location",
@@ -245848,12 +245972,6 @@
           "Surgery (qualifier value)",
           "surgical procedure",
           "Surgical procedures",
-          "week",
-          "Week",
-          "weeks",
-          "week (qualifier value)",
-          "wk",
-          "Weeks",
           "12",
           "13",
           "Two",
@@ -245865,12 +245983,6 @@
           "Cyclical",
           "Cyclic",
           "Cyclic (qualifier value)",
-          "day",
-          "Day",
-          "days",
-          "d - day",
-          "day (qualifier value)",
-          "Days",
           "60",
           "Before",
           "before",
@@ -245927,6 +246039,8 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
+          "kilogram (qualifier value)",
+          "kilogram",
           "obsolete cell",
           "Cellular structures",
           "Cellular structure",
@@ -245938,9 +246052,7 @@
           "Cell",
           "cell",
           "Cells",
-          "kilogram (qualifier value)",
           "Kilogram",
-          "kilogram",
           "Kilogram"
         ],
         "value": "kg"
@@ -245949,7 +246061,18 @@
         "ncit_concept_code": "C29844",
         "synonyms": [
           "Surgical procedure",
+          "Days",
+          "day (qualifier value)",
+          "d - day",
+          "days",
           "Day",
+          "day",
+          "Weeks",
+          "wk",
+          "week (qualifier value)",
+          "weeks",
+          "Week",
+          "week",
           "Located in",
           "Has setting",
           "Has location",
@@ -245991,12 +246114,6 @@
           "Surgery (qualifier value)",
           "surgical procedure",
           "Surgical procedures",
-          "week",
-          "Week",
-          "weeks",
-          "week (qualifier value)",
-          "wk",
-          "Weeks",
           "12",
           "13",
           "Two",
@@ -246008,11 +246125,6 @@
           "Cyclical",
           "Cyclic",
           "Cyclic (qualifier value)",
-          "day",
-          "days",
-          "d - day",
-          "day (qualifier value)",
-          "Days",
           "60",
           "Before",
           "before",
@@ -247105,10 +247217,10 @@
       {
         "ncit_concept_code": "C64593",
         "synonyms": [
-          "Hour of Sleep",
           "Once a day, at bedtime",
           "Once a day, at bedtime (qualifier value)",
           "qHS",
+          "Hour of Sleep",
           "Hour Of Sleep"
         ],
         "value": "At Bedtime"
@@ -247125,8 +247237,8 @@
       {
         "ncit_concept_code": "C64595",
         "synonyms": [
-          "QAM",
           "Every morning (qualifier value)",
+          "QAM",
           "Every Morning"
         ],
         "value": "Every morning"
@@ -325831,6 +325943,49 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C3377",
+        "synonyms": [
+          "Soft tissue neoplasm",
+          "Tumour of soft tissue",
+          "Tumor of soft tissue",
+          "Soft tissue tumour",
+          "Soft tissue tumor",
+          "Neoplasm of soft tissue (disorder)",
+          "Neoplasm of soft tissues",
+          "Neoplasm of soft tissue",
+          "Non-rhabdomyosarcoma soft-tissue sarcoma",
+          "Sarcoma of connective tissue (disorder)",
+          "Sarcoma of soft tissue (disorder)",
+          "Sarcoma of connective tissue",
+          "Sarcoma of soft tissue",
+          "Soft tissue sarcoma",
+          "Soft Tissue Neoplasm"
+        ],
+        "value": "Soft Tissue Sarcoma"
+      },
+      {
+        "ncit_concept_code": "C9306",
+        "synonyms": [
+          "Soft tissue neoplasm",
+          "Tumour of soft tissue",
+          "Tumor of soft tissue",
+          "Soft tissue tumour",
+          "Soft tissue tumor",
+          "Neoplasm of soft tissue (disorder)",
+          "Neoplasm of soft tissues",
+          "Neoplasm of soft tissue",
+          "Non-rhabdomyosarcoma soft-tissue sarcoma",
+          "Sarcoma of connective tissue (disorder)",
+          "Sarcoma of soft tissue (disorder)",
+          "Sarcoma of connective tissue",
+          "Sarcoma of soft tissue",
+          "Soft tissue sarcoma",
+          "Soft Tissue Neoplasm",
+          "Soft Tissue Sarcoma"
+        ],
+        "value": "Soft Tissue Sarcoma"
+      },
+      {
         "ncit_concept_code": "C26915",
         "synonyms": [
           "Vitiligo vulgaris",
@@ -326596,28 +326751,6 @@
           "RB1 Gene"
         ],
         "value": "RB Transcriptional Corepressor 1"
-      },
-      {
-        "ncit_concept_code": "C9306",
-        "synonyms": [
-          "Soft Tissue Neoplasm",
-          "Soft tissue neoplasm",
-          "Tumour of soft tissue",
-          "Tumor of soft tissue",
-          "Soft tissue tumour",
-          "Soft tissue tumor",
-          "Neoplasm of soft tissue (disorder)",
-          "Neoplasm of soft tissues",
-          "Neoplasm of soft tissue",
-          "Non-rhabdomyosarcoma soft-tissue sarcoma",
-          "Sarcoma of connective tissue (disorder)",
-          "Sarcoma of soft tissue (disorder)",
-          "Sarcoma of connective tissue",
-          "Sarcoma of soft tissue",
-          "Soft tissue sarcoma",
-          "Soft Tissue Sarcoma"
-        ],
-        "value": "Soft Tissue Sarcoma"
       },
       {
         "ncit_concept_code": "C4815",
@@ -330556,6 +330689,14 @@
         "value": "Medical Physicist"
       },
       {
+        "ncit_concept_code": "C17821",
+        "synonyms": [
+          "Oncologist (occupation)",
+          "Oncologist"
+        ],
+        "value": "Oncologist"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Administrator or Manager"
@@ -331702,6 +331843,43 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C84445",
+        "synonyms": [
+          "Metabolic dysfunction-associated steatohepatitis",
+          "MASH - metabolic dysfunction-associated steatohepatitis",
+          "Metabolic dysfunction-associated steatohepatitis (disorder)",
+          "Nonalcoholic steatohepatitis",
+          "NASH",
+          "Non-alcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis (NASH)",
+          "NASH - Nonalcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis (disorder)",
+          "non-alcoholic steatohepatitis",
+          "nonalcoholic steatohepatitis",
+          "Metabolic Dysfunction-Associated Steatohepatitis"
+        ],
+        "value": "Nonalcoholic Steatohepatitis"
+      },
+      {
+        "ncit_concept_code": "C84445",
+        "synonyms": [
+          "Metabolic dysfunction-associated steatohepatitis",
+          "MASH - metabolic dysfunction-associated steatohepatitis",
+          "Metabolic dysfunction-associated steatohepatitis (disorder)",
+          "Nonalcoholic steatohepatitis",
+          "NASH",
+          "Non-alcoholic steatohepatitis",
+          "Nonalcoholic steatohepatitis (NASH)",
+          "NASH - Nonalcoholic steatohepatitis",
+          "Metabolic Dysfunction-Associated Steatohepatitis",
+          "Nonalcoholic steatohepatitis (disorder)",
+          "non-alcoholic steatohepatitis",
+          "nonalcoholic steatohepatitis",
+          "Nonalcoholic Steatohepatitis"
+        ],
+        "value": "Nonalcoholic Steatohepatitis"
+      },
       {
         "ncit_concept_code": "C26800",
         "synonyms": [
@@ -333095,37 +333273,6 @@
           "Obesity"
         ],
         "value": "Obesity"
-      },
-      {
-        "ncit_concept_code": "C84445",
-        "synonyms": [
-          "NASH",
-          "Non-alcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis (disorder)",
-          "Nonalcoholic steatohepatitis (NASH)",
-          "NASH - Nonalcoholic steatohepatitis",
-          "non-alcoholic steatohepatitis",
-          "nonalcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis",
-          "Metabolic Dysfunction-Associated Steatohepatitis"
-        ],
-        "value": "Nonalcoholic Steatohepatitis"
-      },
-      {
-        "ncit_concept_code": "C84445",
-        "synonyms": [
-          "Metabolic Dysfunction-Associated Steatohepatitis",
-          "NASH",
-          "Non-alcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis (disorder)",
-          "Nonalcoholic steatohepatitis (NASH)",
-          "NASH - Nonalcoholic steatohepatitis",
-          "non-alcoholic steatohepatitis",
-          "nonalcoholic steatohepatitis",
-          "Nonalcoholic steatohepatitis",
-          "Nonalcoholic Steatohepatitis"
-        ],
-        "value": "Nonalcoholic Steatohepatitis"
       },
       {
         "ncit_concept_code": "C27996",
