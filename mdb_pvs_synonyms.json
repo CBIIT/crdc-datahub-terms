@@ -40054,10 +40054,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -125000,10 +125001,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -125223,10 +125225,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -126813,6 +126816,9 @@
         "ncit_concept_code": "C25472",
         "synonyms": [
           "Malignant neoplasm (morphologic abnormality)",
+          "Cyclical",
+          "Cyclic",
+          "Cyclic (qualifier value)",
           "Prescription",
           "One",
           "Four",
@@ -126860,9 +126866,6 @@
           "Malignancy",
           "Malignant neoplasm morphology",
           "Malignant neoplasm",
-          "Cyclical",
-          "Cyclic",
-          "Cyclic (qualifier value)",
           "Before",
           "before",
           "Before (attribute)",
@@ -127015,6 +127018,8 @@
       {
         "ncit_concept_code": "C25488",
         "synonyms": [
+          "Dosage (attribute)",
+          "Dosage",
           "Prior",
           "Prior to",
           "Preceding",
@@ -127037,8 +127042,6 @@
           "Status post",
           "Visits",
           "Prescription",
-          "Dosage (attribute)",
-          "Dosage",
           "Dose"
         ],
         "value": "Dose"
@@ -127156,19 +127159,19 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
-          "kilogram (qualifier value)",
-          "kilogram",
+          "Cell structure",
+          "Cell",
           "obsolete cell",
           "Cellular structures",
           "Cellular structure",
-          "Cell structure",
-          "set of cells",
           "Normal cell",
           "Cell structure (cell structure)",
           "Normal cell (cell)",
-          "Cell",
-          "cell",
           "Cells",
+          "kilogram (qualifier value)",
+          "kilogram",
+          "set of cells",
+          "cell",
           "Kilogram",
           "Kilogram"
         ],
@@ -129887,6 +129890,17 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C48519",
+        "synonyms": [
+          "ounces (qualifier value)",
+          "ounces",
+          "ounce",
+          "Ounce",
+          "Ounce"
+        ],
+        "value": "oz"
+      },
       {
         "ncit_concept_code": "C64693",
         "synonyms": [
@@ -145189,10 +145203,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -213158,10 +213173,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -253226,10 +253242,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -262919,19 +262936,19 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
-          "kilogram (qualifier value)",
-          "kilogram",
+          "Cell structure",
+          "Cell",
           "obsolete cell",
           "Cellular structures",
           "Cellular structure",
-          "Cell structure",
-          "set of cells",
           "Normal cell",
           "Cell structure (cell structure)",
           "Normal cell (cell)",
-          "Cell",
-          "cell",
           "Cells",
+          "kilogram (qualifier value)",
+          "kilogram",
+          "set of cells",
+          "cell",
           "Kilogram",
           "Kilogram"
         ],
@@ -309657,10 +309674,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
