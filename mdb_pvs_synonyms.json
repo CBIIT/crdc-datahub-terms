@@ -176,6 +176,11 @@
       {
         "property": "program.program_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "program.program_name",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -230,6 +235,11 @@
         "property": "program.program_name",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "program.program_name",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "program.program_name",
@@ -340,6 +350,11 @@
       {
         "property": "program.program_short_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "program.program_short_name",
+        "model": "CTDC",
         "version": "1.3.0"
       },
       {
@@ -394,6 +409,11 @@
         "property": "program.program_short_name",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "program.program_short_name",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "program.program_short_name",
@@ -1156,6 +1176,11 @@
       {
         "property": "principal_investigator.person_orcid",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "principal_investigator.person_orcid",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -1489,6 +1514,11 @@
       {
         "property": "study.study_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "study.study_name",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -1543,6 +1573,11 @@
         "property": "study.study_name",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "study.study_name",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "study.study_name",
@@ -1992,6 +2027,11 @@
       {
         "property": "study.study_short_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "study.study_short_name",
+        "model": "CTDC",
         "version": "1.3.0"
       },
       {
@@ -2046,6 +2086,11 @@
         "property": "study.study_short_name",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "study.study_short_name",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "study.study_short_name",
@@ -2108,6 +2153,11 @@
       {
         "property": "study.study_id",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "study.study_id",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -2166,6 +2216,11 @@
       {
         "property": "study.study_description",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "study.study_description",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -2220,6 +2275,11 @@
         "property": "study.study_type",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "study.study_type",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "study.study_type",
@@ -3906,6 +3966,34 @@
     ]
   },
   {
+    "CDECode": "11524544",
+    "CDEVersion": "1",
+    "CDEFullName": "Research Activity dbGaP Accession Number Identifier",
+    "models": [
+      {
+        "property": "study.study_accession",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "study.dbGap_study_accession",
+        "model": "CRDCSearch",
+        "version": "0.1.0"
+      },
+      {
+        "property": "study.study_accession",
+        "model": "CTDC",
+        "version": "1.14.0"
+      },
+      {
+        "property": "study.dbGap_study_accession",
+        "model": "CRDCSubmission",
+        "version": "0.2.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
     "CDECode": "14822135",
     "CDEVersion": "1",
     "CDEFullName": "Data Record Link Unique Identifier",
@@ -3919,6 +4007,16 @@
         "property": "image_collection.image_collection_record_id",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "associated_link.associated_link_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "image_collection.image_collection_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "demographic.demographic_record_id",
@@ -3936,14 +4034,29 @@
         "version": "1.7.0"
       },
       {
+        "property": "demographic.demographic_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "targeted_therapy.targeted_therapy_record_id",
         "model": "CTDC",
         "version": "1.7.0"
       },
       {
+        "property": "exposure.exposure_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "non_targeted_therapy.non_targeted_therapy_record_id",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "surgery.surgical_procedure_record_id",
@@ -3959,6 +4072,31 @@
         "property": "participant_status.participant_status_record_id",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.radiological_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "participant_status.participant_status_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "associated_link.associated_link_record_id",
@@ -4399,6 +4537,16 @@
         "version": "1.7.0"
       },
       {
+        "property": "associated_link.associated_link_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "image_collection.image_collection_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "demographic.demographic_record_id",
         "model": "CTDC",
         "version": "1.7.0"
@@ -4414,14 +4562,29 @@
         "version": "1.7.0"
       },
       {
+        "property": "demographic.demographic_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "targeted_therapy.targeted_therapy_record_id",
         "model": "CTDC",
         "version": "1.7.0"
       },
       {
+        "property": "exposure.exposure_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "non_targeted_therapy.non_targeted_therapy_record_id",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "surgery.surgical_procedure_record_id",
@@ -4437,6 +4600,31 @@
         "property": "participant_status.participant_status_record_id",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.radiological_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "participant_status.participant_status_record_id",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "targeted_therapy.targeted_therapy_record_id",
@@ -4784,6 +4972,11 @@
       {
         "property": "associated_link.associated_link_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "associated_link.associated_link_name",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -4838,6 +5031,11 @@
         "property": "associated_link.associated_link_url",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "associated_link.associated_link_url",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "associated_link.associated_link_url",
@@ -4900,6 +5098,11 @@
       {
         "property": "image_collection.image_collection_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "image_collection.image_collection_name",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -4958,6 +5161,11 @@
       {
         "property": "image_collection.image_type_included",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "image_collection.image_type_included",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -5005,12 +5213,13 @@
       {
         "ncit_concept_code": "C16818",
         "synonyms": [
-          "mammo",
+          "Diagnostic mammogram",
           "Mammography (procedure)",
           "Mammogram",
+          "Mammography",
+          "mammo",
           "Radiographic examination of breast",
           "mammography",
-          "Mammography",
           "Mammography"
         ],
         "value": "MG"
@@ -5019,7 +5228,6 @@
         "ncit_concept_code": "C62667",
         "synonyms": [
           "Scintigraphy NOS",
-          "scintigraphy",
           "Scintigraphy",
           "Scan NOS",
           "Scan",
@@ -5027,10 +5235,11 @@
           "Radionuclide scanning",
           "Radioisotope scan NOS",
           "Radioisotope scan",
-          "Nuclear medicine",
           "Isotope scan",
           "Nuclear medicine imaging procedure (procedure)",
           "Nuclear medicine imaging procedure",
+          "scintigraphy",
+          "Nuclear medicine",
           "Radionuclide Imaging"
         ],
         "value": "NM"
@@ -5240,10 +5449,10 @@
         "ncit_concept_code": "C190539",
         "synonyms": [
           "Electro-oculography",
-          "Electro-oculogram",
           "Electro-oculogram examination (procedure)",
           "Electro-oculogram examination",
           "EOG - Electro-oculography",
+          "Electro-oculogram",
           "Electro-oculogram [EOG]",
           "Electrooculography"
         ],
@@ -5330,6 +5539,19 @@
         "ncit_concept_code": "C16809",
         "synonyms": [
           "After values",
+          "Magnetic resonance imaging",
+          "Nuclear magnetic resonance imaging",
+          "NMR",
+          "MRI",
+          "MRI scan",
+          "Magnetic resonance imaging - action",
+          "Magnetic resonance technique",
+          "Magnetic resonance study",
+          "NMR - Nuclear magnetic resonance",
+          "MR - Magnetic resonance",
+          "Magnetic resonance imaging (procedure)",
+          "MRI - Magnetic resonance imaging",
+          "Magnetic resonance imaging - action (qualifier value)",
           "Unclassified malignant tumour",
           "Unclassified malignant tumor",
           "Cancer",
@@ -5365,20 +5587,7 @@
           "Status post (contextual qualifier) (qualifier value)",
           "Condition following",
           "magnetic resonance imaging",
-          "Magnetic resonance imaging",
-          "Magnetic resonance imaging - action (qualifier value)",
-          "MRI - Magnetic resonance imaging",
-          "Magnetic resonance imaging (procedure)",
-          "MR - Magnetic resonance",
-          "NMR - Nuclear magnetic resonance",
-          "Magnetic resonance study",
-          "Magnetic resonance technique",
-          "MRI",
           "MR imaging",
-          "Magnetic resonance imaging - action",
-          "MRI scan",
-          "NMR",
-          "Nuclear magnetic resonance imaging",
           "2nd",
           "Second - ordinal",
           "Second (qualifier value)",
@@ -5420,13 +5629,13 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
+          "Other",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -5472,10 +5681,10 @@
         "ncit_concept_code": "C17007",
         "synonyms": [
           "PET scan",
-          "PET",
           "PET Scans",
           "Positron emission tomographic imaging - action",
           "PET/CT scan",
+          "PET",
           "PET imaging",
           "Positron emission tomogram",
           "Positron emission tomography (procedure)",
@@ -5509,16 +5718,16 @@
         "ncit_concept_code": "C16588",
         "synonyms": [
           "Fluoroscopy",
-          "radiography-fluoroscopy",
-          "radio-fluoro",
-          "radiofluoroscopy",
           "Fluoroscopic imaging - action",
-          "fluoro",
           "Fluoroscopy technique",
           "Fluoroscopy (procedure)",
           "Fluoroscopic imaging",
-          "FL",
           "Fluoroscopic imaging - action (qualifier value)",
+          "radiography-fluoroscopy",
+          "radio-fluoro",
+          "radiofluoroscopy",
+          "fluoro",
+          "FL",
           "fluoroscopy",
           "Fluoroscopy"
         ],
@@ -5527,6 +5736,8 @@
       {
         "ncit_concept_code": "C38101",
         "synonyms": [
+          "Diagnostic radiography",
+          "Diagnostic imaging procedure using X-rays",
           "projection radiography",
           "general radiography",
           "xray",
@@ -5534,8 +5745,6 @@
           "x-ray",
           "radiography",
           "Diagnostic Radiology",
-          "Diagnostic radiography",
-          "Diagnostic imaging procedure using X-rays",
           "X-Ray Imaging"
         ],
         "value": "RG"
@@ -5543,8 +5752,8 @@
       {
         "ncit_concept_code": "C190594",
         "synonyms": [
-          "radiation dose",
           "Radiation dose",
+          "radiation dose",
           "Radiation Dose"
         ],
         "value": "RTDOSE"
@@ -5605,8 +5814,8 @@
           "Single photon emission computerised tomography",
           "Single photon emission computed tomography",
           "Single photon emission computerized tomography",
-          "SPECT",
           "Single photon emission computed tomography - action",
+          "SPECT",
           "Single photon emission computerized tomogram",
           "Single photon emission computerised tomogram",
           "SPET - Single photon emission computed tomography",
@@ -5692,20 +5901,20 @@
           "US - ultrasound",
           "Echotomography",
           "Ultrasounds",
-          "ultrasound",
           "Ultrasound",
           "Ultrasonogram",
-          "sonography",
           "Sonogram",
           "Ultrasound scan NOS",
           "Ultrasound scan",
           "Ultrasound procedure",
           "General ultrasound",
           "GEN.US",
-          "echography",
           "Diagnostic ultrasound",
-          "ultrasonography",
           "Ultrasonography",
+          "ultrasound",
+          "sonography",
+          "echography",
+          "ultrasonography",
           "Ultrasound Imaging"
         ],
         "value": "US"
@@ -5718,16 +5927,16 @@
       {
         "ncit_concept_code": "C20080",
         "synonyms": [
-          "x-ray angiography",
-          "angio",
           "Angiography (procedure)",
           "Diagnostic angiography",
           "Angiograph",
           "Diagnostic angiogram",
           "Angiogram NOS",
           "Angiogram",
-          "angiography",
           "Angiography",
+          "x-ray angiography",
+          "angio",
+          "angiography",
           "X-ray Angiography"
         ],
         "value": "XA"
@@ -5751,9 +5960,9 @@
       {
         "ncit_concept_code": "C17204",
         "synonyms": [
+          "Computerised axial tomography",
           "Computed tomography (procedure)",
           "Computed tomography",
-          "Computerised axial tomography",
           "Computerized axial tomography",
           "CT scan",
           "CAT Scans",
@@ -5770,19 +5979,19 @@
           "Computerized tomograph scan",
           "CT - Computerised tomography",
           "CT - Computerized tomography",
-          "computed tomography",
           "CAT scan",
           "CAT",
           "Computerized transverse axial tomography",
           "Computerised transverse axial tomography",
-          "Computerized transverse axial tomogram",
-          "Computerised transverse axial tomogram",
-          "Computerized axial tomogram",
-          "Computerised axial tomogram",
-          "Computed axial tomography",
-          "CAT - Computerised axial tomography",
-          "CAT - Computerized axial tomography",
           "Computer-assisted transaxial tomography",
+          "CAT - Computerized axial tomography",
+          "CAT - Computerised axial tomography",
+          "Computed axial tomography",
+          "Computerised axial tomogram",
+          "Computerized axial tomogram",
+          "Computerised transverse axial tomogram",
+          "Computerized transverse axial tomogram",
+          "computed tomography",
           "Computed Tomography"
         ],
         "value": "CT"
@@ -5794,8 +6003,8 @@
           "Duplex ultrasound",
           "Duplex ultrasonography",
           "Duplex ultrasonography (procedure)",
-          "duplex ultrasound",
           "Duplex ultrasound (qualifier value)",
+          "duplex ultrasound",
           "Duplex Ultrasound"
         ],
         "value": "DD"
@@ -5842,19 +6051,19 @@
         "synonyms": [
           "Ultrasound of heart",
           "Echocardiogram",
-          "echo imaging",
-          "Dx ultrasound-heart",
           "Ultrasonography of heart",
           "US scan of heart",
           "US heart scan",
           "Echocardiography (procedure)",
           "Echocardiographic procedure",
-          "echocardiogram",
-          "Diagnostic ultrasound of heart",
           "Cardiac US scan",
           "Cardiac echo",
-          "echocardiography",
           "Echocardiography",
+          "echo imaging",
+          "Dx ultrasound-heart",
+          "echocardiogram",
+          "Diagnostic ultrasound of heart",
+          "echocardiography",
           "Echocardiography Test"
         ],
         "value": "EC"
@@ -5863,11 +6072,11 @@
         "ncit_concept_code": "C80414",
         "synonyms": [
           "Cardiac electrophysiology study",
-          "Cath base invasv ep test",
-          "Catheter based invasive electrophysiologic testing",
           "Cardiac electrophysiologic study",
           "Cardiac electrophysiologic stimulation and recording study (procedure)",
           "Cardiac electrophysiologic stimulation and recording study",
+          "Cath base invasv ep test",
+          "Catheter based invasive electrophysiologic testing",
           "Cardiac Electrophysiology Study"
         ],
         "value": "EPS"
@@ -5878,11 +6087,11 @@
           "Inspection using endoscope",
           "Endoscopy, NOS",
           "Endoscopy NOS",
-          "endoscopy",
           "Endoscopy",
-          "endoscopic",
           "Endoscopy procedure",
           "Endoscopy (procedure)",
+          "endoscopy",
+          "endoscopic",
           "Endoscopic Procedure"
         ],
         "value": "ES"
@@ -5964,12 +6173,12 @@
         "ncit_concept_code": "C16969",
         "synonyms": [
           "Laparoscopy (procedure)",
-          "laparoscopic",
           "Coelioscopy",
           "Celioscopy",
+          "Laparoscopy",
+          "laparoscopic",
           "Abdomen endoscopy (procedure)",
           "Abdomen endoscopy",
-          "Laparoscopy",
           "Laparoscopy"
         ],
         "value": "LP"
@@ -6001,9 +6210,19 @@
         "version": "1.7.0"
       },
       {
+        "property": "image_collection.image_collection_url",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "data_file.data_file_location",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_location",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "image_collection.image_collection_url",
@@ -6111,6 +6330,11 @@
       {
         "property": "image_collection.repository_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "image_collection.repository_name",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -6165,6 +6389,11 @@
         "property": "image_collection.collection_access",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "image_collection.collection_access",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "image_collection.collection_access",
@@ -6249,6 +6478,11 @@
       {
         "property": "participant.participant_id",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "participant.participant_id",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -6303,6 +6537,11 @@
         "property": "participant.biomarker_results_available",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "participant.biomarker_results_available",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "participant.biomarker_results_available",
@@ -6608,6 +6847,11 @@
       {
         "property": "participant.radiology_report_available",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "participant.radiology_report_available",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -6692,6 +6936,11 @@
         "property": "participant.radiology_images_available",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "participant.radiology_images_available",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "participant.radiology_images_available",
@@ -7119,6 +7368,11 @@
         "property": "participant.histology_images_available",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "participant.histology_images_available",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "participant.histology_images_available",
@@ -7882,6 +8136,11 @@
       {
         "property": "demographic.age_at_enrollment",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "demographic.age_at_enrollment",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -8139,6 +8398,11 @@
       {
         "property": "demographic.ethnicity",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "demographic.ethnicity",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -8239,6 +8503,11 @@
         "property": "demographic.ethnicity",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "demographic.ethnicity",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "demographic.ethnicity",
@@ -8619,6 +8888,11 @@
       {
         "property": "demographic.sex",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "demographic.sex",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -8757,6 +9031,11 @@
         "property": "demographic.sex",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "demographic.sex",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "demographic.sex",
@@ -9513,6 +9792,11 @@
       {
         "property": "demographic.height",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "demographic.height",
+        "model": "CTDC",
         "version": "1.3.0"
       },
       {
@@ -9552,6 +9836,11 @@
         "property": "demographic.weight",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "demographic.weight",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "demographic.weight",
@@ -9605,6 +9894,11 @@
         "property": "demographic.weight",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "demographic.weight",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "demographic.weight",
@@ -9667,6 +9961,11 @@
       {
         "property": "demographic.body_surface_area",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "demographic.body_surface_area",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -9721,6 +10020,11 @@
         "property": "demographic.income",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "demographic.income",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "demographic.income",
@@ -9937,6 +10241,11 @@
         "property": "demographic.ncbi_taxonomy_id",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "demographic.ncbi_taxonomy_id",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "demographic.ncbi_taxonomy_id",
@@ -10223,6 +10532,11 @@
       {
         "property": "demographic.ncbi_taxonomy_name",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "demographic.ncbi_taxonomy_name",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -10264,6 +10578,89 @@
         "property": "demographic.ncbi_taxonomy_name",
         "model": "CTDC",
         "version": "1.1.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
+    "CDECode": "TBD",
+    "CDEVersion": "1.00",
+    "CDEFullName": "Study Consent Group Identifier",
+    "models": [
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "3.2.2"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "3.2.3"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "CDS",
+        "version": "9.0.0"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "3.2.1"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "4.0.0"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "4.0.5"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "4.0.3"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "4.0.4"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "4.0.1"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "C3DC",
+        "version": "4.0.2"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "CTDC",
+        "version": "1.14.0"
       }
     ],
     "permissibleValues": []
@@ -30273,6 +30670,99 @@
     ]
   },
   {
+    "CDECode": "14534329",
+    "CDEVersion": "1.00",
+    "CDEFullName": "Research Activity dbGaP Consent Group Text",
+    "models": [
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "study.consent",
+        "model": "CCDI",
+        "version": "2.0.0"
+      },
+      {
+        "property": "study.consent",
+        "model": "CCDI",
+        "version": "2.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "3.2.2"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "3.2.3"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "CDS",
+        "version": "9.0.0"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "3.2.1"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "4.0.0"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "4.0.5"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "4.0.3"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "4.0.4"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "4.0.1"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "C3DC",
+        "version": "4.0.2"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
     "CDECode": "11256813",
     "CDEVersion": "1",
     "CDEFullName": "Environmental Exposure Type",
@@ -30281,6 +30771,11 @@
         "property": "exposure.environmental_exposure_type",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "exposure.environmental_exposure_type",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "exposure.environmental_exposure_type",
@@ -30340,11 +30835,11 @@
         "ncit_concept_code": "C61398",
         "synonyms": [
           "Exposure to radiation (event)",
+          "Radiation exposure",
+          "Exposure to radiation",
           "Exposure to unspecified type of radiation",
           "Exposure to unspecified radiation",
           "Radiation exposure NOS",
-          "Radiation exposure",
-          "Exposure to radiation",
           "Radiation Exposure"
         ],
         "value": "Radiation Exposure"
@@ -30414,6 +30909,237 @@
     ]
   },
   {
+    "CDECode": "14534330",
+    "CDEVersion": "1.00",
+    "CDEFullName": "Research Activity dbGaP Consent Group Number",
+    "models": [
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "study.consent_number",
+        "model": "CCDI",
+        "version": "2.0.0"
+      },
+      {
+        "property": "study.consent_number",
+        "model": "CCDI",
+        "version": "2.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "3.2.2"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "3.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "3.2.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "3.2.3"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "CCDI",
+        "version": "3.1.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "CDS",
+        "version": "9.0.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "3.2.1"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "4.0.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "4.0.5"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "4.0.3"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "4.0.4"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "4.0.1"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "C3DC",
+        "version": "4.0.2"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": [
+      {
+        "ncit_concept_code": "C66832",
+        "synonyms": [
+          "Cyclic (qualifier value)",
+          "One",
+          "Four",
+          "Two",
+          "Months",
+          "month (qualifier value)",
+          "months",
+          "month",
+          "Status post (contextual qualifier)",
+          "SP",
+          "post",
+          "Post",
+          "Following",
+          "Status post (contextual qualifier) (qualifier value)",
+          "Condition following",
+          "After values",
+          "After values (qualifier value)",
+          "After (attribute)",
+          "after",
+          "After",
+          "Status post",
+          "Cyclical",
+          "Cyclic",
+          "day",
+          "Day",
+          "days",
+          "d - day",
+          "day (qualifier value)",
+          "Days",
+          "week",
+          "Week",
+          "weeks",
+          "week (qualifier value)",
+          "wk",
+          "Weeks",
+          "Before",
+          "before",
+          "Before (attribute)",
+          "pre",
+          "Preceding",
+          "Prior to",
+          "Prior",
+          "H&P.SURG PROC",
+          "Operation",
+          "Operation NOS",
+          "Operative procedure",
+          "Surgical procedure (procedure)",
+          "Surgery procedure",
+          "Surgical procedure",
+          "Surgical procedures",
+          "surgical procedure",
+          "Surgery (qualifier value)",
+          "Surgical (qualifier value)",
+          "Surgery",
+          "surgery",
+          "Surgery, NOS",
+          "Surgical",
+          "SURG",
+          "One"
+        ],
+        "value": "1"
+      },
+      {
+        "ncit_concept_code": "C66833",
+        "synonyms": [
+          "Two",
+          "Two"
+        ],
+        "value": "2"
+      },
+      {
+        "ncit_concept_code": "C66834",
+        "synonyms": [
+          "Three"
+        ],
+        "value": "3"
+      },
+      {
+        "ncit_concept_code": "C66835",
+        "synonyms": [
+          "Four",
+          "Four"
+        ],
+        "value": "4"
+      },
+      {
+        "ncit_concept_code": "C66836",
+        "synonyms": [
+          "Five"
+        ],
+        "value": "5"
+      },
+      {
+        "ncit_concept_code": "C66837",
+        "synonyms": [
+          "Six"
+        ],
+        "value": "6"
+      },
+      {
+        "ncit_concept_code": "C66838",
+        "synonyms": [
+          "Seven"
+        ],
+        "value": "7"
+      },
+      {
+        "ncit_concept_code": "C66839",
+        "synonyms": [
+          "Eight"
+        ],
+        "value": "8"
+      },
+      {
+        "ncit_concept_code": "C66840",
+        "synonyms": [
+          "Nine"
+        ],
+        "value": "9"
+      },
+      {
+        "ncit_concept_code": "C69122",
+        "synonyms": [
+          "Ten"
+        ],
+        "value": "10"
+      },
+      {
+        "ncit_concept_code": "C70430",
+        "synonyms": [
+          "Zero"
+        ],
+        "value": "0"
+      }
+    ]
+  },
+  {
     "CDECode": "5205578",
     "CDEVersion": "3",
     "CDEFullName": "Carcinogen Exposure Indicator",
@@ -30422,6 +31148,11 @@
         "property": "exposure.carcinogen_exposure",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "exposure.carcinogen_exposure",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "exposure.carcinogen_exposure",
@@ -30495,6 +31226,42 @@
     ]
   },
   {
+    "CDECode": "15915370",
+    "CDEVersion": "1",
+    "CDEFullName": "Study Administration Publication Identification DOI Text",
+    "models": [
+      {
+        "property": "publication.digital_object_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "publication.digital_object_id",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
+    "CDECode": "15915377",
+    "CDEVersion": "1",
+    "CDEFullName": "Study Administration Publication Identification PubMed ID Text",
+    "models": [
+      {
+        "property": "publication.pubmed_id",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "publication.pubmed_id",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
     "CDECode": "14905532",
     "CDEVersion": "1",
     "CDEFullName": "Disease Primary Diagnosis NCI Thesaurus Name",
@@ -30503,6 +31270,11 @@
         "property": "diagnosis.primary_diagnosis_disease_group",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "diagnosis.primary_diagnosis_disease_group",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "diagnosis.primary_diagnosis_disease_group",
@@ -30632,6 +31404,11 @@
         "property": "diagnosis.primary_diagnosis_disease_group",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "diagnosis.primary_diagnosis_disease_group",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "diagnosis.primary_diagnosis_disease_group",
@@ -30756,6 +31533,60 @@
         "value": "https://cadsr.cancer.gov/onedata/dmdirect/NIH/NCI/CO/CDEDD?filter=CDEDD.ITEM_ID=14905532%20and%20ver_nr=1"
       }
     ]
+  },
+  {
+    "CDECode": "16078531",
+    "CDEVersion": "1",
+    "CDEFullName": "Study Administration Publication Identification Title Text",
+    "models": [
+      {
+        "property": "publication.publication_title",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "publication.publication_title",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
+    "CDECode": "16081468",
+    "CDEVersion": "1",
+    "CDEFullName": "Study Administration Publication Identification Citation Author List Text",
+    "models": [
+      {
+        "property": "publication.authorship",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "publication.authorship",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
+    "CDECode": "16081475",
+    "CDEVersion": "1",
+    "CDEFullName": "Study Administration Publication Identification Year Date",
+    "models": [
+      {
+        "property": "publication.year_of_publication",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "publication.year_of_publication",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
   },
   {
     "CDECode": "4723846",
@@ -34523,6 +35354,24 @@
     ]
   },
   {
+    "CDECode": "16081476",
+    "CDEVersion": "1",
+    "CDEFullName": "Study Administration Publication Identification Journal Citation Text",
+    "models": [
+      {
+        "property": "publication.journal_citation",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "publication.journal_citation",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
     "CDECode": "6642369",
     "CDEVersion": "1",
     "CDEFullName": "Data Element Name",
@@ -34613,6 +35462,11 @@
       {
         "property": "diagnosis.primary_disease_site",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "diagnosis.primary_disease_site",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -34667,6 +35521,11 @@
         "property": "diagnosis.histology",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "diagnosis.histology",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "diagnosis.histology",
@@ -34729,6 +35588,11 @@
       {
         "property": "diagnosis.histological_subtype",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "diagnosis.histological_subtype",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -34783,6 +35647,11 @@
         "property": "diagnosis.stage_of_disease",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "diagnosis.stage_of_disease",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "diagnosis.stage_of_disease",
@@ -35060,6 +35929,11 @@
       {
         "property": "diagnosis.tumor_grade",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -35127,6 +36001,7 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
           "American Joint Committee on Cancer grade GB",
@@ -35184,10 +36059,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -35196,6 +36072,7 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
           "American Joint Committee on Cancer grade GX",
@@ -35252,6 +36129,11 @@
         "property": "diagnosis.tumor_grade",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "diagnosis.tumor_grade",
@@ -35318,6 +36200,7 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
           "American Joint Committee on Cancer grade GB",
@@ -35375,10 +36258,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -35387,6 +36271,7 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
           "American Joint Committee on Cancer grade GX",
@@ -35448,6 +36333,16 @@
         "property": "non_targeted_therapy.non_targeted_therapy",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "targeted_therapy.targeted_therapy",
@@ -35560,6 +36455,16 @@
       {
         "property": "targeted_therapy.targeted_therapy_dose",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_dose",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_dose",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -35664,6 +36569,16 @@
         "property": "non_targeted_therapy.non_targeted_therapy_dose_units",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_dose_units",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_dose_units",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "targeted_therapy.targeted_therapy_dose_units",
@@ -35822,12 +36737,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -36814,6 +37729,9 @@
         "ncit_concept_code": "C25472",
         "synonyms": [
           "Malignant neoplasm (morphologic abnormality)",
+          "Cyclical",
+          "Cyclic",
+          "Cyclic (qualifier value)",
           "One",
           "Four",
           "Months",
@@ -36860,9 +37778,6 @@
           "Malignancy",
           "Malignant neoplasm morphology",
           "Malignant neoplasm",
-          "Cyclical",
-          "Cyclic",
-          "Cyclic (qualifier value)",
           "Before",
           "before",
           "Before (attribute)",
@@ -37015,6 +37930,8 @@
       {
         "ncit_concept_code": "C25488",
         "synonyms": [
+          "Dosage (attribute)",
+          "Dosage",
           "Prior",
           "Prior to",
           "Preceding",
@@ -37037,8 +37954,6 @@
           "Status post",
           "Visits",
           "Prescription",
-          "Dosage (attribute)",
-          "Dosage",
           "Dose"
         ],
         "value": "Dose"
@@ -37156,19 +38071,19 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
-          "kilogram (qualifier value)",
-          "kilogram",
+          "Cell structure",
+          "Cell",
           "obsolete cell",
           "Cellular structures",
           "Cellular structure",
-          "Cell structure",
-          "set of cells",
           "Normal cell",
           "Cell structure (cell structure)",
           "Normal cell (cell)",
-          "Cell",
-          "cell",
           "Cells",
+          "kilogram (qualifier value)",
+          "kilogram",
+          "set of cells",
+          "cell",
           "Kilogram",
           "Kilogram"
         ],
@@ -37877,12 +38792,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -38217,6 +39132,21 @@
       {
         "property": "targeted_therapy.targeted_therapy_start_date",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_start_date",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.radiotherapy_start_date",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_start_date",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -38375,6 +39305,21 @@
       {
         "property": "targeted_therapy.targeted_therapy_end_date",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_end_date",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.radiotherapy_end_date",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_end_date",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -38499,6 +39444,21 @@
         "property": "radiotherapy.radiotherapy_end_date",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_end_date",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_end_date",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.radiotherapy_end_date",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "non_targeted_therapy.non_targeted_therapy_end_date",
@@ -38642,6 +39602,16 @@
         "property": "radiotherapy.best_response_to_radiotherapy",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "targeted_therapy.best_response_to_targeted_therapy",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.best_response_to_radiotherapy",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "targeted_therapy.best_response_to_targeted_therapy",
@@ -38861,6 +39831,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -38874,7 +39845,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progressive Disease"
@@ -38910,6 +39880,11 @@
         "property": "surgery.surgical_procedure_anatomical_location",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_anatomical_location",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "surgery.surgical_procedure_anatomical_location",
@@ -38968,6 +39943,11 @@
         "property": "surgery.surgical_procedure_therapeutic",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_therapeutic",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "surgery.surgical_procedure_therapeutic",
@@ -39087,6 +40067,11 @@
       {
         "property": "surgery.surgical_procedure_findings",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_findings",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -39141,6 +40126,11 @@
         "property": "surgery.extent_of_residual_disease",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "surgery.extent_of_residual_disease",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "surgery.extent_of_residual_disease",
@@ -39203,6 +40193,11 @@
       {
         "property": "radiotherapy.radiological_procedure",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.radiological_procedure",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -39257,6 +40252,11 @@
         "property": "radiotherapy.radiation_dose",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "radiotherapy.radiation_dose",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "radiotherapy.radiation_dose",
@@ -39319,6 +40319,11 @@
       {
         "property": "radiotherapy.radiation_dose_units",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "radiotherapy.radiation_dose_units",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -39363,6 +40368,17 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C48519",
+        "synonyms": [
+          "ounces (qualifier value)",
+          "ounces",
+          "ounce",
+          "Ounce",
+          "Ounce"
+        ],
+        "value": "oz"
+      },
       {
         "ncit_concept_code": "C64693",
         "synonyms": [
@@ -39509,6 +40525,11 @@
         "property": "radiotherapy.radiation_frequency",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "radiotherapy.radiation_frequency",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "radiotherapy.radiation_frequency",
@@ -40816,6 +41837,11 @@
       {
         "property": "participant_status.off_study",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "participant_status.off_study",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -40972,12 +41998,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -41227,6 +42253,11 @@
       {
         "property": "specimen.specimen_record_id",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "specimen.specimen_record_id",
+        "model": "CTDC",
         "version": "1.2.0"
       },
       {
@@ -41281,6 +42312,11 @@
         "property": "specimen.specimen_type",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "specimen.specimen_type",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "specimen.specimen_type",
@@ -41419,6 +42455,11 @@
       {
         "property": "specimen.anatomical_collection_site",
         "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "specimen.anatomical_collection_site",
+        "model": "CTDC",
         "version": "1.3.0"
       },
       {
@@ -41479,6 +42520,11 @@
         "property": "specimen.anatomical_collection_site",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "specimen.anatomical_collection_site",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "specimen.anatomical_collection_site",
@@ -41716,6 +42762,19 @@
         "value": "Peritumoral"
       }
     ]
+  },
+  {
+    "CDECode": "2178801",
+    "CDEVersion": null,
+    "CDEFullName": "Diagnosis Date",
+    "models": [
+      {
+        "property": "diagnosis.date_of_diagnosis",
+        "model": "CTDC",
+        "version": "1.15.0"
+      }
+    ],
+    "permissibleValues": []
   },
   {
     "CDECode": "14883047",
@@ -43072,6 +44131,11 @@
         "version": "1.7.0"
       },
       {
+        "property": "file.data_file_name",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "data_file.data_file_name",
         "model": "CTDC",
         "version": "1.3.0"
@@ -43118,6 +44182,11 @@
         "property": "data_file.data_file_name",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_name",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_name",
@@ -43178,6 +44247,11 @@
         "version": "1.7.0"
       },
       {
+        "property": "file.data_file_description",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "data_file.data_file_description",
         "model": "CTDC",
         "version": "1.3.0"
@@ -43229,6 +44303,11 @@
         "property": "data_file.data_file_description",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_description",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_description",
@@ -43287,6 +44366,11 @@
         "property": "data_file.data_file_format",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_format",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_format",
@@ -43387,6 +44471,10 @@
       {
         "ncit_concept_code": "C209895",
         "synonyms": [
+          "Revised diagnosis",
+          "Revised diagnosis (contextual qualifier)",
+          "RD",
+          "Revised diagnosis (contextual qualifier) (qualifier value)",
           "Reference Data Set File Format"
         ],
         "value": "rds"
@@ -43934,6 +45022,11 @@
         "property": "data_file.data_file_format",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_format",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_format",
@@ -44034,6 +45127,10 @@
       {
         "ncit_concept_code": "C209895",
         "synonyms": [
+          "Revised diagnosis",
+          "Revised diagnosis (contextual qualifier)",
+          "RD",
+          "Revised diagnosis (contextual qualifier) (qualifier value)",
           "Reference Data Set File Format"
         ],
         "value": "rds"
@@ -44583,6 +45680,11 @@
         "version": "1.7.0"
       },
       {
+        "property": "file.data_file_size",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "data_file.data_file_size",
         "model": "CTDC",
         "version": "1.2.0"
@@ -44641,6 +45743,11 @@
         "version": "1.7.0"
       },
       {
+        "property": "file.data_file_size",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "data_file.data_file_size",
         "model": "CTDC",
         "version": "1.3.0"
@@ -44694,6 +45801,11 @@
         "version": "1.7.0"
       },
       {
+        "property": "file.data_file_checksum_value",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
         "property": "data_file.data_file_checksum_value",
         "model": "CTDC",
         "version": "1.3.0"
@@ -44745,6 +45857,11 @@
         "property": "data_file.data_file_checksum_value",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_checksum_value",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_checksum_value",
@@ -44803,6 +45920,11 @@
         "property": "data_file.data_file_checksum_type",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_checksum_type",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_checksum_type",
@@ -44883,6 +46005,11 @@
         "property": "data_file.data_file_checksum_type",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_checksum_type",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_checksum_type",
@@ -44958,6 +46085,11 @@
         "property": "data_file.data_file_compression_status",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_compression_status",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_compression_status",
@@ -45044,6 +46176,11 @@
         "property": "data_file.data_file_uuid",
         "model": "CTDC",
         "version": "1.7.0"
+      },
+      {
+        "property": "file.data_file_uuid",
+        "model": "CTDC",
+        "version": "1.15.0"
       },
       {
         "property": "data_file.data_file_uuid",
@@ -45406,11 +46543,12 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
-          "GX",
           "American Joint Committee on Cancer grade GX",
           "Grade cannot be assessed (GX)",
+          "GX",
           "Grade X"
         ],
         "value": "GX Grade Cannot Be Assessed"
@@ -45418,10 +46556,11 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
-          "GB",
           "American Joint Committee on Cancer grade GB",
+          "GB",
           "Grade B"
         ],
         "value": "GB Borderline"
@@ -55388,6 +56527,29 @@
     ]
   },
   {
+    "CDECode": "6401821",
+    "CDEVersion": "1",
+    "CDEFullName": "Data Element Name",
+    "models": [
+      {
+        "property": "specimen.collection_date",
+        "model": "CTDC",
+        "version": "1.15.0"
+      },
+      {
+        "property": "specimen.collection_date",
+        "model": "CTDC",
+        "version": "1.11.0"
+      },
+      {
+        "property": "specimen.collection_date",
+        "model": "CTDC",
+        "version": "1.14.0"
+      }
+    ],
+    "permissibleValues": []
+  },
+  {
     "CDECode": "15019300",
     "CDEVersion": "1.00",
     "CDEFullName": "Subject Age at Diagnosis Day Count",
@@ -55579,11 +56741,12 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
-          "GX",
           "American Joint Committee on Cancer grade GX",
           "Grade cannot be assessed (GX)",
+          "GX",
           "Grade X"
         ],
         "value": "GX Grade Cannot Be Assessed"
@@ -55591,10 +56754,11 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
-          "GB",
           "American Joint Committee on Cancer grade GB",
+          "GB",
           "Grade B"
         ],
         "value": "GB Borderline"
@@ -55622,6 +56786,7 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
           "American Joint Committee on Cancer grade GB",
@@ -55679,10 +56844,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -55691,6 +56857,7 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
           "American Joint Committee on Cancer grade GX",
@@ -60628,12 +61795,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -92246,6 +93413,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -92259,7 +93427,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progressive Disease"
@@ -92527,12 +93694,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -123028,6 +124195,10 @@
       {
         "ncit_concept_code": "C209895",
         "synonyms": [
+          "Revised diagnosis",
+          "Revised diagnosis (contextual qualifier)",
+          "RD",
+          "Revised diagnosis (contextual qualifier) (qualifier value)",
           "Reference Data Set File Format"
         ],
         "value": "rds"
@@ -125648,6 +126819,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -125661,7 +126833,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progression"
@@ -135035,6 +136206,7 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
           "American Joint Committee on Cancer grade GB",
@@ -135092,10 +136264,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -135104,6 +136277,7 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
           "American Joint Committee on Cancer grade GX",
@@ -136266,11 +137440,11 @@
         "ncit_concept_code": "C61398",
         "synonyms": [
           "Exposure to radiation (event)",
+          "Radiation exposure",
+          "Exposure to radiation",
           "Exposure to unspecified type of radiation",
           "Exposure to unspecified radiation",
           "Radiation exposure NOS",
-          "Radiation exposure",
-          "Exposure to radiation",
           "Radiation Exposure"
         ],
         "value": "Radiation Exposure"
@@ -137127,12 +138301,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -138941,12 +140115,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -140243,12 +141417,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -145849,12 +147023,13 @@
       {
         "ncit_concept_code": "C16818",
         "synonyms": [
-          "mammo",
+          "Diagnostic mammogram",
           "Mammography (procedure)",
           "Mammogram",
+          "Mammography",
+          "mammo",
           "Radiographic examination of breast",
           "mammography",
-          "Mammography",
           "Mammography"
         ],
         "value": "MG"
@@ -145863,7 +147038,6 @@
         "ncit_concept_code": "C62667",
         "synonyms": [
           "Scintigraphy NOS",
-          "scintigraphy",
           "Scintigraphy",
           "Scan NOS",
           "Scan",
@@ -145871,10 +147045,11 @@
           "Radionuclide scanning",
           "Radioisotope scan NOS",
           "Radioisotope scan",
-          "Nuclear medicine",
           "Isotope scan",
           "Nuclear medicine imaging procedure (procedure)",
           "Nuclear medicine imaging procedure",
+          "scintigraphy",
+          "Nuclear medicine",
           "Radionuclide Imaging"
         ],
         "value": "NM"
@@ -146084,10 +147259,10 @@
         "ncit_concept_code": "C190539",
         "synonyms": [
           "Electro-oculography",
-          "Electro-oculogram",
           "Electro-oculogram examination (procedure)",
           "Electro-oculogram examination",
           "EOG - Electro-oculography",
+          "Electro-oculogram",
           "Electro-oculogram [EOG]",
           "Electrooculography"
         ],
@@ -146174,6 +147349,19 @@
         "ncit_concept_code": "C16809",
         "synonyms": [
           "After values",
+          "Magnetic resonance imaging",
+          "Nuclear magnetic resonance imaging",
+          "NMR",
+          "MRI",
+          "MRI scan",
+          "Magnetic resonance imaging - action",
+          "Magnetic resonance technique",
+          "Magnetic resonance study",
+          "NMR - Nuclear magnetic resonance",
+          "MR - Magnetic resonance",
+          "Magnetic resonance imaging (procedure)",
+          "MRI - Magnetic resonance imaging",
+          "Magnetic resonance imaging - action (qualifier value)",
           "Unclassified malignant tumour",
           "Unclassified malignant tumor",
           "Cancer",
@@ -146209,20 +147397,7 @@
           "Status post (contextual qualifier) (qualifier value)",
           "Condition following",
           "magnetic resonance imaging",
-          "Magnetic resonance imaging",
-          "Magnetic resonance imaging - action (qualifier value)",
-          "MRI - Magnetic resonance imaging",
-          "Magnetic resonance imaging (procedure)",
-          "MR - Magnetic resonance",
-          "NMR - Nuclear magnetic resonance",
-          "Magnetic resonance study",
-          "Magnetic resonance technique",
-          "MRI",
           "MR imaging",
-          "Magnetic resonance imaging - action",
-          "MRI scan",
-          "NMR",
-          "Nuclear magnetic resonance imaging",
           "2nd",
           "Second - ordinal",
           "Second (qualifier value)",
@@ -146264,13 +147439,13 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
+          "Other",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -146316,10 +147491,10 @@
         "ncit_concept_code": "C17007",
         "synonyms": [
           "PET scan",
-          "PET",
           "PET Scans",
           "Positron emission tomographic imaging - action",
           "PET/CT scan",
+          "PET",
           "PET imaging",
           "Positron emission tomogram",
           "Positron emission tomography (procedure)",
@@ -146353,16 +147528,16 @@
         "ncit_concept_code": "C16588",
         "synonyms": [
           "Fluoroscopy",
-          "radiography-fluoroscopy",
-          "radio-fluoro",
-          "radiofluoroscopy",
           "Fluoroscopic imaging - action",
-          "fluoro",
           "Fluoroscopy technique",
           "Fluoroscopy (procedure)",
           "Fluoroscopic imaging",
-          "FL",
           "Fluoroscopic imaging - action (qualifier value)",
+          "radiography-fluoroscopy",
+          "radio-fluoro",
+          "radiofluoroscopy",
+          "fluoro",
+          "FL",
           "fluoroscopy",
           "Fluoroscopy"
         ],
@@ -146371,6 +147546,8 @@
       {
         "ncit_concept_code": "C38101",
         "synonyms": [
+          "Diagnostic radiography",
+          "Diagnostic imaging procedure using X-rays",
           "projection radiography",
           "general radiography",
           "xray",
@@ -146378,8 +147555,6 @@
           "x-ray",
           "radiography",
           "Diagnostic Radiology",
-          "Diagnostic radiography",
-          "Diagnostic imaging procedure using X-rays",
           "X-Ray Imaging"
         ],
         "value": "RG"
@@ -146387,8 +147562,8 @@
       {
         "ncit_concept_code": "C190594",
         "synonyms": [
-          "radiation dose",
           "Radiation dose",
+          "radiation dose",
           "Radiation Dose"
         ],
         "value": "RTDOSE"
@@ -146449,8 +147624,8 @@
           "Single photon emission computerised tomography",
           "Single photon emission computed tomography",
           "Single photon emission computerized tomography",
-          "SPECT",
           "Single photon emission computed tomography - action",
+          "SPECT",
           "Single photon emission computerized tomogram",
           "Single photon emission computerised tomogram",
           "SPET - Single photon emission computed tomography",
@@ -146536,20 +147711,20 @@
           "US - ultrasound",
           "Echotomography",
           "Ultrasounds",
-          "ultrasound",
           "Ultrasound",
           "Ultrasonogram",
-          "sonography",
           "Sonogram",
           "Ultrasound scan NOS",
           "Ultrasound scan",
           "Ultrasound procedure",
           "General ultrasound",
           "GEN.US",
-          "echography",
           "Diagnostic ultrasound",
-          "ultrasonography",
           "Ultrasonography",
+          "ultrasound",
+          "sonography",
+          "echography",
+          "ultrasonography",
           "Ultrasound Imaging"
         ],
         "value": "US"
@@ -146562,16 +147737,16 @@
       {
         "ncit_concept_code": "C20080",
         "synonyms": [
-          "x-ray angiography",
-          "angio",
           "Angiography (procedure)",
           "Diagnostic angiography",
           "Angiograph",
           "Diagnostic angiogram",
           "Angiogram NOS",
           "Angiogram",
-          "angiography",
           "Angiography",
+          "x-ray angiography",
+          "angio",
+          "angiography",
           "X-ray Angiography"
         ],
         "value": "XA"
@@ -146595,9 +147770,9 @@
       {
         "ncit_concept_code": "C17204",
         "synonyms": [
+          "Computerised axial tomography",
           "Computed tomography (procedure)",
           "Computed tomography",
-          "Computerised axial tomography",
           "Computerized axial tomography",
           "CT scan",
           "CAT Scans",
@@ -146614,19 +147789,19 @@
           "Computerized tomograph scan",
           "CT - Computerised tomography",
           "CT - Computerized tomography",
-          "computed tomography",
           "CAT scan",
           "CAT",
           "Computerized transverse axial tomography",
           "Computerised transverse axial tomography",
-          "Computerized transverse axial tomogram",
-          "Computerised transverse axial tomogram",
-          "Computerized axial tomogram",
-          "Computerised axial tomogram",
-          "Computed axial tomography",
-          "CAT - Computerised axial tomography",
-          "CAT - Computerized axial tomography",
           "Computer-assisted transaxial tomography",
+          "CAT - Computerized axial tomography",
+          "CAT - Computerised axial tomography",
+          "Computed axial tomography",
+          "Computerised axial tomogram",
+          "Computerized axial tomogram",
+          "Computerised transverse axial tomogram",
+          "Computerized transverse axial tomogram",
+          "computed tomography",
           "Computed Tomography"
         ],
         "value": "CT"
@@ -146638,8 +147813,8 @@
           "Duplex ultrasound",
           "Duplex ultrasonography",
           "Duplex ultrasonography (procedure)",
-          "duplex ultrasound",
           "Duplex ultrasound (qualifier value)",
+          "duplex ultrasound",
           "Duplex Ultrasound"
         ],
         "value": "DD"
@@ -146686,19 +147861,19 @@
         "synonyms": [
           "Ultrasound of heart",
           "Echocardiogram",
-          "echo imaging",
-          "Dx ultrasound-heart",
           "Ultrasonography of heart",
           "US scan of heart",
           "US heart scan",
           "Echocardiography (procedure)",
           "Echocardiographic procedure",
-          "echocardiogram",
-          "Diagnostic ultrasound of heart",
           "Cardiac US scan",
           "Cardiac echo",
-          "echocardiography",
           "Echocardiography",
+          "echo imaging",
+          "Dx ultrasound-heart",
+          "echocardiogram",
+          "Diagnostic ultrasound of heart",
+          "echocardiography",
           "Echocardiography Test"
         ],
         "value": "EC"
@@ -146707,11 +147882,11 @@
         "ncit_concept_code": "C80414",
         "synonyms": [
           "Cardiac electrophysiology study",
-          "Cath base invasv ep test",
-          "Catheter based invasive electrophysiologic testing",
           "Cardiac electrophysiologic study",
           "Cardiac electrophysiologic stimulation and recording study (procedure)",
           "Cardiac electrophysiologic stimulation and recording study",
+          "Cath base invasv ep test",
+          "Catheter based invasive electrophysiologic testing",
           "Cardiac Electrophysiology Study"
         ],
         "value": "EPS"
@@ -146722,11 +147897,11 @@
           "Inspection using endoscope",
           "Endoscopy, NOS",
           "Endoscopy NOS",
-          "endoscopy",
           "Endoscopy",
-          "endoscopic",
           "Endoscopy procedure",
           "Endoscopy (procedure)",
+          "endoscopy",
+          "endoscopic",
           "Endoscopic Procedure"
         ],
         "value": "ES"
@@ -146808,12 +147983,12 @@
         "ncit_concept_code": "C16969",
         "synonyms": [
           "Laparoscopy (procedure)",
-          "laparoscopic",
           "Coelioscopy",
           "Celioscopy",
+          "Laparoscopy",
+          "laparoscopic",
           "Abdomen endoscopy (procedure)",
           "Abdomen endoscopy",
-          "Laparoscopy",
           "Laparoscopy"
         ],
         "value": "LP"
@@ -147169,12 +148344,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -147310,12 +148485,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -151063,6 +152238,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -151084,7 +152260,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -152586,12 +153761,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -153999,12 +155174,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -154875,12 +156050,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -160644,320 +161819,6 @@
     ]
   },
   {
-    "CDECode": "14534329",
-    "CDEVersion": "1.00",
-    "CDEFullName": "Research Activity dbGaP Consent Group Text",
-    "models": [
-      {
-        "property": "study.consent",
-        "model": "CCDI",
-        "version": "2.0.0"
-      },
-      {
-        "property": "study.consent",
-        "model": "CCDI",
-        "version": "2.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "3.2.2"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "3.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "3.2.0"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "3.2.3"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "CCDI",
-        "version": "3.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "CDS",
-        "version": "9.0.0"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "3.2.1"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "4.0.0"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "4.0.5"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "4.0.3"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "4.0.4"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "4.0.1"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "C3DC",
-        "version": "4.0.2"
-      },
-      {
-        "property": "consent_group.consent_group_name",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "14534330",
-    "CDEVersion": "1.00",
-    "CDEFullName": "Research Activity dbGaP Consent Group Number",
-    "models": [
-      {
-        "property": "study.consent_number",
-        "model": "CCDI",
-        "version": "2.0.0"
-      },
-      {
-        "property": "study.consent_number",
-        "model": "CCDI",
-        "version": "2.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "3.2.2"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "3.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "3.2.0"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "3.2.3"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "CCDI",
-        "version": "3.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "CDS",
-        "version": "9.0.0"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "3.2.1"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "4.0.0"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "4.0.5"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "4.0.3"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "4.0.4"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "4.0.1"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "C3DC",
-        "version": "4.0.2"
-      },
-      {
-        "property": "consent_group.consent_group_number",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": [
-      {
-        "ncit_concept_code": "C66832",
-        "synonyms": [
-          "Cyclic (qualifier value)",
-          "Four",
-          "Two",
-          "Months",
-          "month (qualifier value)",
-          "months",
-          "month",
-          "Status post (contextual qualifier)",
-          "SP",
-          "post",
-          "Post",
-          "Following",
-          "Status post (contextual qualifier) (qualifier value)",
-          "Condition following",
-          "After values",
-          "After values (qualifier value)",
-          "After (attribute)",
-          "after",
-          "After",
-          "Status post",
-          "Cyclical",
-          "Cyclic",
-          "One",
-          "day",
-          "Day",
-          "days",
-          "d - day",
-          "day (qualifier value)",
-          "Days",
-          "week",
-          "Week",
-          "weeks",
-          "week (qualifier value)",
-          "wk",
-          "Weeks",
-          "Before",
-          "before",
-          "Before (attribute)",
-          "pre",
-          "Preceding",
-          "Prior to",
-          "Prior",
-          "H&P.SURG PROC",
-          "Operation",
-          "Operation NOS",
-          "Operative procedure",
-          "Surgical procedure (procedure)",
-          "Surgery procedure",
-          "Surgical procedure",
-          "Surgical procedures",
-          "surgical procedure",
-          "Surgery (qualifier value)",
-          "Surgical (qualifier value)",
-          "Surgery",
-          "surgery",
-          "Surgery, NOS",
-          "Surgical",
-          "SURG",
-          "One"
-        ],
-        "value": "1"
-      },
-      {
-        "ncit_concept_code": "C66833",
-        "synonyms": [
-          "Two",
-          "Two"
-        ],
-        "value": "2"
-      },
-      {
-        "ncit_concept_code": "C66834",
-        "synonyms": [
-          "Three"
-        ],
-        "value": "3"
-      },
-      {
-        "ncit_concept_code": "C66835",
-        "synonyms": [
-          "Four",
-          "Four"
-        ],
-        "value": "4"
-      },
-      {
-        "ncit_concept_code": "C66836",
-        "synonyms": [
-          "Five"
-        ],
-        "value": "5"
-      },
-      {
-        "ncit_concept_code": "C66837",
-        "synonyms": [
-          "Six"
-        ],
-        "value": "6"
-      },
-      {
-        "ncit_concept_code": "C66838",
-        "synonyms": [
-          "Seven"
-        ],
-        "value": "7"
-      },
-      {
-        "ncit_concept_code": "C66839",
-        "synonyms": [
-          "Eight"
-        ],
-        "value": "8"
-      },
-      {
-        "ncit_concept_code": "C66840",
-        "synonyms": [
-          "Nine"
-        ],
-        "value": "9"
-      },
-      {
-        "ncit_concept_code": "C69122",
-        "synonyms": [
-          "Ten"
-        ],
-        "value": "10"
-      },
-      {
-        "ncit_concept_code": "C70430",
-        "synonyms": [
-          "Zero"
-        ],
-        "value": "0"
-      }
-    ]
-  },
-  {
     "CDECode": "12373576",
     "CDEVersion": "1.00",
     "CDEFullName": "Research Activity Experimental Method Type",
@@ -163304,12 +164165,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -168197,12 +169058,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -168926,12 +169787,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -170086,12 +170947,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -173038,6 +173899,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -173059,7 +173921,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -173289,6 +174150,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -173310,7 +174172,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -173540,6 +174401,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -173561,7 +174423,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -173791,6 +174652,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -173812,7 +174674,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -174494,6 +175355,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -174515,7 +175377,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -174745,6 +175606,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -174766,7 +175628,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -177692,12 +178553,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -179091,6 +179952,8 @@
       {
         "ncit_concept_code": "C38101",
         "synonyms": [
+          "Diagnostic radiography",
+          "Diagnostic imaging procedure using X-rays",
           "projection radiography",
           "general radiography",
           "xray",
@@ -179098,8 +179961,6 @@
           "x-ray",
           "radiography",
           "Diagnostic Radiology",
-          "Diagnostic radiography",
-          "Diagnostic imaging procedure using X-rays",
           "X-Ray Imaging"
         ],
         "value": "X-Ray"
@@ -179171,6 +180032,18 @@
         "ncit_concept_code": "C16809",
         "synonyms": [
           "After values",
+          "Magnetic resonance imaging",
+          "Nuclear magnetic resonance imaging",
+          "NMR",
+          "MRI scan",
+          "Magnetic resonance imaging - action",
+          "Magnetic resonance technique",
+          "Magnetic resonance study",
+          "NMR - Nuclear magnetic resonance",
+          "MR - Magnetic resonance",
+          "Magnetic resonance imaging (procedure)",
+          "MRI - Magnetic resonance imaging",
+          "Magnetic resonance imaging - action (qualifier value)",
           "Unclassified malignant tumour",
           "Unclassified malignant tumor",
           "Cancer",
@@ -179206,20 +180079,8 @@
           "Status post (contextual qualifier) (qualifier value)",
           "Condition following",
           "magnetic resonance imaging",
-          "Magnetic resonance imaging",
-          "Magnetic resonance imaging - action (qualifier value)",
-          "MRI - Magnetic resonance imaging",
-          "Magnetic resonance imaging (procedure)",
-          "MR - Magnetic resonance",
-          "NMR - Nuclear magnetic resonance",
-          "Magnetic resonance study",
-          "Magnetic resonance technique",
           "MR",
           "MR imaging",
-          "Magnetic resonance imaging - action",
-          "MRI scan",
-          "NMR",
-          "Nuclear magnetic resonance imaging",
           "2nd",
           "Second - ordinal",
           "Second (qualifier value)",
@@ -179277,9 +180138,9 @@
       {
         "ncit_concept_code": "C17204",
         "synonyms": [
+          "Computerised axial tomography",
           "Computed tomography (procedure)",
           "Computed tomography",
-          "Computerised axial tomography",
           "Computerized axial tomography",
           "CT scan",
           "CAT Scans",
@@ -179296,19 +180157,19 @@
           "Computerized tomograph scan",
           "CT - Computerised tomography",
           "CT - Computerized tomography",
-          "computed tomography",
           "CAT scan",
           "CAT",
           "Computerized transverse axial tomography",
           "Computerised transverse axial tomography",
-          "Computerized transverse axial tomogram",
-          "Computerised transverse axial tomogram",
-          "Computerized axial tomogram",
-          "Computerised axial tomogram",
-          "Computed axial tomography",
-          "CAT - Computerised axial tomography",
-          "CAT - Computerized axial tomography",
           "Computer-assisted transaxial tomography",
+          "CAT - Computerized axial tomography",
+          "CAT - Computerised axial tomography",
+          "Computed axial tomography",
+          "Computerised axial tomogram",
+          "Computerized axial tomogram",
+          "Computerised transverse axial tomogram",
+          "Computerized transverse axial tomogram",
+          "computed tomography",
           "Computed Tomography"
         ],
         "value": "CT"
@@ -182672,12 +183533,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -182962,12 +183823,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -183534,12 +184395,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -187954,6 +188815,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -187975,7 +188837,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -190283,11 +191144,11 @@
         "ncit_concept_code": "C61398",
         "synonyms": [
           "Exposure to radiation (event)",
+          "Radiation exposure",
+          "Exposure to radiation",
           "Exposure to unspecified type of radiation",
           "Exposure to unspecified radiation",
           "Radiation exposure NOS",
-          "Radiation exposure",
-          "Exposure to radiation",
           "Radiation Exposure"
         ],
         "value": "Radiation Exposure"
@@ -192464,11 +193325,12 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
-          "GX",
           "American Joint Committee on Cancer grade GX",
           "Grade cannot be assessed (GX)",
+          "GX",
           "Grade X"
         ],
         "value": "GX Grade Cannot Be Assessed"
@@ -192476,10 +193338,11 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
-          "GB",
           "American Joint Committee on Cancer grade GB",
+          "GB",
           "Grade B"
         ],
         "value": "GB Borderline"
@@ -192507,6 +193370,7 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
           "American Joint Committee on Cancer grade GB",
@@ -192564,10 +193428,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -192576,6 +193441,7 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
           "American Joint Committee on Cancer grade GX",
@@ -192808,6 +193674,10 @@
       {
         "ncit_concept_code": "C209895",
         "synonyms": [
+          "Revised diagnosis",
+          "Revised diagnosis (contextual qualifier)",
+          "RD",
+          "Revised diagnosis (contextual qualifier) (qualifier value)",
           "Reference Data Set File Format"
         ],
         "value": "rds"
@@ -193387,12 +194257,13 @@
       {
         "ncit_concept_code": "C16818",
         "synonyms": [
-          "mammo",
+          "Diagnostic mammogram",
           "Mammography (procedure)",
           "Mammogram",
+          "Mammography",
+          "mammo",
           "Radiographic examination of breast",
           "mammography",
-          "Mammography",
           "Mammography"
         ],
         "value": "MG"
@@ -193401,7 +194272,6 @@
         "ncit_concept_code": "C62667",
         "synonyms": [
           "Scintigraphy NOS",
-          "scintigraphy",
           "Scintigraphy",
           "Scan NOS",
           "Scan",
@@ -193409,10 +194279,11 @@
           "Radionuclide scanning",
           "Radioisotope scan NOS",
           "Radioisotope scan",
-          "Nuclear medicine",
           "Isotope scan",
           "Nuclear medicine imaging procedure (procedure)",
           "Nuclear medicine imaging procedure",
+          "scintigraphy",
+          "Nuclear medicine",
           "Radionuclide Imaging"
         ],
         "value": "NM"
@@ -193622,10 +194493,10 @@
         "ncit_concept_code": "C190539",
         "synonyms": [
           "Electro-oculography",
-          "Electro-oculogram",
           "Electro-oculogram examination (procedure)",
           "Electro-oculogram examination",
           "EOG - Electro-oculography",
+          "Electro-oculogram",
           "Electro-oculogram [EOG]",
           "Electrooculography"
         ],
@@ -193712,6 +194583,19 @@
         "ncit_concept_code": "C16809",
         "synonyms": [
           "After values",
+          "Magnetic resonance imaging",
+          "Nuclear magnetic resonance imaging",
+          "NMR",
+          "MRI",
+          "MRI scan",
+          "Magnetic resonance imaging - action",
+          "Magnetic resonance technique",
+          "Magnetic resonance study",
+          "NMR - Nuclear magnetic resonance",
+          "MR - Magnetic resonance",
+          "Magnetic resonance imaging (procedure)",
+          "MRI - Magnetic resonance imaging",
+          "Magnetic resonance imaging - action (qualifier value)",
           "Unclassified malignant tumour",
           "Unclassified malignant tumor",
           "Cancer",
@@ -193747,20 +194631,7 @@
           "Status post (contextual qualifier) (qualifier value)",
           "Condition following",
           "magnetic resonance imaging",
-          "Magnetic resonance imaging",
-          "Magnetic resonance imaging - action (qualifier value)",
-          "MRI - Magnetic resonance imaging",
-          "Magnetic resonance imaging (procedure)",
-          "MR - Magnetic resonance",
-          "NMR - Nuclear magnetic resonance",
-          "Magnetic resonance study",
-          "Magnetic resonance technique",
-          "MRI",
           "MR imaging",
-          "Magnetic resonance imaging - action",
-          "MRI scan",
-          "NMR",
-          "Nuclear magnetic resonance imaging",
           "2nd",
           "Second - ordinal",
           "Second (qualifier value)",
@@ -193802,13 +194673,13 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
+          "Other",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -193854,10 +194725,10 @@
         "ncit_concept_code": "C17007",
         "synonyms": [
           "PET scan",
-          "PET",
           "PET Scans",
           "Positron emission tomographic imaging - action",
           "PET/CT scan",
+          "PET",
           "PET imaging",
           "Positron emission tomogram",
           "Positron emission tomography (procedure)",
@@ -193891,16 +194762,16 @@
         "ncit_concept_code": "C16588",
         "synonyms": [
           "Fluoroscopy",
-          "radiography-fluoroscopy",
-          "radio-fluoro",
-          "radiofluoroscopy",
           "Fluoroscopic imaging - action",
-          "fluoro",
           "Fluoroscopy technique",
           "Fluoroscopy (procedure)",
           "Fluoroscopic imaging",
-          "FL",
           "Fluoroscopic imaging - action (qualifier value)",
+          "radiography-fluoroscopy",
+          "radio-fluoro",
+          "radiofluoroscopy",
+          "fluoro",
+          "FL",
           "fluoroscopy",
           "Fluoroscopy"
         ],
@@ -193909,6 +194780,8 @@
       {
         "ncit_concept_code": "C38101",
         "synonyms": [
+          "Diagnostic radiography",
+          "Diagnostic imaging procedure using X-rays",
           "projection radiography",
           "general radiography",
           "xray",
@@ -193916,8 +194789,6 @@
           "x-ray",
           "radiography",
           "Diagnostic Radiology",
-          "Diagnostic radiography",
-          "Diagnostic imaging procedure using X-rays",
           "X-Ray Imaging"
         ],
         "value": "RG"
@@ -193925,8 +194796,8 @@
       {
         "ncit_concept_code": "C190594",
         "synonyms": [
-          "radiation dose",
           "Radiation dose",
+          "radiation dose",
           "Radiation Dose"
         ],
         "value": "RTDOSE"
@@ -193987,8 +194858,8 @@
           "Single photon emission computerised tomography",
           "Single photon emission computed tomography",
           "Single photon emission computerized tomography",
-          "SPECT",
           "Single photon emission computed tomography - action",
+          "SPECT",
           "Single photon emission computerized tomogram",
           "Single photon emission computerised tomogram",
           "SPET - Single photon emission computed tomography",
@@ -194074,20 +194945,20 @@
           "US - ultrasound",
           "Echotomography",
           "Ultrasounds",
-          "ultrasound",
           "Ultrasound",
           "Ultrasonogram",
-          "sonography",
           "Sonogram",
           "Ultrasound scan NOS",
           "Ultrasound scan",
           "Ultrasound procedure",
           "General ultrasound",
           "GEN.US",
-          "echography",
           "Diagnostic ultrasound",
-          "ultrasonography",
           "Ultrasonography",
+          "ultrasound",
+          "sonography",
+          "echography",
+          "ultrasonography",
           "Ultrasound Imaging"
         ],
         "value": "US"
@@ -194100,16 +194971,16 @@
       {
         "ncit_concept_code": "C20080",
         "synonyms": [
-          "x-ray angiography",
-          "angio",
           "Angiography (procedure)",
           "Diagnostic angiography",
           "Angiograph",
           "Diagnostic angiogram",
           "Angiogram NOS",
           "Angiogram",
-          "angiography",
           "Angiography",
+          "x-ray angiography",
+          "angio",
+          "angiography",
           "X-ray Angiography"
         ],
         "value": "XA"
@@ -194133,9 +195004,9 @@
       {
         "ncit_concept_code": "C17204",
         "synonyms": [
+          "Computerised axial tomography",
           "Computed tomography (procedure)",
           "Computed tomography",
-          "Computerised axial tomography",
           "Computerized axial tomography",
           "CT scan",
           "CAT Scans",
@@ -194152,19 +195023,19 @@
           "Computerized tomograph scan",
           "CT - Computerised tomography",
           "CT - Computerized tomography",
-          "computed tomography",
           "CAT scan",
           "CAT",
           "Computerized transverse axial tomography",
           "Computerised transverse axial tomography",
-          "Computerized transverse axial tomogram",
-          "Computerised transverse axial tomogram",
-          "Computerized axial tomogram",
-          "Computerised axial tomogram",
-          "Computed axial tomography",
-          "CAT - Computerised axial tomography",
-          "CAT - Computerized axial tomography",
           "Computer-assisted transaxial tomography",
+          "CAT - Computerized axial tomography",
+          "CAT - Computerised axial tomography",
+          "Computed axial tomography",
+          "Computerised axial tomogram",
+          "Computerized axial tomogram",
+          "Computerised transverse axial tomogram",
+          "Computerized transverse axial tomogram",
+          "computed tomography",
           "Computed Tomography"
         ],
         "value": "CT"
@@ -194176,8 +195047,8 @@
           "Duplex ultrasound",
           "Duplex ultrasonography",
           "Duplex ultrasonography (procedure)",
-          "duplex ultrasound",
           "Duplex ultrasound (qualifier value)",
+          "duplex ultrasound",
           "Duplex Ultrasound"
         ],
         "value": "DD"
@@ -194224,19 +195095,19 @@
         "synonyms": [
           "Ultrasound of heart",
           "Echocardiogram",
-          "echo imaging",
-          "Dx ultrasound-heart",
           "Ultrasonography of heart",
           "US scan of heart",
           "US heart scan",
           "Echocardiography (procedure)",
           "Echocardiographic procedure",
-          "echocardiogram",
-          "Diagnostic ultrasound of heart",
           "Cardiac US scan",
           "Cardiac echo",
-          "echocardiography",
           "Echocardiography",
+          "echo imaging",
+          "Dx ultrasound-heart",
+          "echocardiogram",
+          "Diagnostic ultrasound of heart",
+          "echocardiography",
           "Echocardiography Test"
         ],
         "value": "EC"
@@ -194245,11 +195116,11 @@
         "ncit_concept_code": "C80414",
         "synonyms": [
           "Cardiac electrophysiology study",
-          "Cath base invasv ep test",
-          "Catheter based invasive electrophysiologic testing",
           "Cardiac electrophysiologic study",
           "Cardiac electrophysiologic stimulation and recording study (procedure)",
           "Cardiac electrophysiologic stimulation and recording study",
+          "Cath base invasv ep test",
+          "Catheter based invasive electrophysiologic testing",
           "Cardiac Electrophysiology Study"
         ],
         "value": "EPS"
@@ -194260,11 +195131,11 @@
           "Inspection using endoscope",
           "Endoscopy, NOS",
           "Endoscopy NOS",
-          "endoscopy",
           "Endoscopy",
-          "endoscopic",
           "Endoscopy procedure",
           "Endoscopy (procedure)",
+          "endoscopy",
+          "endoscopic",
           "Endoscopic Procedure"
         ],
         "value": "ES"
@@ -194346,12 +195217,12 @@
         "ncit_concept_code": "C16969",
         "synonyms": [
           "Laparoscopy (procedure)",
-          "laparoscopic",
           "Coelioscopy",
           "Celioscopy",
+          "Laparoscopy",
+          "laparoscopic",
           "Abdomen endoscopy (procedure)",
           "Abdomen endoscopy",
-          "Laparoscopy",
           "Laparoscopy"
         ],
         "value": "LP"
@@ -195330,12 +196201,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -200962,12 +201833,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -202833,12 +203704,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -207210,12 +208081,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -208211,10 +209082,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -209336,12 +210208,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -211387,12 +212259,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -211793,12 +212665,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -217933,12 +218805,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -222227,12 +223099,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -224858,12 +225730,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -226218,12 +227090,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -228691,12 +229563,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -228917,12 +229789,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -229019,6 +229891,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -229032,7 +229905,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progressive Disease"
@@ -229264,12 +230136,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -229771,12 +230643,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -230821,12 +231693,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -231907,12 +232779,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -232841,12 +233713,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -246039,19 +246911,19 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
-          "kilogram (qualifier value)",
-          "kilogram",
+          "Cell structure",
+          "Cell",
           "obsolete cell",
           "Cellular structures",
           "Cellular structure",
-          "Cell structure",
-          "set of cells",
           "Normal cell",
           "Cell structure (cell structure)",
           "Normal cell (cell)",
-          "Cell",
-          "cell",
           "Cells",
+          "kilogram (qualifier value)",
+          "kilogram",
+          "set of cells",
+          "cell",
           "Kilogram",
           "Kilogram"
         ],
@@ -246703,12 +247575,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -247348,84 +248220,6 @@
   {
     "CDECode": "TBD",
     "CDEVersion": "1.00",
-    "CDEFullName": "Study Consent Group Identifier",
-    "models": [
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "3.2.2"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "3.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "3.2.0"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "3.2.3"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "CCDI",
-        "version": "3.1.0"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "CDS",
-        "version": "9.0.0"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "3.2.1"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "4.0.0"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "4.0.5"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "4.0.3"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "4.0.4"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "4.0.1"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "C3DC",
-        "version": "4.0.2"
-      },
-      {
-        "property": "consent_group.consent_group_id",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "TBD",
-    "CDEVersion": "1.00",
     "CDEFullName": "DCF indexing consent group file suffix",
     "models": [
       {
@@ -247562,12 +248356,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -248849,6 +249643,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -248862,7 +249657,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progression"
@@ -260228,12 +261022,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -262803,12 +263597,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -270069,12 +270863,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -275781,12 +276575,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -277838,12 +278632,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -282402,12 +283196,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -286426,10 +287220,11 @@
       {
         "ncit_concept_code": "C14158",
         "synonyms": [
+          "HG (AJCC)",
           "AJCC (American Joint Committee on Cancer) HG",
           "American Joint Committee on Cancer grade HG",
-          "HG",
           "American Joint Committee on Cancer grade HG (qualifier value)",
+          "HG",
           "high grade",
           "High Grade"
         ],
@@ -287965,12 +288760,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -290002,12 +290797,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -290398,12 +291193,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -294866,12 +295661,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -296270,12 +297065,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -298817,12 +299612,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -299091,12 +299886,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -299193,6 +299988,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -299206,7 +300002,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progressive Disease"
@@ -299438,12 +300233,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -300776,11 +301571,12 @@
       {
         "ncit_concept_code": "C113730",
         "synonyms": [
+          "GX (AJCC)",
           "AJCC (American Joint Committee on Cancer) GX",
           "American Joint Committee on Cancer grade GX (qualifier value)",
-          "GX",
           "American Joint Committee on Cancer grade GX",
           "Grade cannot be assessed (GX)",
+          "GX",
           "Grade X"
         ],
         "value": "GX Grade Cannot Be Assessed"
@@ -300788,10 +301584,11 @@
       {
         "ncit_concept_code": "C113729",
         "synonyms": [
+          "GB (AJCC)",
           "AJCC (American Joint Committee on Cancer) GB",
           "American Joint Committee on Cancer grade GB (qualifier value)",
-          "GB",
           "American Joint Committee on Cancer grade GB",
+          "GB",
           "Grade B"
         ],
         "value": "GB Borderline"
@@ -301002,6 +301799,7 @@
         "ncit_concept_code": "C66832",
         "synonyms": [
           "Cyclic (qualifier value)",
+          "One",
           "Four",
           "Two",
           "Months",
@@ -301023,7 +301821,6 @@
           "Status post",
           "Cyclical",
           "Cyclic",
-          "One",
           "day",
           "Day",
           "days",
@@ -301467,12 +302264,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -301569,6 +302366,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -301582,7 +302380,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progressive Disease"
@@ -303011,12 +303808,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -303166,6 +303963,7 @@
       {
         "ncit_concept_code": "C35571",
         "synonyms": [
+          "Progressive disease",
           "Prior",
           "Prior to",
           "Preceding",
@@ -303179,7 +303977,6 @@
           "Recurrence (qualifier value)",
           "Recurrence",
           "persistent",
-          "Progressive disease",
           "Progressive Disease"
         ],
         "value": "Progression"
@@ -303307,29 +304104,6 @@
       },
       {
         "property": "specimen.initial_weight",
-        "model": "CRDCSubmission",
-        "version": "0.2.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "11524544",
-    "CDEVersion": "1",
-    "CDEFullName": "Research Activity dbGaP Accession Number Identifier",
-    "models": [
-      {
-        "property": "study.dbGap_study_accession",
-        "model": "CRDCSearch",
-        "version": "0.1.0"
-      },
-      {
-        "property": "study.study_accession",
-        "model": "CTDC",
-        "version": "1.14.0"
-      },
-      {
-        "property": "study.dbGap_study_accession",
         "model": "CRDCSubmission",
         "version": "0.2.0"
       }
@@ -309602,12 +310376,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -311256,12 +312030,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -312254,6 +313028,10 @@
       {
         "ncit_concept_code": "C209895",
         "synonyms": [
+          "Revised diagnosis",
+          "Revised diagnosis (contextual qualifier)",
+          "RD",
+          "Revised diagnosis (contextual qualifier) (qualifier value)",
           "Reference Data Set File Format"
         ],
         "value": "rds"
@@ -321908,12 +322686,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -322448,102 +323226,6 @@
     "permissibleValues": []
   },
   {
-    "CDECode": "6401821",
-    "CDEVersion": "1",
-    "CDEFullName": "Data Element Name",
-    "models": [
-      {
-        "property": "specimen.collection_date",
-        "model": "CTDC",
-        "version": "1.11.0"
-      },
-      {
-        "property": "specimen.collection_date",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "15915370",
-    "CDEVersion": "1",
-    "CDEFullName": "Study Administration Publication Identification DOI Text",
-    "models": [
-      {
-        "property": "publication.digital_object_id",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "15915377",
-    "CDEVersion": "1",
-    "CDEFullName": "Study Administration Publication Identification PubMed ID Text",
-    "models": [
-      {
-        "property": "publication.pubmed_id",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "16078531",
-    "CDEVersion": "1",
-    "CDEFullName": "Study Administration Publication Identification Title Text",
-    "models": [
-      {
-        "property": "publication.publication_title",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "16081468",
-    "CDEVersion": "1",
-    "CDEFullName": "Study Administration Publication Identification Citation Author List Text",
-    "models": [
-      {
-        "property": "publication.authorship",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "16081475",
-    "CDEVersion": "1",
-    "CDEFullName": "Study Administration Publication Identification Year Date",
-    "models": [
-      {
-        "property": "publication.year_of_publication",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
-    "CDECode": "16081476",
-    "CDEVersion": "1",
-    "CDEFullName": "Study Administration Publication Identification Journal Citation Text",
-    "models": [
-      {
-        "property": "publication.journal_citation",
-        "model": "CTDC",
-        "version": "1.14.0"
-      }
-    ],
-    "permissibleValues": []
-  },
-  {
     "CDECode": "14596104",
     "CDEVersion": null,
     "CDEFullName": "Cell Line Name Identifier",
@@ -322872,6 +323554,10 @@
       {
         "ncit_concept_code": "C209895",
         "synonyms": [
+          "Revised diagnosis",
+          "Revised diagnosis (contextual qualifier)",
+          "RD",
+          "Revised diagnosis (contextual qualifier) (qualifier value)",
           "Reference Data Set File Format"
         ],
         "value": "rds"
@@ -324374,11 +325060,11 @@
         "ncit_concept_code": "C61398",
         "synonyms": [
           "Exposure to radiation (event)",
+          "Radiation exposure",
+          "Exposure to radiation",
           "Exposure to unspecified type of radiation",
           "Exposure to unspecified radiation",
           "Radiation exposure NOS",
-          "Radiation exposure",
-          "Exposure to radiation",
           "Radiation Exposure"
         ],
         "value": "Radiation Exposure"
@@ -325066,12 +325752,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -326925,12 +327611,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -328452,12 +329138,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -328630,12 +329316,13 @@
       {
         "ncit_concept_code": "C16818",
         "synonyms": [
-          "mammo",
+          "Diagnostic mammogram",
           "Mammography (procedure)",
           "Mammogram",
+          "Mammography",
+          "mammo",
           "Radiographic examination of breast",
           "mammography",
-          "Mammography",
           "Mammography"
         ],
         "value": "MG"
@@ -328644,7 +329331,6 @@
         "ncit_concept_code": "C62667",
         "synonyms": [
           "Scintigraphy NOS",
-          "scintigraphy",
           "Scintigraphy",
           "Scan NOS",
           "Scan",
@@ -328652,10 +329338,11 @@
           "Radionuclide scanning",
           "Radioisotope scan NOS",
           "Radioisotope scan",
-          "Nuclear medicine",
           "Isotope scan",
           "Nuclear medicine imaging procedure (procedure)",
           "Nuclear medicine imaging procedure",
+          "scintigraphy",
+          "Nuclear medicine",
           "Radionuclide Imaging"
         ],
         "value": "NM"
@@ -328865,10 +329552,10 @@
         "ncit_concept_code": "C190539",
         "synonyms": [
           "Electro-oculography",
-          "Electro-oculogram",
           "Electro-oculogram examination (procedure)",
           "Electro-oculogram examination",
           "EOG - Electro-oculography",
+          "Electro-oculogram",
           "Electro-oculogram [EOG]",
           "Electrooculography"
         ],
@@ -328955,6 +329642,19 @@
         "ncit_concept_code": "C16809",
         "synonyms": [
           "After values",
+          "Magnetic resonance imaging",
+          "Nuclear magnetic resonance imaging",
+          "NMR",
+          "MRI",
+          "MRI scan",
+          "Magnetic resonance imaging - action",
+          "Magnetic resonance technique",
+          "Magnetic resonance study",
+          "NMR - Nuclear magnetic resonance",
+          "MR - Magnetic resonance",
+          "Magnetic resonance imaging (procedure)",
+          "MRI - Magnetic resonance imaging",
+          "Magnetic resonance imaging - action (qualifier value)",
           "Unclassified malignant tumour",
           "Unclassified malignant tumor",
           "Cancer",
@@ -328990,20 +329690,7 @@
           "Status post (contextual qualifier) (qualifier value)",
           "Condition following",
           "magnetic resonance imaging",
-          "Magnetic resonance imaging",
-          "Magnetic resonance imaging - action (qualifier value)",
-          "MRI - Magnetic resonance imaging",
-          "Magnetic resonance imaging (procedure)",
-          "MR - Magnetic resonance",
-          "NMR - Nuclear magnetic resonance",
-          "Magnetic resonance study",
-          "Magnetic resonance technique",
-          "MRI",
           "MR imaging",
-          "Magnetic resonance imaging - action",
-          "MRI scan",
-          "NMR",
-          "Nuclear magnetic resonance imaging",
           "2nd",
           "Second - ordinal",
           "Second (qualifier value)",
@@ -329045,13 +329732,13 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
+          "Other",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -329097,10 +329784,10 @@
         "ncit_concept_code": "C17007",
         "synonyms": [
           "PET scan",
-          "PET",
           "PET Scans",
           "Positron emission tomographic imaging - action",
           "PET/CT scan",
+          "PET",
           "PET imaging",
           "Positron emission tomogram",
           "Positron emission tomography (procedure)",
@@ -329134,16 +329821,16 @@
         "ncit_concept_code": "C16588",
         "synonyms": [
           "Fluoroscopy",
-          "radiography-fluoroscopy",
-          "radio-fluoro",
-          "radiofluoroscopy",
           "Fluoroscopic imaging - action",
-          "fluoro",
           "Fluoroscopy technique",
           "Fluoroscopy (procedure)",
           "Fluoroscopic imaging",
-          "FL",
           "Fluoroscopic imaging - action (qualifier value)",
+          "radiography-fluoroscopy",
+          "radio-fluoro",
+          "radiofluoroscopy",
+          "fluoro",
+          "FL",
           "fluoroscopy",
           "Fluoroscopy"
         ],
@@ -329152,6 +329839,8 @@
       {
         "ncit_concept_code": "C38101",
         "synonyms": [
+          "Diagnostic radiography",
+          "Diagnostic imaging procedure using X-rays",
           "projection radiography",
           "general radiography",
           "xray",
@@ -329159,8 +329848,6 @@
           "x-ray",
           "radiography",
           "Diagnostic Radiology",
-          "Diagnostic radiography",
-          "Diagnostic imaging procedure using X-rays",
           "X-Ray Imaging"
         ],
         "value": "RG"
@@ -329168,8 +329855,8 @@
       {
         "ncit_concept_code": "C190594",
         "synonyms": [
-          "radiation dose",
           "Radiation dose",
+          "radiation dose",
           "Radiation Dose"
         ],
         "value": "RTDOSE"
@@ -329230,8 +329917,8 @@
           "Single photon emission computerised tomography",
           "Single photon emission computed tomography",
           "Single photon emission computerized tomography",
-          "SPECT",
           "Single photon emission computed tomography - action",
+          "SPECT",
           "Single photon emission computerized tomogram",
           "Single photon emission computerised tomogram",
           "SPET - Single photon emission computed tomography",
@@ -329317,20 +330004,20 @@
           "US - ultrasound",
           "Echotomography",
           "Ultrasounds",
-          "ultrasound",
           "Ultrasound",
           "Ultrasonogram",
-          "sonography",
           "Sonogram",
           "Ultrasound scan NOS",
           "Ultrasound scan",
           "Ultrasound procedure",
           "General ultrasound",
           "GEN.US",
-          "echography",
           "Diagnostic ultrasound",
-          "ultrasonography",
           "Ultrasonography",
+          "ultrasound",
+          "sonography",
+          "echography",
+          "ultrasonography",
           "Ultrasound Imaging"
         ],
         "value": "US"
@@ -329343,16 +330030,16 @@
       {
         "ncit_concept_code": "C20080",
         "synonyms": [
-          "x-ray angiography",
-          "angio",
           "Angiography (procedure)",
           "Diagnostic angiography",
           "Angiograph",
           "Diagnostic angiogram",
           "Angiogram NOS",
           "Angiogram",
-          "angiography",
           "Angiography",
+          "x-ray angiography",
+          "angio",
+          "angiography",
           "X-ray Angiography"
         ],
         "value": "XA"
@@ -329376,9 +330063,9 @@
       {
         "ncit_concept_code": "C17204",
         "synonyms": [
+          "Computerised axial tomography",
           "Computed tomography (procedure)",
           "Computed tomography",
-          "Computerised axial tomography",
           "Computerized axial tomography",
           "CT scan",
           "CAT Scans",
@@ -329395,19 +330082,19 @@
           "Computerized tomograph scan",
           "CT - Computerised tomography",
           "CT - Computerized tomography",
-          "computed tomography",
           "CAT scan",
           "CAT",
           "Computerized transverse axial tomography",
           "Computerised transverse axial tomography",
-          "Computerized transverse axial tomogram",
-          "Computerised transverse axial tomogram",
-          "Computerized axial tomogram",
-          "Computerised axial tomogram",
-          "Computed axial tomography",
-          "CAT - Computerised axial tomography",
-          "CAT - Computerized axial tomography",
           "Computer-assisted transaxial tomography",
+          "CAT - Computerized axial tomography",
+          "CAT - Computerised axial tomography",
+          "Computed axial tomography",
+          "Computerised axial tomogram",
+          "Computerized axial tomogram",
+          "Computerised transverse axial tomogram",
+          "Computerized transverse axial tomogram",
+          "computed tomography",
           "Computed Tomography"
         ],
         "value": "CT"
@@ -329419,8 +330106,8 @@
           "Duplex ultrasound",
           "Duplex ultrasonography",
           "Duplex ultrasonography (procedure)",
-          "duplex ultrasound",
           "Duplex ultrasound (qualifier value)",
+          "duplex ultrasound",
           "Duplex Ultrasound"
         ],
         "value": "DD"
@@ -329467,19 +330154,19 @@
         "synonyms": [
           "Ultrasound of heart",
           "Echocardiogram",
-          "echo imaging",
-          "Dx ultrasound-heart",
           "Ultrasonography of heart",
           "US scan of heart",
           "US heart scan",
           "Echocardiography (procedure)",
           "Echocardiographic procedure",
-          "echocardiogram",
-          "Diagnostic ultrasound of heart",
           "Cardiac US scan",
           "Cardiac echo",
-          "echocardiography",
           "Echocardiography",
+          "echo imaging",
+          "Dx ultrasound-heart",
+          "echocardiogram",
+          "Diagnostic ultrasound of heart",
+          "echocardiography",
           "Echocardiography Test"
         ],
         "value": "EC"
@@ -329488,11 +330175,11 @@
         "ncit_concept_code": "C80414",
         "synonyms": [
           "Cardiac electrophysiology study",
-          "Cath base invasv ep test",
-          "Catheter based invasive electrophysiologic testing",
           "Cardiac electrophysiologic study",
           "Cardiac electrophysiologic stimulation and recording study (procedure)",
           "Cardiac electrophysiologic stimulation and recording study",
+          "Cath base invasv ep test",
+          "Catheter based invasive electrophysiologic testing",
           "Cardiac Electrophysiology Study"
         ],
         "value": "EPS"
@@ -329503,11 +330190,11 @@
           "Inspection using endoscope",
           "Endoscopy, NOS",
           "Endoscopy NOS",
-          "endoscopy",
           "Endoscopy",
-          "endoscopic",
           "Endoscopy procedure",
           "Endoscopy (procedure)",
+          "endoscopy",
+          "endoscopic",
           "Endoscopic Procedure"
         ],
         "value": "ES"
@@ -329589,12 +330276,12 @@
         "ncit_concept_code": "C16969",
         "synonyms": [
           "Laparoscopy (procedure)",
-          "laparoscopic",
           "Coelioscopy",
           "Celioscopy",
+          "Laparoscopy",
+          "laparoscopic",
           "Abdomen endoscopy (procedure)",
           "Abdomen endoscopy",
-          "Laparoscopy",
           "Laparoscopy"
         ],
         "value": "LP"
@@ -333213,12 +333900,12 @@
         "ncit_concept_code": "C17649",
         "synonyms": [
           "Unspecified leukemia",
+          "Other (qualifier value)",
           "CNS embryonal tumor, NOS",
           "Leukaemia",
           "Leukemia",
           "Leukaemia, disease",
           "Leukemia, disease",
-          "Other (qualifier value)",
           "Idiopathic pneumonia syndrome",
           "Idiopathic pneumonia syndrome (disorder)",
           "Indication of (contextual qualifier)",
@@ -334329,6 +335016,8 @@
       {
         "ncit_concept_code": "C38101",
         "synonyms": [
+          "Diagnostic radiography",
+          "Diagnostic imaging procedure using X-rays",
           "projection radiography",
           "general radiography",
           "xray",
@@ -334336,8 +335025,6 @@
           "x-ray",
           "radiography",
           "Diagnostic Radiology",
-          "Diagnostic radiography",
-          "Diagnostic imaging procedure using X-rays",
           "X-Ray Imaging"
         ],
         "value": "X-Ray"
@@ -334409,6 +335096,18 @@
         "ncit_concept_code": "C16809",
         "synonyms": [
           "After values",
+          "Magnetic resonance imaging",
+          "Nuclear magnetic resonance imaging",
+          "NMR",
+          "MRI scan",
+          "Magnetic resonance imaging - action",
+          "Magnetic resonance technique",
+          "Magnetic resonance study",
+          "NMR - Nuclear magnetic resonance",
+          "MR - Magnetic resonance",
+          "Magnetic resonance imaging (procedure)",
+          "MRI - Magnetic resonance imaging",
+          "Magnetic resonance imaging - action (qualifier value)",
           "Unclassified malignant tumour",
           "Unclassified malignant tumor",
           "Cancer",
@@ -334444,20 +335143,8 @@
           "Status post (contextual qualifier) (qualifier value)",
           "Condition following",
           "magnetic resonance imaging",
-          "Magnetic resonance imaging",
-          "Magnetic resonance imaging - action (qualifier value)",
-          "MRI - Magnetic resonance imaging",
-          "Magnetic resonance imaging (procedure)",
-          "MR - Magnetic resonance",
-          "NMR - Nuclear magnetic resonance",
-          "Magnetic resonance study",
-          "Magnetic resonance technique",
           "MR",
           "MR imaging",
-          "Magnetic resonance imaging - action",
-          "MRI scan",
-          "NMR",
-          "Nuclear magnetic resonance imaging",
           "2nd",
           "Second - ordinal",
           "Second (qualifier value)",
@@ -334515,9 +335202,9 @@
       {
         "ncit_concept_code": "C17204",
         "synonyms": [
+          "Computerised axial tomography",
           "Computed tomography (procedure)",
           "Computed tomography",
-          "Computerised axial tomography",
           "Computerized axial tomography",
           "CT scan",
           "CAT Scans",
@@ -334534,19 +335221,19 @@
           "Computerized tomograph scan",
           "CT - Computerised tomography",
           "CT - Computerized tomography",
-          "computed tomography",
           "CAT scan",
           "CAT",
           "Computerized transverse axial tomography",
           "Computerised transverse axial tomography",
-          "Computerized transverse axial tomogram",
-          "Computerised transverse axial tomogram",
-          "Computerized axial tomogram",
-          "Computerised axial tomogram",
-          "Computed axial tomography",
-          "CAT - Computerised axial tomography",
-          "CAT - Computerized axial tomography",
           "Computer-assisted transaxial tomography",
+          "CAT - Computerized axial tomography",
+          "CAT - Computerised axial tomography",
+          "Computed axial tomography",
+          "Computerised axial tomogram",
+          "Computerized axial tomogram",
+          "Computerised transverse axial tomogram",
+          "Computerized transverse axial tomogram",
+          "computed tomography",
           "Computed Tomography"
         ],
         "value": "CT"
