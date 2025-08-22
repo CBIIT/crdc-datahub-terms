@@ -61537,6 +61537,12 @@
       {
         "ncit_concept_code": "C642",
         "synonyms": [
+          "Cerebrospinal fluid (CSF)",
+          "Spinal fluid",
+          "Cerebrospinal fluid (substance)",
+          "CSF - Cerebrospinal fluid",
+          "Cerebral spinal fluid",
+          "Cerebrospinal fluid",
           "MTX - methotrexate",
           "Methotrexate-containing product",
           "Product containing methotrexate (medicinal product)",
@@ -61545,12 +61551,6 @@
           "liquor cerebrospinalis",
           "cerebrospinal fluid",
           "portion of cerebrospinal fluid",
-          "Cerebrospinal fluid (CSF)",
-          "Spinal fluid",
-          "Cerebrospinal fluid (substance)",
-          "CSF - Cerebrospinal fluid",
-          "Cerebral spinal fluid",
-          "Cerebrospinal fluid",
           "Methotrexate"
         ],
         "value": "Methotrexate"
@@ -74157,12 +74157,12 @@
       {
         "ncit_concept_code": "C92574",
         "synonyms": [
+          "Blood (substance)",
+          "Blood",
           "Apalutamide-containing product",
           "Product containing apalutamide (medicinal product)",
           "Apalutamide (substance)",
-          "Blood",
           "portion of blood",
-          "Blood (substance)",
           "blood",
           "Apalutamide"
         ],
@@ -77475,7 +77475,6 @@
       {
         "ncit_concept_code": "C975",
         "synonyms": [
-          "4-Hydroxy-Tamoxifen",
           "Blood plasma (product)",
           "Plasma (substance)",
           "Blood plasma",
@@ -77484,6 +77483,7 @@
           "Body tissue structure",
           "Body tissue structure (body structure)",
           "Body tissue",
+          "4-Hydroxy-Tamoxifen",
           "Afimoxifene"
         ],
         "value": "Afimoxifene"
@@ -123841,14 +123841,6 @@
       {
         "ncit_concept_code": "C2852",
         "synonyms": [
-          "Malignant adenomatous neoplasm",
-          "Malignant adenomatous neoplasm (morphologic abnormality)",
-          "Adenocarcinoma",
-          "Adenocarcinoma (morphologic abnormality)",
-          "Adenocarcinoma, NOS",
-          "Carcinoma in adenoma",
-          "Malignant adenomatous neoplasm (disorder)",
-          "Adenocarcinoma NOS",
           "Adenoma",
           "Adenoma (morphologic abnormality)",
           "Adenoma, NOS",
@@ -123857,6 +123849,14 @@
           "Adenoma benign NOS",
           "Adenoma benign",
           "Adenoma NOS",
+          "Malignant adenomatous neoplasm",
+          "Malignant adenomatous neoplasm (morphologic abnormality)",
+          "Adenocarcinoma",
+          "Adenocarcinoma (morphologic abnormality)",
+          "Adenocarcinoma, NOS",
+          "Carcinoma in adenoma",
+          "Malignant adenomatous neoplasm (disorder)",
+          "Adenocarcinoma NOS",
           "Adenocarcinoma, usual type",
           "adenocarcinoma",
           "Adenocarcinoma"
@@ -128308,18 +128308,18 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
-          "Not",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Not",
           "Daily"
         ],
         "value": "Not daily"
@@ -128731,17 +128731,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Not",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Not",
           "Daily"
         ],
         "value": "Daily"
@@ -147953,18 +147953,18 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
-          "Not",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Not",
           "Daily"
         ],
         "value": "Every Day"
@@ -148742,11 +148742,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -148825,15 +148825,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -149151,7 +149151,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -149169,6 +149168,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -149199,8 +149199,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -149218,6 +149216,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -149363,10 +149363,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -149374,12 +149374,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -196952,13 +196952,6 @@
       {
         "ncit_concept_code": "C2852",
         "synonyms": [
-          "Malignant adenomatous neoplasm",
-          "Malignant adenomatous neoplasm (morphologic abnormality)",
-          "Adenocarcinoma (morphologic abnormality)",
-          "Adenocarcinoma, NOS",
-          "Carcinoma in adenoma",
-          "Malignant adenomatous neoplasm (disorder)",
-          "Adenocarcinoma NOS",
           "Adenoma",
           "Adenoma (morphologic abnormality)",
           "Adenoma, NOS",
@@ -196967,6 +196960,13 @@
           "Adenoma benign NOS",
           "Adenoma benign",
           "Adenoma NOS",
+          "Malignant adenomatous neoplasm",
+          "Malignant adenomatous neoplasm (morphologic abnormality)",
+          "Adenocarcinoma (morphologic abnormality)",
+          "Adenocarcinoma, NOS",
+          "Carcinoma in adenoma",
+          "Malignant adenomatous neoplasm (disorder)",
+          "Adenocarcinoma NOS",
           "Adenocarcinoma, usual type",
           "adenocarcinoma",
           "Adenocarcinoma"
@@ -214144,13 +214144,21 @@
         "value": "Biochemical"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C36162",
+        "synonyms": [
+          "Local disease",
+          "Local disease (finding)",
+          "Localized disease",
+          "Localised disease",
+          "Localized Disease"
+        ],
         "value": "Local"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C41844",
+        "synonyms": [
+          "Regional Disease"
+        ],
         "value": "Regional"
       },
       {
@@ -237765,6 +237773,17 @@
         "ncit_concept_code": "C132383",
         "synonyms": [
           "Hepatitis B virus surface Antibody",
+          "Hepatitis B virus Ab",
+          "Antibody to Hepatitis B virus",
+          "Antibody to Hepatitis B virus (substance)",
+          "Hepatitis B virus antibody",
+          "Hepatitis B virus Antibody",
+          "Carbon dioxide-containing product",
+          "Product containing carbon dioxide (medicinal product)",
+          "Carbon dioxide (substance)",
+          "CO2 - Carbon dioxide",
+          "Carbonic anhydride",
+          "Carbon dioxide",
           "Antibody to Hepatitis B virus surface antigen",
           "Antibody to Hepatitis B virus surface antigen (substance)",
           "Hepatitis B virus surface antigen Ab",
@@ -237785,19 +237804,10 @@
           "Antibody to hepatitis B surface antigen (substance)",
           "Antibody to hepatitis B surface antigen",
           "Hepatitis B surface antibody",
-          "Carbon dioxide",
-          "Carbonic anhydride",
-          "CO2 - Carbon dioxide",
-          "Carbon dioxide (substance)",
-          "Product containing carbon dioxide (medicinal product)",
-          "Carbon dioxide-containing product",
           "Hepatitis B antibody",
           "Antibody to hepatitis B",
           "Antibody to hepatitis B virus (substance)",
-          "Hepatitis B virus antibody",
           "Antibody to hepatitis B virus",
-          "Hepatitis B virus Antibody",
-          "Hepatitis B virus Ab",
           "Free Prostate Specific Antigen Measurement"
         ],
         "value": "Prostate Specific Antigen Free (PSAF), Serum"
@@ -251023,13 +251033,13 @@
       {
         "ncit_concept_code": "C44256",
         "synonyms": [
+          "Albumin (substance)",
+          "Albumin",
           "Ratio (property)",
           "Ratio (property) (qualifier value)",
           "Ratios",
           "RATIO",
           "Ratio",
-          "Albumin (substance)",
-          "Albumin",
           "Ratio"
         ],
         "value": "ratio"
@@ -251281,11 +251291,6 @@
       {
         "ncit_concept_code": "C48154",
         "synonyms": [
-          "minutes",
-          "minute",
-          "minute (qualifier value)",
-          "60",
-          "30",
           "Located in",
           "Has setting",
           "Has location",
@@ -251298,6 +251303,11 @@
           "Greater-than symbol >",
           "Greater-than symbol > (qualifier value)",
           ">",
+          "minutes",
+          "minute",
+          "minute (qualifier value)",
+          "60",
+          "30",
           "Minute"
         ],
         "value": "min"
@@ -256045,10 +256055,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -256056,12 +256066,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -256122,7 +256132,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -256140,6 +256149,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -256147,8 +256157,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -256166,6 +256174,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -256285,11 +256295,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -256438,15 +256448,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -259594,6 +259604,11 @@
       {
         "ncit_concept_code": "C100900",
         "synonyms": [
+          "PCR (polymerase chain reaction) technique",
+          "Polymerase chain reaction technique (qualifier value)",
+          "Polymerase chain reaction technique",
+          "Polymerase chain reaction",
+          "PCR",
           "cpy/mL",
           "Copies/milliliter (qualifier value)",
           "Copies/milliliter",
@@ -259601,11 +259616,6 @@
           "Copies per milliliter",
           "Copy per millilitre",
           "Copy per milliliter",
-          "PCR (polymerase chain reaction) technique",
-          "Polymerase chain reaction technique (qualifier value)",
-          "Polymerase chain reaction technique",
-          "Polymerase chain reaction",
-          "PCR",
           "Copies per Milliliter"
         ],
         "value": "copies/mL"
@@ -261448,18 +261458,18 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
-          "Not",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Not",
           "Daily"
         ],
         "value": "/day"
@@ -263445,12 +263455,12 @@
       {
         "ncit_concept_code": "C44256",
         "synonyms": [
+          "Albumin (substance)",
+          "Albumin",
           "Ratio (property)",
           "Ratio (property) (qualifier value)",
           "Ratios",
           "Ratio",
-          "Albumin (substance)",
-          "Albumin",
           "Ratio"
         ],
         "value": "RATIO"
@@ -264797,14 +264807,15 @@
       {
         "ncit_concept_code": "C29848",
         "synonyms": [
-          "yr",
-          "year (qualifier value)",
-          "years",
-          "year",
+          "2",
           "Two",
           "One",
           "Four",
           "9",
+          "yr",
+          "year (qualifier value)",
+          "years",
+          "year",
           "Year"
         ],
         "value": "YEARS"
@@ -265087,11 +265098,6 @@
       {
         "ncit_concept_code": "C48154",
         "synonyms": [
-          "minutes",
-          "minute",
-          "minute (qualifier value)",
-          "60",
-          "30",
           "Located in",
           "Has setting",
           "Has location",
@@ -265104,6 +265110,11 @@
           "Greater-than symbol >",
           "Greater-than symbol > (qualifier value)",
           ">",
+          "minutes",
+          "minute",
+          "minute (qualifier value)",
+          "60",
+          "30",
           "Minute"
         ],
         "value": "min"
@@ -265611,18 +265622,18 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
-          "Not",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Not",
           "Daily"
         ],
         "value": "Extended Release Daily"
@@ -265986,17 +265997,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
-          "Not",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
+          "Not",
           "Daily"
         ],
         "value": "Every day"
@@ -266538,13 +266549,6 @@
       {
         "ncit_concept_code": "C2852",
         "synonyms": [
-          "Malignant adenomatous neoplasm",
-          "Malignant adenomatous neoplasm (morphologic abnormality)",
-          "Adenocarcinoma (morphologic abnormality)",
-          "Adenocarcinoma, NOS",
-          "Carcinoma in adenoma",
-          "Malignant adenomatous neoplasm (disorder)",
-          "Adenocarcinoma NOS",
           "Adenoma",
           "Adenoma (morphologic abnormality)",
           "Adenoma, NOS",
@@ -266553,6 +266557,13 @@
           "Adenoma benign NOS",
           "Adenoma benign",
           "Adenoma NOS",
+          "Malignant adenomatous neoplasm",
+          "Malignant adenomatous neoplasm (morphologic abnormality)",
+          "Adenocarcinoma (morphologic abnormality)",
+          "Adenocarcinoma, NOS",
+          "Carcinoma in adenoma",
+          "Malignant adenomatous neoplasm (disorder)",
+          "Adenocarcinoma NOS",
           "Adenocarcinoma, usual type",
           "adenocarcinoma",
           "Adenocarcinoma"
@@ -269599,13 +269610,21 @@
         "value": "Biochemical"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C36162",
+        "synonyms": [
+          "Local disease",
+          "Local disease (finding)",
+          "Localized disease",
+          "Localised disease",
+          "Localized Disease"
+        ],
         "value": "Local"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C41844",
+        "synonyms": [
+          "Regional Disease"
+        ],
         "value": "Regional"
       },
       {
@@ -283617,7 +283636,60 @@
         "version": "3.1.0-ce9d6d5"
       }
     ],
-    "permissibleValues": []
+    "permissibleValues": [
+      {
+        "ncit_concept_code": "C41844",
+        "synonyms": [
+          "Regional Disease"
+        ],
+        "value": "Regional"
+      },
+      {
+        "ncit_concept_code": "C204902",
+        "synonyms": [
+          "Locoregional Disease"
+        ],
+        "value": "Locoregional"
+      },
+      {
+        "ncit_concept_code": "C17998",
+        "synonyms": [
+          "Unk",
+          "Not known",
+          "Unknown (qualifier value)",
+          "NOS, unknown",
+          "? = Unknown",
+          "unknown",
+          "Unknown"
+        ],
+        "value": "Unknown"
+      },
+      {
+        "ncit_concept_code": "C43234",
+        "synonyms": [
+          "Not Reported"
+        ],
+        "value": "Not Reported"
+      },
+      {
+        "ncit_concept_code": "C36162",
+        "synonyms": [
+          "Local disease",
+          "Local disease (finding)",
+          "Localized disease",
+          "Localised disease",
+          "Localized Disease"
+        ],
+        "value": "Local"
+      },
+      {
+        "ncit_concept_code": "C40557",
+        "synonyms": [
+          "Metastatic Lesion"
+        ],
+        "value": "Metastatic"
+      }
+    ]
   },
   {
     "CDECode": "5615611",
@@ -286599,10 +286671,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -286610,12 +286682,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -286676,7 +286748,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -286694,6 +286765,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -286701,8 +286773,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -286720,6 +286790,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -286839,11 +286911,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -286992,15 +287064,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -313612,10 +313684,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -313623,12 +313695,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -313689,7 +313761,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -313707,6 +313778,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -313714,8 +313786,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -313733,6 +313803,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -313852,11 +313924,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -314005,15 +314077,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -315006,13 +315078,6 @@
       {
         "ncit_concept_code": "C2852",
         "synonyms": [
-          "Malignant adenomatous neoplasm",
-          "Malignant adenomatous neoplasm (morphologic abnormality)",
-          "Adenocarcinoma (morphologic abnormality)",
-          "Adenocarcinoma, NOS",
-          "Carcinoma in adenoma",
-          "Malignant adenomatous neoplasm (disorder)",
-          "Adenocarcinoma NOS",
           "Adenoma",
           "Adenoma (morphologic abnormality)",
           "Adenoma, NOS",
@@ -315021,6 +315086,13 @@
           "Adenoma benign NOS",
           "Adenoma benign",
           "Adenoma NOS",
+          "Malignant adenomatous neoplasm",
+          "Malignant adenomatous neoplasm (morphologic abnormality)",
+          "Adenocarcinoma (morphologic abnormality)",
+          "Adenocarcinoma, NOS",
+          "Carcinoma in adenoma",
+          "Malignant adenomatous neoplasm (disorder)",
+          "Adenocarcinoma NOS",
           "Adenocarcinoma, usual type",
           "adenocarcinoma",
           "Adenocarcinoma"
@@ -317439,13 +317511,21 @@
         "value": "Biochemical"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C36162",
+        "synonyms": [
+          "Local disease",
+          "Local disease (finding)",
+          "Localized disease",
+          "Localised disease",
+          "Localized Disease"
+        ],
         "value": "Local"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C41844",
+        "synonyms": [
+          "Regional Disease"
+        ],
         "value": "Regional"
       },
       {
@@ -349969,10 +350049,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -349980,12 +350060,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -350046,7 +350126,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -350064,6 +350143,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -350071,8 +350151,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -350090,6 +350168,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -350209,11 +350289,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -350362,15 +350442,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -358386,13 +358466,6 @@
       {
         "ncit_concept_code": "C2852",
         "synonyms": [
-          "Malignant adenomatous neoplasm",
-          "Malignant adenomatous neoplasm (morphologic abnormality)",
-          "Adenocarcinoma (morphologic abnormality)",
-          "Adenocarcinoma, NOS",
-          "Carcinoma in adenoma",
-          "Malignant adenomatous neoplasm (disorder)",
-          "Adenocarcinoma NOS",
           "Adenoma",
           "Adenoma (morphologic abnormality)",
           "Adenoma, NOS",
@@ -358401,6 +358474,13 @@
           "Adenoma benign NOS",
           "Adenoma benign",
           "Adenoma NOS",
+          "Malignant adenomatous neoplasm",
+          "Malignant adenomatous neoplasm (morphologic abnormality)",
+          "Adenocarcinoma (morphologic abnormality)",
+          "Adenocarcinoma, NOS",
+          "Carcinoma in adenoma",
+          "Malignant adenomatous neoplasm (disorder)",
+          "Adenocarcinoma NOS",
           "Adenocarcinoma, usual type",
           "adenocarcinoma",
           "Adenocarcinoma"
