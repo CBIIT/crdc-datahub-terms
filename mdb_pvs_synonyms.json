@@ -362062,6 +362062,39 @@
         "value": "United States Minor Outlying Islands"
       },
       {
+        "ncit_concept_code": "C16762",
+        "synonyms": [
+          "Cote d'Ivoire (geographic location)",
+          "Cote d'Ivoire",
+          "Ivory Coast",
+          "Cote d'Ivoire"
+        ],
+        "value": "C\u00f4te d\u2019Ivoire"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "\u00c5land Island"
+      },
+      {
+        "ncit_concept_code": "C17116",
+        "synonyms": [
+          "Sao Tome and Principe (geographic location)",
+          "Sao Tome and Principe",
+          "Sao Tome and Principe"
+        ],
+        "value": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+      },
+      {
+        "ncit_concept_code": "C17095",
+        "synonyms": [
+          "Reunion",
+          "Reunion (geographic location)",
+          "Reunion"
+        ],
+        "value": "R\u00e9union"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Eswatini (Swaziland)"
