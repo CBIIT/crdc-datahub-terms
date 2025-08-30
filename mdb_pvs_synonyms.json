@@ -156076,6 +156076,13 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C20195",
+        "synonyms": [
+          "Gene Fusion"
+        ],
+        "value": "Gene Fusion"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Trisomy"
@@ -207809,6 +207816,71 @@
         "value": "Other"
       },
       {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "49 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "13 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "19 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "22 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "25 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "31 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "34 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "37 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "40 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "43 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "46 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "7 months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "10 months"
+      },
+      {
         "ncit_concept_code": "C54734",
         "synonyms": [
           "Pre-Therapy"
@@ -240035,6 +240107,121 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
+        "value": "Striational Abs2, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Striational Abs1, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "AChR Ganglionic Neuronal Ab, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "LGI1-IgG CBA, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CASPR2-IgG CBA, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "ANNA-2, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "ANNA-3, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "ANNA-1, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Anti-Glial/Neuronal Nuclear Ab-1, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neuronal (V-G) K+ Channel Ab, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "N-Type Calcium Channel Ab, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "P/Q Type Calcium Channel Ab, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "CRMP-5-Ig-G, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Amphiphysin Ab, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Purkinje Ab-1, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Purkinje Ab-Tr, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Purkinje Ab-2, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Jo 1 Ab, IgG, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Scl 70 Ab, IgG, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "RNP Ab, IgG, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Sm Ab, IgG, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "SS-B/La Ab, IgG, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "SS-A/Ro Ab, IgG, Serum"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
         "value": "CXCL9, Plasma"
       },
       {
@@ -267144,6 +267331,8 @@
       {
         "ncit_concept_code": "C29846",
         "synonyms": [
+          "13",
+          "40",
           "Months",
           "month (qualifier value)",
           "months",
@@ -290003,6 +290192,41 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C45589",
+        "synonyms": [
+          "Inversion Mutation Abnormality"
+        ],
+        "value": "Inversion"
+      },
+      {
+        "ncit_concept_code": "C36438",
+        "synonyms": [
+          "Chromosomal Gain"
+        ],
+        "value": "Chromosomal Gain"
+      },
+      {
+        "ncit_concept_code": "C36315",
+        "synonyms": [
+          "Chromosomal Loss"
+        ],
+        "value": "Chromosomal Loss"
+      },
+      {
+        "ncit_concept_code": "C192757",
+        "synonyms": [
+          "Nucleotide Duplication Mutation"
+        ],
+        "value": "Duplication"
+      },
+      {
+        "ncit_concept_code": "C21069",
+        "synonyms": [
+          "DNA Sequence Rearrangement"
+        ],
+        "value": "Rearrangement"
+      },
+      {
         "ncit_concept_code": "C129355",
         "synonyms": [
           "Chromothripsis"
@@ -290238,6 +290462,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C20195",
+        "synonyms": [
+          "Gene Fusion"
+        ],
+        "value": "Gene Fusion"
+      },
       {
         "ncit_concept_code": null,
         "synonyms": [],
@@ -355549,6 +355780,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C20195",
+        "synonyms": [
+          "Gene Fusion"
+        ],
+        "value": "Gene Fusion"
+      },
       {
         "ncit_concept_code": null,
         "synonyms": [],
