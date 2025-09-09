@@ -8544,11 +8544,6 @@
         "value": "Male"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "X"
-      },
-      {
         "ncit_concept_code": "C200588",
         "synonyms": [
           "Gender Identifier X"
@@ -8607,16 +8602,6 @@
           "Unknown"
         ],
         "value": "Unknown"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Female"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Male"
       }
     ]
   },
@@ -9254,16 +9239,6 @@
         "value": "Unknown"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Female"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Male"
-      },
-      {
         "ncit_concept_code": "C51024",
         "synonyms": [
           "Response Declined"
@@ -9394,16 +9369,6 @@
           "Unknown"
         ],
         "value": "Unknown"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Female"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Male"
       },
       {
         "ncit_concept_code": "C51024",
@@ -59642,16 +59607,6 @@
           "Unknown"
         ],
         "value": "Unknown"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Female"
-      },
-      {
-        "ncit_concept_code": null,
-        "synonyms": [],
-        "value": "Male"
       },
       {
         "ncit_concept_code": "C51024",
