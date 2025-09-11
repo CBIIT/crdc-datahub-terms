@@ -216,6 +216,11 @@
       {
         "property": "program.program_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "program.program_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -275,6 +280,11 @@
         "property": "program.program_name",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "program.program_name",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "program.program_name",
@@ -405,6 +415,11 @@
       {
         "property": "program.program_short_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "program.program_short_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -484,6 +499,11 @@
         "property": "program.program_short_name",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "program.program_short_name",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "program.program_short_name",
@@ -1328,6 +1348,11 @@
       {
         "property": "principal_investigator.person_orcid",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "principal_investigator.person_orcid",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -1691,6 +1716,11 @@
       {
         "property": "study.study_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "study.study_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -1765,6 +1795,11 @@
         "property": "study.study_name",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "study.study_name",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "study.study_name",
@@ -2239,6 +2274,11 @@
       {
         "property": "study.study_short_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "study.study_short_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -2303,6 +2343,11 @@
         "property": "study.study_short_name",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "study.study_short_name",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "study.study_short_name",
@@ -2380,6 +2425,11 @@
       {
         "property": "study.study_id",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "study.study_id",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -2449,6 +2499,11 @@
         "property": "study.study_description",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "study.study_description",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "study.study_description",
@@ -4335,6 +4390,11 @@
       {
         "property": "study.study_accession",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "study.study_accession",
+        "model": "CTDC",
         "version": "1.14.0"
       },
       {
@@ -4683,6 +4743,56 @@
       {
         "property": "associated_link.associated_link_record_id",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "image_collection.image_collection_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.demographic_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "exposure.exposure_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.radiological_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "participant_status.participant_status_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "associated_link.associated_link_record_id",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -5251,6 +5361,56 @@
       {
         "property": "associated_link.associated_link_record_id",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "image_collection.image_collection_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.demographic_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "exposure.exposure_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "diagnosis.diagnosis_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.radiological_procedure_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "participant_status.participant_status_record_id",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "associated_link.associated_link_record_id",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -5554,6 +5714,11 @@
       {
         "property": "associated_link.associated_link_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "associated_link.associated_link_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -5623,6 +5788,11 @@
         "property": "associated_link.associated_link_url",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "associated_link.associated_link_url",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "associated_link.associated_link_url",
@@ -5700,6 +5870,11 @@
       {
         "property": "image_collection.image_collection_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "image_collection.image_collection_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -5769,6 +5944,11 @@
         "property": "image_collection.image_type_included",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "image_collection.image_type_included",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "image_collection.image_type_included",
@@ -6869,6 +7049,16 @@
       {
         "property": "image_collection.image_collection_url",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "file.data_file_location",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "image_collection.image_collection_url",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -6972,6 +7162,11 @@
       {
         "property": "image_collection.repository_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "image_collection.repository_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -7041,6 +7236,11 @@
         "property": "image_collection.collection_access",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "image_collection.collection_access",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "image_collection.collection_access",
@@ -7140,6 +7340,11 @@
       {
         "property": "participant.participant_id",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "participant.participant_id",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -7209,6 +7414,11 @@
         "property": "participant.biomarker_results_available",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "participant.biomarker_results_available",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "participant.biomarker_results_available",
@@ -7534,6 +7744,11 @@
       {
         "property": "participant.radiology_report_available",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "participant.radiology_report_available",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -7633,6 +7848,11 @@
         "property": "participant.radiology_images_available",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "participant.radiology_images_available",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "participant.radiology_images_available",
@@ -8090,6 +8310,11 @@
         "property": "participant.histology_images_available",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "participant.histology_images_available",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "participant.histology_images_available",
@@ -8894,6 +9119,11 @@
       {
         "property": "demographic.age_at_enrollment",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.age_at_enrollment",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -9156,6 +9386,11 @@
       {
         "property": "demographic.ethnicity",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.ethnicity",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -9266,6 +9501,11 @@
         "property": "demographic.ethnicity",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "demographic.ethnicity",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "demographic.ethnicity",
@@ -9676,6 +9916,11 @@
       {
         "property": "demographic.sex",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.sex",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -9809,6 +10054,11 @@
         "property": "demographic.sex",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "demographic.sex",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "demographic.sex",
@@ -10578,6 +10828,11 @@
       {
         "property": "demographic.height",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.height",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -10646,6 +10901,11 @@
       {
         "property": "demographic.weight",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.weight",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -10710,6 +10970,11 @@
         "property": "demographic.weight",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "demographic.weight",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "demographic.weight",
@@ -10787,6 +11052,11 @@
       {
         "property": "demographic.body_surface_area",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.body_surface_area",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -10856,6 +11126,11 @@
         "property": "demographic.income",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "demographic.income",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "demographic.income",
@@ -11087,6 +11362,11 @@
         "property": "demographic.ncbi_taxonomy_id",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "demographic.ncbi_taxonomy_id",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "demographic.ncbi_taxonomy_id",
@@ -11398,6 +11678,11 @@
       {
         "property": "demographic.ncbi_taxonomy_name",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "demographic.ncbi_taxonomy_name",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -11472,6 +11757,11 @@
         "property": "consent_group.consent_group_id",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "consent_group.consent_group_id",
@@ -31597,6 +31887,11 @@
       },
       {
         "property": "consent_group.consent_group_name",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "consent_group.consent_group_name",
         "model": "C3DC",
         "version": "3.2.3"
       },
@@ -31692,6 +31987,11 @@
         "property": "exposure.environmental_exposure_type",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "exposure.environmental_exposure_type",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "exposure.environmental_exposure_type",
@@ -31866,6 +32166,11 @@
       },
       {
         "property": "consent_group.consent_group_number",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
         "model": "C3DC",
         "version": "3.2.3"
       },
@@ -31946,6 +32251,11 @@
         "property": "exposure.carcinogen_exposure",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "exposure.carcinogen_exposure",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "exposure.carcinogen_exposure",
@@ -32041,6 +32351,11 @@
       {
         "property": "publication.digital_object_id",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "publication.digital_object_id",
+        "model": "CTDC",
         "version": "1.14.0"
       }
     ],
@@ -32065,6 +32380,11 @@
         "property": "publication.pubmed_id",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "publication.pubmed_id",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "publication.pubmed_id",
@@ -32113,6 +32433,11 @@
         "property": "diagnosis.primary_diagnosis_disease_group",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "diagnosis.primary_diagnosis_disease_group",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "diagnosis.primary_diagnosis_disease_group",
@@ -32247,6 +32572,11 @@
         "property": "diagnosis.primary_diagnosis_disease_group",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "diagnosis.primary_diagnosis_disease_group",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "diagnosis.primary_diagnosis_disease_group",
@@ -32390,6 +32720,11 @@
       {
         "property": "publication.publication_title",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "publication.publication_title",
+        "model": "CTDC",
         "version": "1.14.0"
       }
     ],
@@ -32418,6 +32753,11 @@
       {
         "property": "publication.authorship",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "publication.authorship",
+        "model": "CTDC",
         "version": "1.14.0"
       }
     ],
@@ -32442,6 +32782,11 @@
         "property": "publication.year_of_publication",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "publication.year_of_publication",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "publication.year_of_publication",
@@ -36239,6 +36584,11 @@
       {
         "property": "publication.journal_citation",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "publication.journal_citation",
+        "model": "CTDC",
         "version": "1.14.0"
       }
     ],
@@ -36365,6 +36715,11 @@
       {
         "property": "diagnosis.primary_disease_site",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "diagnosis.primary_disease_site",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -36434,6 +36789,11 @@
         "property": "diagnosis.histology",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "diagnosis.histology",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "diagnosis.histology",
@@ -36511,6 +36871,11 @@
       {
         "property": "diagnosis.histological_subtype",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "diagnosis.histological_subtype",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -36580,6 +36945,11 @@
         "property": "diagnosis.stage_of_disease",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "diagnosis.stage_of_disease",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "diagnosis.stage_of_disease",
@@ -36872,6 +37242,11 @@
       {
         "property": "diagnosis.tumor_grade",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -37077,6 +37452,11 @@
         "property": "diagnosis.tumor_grade",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "diagnosis.tumor_grade",
@@ -37330,6 +37710,16 @@
       {
         "property": "targeted_therapy.targeted_therapy",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -37468,6 +37858,16 @@
       {
         "property": "targeted_therapy.targeted_therapy_dose",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_dose",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_dose",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -37602,6 +38002,16 @@
         "property": "non_targeted_therapy.non_targeted_therapy_dose_units",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_dose_units",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_dose_units",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "targeted_therapy.targeted_therapy_dose_units",
@@ -40215,6 +40625,21 @@
       {
         "property": "targeted_therapy.targeted_therapy_start_date",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_start_date",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.radiotherapy_start_date",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_start_date",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -40398,6 +40823,21 @@
       {
         "property": "targeted_therapy.targeted_therapy_end_date",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_end_date",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.radiotherapy_end_date",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_end_date",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -40577,6 +41017,21 @@
         "property": "radiotherapy.radiotherapy_end_date",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "targeted_therapy.targeted_therapy_end_date",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "non_targeted_therapy.non_targeted_therapy_end_date",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.radiotherapy_end_date",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "targeted_therapy.targeted_therapy_end_date",
@@ -40760,6 +41215,16 @@
         "property": "radiotherapy.best_response_to_radiotherapy",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "targeted_therapy.best_response_to_targeted_therapy",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.best_response_to_radiotherapy",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "targeted_therapy.best_response_to_targeted_therapy",
@@ -41017,6 +41482,11 @@
       {
         "property": "surgery.surgical_procedure_anatomical_location",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_anatomical_location",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -41086,6 +41556,11 @@
         "property": "surgery.surgical_procedure_therapeutic",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_therapeutic",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "surgery.surgical_procedure_therapeutic",
@@ -41220,6 +41695,11 @@
       {
         "property": "surgery.surgical_procedure_findings",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "surgery.surgical_procedure_findings",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -41289,6 +41769,11 @@
         "property": "surgery.extent_of_residual_disease",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "surgery.extent_of_residual_disease",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "surgery.extent_of_residual_disease",
@@ -41366,6 +41851,11 @@
       {
         "property": "radiotherapy.radiological_procedure",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.radiological_procedure",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -41439,6 +41929,11 @@
       {
         "property": "radiotherapy.radiation_dose",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "radiotherapy.radiation_dose",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -41508,6 +42003,11 @@
         "property": "radiotherapy.radiation_dose_units",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "radiotherapy.radiation_dose_units",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "radiotherapy.radiation_dose_units",
@@ -41718,6 +42218,11 @@
         "property": "radiotherapy.radiation_frequency",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "radiotherapy.radiation_frequency",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "radiotherapy.radiation_frequency",
@@ -43052,6 +43557,11 @@
       {
         "property": "participant_status.off_study",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "participant_status.off_study",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -43478,6 +43988,11 @@
       {
         "property": "specimen.specimen_record_id",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "specimen.specimen_record_id",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -43547,6 +44062,11 @@
         "property": "specimen.specimen_type",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "specimen.specimen_type",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "specimen.specimen_type",
@@ -43695,6 +44215,11 @@
       {
         "property": "specimen.anatomical_collection_site",
         "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
+        "property": "specimen.anatomical_collection_site",
+        "model": "CTDC",
         "version": "1.4.0"
       },
       {
@@ -43775,6 +44300,11 @@
         "property": "specimen.anatomical_collection_site",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "specimen.anatomical_collection_site",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "specimen.anatomical_collection_site",
@@ -44017,6 +44547,11 @@
         "property": "diagnosis.date_of_diagnosis",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "diagnosis.date_of_diagnosis",
+        "model": "CTDC",
+        "version": "1.18.0"
       }
     ],
     "permissibleValues": []
@@ -45406,6 +45941,11 @@
         "version": "1.17.0"
       },
       {
+        "property": "file.data_file_name",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
         "property": "data_file.data_file_name",
         "model": "CTDC",
         "version": "1.4.0"
@@ -45474,6 +46014,11 @@
         "version": "1.17.0"
       },
       {
+        "property": "file.data_file_name",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
         "property": "data_file.data_file_name",
         "model": "CTDC",
         "version": "1.4.0"
@@ -45540,6 +46085,11 @@
         "property": "file.data_file_description",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_description",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_description",
@@ -45615,6 +46165,11 @@
         "version": "1.17.0"
       },
       {
+        "property": "file.data_file_description",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
         "property": "data_file.data_file_description",
         "model": "CTDC",
         "version": "1.4.0"
@@ -45686,6 +46241,11 @@
         "property": "file.data_file_format",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_format",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_format",
@@ -46347,6 +46907,11 @@
         "property": "file.data_file_format",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_format",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_format",
@@ -47020,6 +47585,11 @@
         "version": "1.17.0"
       },
       {
+        "property": "file.data_file_size",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
         "property": "data_file.data_file_size",
         "model": "CTDC",
         "version": "1.4.0"
@@ -47088,6 +47658,11 @@
         "version": "1.17.0"
       },
       {
+        "property": "file.data_file_size",
+        "model": "CTDC",
+        "version": "1.18.0"
+      },
+      {
         "property": "data_file.data_file_size",
         "model": "CTDC",
         "version": "1.4.0"
@@ -47154,6 +47729,11 @@
         "property": "file.data_file_checksum_value",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_checksum_value",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_checksum_value",
@@ -47227,6 +47807,11 @@
         "property": "file.data_file_checksum_value",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_checksum_value",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_checksum_value",
@@ -47300,6 +47885,11 @@
         "property": "file.data_file_checksum_type",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_checksum_type",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_checksum_type",
@@ -47390,6 +47980,11 @@
         "property": "file.data_file_checksum_type",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_checksum_type",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_checksum_type",
@@ -47485,6 +48080,11 @@
         "property": "file.data_file_compression_status",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_compression_status",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_compression_status",
@@ -47586,6 +48186,11 @@
         "property": "file.data_file_uuid",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "file.data_file_uuid",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "data_file.data_file_uuid",
@@ -58040,6 +58645,11 @@
         "property": "specimen.collection_date",
         "model": "CTDC",
         "version": "1.17.0"
+      },
+      {
+        "property": "specimen.collection_date",
+        "model": "CTDC",
+        "version": "1.18.0"
       },
       {
         "property": "specimen.collection_date",
