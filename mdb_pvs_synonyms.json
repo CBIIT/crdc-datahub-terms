@@ -7154,8 +7154,10 @@
         "value": "Male"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C200588",
+        "synonyms": [
+          "Gender Identifier X"
+        ],
         "value": "X"
       },
       {
