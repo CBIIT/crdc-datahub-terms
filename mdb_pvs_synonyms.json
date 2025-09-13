@@ -39474,6 +39474,8 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
+          "kilogram",
+          "kilogram (qualifier value)",
           "Cell structure",
           "Cell",
           "obsolete cell",
@@ -39483,8 +39485,6 @@
           "Cell structure (cell structure)",
           "Normal cell (cell)",
           "Cells",
-          "kilogram (qualifier value)",
-          "kilogram",
           "set of cells",
           "cell",
           "Kilogram",
@@ -39775,6 +39775,138 @@
           "Every Nineteen Hours"
         ],
         "value": "Every 19 hours"
+      },
+      {
+        "ncit_concept_code": "C89790",
+        "synonyms": [
+          "q48hr",
+          "Every forty eight hours (qualifier value)",
+          "Every 48 hours",
+          "Every Forty-eight Hours"
+        ],
+        "value": "Every forty eight hours"
+      },
+      {
+        "ncit_concept_code": "C89788",
+        "synonyms": [
+          "Every six weeks (qualifier value)",
+          "Every Six Weeks"
+        ],
+        "value": "Every six weeks"
+      },
+      {
+        "ncit_concept_code": "C64538",
+        "synonyms": [
+          "Every four months (qualifier value)",
+          "Every Four Months"
+        ],
+        "value": "Every four months"
+      },
+      {
+        "ncit_concept_code": "C64534",
+        "synonyms": [
+          "q4day",
+          "Every four days (qualifier value)",
+          "Every 4 days",
+          "Every Four Days"
+        ],
+        "value": "Every four days"
+      },
+      {
+        "ncit_concept_code": "C64533",
+        "synonyms": [
+          "q3day",
+          "Every three days (qualifier value)",
+          "Every 3 days",
+          "Every Three Days"
+        ],
+        "value": "Every three days"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Four times a day"
+      },
+      {
+        "ncit_concept_code": "C64528",
+        "synonyms": [
+          "Thrice weekly",
+          "Three times weekly (qualifier value)",
+          "Three times weekly",
+          "Three Times Weekly"
+        ],
+        "value": "Three times a week"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Three times per day"
+      },
+      {
+        "ncit_concept_code": "C64525",
+        "synonyms": [
+          "Alternate days (qualifier value)",
+          "Alternate days",
+          "Every Other Day"
+        ],
+        "value": "Every other day"
+      },
+      {
+        "ncit_concept_code": "C64523",
+        "synonyms": [
+          "Every eight hours (qualifier value)",
+          "q8h - Every eight hours",
+          "Every eight hours",
+          "Every Eight Hours"
+        ],
+        "value": "Every 8 hours"
+      },
+      {
+        "ncit_concept_code": "C64497",
+        "synonyms": [
+          "Twice weekly (qualifier value)",
+          "Two times a week",
+          "2x/wk",
+          "Twice weekly",
+          "Twice Weekly"
+        ],
+        "value": "Twice a week"
+      },
+      {
+        "ncit_concept_code": "C64496",
+        "synonyms": [
+          "Twice daily",
+          "bd - Twice daily",
+          "bd - bis die",
+          "Twice a day (qualifier value)",
+          "bid - Twice a day",
+          "Twice Daily"
+        ],
+        "value": "Twice a day"
+      },
+      {
+        "ncit_concept_code": "C139178",
+        "synonyms": [
+          "Every Night"
+        ],
+        "value": "Every night"
+      },
+      {
+        "ncit_concept_code": "C103390",
+        "synonyms": [
+          "Every Five Weeks"
+        ],
+        "value": "Every five weeks"
+      },
+      {
+        "ncit_concept_code": "C103389",
+        "synonyms": [
+          "Bimonthly (qualifier value)",
+          "Bimonthly",
+          "Every eight weeks",
+          "Every Eight Weeks"
+        ],
+        "value": "Every 8 weeks"
       },
       {
         "ncit_concept_code": "C139177",
@@ -146629,6 +146761,10 @@
       {
         "ncit_concept_code": "C12508",
         "synonyms": [
+          "kg",
+          "kilogram",
+          "Kilogram",
+          "kilogram (qualifier value)",
           "Cell structure",
           "Cell",
           "obsolete cell",
@@ -188741,6 +188877,10 @@
       {
         "ncit_concept_code": "C12508",
         "synonyms": [
+          "kg",
+          "kilogram",
+          "Kilogram",
+          "kilogram (qualifier value)",
           "Cell structure",
           "Cell",
           "obsolete cell",
@@ -197007,6 +197147,26 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C16576",
+        "synonyms": [
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
+          "Female"
+        ],
+        "value": "Female"
+      },
+      {
+        "ncit_concept_code": "C20197",
+        "synonyms": [
+          "M",
+          "Male"
+        ],
+        "value": "Male"
+      },
       {
         "ncit_concept_code": "C67142",
         "synonyms": [
@@ -251681,6 +251841,8 @@
       {
         "ncit_concept_code": "C28252",
         "synonyms": [
+          "kilogram",
+          "kilogram (qualifier value)",
           "Cell structure",
           "Cell",
           "obsolete cell",
@@ -251690,8 +251852,6 @@
           "Cell structure (cell structure)",
           "Normal cell (cell)",
           "Cells",
-          "kilogram (qualifier value)",
-          "kilogram",
           "set of cells",
           "cell",
           "Kilogram",
@@ -275100,6 +275260,10 @@
       {
         "ncit_concept_code": "C12508",
         "synonyms": [
+          "kg",
+          "kilogram",
+          "Kilogram",
+          "kilogram (qualifier value)",
           "Cell structure",
           "Cell",
           "obsolete cell",
@@ -334737,6 +334901,26 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C16576",
+        "synonyms": [
+          "Female structure",
+          "Female individual",
+          "Female (finding)",
+          "Female structure (body structure)",
+          "female",
+          "Female"
+        ],
+        "value": "Female"
+      },
+      {
+        "ncit_concept_code": "C20197",
+        "synonyms": [
+          "M",
+          "Male"
+        ],
+        "value": "Male"
+      },
       {
         "ncit_concept_code": "C67142",
         "synonyms": [
