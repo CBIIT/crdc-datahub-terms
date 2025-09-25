@@ -81342,6 +81342,13 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C136711",
+        "synonyms": [
+          "Immune-Modified Response Evaluation Criteria in Solid Tumors"
+        ],
+        "value": "iRECIST"
+      },
+      {
         "ncit_concept_code": "C198865",
         "synonyms": [
           "International Neuroblastoma Response Criteria, Brodeur 1993"
@@ -159086,6 +159093,22 @@
           "Von Hippel-Lindau disease",
           "Cerebroretinal angiomatosis",
           "Familial cerebello-retinal angiomatosis",
+          "Von Hippel Lindau Syndrome",
+          "Von Hippel-Lindau Syndrome"
+        ],
+        "value": "Von Hippel-Lindau Syndrome"
+      },
+      {
+        "ncit_concept_code": "C3105",
+        "synonyms": [
+          "Von Hippel-Lindau syndrome",
+          "VHL (Von Hippel-Lindau) syndrome",
+          "Von Hippel-Lindau syndrome (disorder)",
+          "Lindau's disease",
+          "Lindau' disease",
+          "Von Hippel-Lindau disease",
+          "Cerebroretinal angiomatosis",
+          "Familial cerebello-retinal angiomatosis",
           "Von Hippel Lindau Syndrome"
         ],
         "value": "Von Hippel-Lindau Syndrome"
@@ -159217,6 +159240,15 @@
       {
         "ncit_concept_code": "C178285",
         "synonyms": [
+          "PIK3CA related overgrowth spectrum",
+          "PROS Syndrome"
+        ],
+        "value": "PIK3CA-Related Overgrowth Spectrum"
+      },
+      {
+        "ncit_concept_code": "C178285",
+        "synonyms": [
+          "PROS Syndrome",
           "PIK3CA related overgrowth spectrum",
           "PIK3CA-Related Overgrowth Spectrum"
         ],
@@ -159585,6 +159617,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
@@ -311113,6 +311162,23 @@
           "Tumour susceptibility associated with germline BAP1 mutation",
           "BAP1 tumor predisposition syndrome",
           "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
           "BAP1 Tumor Predisposition Syndrome"
         ],
         "value": "BAP1 Tumor Predisposition Syndrome"
@@ -334348,6 +334414,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
@@ -366992,6 +367075,22 @@
           "Von Hippel-Lindau disease",
           "Cerebroretinal angiomatosis",
           "Familial cerebello-retinal angiomatosis",
+          "Von Hippel Lindau Syndrome",
+          "Von Hippel-Lindau Syndrome"
+        ],
+        "value": "Von Hippel-Lindau Syndrome"
+      },
+      {
+        "ncit_concept_code": "C3105",
+        "synonyms": [
+          "Von Hippel-Lindau syndrome",
+          "VHL (Von Hippel-Lindau) syndrome",
+          "Von Hippel-Lindau syndrome (disorder)",
+          "Lindau's disease",
+          "Lindau' disease",
+          "Von Hippel-Lindau disease",
+          "Cerebroretinal angiomatosis",
+          "Familial cerebello-retinal angiomatosis",
           "Von Hippel Lindau Syndrome"
         ],
         "value": "Von Hippel-Lindau Syndrome"
@@ -367123,6 +367222,15 @@
       {
         "ncit_concept_code": "C178285",
         "synonyms": [
+          "PIK3CA related overgrowth spectrum",
+          "PROS Syndrome"
+        ],
+        "value": "PIK3CA-Related Overgrowth Spectrum"
+      },
+      {
+        "ncit_concept_code": "C178285",
+        "synonyms": [
+          "PROS Syndrome",
           "PIK3CA related overgrowth spectrum",
           "PIK3CA-Related Overgrowth Spectrum"
         ],
@@ -367491,6 +367599,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
@@ -376253,6 +376378,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
