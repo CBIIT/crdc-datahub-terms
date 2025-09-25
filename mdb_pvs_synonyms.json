@@ -40794,16 +40794,16 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
           "Not",
           "Daily"
         ],
@@ -57970,13 +57970,46 @@
       {
         "ncit_concept_code": "C94826",
         "synonyms": [
-          "Structure of aortic body",
-          "Structure of aortic body (body structure)",
-          "Aortic body",
-          "Other (qualifier value)",
-          "Other",
-          "Paraganglia structure (body structure)",
+          "Leukemia, unspecified",
+          "Reason for (attribute)",
+          "Indication for (attribute)",
+          "Reason for",
+          "Justification",
+          "indication",
+          "Indications",
+          "With indication",
+          "Indication of",
+          "Indication for",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Leukaemia",
+          "Leukemia",
+          "Leukaemia, disease",
+          "Leukemia, disease",
+          "Unspecified leukemia",
+          "Unspecified leukaemia",
           "Paraganglia structure",
+          "Paraganglia structure (body structure)",
+          "Other",
+          "Other (qualifier value)",
+          "Aortic body",
+          "Structure of aortic body (body structure)",
+          "Structure of aortic body",
+          "leukemia",
+          "Leukaemia NOS",
+          "Leukaemias",
+          "Leukemia NOS",
+          "Leukemia, NOS",
+          "Leukemias",
+          "Leukemias, NOS",
+          "Leukaemia of unspecified cell type",
+          "Leukemia of unspecified cell type",
+          "Leukemia, disease (disorder)",
+          "Unspecified leukemia without mention of remission",
+          "Unspecified leukaemia without mention of remission",
+          "Leukaemia, unspecified",
+          "Leukaemia unspecified",
+          "Leukemia unspecified",
           "Paraganglion"
         ],
         "value": "Paraganglion"
@@ -79504,6 +79537,12 @@
       {
         "ncit_concept_code": "C642",
         "synonyms": [
+          "Cerebrospinal fluid (CSF)",
+          "Spinal fluid",
+          "Cerebrospinal fluid (substance)",
+          "CSF - Cerebrospinal fluid",
+          "Cerebral spinal fluid",
+          "Cerebrospinal fluid",
           "MTX - methotrexate",
           "Methotrexate-containing product",
           "Product containing methotrexate (medicinal product)",
@@ -79512,12 +79551,6 @@
           "liquor cerebrospinalis",
           "cerebrospinal fluid",
           "portion of cerebrospinal fluid",
-          "Cerebrospinal fluid (CSF)",
-          "Spinal fluid",
-          "Cerebrospinal fluid (substance)",
-          "CSF - Cerebrospinal fluid",
-          "Cerebral spinal fluid",
-          "Cerebrospinal fluid",
           "Methotrexate"
         ],
         "value": "Methotrexate"
@@ -92124,12 +92157,12 @@
       {
         "ncit_concept_code": "C92574",
         "synonyms": [
+          "Blood (substance)",
+          "Blood",
           "Apalutamide-containing product",
           "Product containing apalutamide (medicinal product)",
           "Apalutamide (substance)",
-          "Blood",
           "portion of blood",
-          "Blood (substance)",
           "blood",
           "Apalutamide"
         ],
@@ -95442,7 +95475,6 @@
       {
         "ncit_concept_code": "C975",
         "synonyms": [
-          "4-Hydroxy-Tamoxifen",
           "Blood plasma (product)",
           "Plasma (substance)",
           "Blood plasma",
@@ -95451,6 +95483,7 @@
           "Body tissue structure",
           "Body tissue structure (body structure)",
           "Body tissue",
+          "4-Hydroxy-Tamoxifen",
           "Afimoxifene"
         ],
         "value": "Afimoxifene"
@@ -97020,6 +97053,13 @@
       }
     ],
     "permissibleValues": [
+      {
+        "ncit_concept_code": "C136711",
+        "synonyms": [
+          "Immune-Modified Response Evaluation Criteria in Solid Tumors"
+        ],
+        "value": "iRECIST"
+      },
       {
         "ncit_concept_code": "C198865",
         "synonyms": [
@@ -137376,13 +137416,46 @@
       {
         "ncit_concept_code": "C94826",
         "synonyms": [
-          "Structure of aortic body",
-          "Structure of aortic body (body structure)",
-          "Aortic body",
-          "Other (qualifier value)",
-          "Other",
-          "Paraganglia structure (body structure)",
+          "Leukemia, unspecified",
+          "Reason for (attribute)",
+          "Indication for (attribute)",
+          "Reason for",
+          "Justification",
+          "indication",
+          "Indications",
+          "With indication",
+          "Indication of",
+          "Indication for",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Leukaemia",
+          "Leukemia",
+          "Leukaemia, disease",
+          "Leukemia, disease",
+          "Unspecified leukemia",
+          "Unspecified leukaemia",
           "Paraganglia structure",
+          "Paraganglia structure (body structure)",
+          "Other",
+          "Other (qualifier value)",
+          "Aortic body",
+          "Structure of aortic body (body structure)",
+          "Structure of aortic body",
+          "leukemia",
+          "Leukaemia NOS",
+          "Leukaemias",
+          "Leukemia NOS",
+          "Leukemia, NOS",
+          "Leukemias",
+          "Leukemias, NOS",
+          "Leukaemia of unspecified cell type",
+          "Leukemia of unspecified cell type",
+          "Leukemia, disease (disorder)",
+          "Unspecified leukemia without mention of remission",
+          "Unspecified leukaemia without mention of remission",
+          "Leukaemia, unspecified",
+          "Leukaemia unspecified",
+          "Leukemia unspecified",
           "Paraganglion"
         ],
         "value": "Paraganglion"
@@ -140944,17 +141017,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -141232,17 +141305,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -141741,11 +141814,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -141824,15 +141897,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -142150,7 +142223,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -142168,6 +142240,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -142198,8 +142271,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -142217,6 +142288,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -142362,10 +142435,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -142373,12 +142446,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -143050,6 +143123,22 @@
           "Von Hippel-Lindau disease",
           "Cerebroretinal angiomatosis",
           "Familial cerebello-retinal angiomatosis",
+          "Von Hippel Lindau Syndrome",
+          "Von Hippel-Lindau Syndrome"
+        ],
+        "value": "Von Hippel-Lindau Syndrome"
+      },
+      {
+        "ncit_concept_code": "C3105",
+        "synonyms": [
+          "Von Hippel-Lindau syndrome",
+          "VHL (Von Hippel-Lindau) syndrome",
+          "Von Hippel-Lindau syndrome (disorder)",
+          "Lindau's disease",
+          "Lindau' disease",
+          "Von Hippel-Lindau disease",
+          "Cerebroretinal angiomatosis",
+          "Familial cerebello-retinal angiomatosis",
           "Von Hippel Lindau Syndrome"
         ],
         "value": "Von Hippel-Lindau Syndrome"
@@ -143181,6 +143270,15 @@
       {
         "ncit_concept_code": "C178285",
         "synonyms": [
+          "PIK3CA related overgrowth spectrum",
+          "PROS Syndrome"
+        ],
+        "value": "PIK3CA-Related Overgrowth Spectrum"
+      },
+      {
+        "ncit_concept_code": "C178285",
+        "synonyms": [
+          "PROS Syndrome",
           "PIK3CA related overgrowth spectrum",
           "PIK3CA-Related Overgrowth Spectrum"
         ],
@@ -143549,6 +143647,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
@@ -214682,17 +214797,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -215490,10 +215605,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -215501,12 +215616,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -215567,7 +215682,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -215585,6 +215699,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -215592,8 +215707,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -215611,6 +215724,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -215730,11 +215845,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -215883,15 +215998,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -235965,10 +236080,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -235976,12 +236091,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -236042,7 +236157,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -236060,6 +236174,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -236067,8 +236182,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -236086,6 +236199,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -236205,11 +236320,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -236358,15 +236473,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -237372,13 +237487,13 @@
       {
         "ncit_concept_code": "C44256",
         "synonyms": [
+          "Albumin (substance)",
+          "Albumin",
           "Ratio (property)",
           "Ratio (property) (qualifier value)",
           "Ratios",
           "RATIO",
           "Ratio",
-          "Albumin (substance)",
-          "Albumin",
           "Ratio"
         ],
         "value": "ratio"
@@ -237630,9 +237745,6 @@
       {
         "ncit_concept_code": "C48154",
         "synonyms": [
-          "minutes",
-          "minute",
-          "minute (qualifier value)",
           "Located in",
           "Has setting",
           "Has location",
@@ -237645,6 +237757,9 @@
           "Greater-than symbol >",
           "Greater-than symbol > (qualifier value)",
           ">",
+          "minutes",
+          "minute",
+          "minute (qualifier value)",
           "60",
           "30",
           "Minute"
@@ -244201,6 +244316,23 @@
           "Tumour susceptibility associated with germline BAP1 mutation",
           "BAP1 tumor predisposition syndrome",
           "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
           "BAP1 Tumor Predisposition Syndrome"
         ],
         "value": "BAP1 Tumor Predisposition Syndrome"
@@ -247374,6 +247506,11 @@
       {
         "ncit_concept_code": "C100900",
         "synonyms": [
+          "PCR (polymerase chain reaction) technique",
+          "Polymerase chain reaction technique (qualifier value)",
+          "Polymerase chain reaction technique",
+          "Polymerase chain reaction",
+          "PCR",
           "cpy/mL",
           "Copies/milliliter (qualifier value)",
           "Copies/milliliter",
@@ -247381,11 +247518,6 @@
           "Copies per milliliter",
           "Copy per millilitre",
           "Copy per milliliter",
-          "PCR (polymerase chain reaction) technique",
-          "Polymerase chain reaction technique (qualifier value)",
-          "Polymerase chain reaction technique",
-          "Polymerase chain reaction",
-          "PCR",
           "Copies per Milliliter"
         ],
         "value": "copies/mL"
@@ -249228,17 +249360,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -251225,12 +251357,12 @@
       {
         "ncit_concept_code": "C44256",
         "synonyms": [
+          "Albumin (substance)",
+          "Albumin",
           "Ratio (property)",
           "Ratio (property) (qualifier value)",
           "Ratios",
           "Ratio",
-          "Albumin (substance)",
-          "Albumin",
           "Ratio"
         ],
         "value": "RATIO"
@@ -252577,14 +252709,15 @@
       {
         "ncit_concept_code": "C29848",
         "synonyms": [
+          "2",
+          "Two",
+          "One",
+          "Four",
+          "9",
           "yr",
           "year (qualifier value)",
           "years",
           "year",
-          "Four",
-          "9",
-          "Two",
-          "One",
           "Year"
         ],
         "value": "YEARS"
@@ -252867,9 +253000,6 @@
       {
         "ncit_concept_code": "C48154",
         "synonyms": [
-          "minutes",
-          "minute",
-          "minute (qualifier value)",
           "Located in",
           "Has setting",
           "Has location",
@@ -252882,6 +253012,9 @@
           "Greater-than symbol >",
           "Greater-than symbol > (qualifier value)",
           ">",
+          "minutes",
+          "minute",
+          "minute (qualifier value)",
           "60",
           "30",
           "Minute"
@@ -253321,17 +253454,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -253696,16 +253829,16 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -262274,13 +262407,46 @@
       {
         "ncit_concept_code": "C94826",
         "synonyms": [
-          "Structure of aortic body",
-          "Structure of aortic body (body structure)",
-          "Aortic body",
-          "Other (qualifier value)",
-          "Other",
-          "Paraganglia structure (body structure)",
+          "Leukemia, unspecified",
+          "Reason for (attribute)",
+          "Indication for (attribute)",
+          "Reason for",
+          "Justification",
+          "indication",
+          "Indications",
+          "With indication",
+          "Indication of",
+          "Indication for",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Leukaemia",
+          "Leukemia",
+          "Leukaemia, disease",
+          "Leukemia, disease",
+          "Unspecified leukemia",
+          "Unspecified leukaemia",
           "Paraganglia structure",
+          "Paraganglia structure (body structure)",
+          "Other",
+          "Other (qualifier value)",
+          "Aortic body",
+          "Structure of aortic body (body structure)",
+          "Structure of aortic body",
+          "leukemia",
+          "Leukaemia NOS",
+          "Leukaemias",
+          "Leukemia NOS",
+          "Leukemia, NOS",
+          "Leukemias",
+          "Leukemias, NOS",
+          "Leukaemia of unspecified cell type",
+          "Leukemia of unspecified cell type",
+          "Leukemia, disease (disorder)",
+          "Unspecified leukemia without mention of remission",
+          "Unspecified leukaemia without mention of remission",
+          "Leukaemia, unspecified",
+          "Leukaemia unspecified",
+          "Leukemia unspecified",
           "Paraganglion"
         ],
         "value": "Paraganglion"
@@ -270523,6 +270689,17 @@
         "ncit_concept_code": "C132383",
         "synonyms": [
           "Hepatitis B virus surface Antibody",
+          "Hepatitis B virus Ab",
+          "Antibody to Hepatitis B virus",
+          "Antibody to Hepatitis B virus (substance)",
+          "Hepatitis B virus antibody",
+          "Hepatitis B virus Antibody",
+          "Carbon dioxide-containing product",
+          "Product containing carbon dioxide (medicinal product)",
+          "Carbon dioxide (substance)",
+          "CO2 - Carbon dioxide",
+          "Carbonic anhydride",
+          "Carbon dioxide",
           "Antibody to Hepatitis B virus surface antigen",
           "Antibody to Hepatitis B virus surface antigen (substance)",
           "Hepatitis B virus surface antigen Ab",
@@ -270543,19 +270720,10 @@
           "Antibody to hepatitis B surface antigen (substance)",
           "Antibody to hepatitis B surface antigen",
           "Hepatitis B surface antibody",
-          "Carbon dioxide",
-          "Carbonic anhydride",
-          "CO2 - Carbon dioxide",
-          "Carbon dioxide (substance)",
-          "Product containing carbon dioxide (medicinal product)",
-          "Carbon dioxide-containing product",
           "Hepatitis B antibody",
           "Antibody to hepatitis B",
           "Antibody to hepatitis B virus (substance)",
-          "Hepatitis B virus antibody",
           "Antibody to hepatitis B virus",
-          "Hepatitis B virus Antibody",
-          "Hepatitis B virus Ab",
           "Free Prostate Specific Antigen Measurement"
         ],
         "value": "Prostate Specific Antigen Free (PSAF), Serum"
@@ -293480,17 +293648,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -294584,10 +294752,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -294595,12 +294763,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -294661,7 +294829,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -294679,6 +294846,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -294686,8 +294854,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -294705,6 +294871,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -294824,11 +294992,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -294977,15 +295145,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -299301,6 +299469,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
@@ -327287,13 +327472,46 @@
       {
         "ncit_concept_code": "C94826",
         "synonyms": [
-          "Structure of aortic body",
-          "Structure of aortic body (body structure)",
-          "Aortic body",
-          "Other (qualifier value)",
-          "Other",
-          "Paraganglia structure (body structure)",
+          "Leukemia, unspecified",
+          "Reason for (attribute)",
+          "Indication for (attribute)",
+          "Reason for",
+          "Justification",
+          "indication",
+          "Indications",
+          "With indication",
+          "Indication of",
+          "Indication for",
+          "Indication of (contextual qualifier) (qualifier value)",
+          "Indication of (contextual qualifier)",
+          "Leukaemia",
+          "Leukemia",
+          "Leukaemia, disease",
+          "Leukemia, disease",
+          "Unspecified leukemia",
+          "Unspecified leukaemia",
           "Paraganglia structure",
+          "Paraganglia structure (body structure)",
+          "Other",
+          "Other (qualifier value)",
+          "Aortic body",
+          "Structure of aortic body (body structure)",
+          "Structure of aortic body",
+          "leukemia",
+          "Leukaemia NOS",
+          "Leukaemias",
+          "Leukemia NOS",
+          "Leukemia, NOS",
+          "Leukemias",
+          "Leukemias, NOS",
+          "Leukaemia of unspecified cell type",
+          "Leukemia of unspecified cell type",
+          "Leukemia, disease (disorder)",
+          "Unspecified leukemia without mention of remission",
+          "Unspecified leukaemia without mention of remission",
+          "Leukaemia, unspecified",
+          "Leukaemia unspecified",
+          "Leukemia unspecified",
           "Paraganglion"
         ],
         "value": "Paraganglion"
@@ -331251,17 +331469,17 @@
       {
         "ncit_concept_code": "C25473",
         "synonyms": [
-          "Every day",
-          "Each day",
-          "Day",
-          "Daily (qualifier value)",
-          "Daily",
           "Weekly (qualifier value)",
           "Every week",
           "Each week",
           "Weekly",
           "Alcohol use",
           "Alcohol product use",
+          "Every day",
+          "Each day",
+          "Day",
+          "Daily (qualifier value)",
+          "Daily",
           "Not",
           "Daily"
         ],
@@ -331970,10 +332188,10 @@
       {
         "ncit_concept_code": "C25205",
         "synonyms": [
-          "Son (person)",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Son (person)",
           "Son"
         ],
         "value": "Son"
@@ -331981,12 +332199,12 @@
       {
         "ncit_concept_code": "C25165",
         "synonyms": [
-          "Natural daughter (person)",
-          "Natural daughter",
-          "Biological daughter",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Natural daughter (person)",
+          "Natural daughter",
+          "Biological daughter",
           "Daughter"
         ],
         "value": "Daughter"
@@ -332047,7 +332265,6 @@
       {
         "ncit_concept_code": "C25289",
         "synonyms": [
-          "Brother (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -332065,6 +332282,7 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Brother (person)",
           "Brother"
         ],
         "value": "Brother"
@@ -332072,8 +332290,6 @@
       {
         "ncit_concept_code": "C25680",
         "synonyms": [
-          "Sr - Sister",
-          "Sister (person)",
           "Fraternal twin sibling (person)",
           "Fraternal twin sibling",
           "Heterozygous twin",
@@ -332091,6 +332307,8 @@
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
+          "Sr - Sister",
+          "Sister (person)",
           "Sister"
         ],
         "value": "Sister"
@@ -332210,11 +332428,11 @@
         "ncit_concept_code": "C25204",
         "synonyms": [
           "Twin",
+          "Blood relative",
+          "Blood relative (person)",
+          "Biological relative",
           "Sibling (person)",
           "Siblings",
-          "Biological relative",
-          "Blood relative (person)",
-          "Blood relative",
           "Monozygotic twins",
           "Monozygotic twins (finding)",
           "Identical twin (person)",
@@ -332363,15 +332581,15 @@
       {
         "ncit_concept_code": "C71386",
         "synonyms": [
+          "Paternal relative (person)",
+          "Paternal relative",
+          "Maternal relative (person)",
+          "Maternal relative",
           "Blood relative",
           "Blood relative (person)",
           "Biological relative",
           "Grandmother (person)",
           "Grand-mother",
-          "Paternal relative (person)",
-          "Paternal relative",
-          "Maternal relative (person)",
-          "Maternal relative",
           "Grandmother"
         ],
         "value": "Grandmother"
@@ -333136,6 +333354,22 @@
           "Von Hippel-Lindau disease",
           "Cerebroretinal angiomatosis",
           "Familial cerebello-retinal angiomatosis",
+          "Von Hippel Lindau Syndrome",
+          "Von Hippel-Lindau Syndrome"
+        ],
+        "value": "Von Hippel-Lindau Syndrome"
+      },
+      {
+        "ncit_concept_code": "C3105",
+        "synonyms": [
+          "Von Hippel-Lindau syndrome",
+          "VHL (Von Hippel-Lindau) syndrome",
+          "Von Hippel-Lindau syndrome (disorder)",
+          "Lindau's disease",
+          "Lindau' disease",
+          "Von Hippel-Lindau disease",
+          "Cerebroretinal angiomatosis",
+          "Familial cerebello-retinal angiomatosis",
           "Von Hippel Lindau Syndrome"
         ],
         "value": "Von Hippel-Lindau Syndrome"
@@ -333267,6 +333501,15 @@
       {
         "ncit_concept_code": "C178285",
         "synonyms": [
+          "PIK3CA related overgrowth spectrum",
+          "PROS Syndrome"
+        ],
+        "value": "PIK3CA-Related Overgrowth Spectrum"
+      },
+      {
+        "ncit_concept_code": "C178285",
+        "synonyms": [
+          "PROS Syndrome",
           "PIK3CA related overgrowth spectrum",
           "PIK3CA-Related Overgrowth Spectrum"
         ],
@@ -333635,6 +333878,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
@@ -342350,6 +342610,23 @@
       {
         "ncit_concept_code": "C172639",
         "synonyms": [
+          "BAP1-related tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
+          "BAP1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumour predisposition syndrome",
+          "BRCA1 associated protein 1 tumor predisposition syndrome",
+          "Tumor susceptibility associated with germline BAP1 mutation",
+          "Tumour susceptibility associated with germline BAP1 mutation",
+          "BAP1 tumor predisposition syndrome",
+          "BAP1-related tumor predisposition syndrome",
+          "BAP1-Related Tumor Predisposition Syndrome"
+        ],
+        "value": "BAP1 Tumor Predisposition Syndrome"
+      },
+      {
+        "ncit_concept_code": "C172639",
+        "synonyms": [
+          "BAP1-Related Tumor Predisposition Syndrome",
           "BAP1-related tumour predisposition syndrome",
           "BRCA1 associated protein 1 tumor predisposition syndrome (disorder)",
           "BAP1 tumour predisposition syndrome",
