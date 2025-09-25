@@ -2771,6 +2771,13 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C98388",
+        "synonyms": [
+          "Interventional Study"
+        ],
+        "value": "Interventional Study"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Genomics Research"
