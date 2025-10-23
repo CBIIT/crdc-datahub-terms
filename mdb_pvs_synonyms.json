@@ -32,6 +32,11 @@
       {
         "property": "program.program_name",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "program.program_name",
+        "model": "CDS",
         "version": "6.0.4"
       },
       {
@@ -407,6 +412,11 @@
       {
         "property": "program.program_short_name",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "program.program_short_name",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -636,6 +646,11 @@
       {
         "property": "study.study_name",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "study.study_name",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -705,6 +720,11 @@
         "property": "study.study_acronym",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "study.study_acronym",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.study_acronym",
@@ -813,6 +833,11 @@
         "property": "study.dbgap_accession",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "study.phs_accession",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.phs_accession",
@@ -970,6 +995,11 @@
       {
         "property": "study.funding_agency",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "study.funding_agency",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -1039,6 +1069,11 @@
         "property": "study_funding.funding_source_program_name",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "study.funding_source_program_name",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.funding_source_program_name",
@@ -1137,6 +1172,11 @@
         "property": "study_funding.grant_id",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "study.grant_id",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.grant_id",
@@ -1280,6 +1320,11 @@
         "property": "study_admin.organism_species",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "study.organism_species",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.organism_species",
@@ -1546,6 +1591,11 @@
       {
         "property": "study.adult_or_childhood_study",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "study.adult_or_childhood_study",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -1714,6 +1764,11 @@
         "property": "study_admin.number_of_participants",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "study.number_of_participants",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.number_of_participants",
@@ -2038,6 +2093,11 @@
         "property": "study_admin.number_of_samples",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "study.number_of_samples",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.number_of_samples",
@@ -3415,6 +3475,11 @@
       {
         "property": "study.acl",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "study.acl",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -3504,6 +3569,11 @@
         "property": "study_personnel.personnel_type",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "investigator.role_or_affiliation",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.role_or_affiliation",
@@ -8141,6 +8211,11 @@
         "version": "8.0.3"
       },
       {
+        "property": "investigator.title",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
         "property": "study.title",
         "model": "CDS",
         "version": "9.0.0"
@@ -8595,6 +8670,11 @@
         "version": "8.0.3"
       },
       {
+        "property": "investigator.first_name",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
         "property": "study.first_name",
         "model": "CDS",
         "version": "9.0.0"
@@ -8713,6 +8793,11 @@
         "version": "8.0.3"
       },
       {
+        "property": "investigator.middle_name",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
         "property": "study.middle_name",
         "model": "CDS",
         "version": "9.0.0"
@@ -8829,6 +8914,11 @@
         "property": "study.last_name",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "investigator.last_name",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.last_name",
@@ -9067,6 +9157,11 @@
         "version": "8.0.3"
       },
       {
+        "property": "investigator.suffix",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
         "property": "study.suffix",
         "model": "CDS",
         "version": "9.0.0"
@@ -9232,6 +9327,11 @@
         "version": "8.0.3"
       },
       {
+        "property": "investigator.email",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
         "property": "study.email",
         "model": "CDS",
         "version": "9.0.0"
@@ -9353,6 +9453,11 @@
         "property": "participant.participant_id",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "participant.participant_id",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "participant.participant_id",
@@ -9531,6 +9636,11 @@
         "property": "participant.race",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "participant.race",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "participant.race",
@@ -9850,6 +9960,11 @@
         "property": "participant.sex",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "participant.sex",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "participant.sex",
@@ -10316,6 +10431,11 @@
       {
         "property": "participant.ethnicity",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "participant.ethnicity",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -10476,6 +10596,11 @@
         "property": "participant.dbGaP_subject_id",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "participant.dbGaP_subject_id",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "participant.dbGaP_subject_id",
@@ -10913,6 +11038,11 @@
         "property": "diagnosis.disease_type",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "diagnosis.disease_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.disease_type",
@@ -12236,6 +12366,11 @@
       {
         "property": "diagnosis.vital_status",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.vital_status",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -12543,6 +12678,11 @@
       {
         "property": "consent_group.consent_group_id",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "consent_group.consent_group_id",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -12652,6 +12792,11 @@
         "property": "diagnosis.primary_diagnosis",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "diagnosis.primary_diagnosis",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.primary_diagnosis",
@@ -32685,6 +32830,11 @@
       {
         "property": "consent_group.consent_group_name",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "consent_group.consent_group_name",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -32985,6 +33135,11 @@
         "property": "consent_group.consent_group_number",
         "model": "CTDC",
         "version": "1.20.0"
+      },
+      {
+        "property": "consent_group.consent_group_number",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "consent_group.consent_group_number",
@@ -46023,6 +46178,11 @@
       {
         "property": "diagnosis.primary_site",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.primary_site",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -49837,6 +49997,11 @@
       {
         "property": "diagnosis.age_at_diagnosis",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.age_at_diagnosis",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -49981,6 +50146,11 @@
         "property": "diagnosis.tumor_grade_source",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "diagnosis.tumor_grade",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.tumor_grade",
@@ -50240,6 +50410,11 @@
       {
         "property": "diagnosis.tumor_stage_clinical_m",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_m",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -50493,6 +50668,11 @@
         "property": "diagnosis.tumor_stage_clinical_n",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_n",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.tumor_stage_clinical_n",
@@ -50870,6 +51050,11 @@
         "property": "diagnosis.tumor_stage_clinical_t",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "diagnosis.tumor_stage_clinical_t",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.tumor_stage_clinical_t",
@@ -51799,6 +51984,11 @@
         "property": "diagnosis.diagnosis_category",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "diagnosis.morphology",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.morphology",
@@ -64258,6 +64448,11 @@
         "property": "treatment.treatment_type",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "treatment.treatment_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "treatment.treatment_type",
@@ -97463,6 +97658,11 @@
       {
         "property": "treatment.response",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "treatment.response",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -98403,6 +98603,11 @@
       {
         "property": "diagnosis.progression_or_recurrence",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.progression_or_recurrence",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -98551,6 +98756,11 @@
       {
         "property": "diagnosis.days_to_recurrence",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.days_to_recurrence",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -98625,6 +98835,11 @@
         "property": "diagnosis.days_to_last_followup",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "diagnosis.days_to_last_followup",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.days_to_last_followup",
@@ -98748,6 +98963,11 @@
         "property": "diagnosis.last_known_disease_status",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "diagnosis.last_known_disease_status",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.last_known_disease_status",
@@ -98982,6 +99202,11 @@
         "property": "diagnosis.tissue_or_organ_of_origin",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "diagnosis.tissue_or_organ_of_origin",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "diagnosis.tissue_or_organ_of_origin",
@@ -102175,6 +102400,11 @@
       {
         "property": "diagnosis.site_of_resection_or_biopsy",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.site_of_resection_or_biopsy",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -105344,6 +105574,11 @@
       {
         "property": "diagnosis.days_to_last_known_disease_status",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "diagnosis.days_to_last_known_disease_status",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -105413,6 +105648,11 @@
         "property": "treatment.days_to_treatment",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "treatment.days_to_treatment",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "treatment.days_to_treatment",
@@ -105531,6 +105771,11 @@
         "property": "treatment.therapeutic_agents",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "treatment.therapeutic_agents",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "treatment.therapeutic_agents",
@@ -129537,6 +129782,11 @@
       {
         "property": "file.file_description",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "file.file_description",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -129831,6 +130081,11 @@
         "property": "sequencing_file.file_size",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "file.file_size",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "file.file_size",
@@ -130232,6 +130487,11 @@
         "property": "sequencing_file.file_mapping_level",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "file.file_mapping_level",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "file.file_mapping_level",
@@ -148036,6 +148296,11 @@
       {
         "property": "sample.sample_id",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "sample.sample_id",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -148150,6 +148415,11 @@
         "property": "sample.sample_type",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "sample.sample_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "sample.sample_type",
@@ -148635,6 +148905,11 @@
       {
         "property": "sample.sample_description",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "sample.sample_description",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -148860,6 +149135,11 @@
         "property": "sample.sample_type_category",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "sample.sample_type_category",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "sample.sample_type_category",
@@ -149305,6 +149585,11 @@
       {
         "property": "sample.sample_tumor_status",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "sample.sample_tumor_status",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -149534,6 +149819,11 @@
         "property": "sample.sample_anatomic_site",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "sample.sample_anatomic_site",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "sample.sample_anatomic_site",
@@ -152582,6 +152872,16 @@
       {
         "property": "image.image_modality",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_nonAcquisitionModalitiesInStudyCode",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "image.image_modality",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -153813,6 +154113,16 @@
       {
         "property": "MultiplexMicroscopy.nominal_magnification",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.nominal_magnification",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.nominal_magnification",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -154512,6 +154822,11 @@
       {
         "property": "pdx.pdx_id",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "pdx.pdx_id",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -154614,6 +154929,11 @@
         "property": "sample.participant_age_at_collection",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "sample.sample_age_at_collection",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "sample.sample_age_at_collection",
@@ -154725,6 +155045,11 @@
         "property": "sample.derived_from_specimen",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "sample.derived_from_specimen",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "sample.derived_from_specimen",
@@ -154885,6 +155210,11 @@
       {
         "property": "sample.biosample_accession",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "sample.biosample_accession",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -154989,6 +155319,11 @@
         "property": "pdx.implantation_type",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "pdx.implantation_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "pdx.implantation_type",
@@ -155129,6 +155464,11 @@
         "property": "pdx.implantation_site",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "pdx.implantation_site",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "pdx.implantation_site",
@@ -155333,6 +155673,11 @@
         "property": "file.file_name",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "file.file_name",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "file.file_name",
@@ -155575,6 +155920,11 @@
         "property": "radiology_file.magnetic_field_strength",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_magneticFieldStrength",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_magneticFieldStrength",
@@ -155904,6 +156254,11 @@
         "property": "sequencing_file.md5sum",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "file.md5sum",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "file.md5sum",
@@ -156259,6 +156614,16 @@
       {
         "property": "file.file_url_in_cds",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.channel_metadata_file_url_in_cds",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "file.file_url_in_cds",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -156411,6 +156776,11 @@
         "property": "study.experimental_strategy_and_data_subtype",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "file.experimental_strategy_and_data_subtypes",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "file.experimental_strategy_and_data_subtypes",
@@ -156693,6 +157063,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -156837,6 +157212,11 @@
         "property": "radiology_file.diffusionDirectionalityCode",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_diffusionDirectionalityCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_diffusionDirectionalityCode",
@@ -157047,6 +157427,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_acquisitionContrastCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_acquisitionContrastCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -157191,6 +157576,11 @@
         "property": "radiology_file.inversionRecoveryIndicator",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_inversionRecoveryIndicator",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_inversionRecoveryIndicator",
@@ -157393,6 +157783,11 @@
       {
         "property": "genomic_info.library_id",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.library_id",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -157541,6 +157936,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -157677,6 +158077,11 @@
         "property": "genomic_info.bases",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "genomic_info.bases",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.bases",
@@ -157825,6 +158230,11 @@
         "property": "radiology_file.phaseContrastIndicator",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_phaseContrastIndicator",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_phaseContrastIndicator",
@@ -157994,6 +158404,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -158159,6 +158574,11 @@
       {
         "property": "genomic_info.number_of_reads",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.number_of_reads",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -158303,6 +158723,11 @@
         "property": "sequencing_file.avg_read_length",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "genomic_info.avg_read_length",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.avg_read_length",
@@ -158455,6 +158880,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -158599,6 +159029,11 @@
         "property": "sequencing_file.coverage",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "genomic_info.coverage",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.coverage",
@@ -158889,6 +159324,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -159050,6 +159490,11 @@
         "property": "radiology_file.saturationRecoveryIndicator",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_saturationRecoveryIndicator",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_saturationRecoveryIndicator",
@@ -159219,6 +159664,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_spectrallySelectedSuppressionCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_spectrallySelectedSuppressionCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -159377,6 +159827,11 @@
       {
         "property": "genomic_info.reference_genome_assembly",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.reference_genome_assembly",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -159511,6 +159966,11 @@
         "property": "radiology_file.complexImageComponentCode",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageReconstructionProtocolElement_complexImageComponentCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageReconstructionProtocolElement_complexImageComponentCode",
@@ -159659,6 +160119,11 @@
         "property": "sequencing_file.custom_assembly_fasta_file_for_alignment",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "genomic_info.custom_assembly_fasta_file_for_alignment",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.custom_assembly_fasta_file_for_alignment",
@@ -159851,6 +160316,16 @@
       {
         "property": "genomic_info.design_description",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.instrument_model",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.design_description",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -160015,6 +160490,11 @@
         "property": "sequencing_file.library_strategy",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "genomic_info.library_strategy",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.library_strategy",
@@ -160548,6 +161028,11 @@
       {
         "property": "genomic_info.library_layout",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.library_layout",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -160677,6 +161162,11 @@
         "property": "sequencing_file.library_selection",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "genomic_info.library_selection",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.library_selection",
@@ -161309,6 +161799,11 @@
         "property": "sequencing_file.platform",
         "model": "CCDI-DCC",
         "version": "0.0.2"
+      },
+      {
+        "property": "genomic_info.platform",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.platform",
@@ -162228,6 +162723,11 @@
       {
         "property": "genomic_info.sequence_alignment_software",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.sequence_alignment_software",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -162282,6 +162782,11 @@
         "property": "genomic_info.library_source_material",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "genomic_info.library_source_material",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "genomic_info.library_source_material",
@@ -162825,6 +163330,11 @@
       {
         "property": "genomic_info.library_source_molecule",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "genomic_info.library_source_molecule",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -162962,6 +163472,11 @@
         "property": "image.de_identification_method_type",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.de_identification_method_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.de_identification_method_type",
@@ -163123,6 +163638,11 @@
       {
         "property": "image.de_identification_method_description",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "image.de_identification_method_description",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -163241,6 +163761,11 @@
       {
         "property": "image.de_identification_software",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "image.de_identification_software",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -163355,6 +163880,11 @@
         "property": "image.license",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.license",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.license",
@@ -163759,6 +164289,16 @@
       {
         "property": "image.citation_or_DOI",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "image.imaging_protocol",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "image.citation_or_DOI",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -163971,6 +164511,11 @@
         "property": "image.species",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.species",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.species",
@@ -164314,6 +164859,16 @@
         "property": "proteomic.instrument_make",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.imaging_equipment_manufacturer",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "proteomic.instrument_make",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.imaging_equipment_manufacturer",
@@ -165226,6 +165781,16 @@
       {
         "property": "image.imaging_equipment_model",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "proteomic.proteomic_instrument_model",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "image.imaging_equipment_model",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -165385,6 +165950,11 @@
         "property": "image.imaging_software",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.imaging_software",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.imaging_software",
@@ -165596,6 +166166,11 @@
         "property": "image.organ_or_tissue",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.organ_or_tissue",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.organ_or_tissue",
@@ -175261,6 +175836,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_typeCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_typeCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -175380,6 +175960,11 @@
         "property": "image.longitudinal_temporal_event_type",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.longitudinal_temporal_event_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.longitudinal_temporal_event_type",
@@ -175518,6 +176103,11 @@
         "property": "image.longitudinal_temporal_event_offset",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "image.longitudinal_temporal_event_offset",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "image.longitudinal_temporal_event_offset",
@@ -175686,6 +176276,16 @@
         "property": "NonDICOMpathologyImages.acquisition_method_type",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.acquisition_method_type",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.acquisition_method_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.acquisition_method_type",
@@ -176167,6 +176767,16 @@
       {
         "property": "MultiplexMicroscopy.tumor_tissue_type",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.tumor_tissue_type",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.tumor_tissue_type",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -176519,6 +177129,16 @@
         "property": "NonDICOMpathologyImages.tissue_fixative",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.tissue_fixative",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.tissue_fixative",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.tissue_fixative",
@@ -177235,6 +177855,21 @@
       {
         "property": "MultiplexMicroscopy.staining_method",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.imaging_assay_type",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.staining_method",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.staining_method",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -177609,6 +178244,16 @@
       {
         "property": "MultiplexMicroscopy.objective",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.objective",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.objective",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -177813,6 +178458,16 @@
         "property": "NonDICOMpathologyImages.immersion",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.immersion",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.immersion",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.immersion",
@@ -178123,6 +178778,16 @@
       {
         "property": "MultiplexMicroscopy.lens_numerical_aperture",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.lens_numerical_aperture",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.lens_numerical_aperture",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -178282,6 +178947,11 @@
         "property": "MultiplexMicroscopy.working_distance",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.working_distance",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.working_distance",
@@ -178470,6 +179140,16 @@
         "property": "MultiplexMicroscopy.physical_size_x",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.pyramid",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.physical_size_x",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.pyramid",
@@ -178667,6 +179347,11 @@
       {
         "property": "MultiplexMicroscopy.physical_size_y",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.physical_size_y",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -178786,6 +179471,11 @@
         "property": "MultiplexMicroscopy.physical_size_z",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.physical_size_z",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.physical_size_z",
@@ -178913,6 +179603,11 @@
       {
         "property": "MultiplexMicroscopy.size_c",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.size_c",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -179036,6 +179731,11 @@
       {
         "property": "MultiplexMicroscopy.size_t",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.size_t",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -179155,6 +179855,11 @@
         "property": "MultiplexMicroscopy.size_x",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.size_x",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.size_x",
@@ -179295,6 +180000,11 @@
       {
         "property": "MultiplexMicroscopy.size_y",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.size_y",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -179427,6 +180137,11 @@
         "property": "MultiplexMicroscopy.size_z",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.size_z",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.size_z",
@@ -179567,6 +180282,11 @@
       {
         "property": "MultiplexMicroscopy.channel_metadata_filename",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.channel_metadata_filename",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -179681,6 +180401,11 @@
         "property": "MultiplexMicroscopy.channel_id",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.channel_id",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.channel_id",
@@ -179803,6 +180528,11 @@
       {
         "property": "MultiplexMicroscopy.channel_name",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.channel_name",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -179917,6 +180647,11 @@
         "property": "MultiplexMicroscopy.cycle_number",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.cycle_number",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.cycle_number",
@@ -180099,6 +180834,16 @@
       {
         "property": "MultiplexMicroscopy.sub_cycle_number",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.target_name",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.sub_cycle_number",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -180267,6 +181012,11 @@
       {
         "property": "MultiplexMicroscopy.antibody_name",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.antibody_name",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -180381,6 +181131,11 @@
         "property": "MultiplexMicroscopy.rrid_identifier",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.rrid_identifier",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.rrid_identifier",
@@ -180503,6 +181258,11 @@
       {
         "property": "MultiplexMicroscopy.fluorophore",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.fluorophore",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -180617,6 +181377,11 @@
         "property": "MultiplexMicroscopy.clone",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.clone",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.clone",
@@ -180739,6 +181504,11 @@
       {
         "property": "MultiplexMicroscopy.lot",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.lot",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -180857,6 +181627,11 @@
       {
         "property": "MultiplexMicroscopy.catalog_number",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.catalog_number",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -180971,6 +181746,11 @@
         "property": "MultiplexMicroscopy.excitation_wavelength",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.excitation_wavelength",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.excitation_wavelength",
@@ -181231,6 +182011,11 @@
       {
         "property": "MultiplexMicroscopy.emission_wavelength",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.emission_wavelength",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -181483,6 +182268,11 @@
         "property": "MultiplexMicroscopy.excitation_bandwidth",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.excitation_bandwidth",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.excitation_bandwidth",
@@ -181743,6 +182533,11 @@
       {
         "property": "MultiplexMicroscopy.emission_bandwidth",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.emission_bandwidth",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -181999,6 +182794,11 @@
       {
         "property": "MultiplexMicroscopy.metal_isotope_element_abbreviation",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.metal_isotope_element_abbreviation",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -182113,6 +182913,11 @@
         "property": "MultiplexMicroscopy.metal_isotope_element_mass",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.metal_isotope_element_mass",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.metal_isotope_element_mass",
@@ -182235,6 +183040,11 @@
       {
         "property": "MultiplexMicroscopy.oligo_barcode_upper_strand",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.oligo_barcode_upper_strand",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -182353,6 +183163,11 @@
       {
         "property": "MultiplexMicroscopy.oligo_barcode_lower_strand",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "MultiplexMicroscopy.oligo_barcode_lower_strand",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -182467,6 +183282,11 @@
         "property": "MultiplexMicroscopy.dilution",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.dilution",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.dilution",
@@ -182723,6 +183543,11 @@
         "property": "MultiplexMicroscopy.concentration",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.concentration",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.concentration",
@@ -182988,6 +183813,11 @@
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_singleCollimationWidth",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_singleCollimationWidth",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -183107,6 +183937,11 @@
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_totalCollimationWidth",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_totalCollimationWidth",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_totalCollimationWidth",
@@ -183299,6 +184134,16 @@
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_gantryDetectorTilt",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMPETimages.PETImagingAcquisitionProtocolElement_gantryDetectorTilt",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_gantryDetectorTilt",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -183472,6 +184317,11 @@
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_spiralPitchFactor",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_spiralPitchFactor",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -183576,6 +184426,11 @@
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_ctdiVol",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_ctdiVol",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -183650,6 +184505,11 @@
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_ctdiPhantomTypeCode",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_ctdiPhantomTypeCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_ctdiPhantomTypeCode",
@@ -183777,6 +184637,11 @@
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_kVp",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_kVp",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -183891,6 +184756,11 @@
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_exposureModulationType_Code",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMCTimages.CTAquisitionProtocolElement_exposureModulationType_Code",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMCTimages.CTAquisitionProtocolElement_exposureModulationType_Code",
@@ -184018,6 +184888,11 @@
       {
         "property": "NonDICOMCTimages.CTImageReconstructionProtocolElement_convolutionKernel",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMCTimages.CTImageReconstructionProtocolElement_convolutionKernel",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -184137,6 +185012,11 @@
         "property": "NonDICOMCTimages.CTImageReconstructionProtocolElement_convolutionKernelGroupCode",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMCTimages.CTImageReconstructionProtocolElement_convolutionKernelGroupCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMCTimages.CTImageReconstructionProtocolElement_convolutionKernelGroupCode",
@@ -184264,6 +185144,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_diffusionBValue",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_diffusionBValue",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -184383,6 +185268,11 @@
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_resonantNucleusCode",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_resonantNucleusCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_resonantNucleusCode",
@@ -186925,6 +187815,11 @@
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_pulseSequenceName",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_pulseSequenceName",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -187044,6 +187939,11 @@
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_arterialSpinLabelingContrastCode",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_arterialSpinLabelingContrastCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMMRimages.MRImageAcquisitionProtocolElement_arterialSpinLabelingContrastCode",
@@ -187578,6 +188478,11 @@
       {
         "property": "NonDICOMPETimages.Radiopharmaceutical_radionuclideCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMPETimages.Radiopharmaceutical_radionuclideCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -187701,6 +188606,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_description",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_description",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -187815,6 +188725,11 @@
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_admittingDiagnosisCode",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_admittingDiagnosisCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_admittingDiagnosisCode",
@@ -188558,6 +189473,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_lossyImageCompressionIndicator",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_lossyImageCompressionIndicator",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -188692,6 +189612,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_summary",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_summary",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -188815,6 +189740,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_primaryAnatomicSiteCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_primaryAnatomicSiteCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -188934,6 +189864,11 @@
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_acquisitionTypeCode",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_acquisitionTypeCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_acquisitionTypeCode",
@@ -189069,6 +190004,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_cardiacSynchronizationTechniqueCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_cardiacSynchronizationTechniqueCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -189188,6 +190128,11 @@
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_dataCollectionDiameter",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_dataCollectionDiameter",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_dataCollectionDiameter",
@@ -189315,6 +190260,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_respiratoryMotionTechniqueCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_respiratoryMotionTechniqueCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -189434,6 +190384,11 @@
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_bodyPositionCode",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_bodyPositionCode",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_bodyPositionCode",
@@ -189594,6 +190549,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_algorithmCode",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_algorithmCode",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -189713,6 +190673,11 @@
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionFieldOfViewHeight",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionFieldOfViewHeight",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionFieldOfViewHeight",
@@ -189840,6 +190805,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionFieldOfViewWidth",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionFieldOfViewWidth",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -189959,6 +190929,11 @@
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionDiameter",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionDiameter",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionDiameter",
@@ -190106,6 +191081,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_sliceThickness",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_sliceThickness",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -190229,6 +191209,11 @@
       {
         "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionInterval",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMradiologyAllModalities.performed_imaging_study_reconstructionInterval",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -190332,6 +191317,11 @@
       {
         "property": "proteomic.aliquot_id",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "proteomic.aliquot_id",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -190421,6 +191411,11 @@
         "property": "proteomic.analytical_fractions",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "proteomic.analytical_fractions",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "proteomic.analytical_fractions",
@@ -190568,6 +191563,11 @@
       {
         "property": "proteomic.proteomic_design_description",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "proteomic.proteomic_design_description",
+        "model": "CDS",
         "version": "9.0.0"
       },
       {
@@ -190657,6 +191657,11 @@
         "property": "proteomic.manufacturer_model_name",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "proteomic.manufacturer_model_name",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "proteomic.manufacturer_model_name",
@@ -203942,8 +204947,15 @@
         "value": "DNA"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C38046",
+        "synonyms": [
+          "Not specified",
+          "Non-specific",
+          "Non-specified",
+          "Non-specific (qualifier value)",
+          "Unspecified",
+          "Unspecified"
+        ],
         "value": "Not Specified"
       },
       {
@@ -245670,6 +246682,11 @@
       {
         "property": "pdx.model_id",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "pdx.model_id",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -245704,6 +246721,11 @@
         "property": "pdx.mouse_strain",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "pdx.mouse_strain",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "pdx.mouse_strain",
@@ -245746,6 +246768,11 @@
       {
         "property": "pdx.sample_type_for_implantation",
         "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "pdx.sample_type_for_implantation",
+        "model": "CDS",
         "version": "9.0.0"
       }
     ],
@@ -245780,6 +246807,11 @@
         "property": "pdx.tumor_not_mus_or_ebv_origin",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "pdx.tumor_not_mus_or_ebv_origin",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "pdx.tumor_not_mus_or_ebv_origin",
@@ -279454,8 +280486,15 @@
         "value": "DNA"
       },
       {
-        "ncit_concept_code": null,
-        "synonyms": [],
+        "ncit_concept_code": "C38046",
+        "synonyms": [
+          "Not specified",
+          "Non-specific",
+          "Non-specified",
+          "Non-specific (qualifier value)",
+          "Unspecified",
+          "Unspecified"
+        ],
         "value": "Not Specified"
       },
       {
@@ -310498,7 +311537,11 @@
       {
         "ncit_concept_code": "C139527",
         "synonyms": [
+          "Not examined",
           "Not assessed",
+          "Not examined for (contextual qualifier)",
+          "Not examined for (contextual qualifier) (qualifier value)",
+          "Not examined for",
           "Not Assessed"
         ],
         "value": "Not Evaluated"
@@ -313563,6 +314606,11 @@
         "property": "study.study_data_types",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "study.study_data_types",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "study.study_data_types",
@@ -322079,6 +323127,11 @@
         "property": "sample.tumor_classification",
         "model": "CDS",
         "version": "10.0.0"
+      },
+      {
+        "property": "sample.tumor_classification",
+        "model": "CDS",
+        "version": "10.0.1"
       }
     ],
     "permissibleValues": [
@@ -322229,6 +323282,11 @@
         "property": "file.file_type",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "file.file_type",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "file.file_type",
@@ -322891,6 +323949,16 @@
         "property": "NonDICOMpathologyImages.embedding_medium",
         "model": "CDS",
         "version": "8.0.3"
+      },
+      {
+        "property": "MultiplexMicroscopy.embedding_medium",
+        "model": "CDS",
+        "version": "10.0.1"
+      },
+      {
+        "property": "NonDICOMpathologyImages.embedding_medium",
+        "model": "CDS",
+        "version": "10.0.1"
       },
       {
         "property": "MultiplexMicroscopy.embedding_medium",
