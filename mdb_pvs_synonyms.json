@@ -114580,6 +114580,13 @@
         "value": "XLSX"
       },
       {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
+      },
+      {
         "ncit_concept_code": "C219048",
         "synonyms": [
           "SAS Binary Format"
@@ -225763,6 +225770,27 @@
         "value": "Other"
       },
       {
+        "ncit_concept_code": "C222253",
+        "synonyms": [
+          "Archival Timepoint"
+        ],
+        "value": "Archival"
+      },
+      {
+        "ncit_concept_code": "C222254",
+        "synonyms": [
+          "Post-Treatment Timepoint"
+        ],
+        "value": "Post-Treatment"
+      },
+      {
+        "ncit_concept_code": "C142170",
+        "synonyms": [
+          "On Treatment"
+        ],
+        "value": "On Treatment"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "49 months"
@@ -235392,6 +235420,13 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
       },
       {
         "ncit_concept_code": "C219048",
@@ -259232,6 +259267,16 @@
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "Nuclear Matrix Protein 22 (NMP22), Urine"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Protein, Spot Urine"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cotinine, Spot Urine"
       },
       {
         "ncit_concept_code": null,
@@ -370346,6 +370391,13 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
       },
       {
         "ncit_concept_code": "C219048",
