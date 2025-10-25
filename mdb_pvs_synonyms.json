@@ -42733,6 +42733,32 @@
     ],
     "permissibleValues": [
       {
+        "ncit_concept_code": "C139527",
+        "synonyms": [
+          "Not examined",
+          "Not assessed",
+          "Not examined for (contextual qualifier)",
+          "Not examined for (contextual qualifier) (qualifier value)",
+          "Not examined for",
+          "Not Assessed"
+        ],
+        "value": "Not Assessed"
+      },
+      {
+        "ncit_concept_code": "C222061",
+        "synonyms": [
+          "Too Early to be Assessed"
+        ],
+        "value": "Too Early"
+      },
+      {
+        "ncit_concept_code": "C151961",
+        "synonyms": [
+          "Less than Partial Clinical Response"
+        ],
+        "value": "Less than Partial Response"
+      },
+      {
         "ncit_concept_code": "C90169",
         "synonyms": [
           "Persistent Disease"
@@ -47896,6 +47922,13 @@
         "value": "XLSX"
       },
       {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
+      },
+      {
         "ncit_concept_code": "C219048",
         "synonyms": [
           "SAS Binary Format"
@@ -48575,6 +48608,13 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
       },
       {
         "ncit_concept_code": "C219048",
@@ -128974,6 +129014,13 @@
         "value": "XLSX"
       },
       {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
+      },
+      {
         "ncit_concept_code": "C219048",
         "synonyms": [
           "SAS Binary Format"
@@ -192975,6 +193022,27 @@
         "value": "Other"
       },
       {
+        "ncit_concept_code": "C222253",
+        "synonyms": [
+          "Archival Timepoint"
+        ],
+        "value": "Archival"
+      },
+      {
+        "ncit_concept_code": "C222254",
+        "synonyms": [
+          "Post-Treatment Timepoint"
+        ],
+        "value": "Post-Treatment"
+      },
+      {
+        "ncit_concept_code": "C142170",
+        "synonyms": [
+          "On Treatment"
+        ],
+        "value": "On Treatment"
+      },
+      {
         "ncit_concept_code": null,
         "synonyms": [],
         "value": "49 months"
@@ -202269,6 +202337,13 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
       },
       {
         "ncit_concept_code": "C219048",
@@ -274021,6 +274096,16 @@
       {
         "ncit_concept_code": null,
         "synonyms": [],
+        "value": "Protein, Spot Urine"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cotinine, Spot Urine"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
         "value": "Striational Abs2, Serum"
       },
       {
@@ -333620,6 +333705,13 @@
           "Excel Open XML Format"
         ],
         "value": "XLSX"
+      },
+      {
+        "ncit_concept_code": "C222390",
+        "synonyms": [
+          "QP Tagged Image File Format"
+        ],
+        "value": "QPTIFF"
       },
       {
         "ncit_concept_code": "C219048",
