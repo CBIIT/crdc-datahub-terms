@@ -4950,6 +4950,13 @@
         "value": "Medical Physicist"
       },
       {
+        "ncit_concept_code": "C216104",
+        "synonyms": [
+          "Participant Control"
+        ],
+        "value": "Control Participant"
+      },
+      {
         "ncit_concept_code": "C17821",
         "synonyms": [
           "Oncologist (occupation)",
