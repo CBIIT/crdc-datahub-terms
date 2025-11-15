@@ -2980,6 +2980,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -164823,6 +164824,13 @@
         "value": "Basophil"
       },
       {
+        "ncit_concept_code": "C177620",
+        "synonyms": [
+          "Histone Variant"
+        ],
+        "value": "Histone Variant"
+      },
+      {
         "ncit_concept_code": "C64857",
         "synonyms": [
           "Phosphate",
@@ -192857,6 +192865,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -221295,6 +221304,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -228797,6 +228807,503 @@
         "value": "Other"
       },
       {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "17 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "18 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "7 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "8 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "9 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "10 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "11 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "12 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "13 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "14 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "15 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "16 Months After Starting Study Agent"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Induction Cycle 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Last Cycle of Induction"
+      },
+      {
+        "ncit_concept_code": "C16502",
+        "synonyms": [
+          "Clinical imaging",
+          "Imaging (procedure)",
+          "Imaging",
+          "Diagnostic imaging, not elsewhere classified",
+          "Diagnostic imaging NOS",
+          "diagnostic imaging",
+          "Diagnostic Imaging Testing"
+        ],
+        "value": "Diagnostic Imaging"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Post-Induction Imaging"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Progressive Disease Imaging"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Restaging 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Step 0, Screening 1, Biopsy 1 \u2013 Blood, Tissue"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Step 1, End of Treatment \u2013 Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Step 1, Prior to Start of Treatment \u2013 Blood, Tissue"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Surgery \u2013 Tissue, Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Time of resolution of toxicity or auto-immune disease flare"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Time of Surgery Injected"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Time of suspected toxicity or auto-immune disease flare"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pre-trial Diagnostic Material"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pre-Trial Diagnostic Material \u2013 Tissue"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Prior to Cycle 2"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Prior to start of treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Prior to Start of Treatment \u2013 Tissue, Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Progression \u2013 Tissue, Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Progression, End of Treatment \u2013 Blood, Tissue"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Progression/End of Treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Protocol Specified Toxicity Gr 3 or Greater"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Relapse \u2013 Tissue, Blood"
+      },
+      {
+        "ncit_concept_code": "C54734",
+        "synonyms": [
+          "Pre-Therapy"
+        ],
+        "value": "Pre-Therapy"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Less than 7 Days after Registration"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Maintenance 3 Months"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neoadjuvant Cycle 2, Day 1 \u2013 Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Neoadjuvant Cycle 3, End of Treatment \u2013 Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Post Cycle 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Post Cycle 1 \u2013 Consolidation Therapy Phase"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Post Cycle 2"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Post Cycle 4"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Post Cycle 6"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Pre-Study (Archival)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Day 36"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Day 36 Injected"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Day 36 Uninjected"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Day 36 Unknown"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "End of Consolidation Phase"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "End of Cycle 2, Prior to Cycle 3 \u2013 Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "End of Therapy"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "End of Treatment (Adjuvant) \u2013 Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Follow up of toxicity"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Less than 24 Hours after Registration"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 17, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 2, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 2, Day 1, Prior to Treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 21, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 25, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 29, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 3, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 4 or First Restage"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 4, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 9, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C1D15"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C1D8"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C22D1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C25D1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C4D1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C7D1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C2D15"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Confirmation of Pre-Registration Outside Assay \u2013 Tissue"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 1, Prior to Treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Cycle 13, Day 1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "At suspected toxicity"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Baseline (less than 14 days after registration)"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Baseline Pre-treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Baseline Uninjected"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Baseline Unknown"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Baseline\u00a0Injected"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C10D1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C13D1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C16D1"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "C19D1"
+      },
+      {
+        "ncit_concept_code": "C175243",
+        "synonyms": [
+          "Upon Progression"
+        ],
+        "value": "At Progression"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "1 Month (within 14 days) after Pre-Registration"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "1 Month (within 14 Days) After Registration"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "1 Month After Registration"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "Adjuvant Cycle 4, Day 1 \u2013 Blood"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "After 1 week of IL-12"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "After 1 Year of Treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "After 6 months of Treatment"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "After 7 weeks of IL-12"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "At any irAE Recurrence"
+      },
+      {
+        "ncit_concept_code": null,
+        "synonyms": [],
+        "value": "At flare (only for patients with flare)"
+      },
+      {
         "ncit_concept_code": "C222253",
         "synonyms": [
           "Archival Timepoint"
@@ -233654,6 +234161,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -233958,6 +234466,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -234713,6 +235222,13 @@
           "Medical Physicist"
         ],
         "value": "Medical Physicist"
+      },
+      {
+        "ncit_concept_code": "C216104",
+        "synonyms": [
+          "Participant Control"
+        ],
+        "value": "Control Participant"
       },
       {
         "ncit_concept_code": "C17821",
@@ -274840,6 +275356,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -282051,6 +282568,60 @@
           "Per 2000 Red Blood Cells"
         ],
         "value": "/2000 RBC"
+      },
+      {
+        "ncit_concept_code": "C85640",
+        "synonyms": [
+          "Picomole/hour/milliliter (qualifier value)",
+          "Picomole/hour/milliliter",
+          "picomole/hour/millilitre",
+          "picomole/hour/milliliter",
+          "pmol/h/mL",
+          "Hour Times Picomole per Milliliter"
+        ],
+        "value": "h*nmol/L"
+      },
+      {
+        "ncit_concept_code": "C85624",
+        "synonyms": [
+          "Hour Times Nanogram per Milliliter"
+        ],
+        "value": "h*ng/mL"
+      },
+      {
+        "ncit_concept_code": "C221689",
+        "synonyms": [
+          "Endotoxin Unit per Milliliter"
+        ],
+        "value": "Endotoxin U/mL"
+      },
+      {
+        "ncit_concept_code": "C221688",
+        "synonyms": [
+          "Endotoxin Unit"
+        ],
+        "value": "Endotoxin U"
+      },
+      {
+        "ncit_concept_code": "C221687",
+        "synonyms": [
+          "Log10 Titer"
+        ],
+        "value": "Log10 Titer"
+      },
+      {
+        "ncit_concept_code": "C221686",
+        "synonyms": [
+          "Milligram per Liter D-Dimer Unit"
+        ],
+        "value": "mg/L DDU"
+      },
+      {
+        "ncit_concept_code": "C221685",
+        "synonyms": [
+          "Dyne Second per Centimeter to the Fifth Power"
+        ],
+        "value": "dyn*s/cm5"
       },
       {
         "ncit_concept_code": "C214761",
@@ -292815,6 +293386,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -308410,6 +308982,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -330989,6 +331562,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -341588,6 +342162,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -381265,6 +381840,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -381512,6 +382088,13 @@
           "Medical Physicist"
         ],
         "value": "Medical Physicist"
+      },
+      {
+        "ncit_concept_code": "C216104",
+        "synonyms": [
+          "Participant Control"
+        ],
+        "value": "Control Participant"
       },
       {
         "ncit_concept_code": "C17821",
@@ -385334,6 +385917,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -388881,6 +389465,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
@@ -389526,6 +390111,7 @@
       {
         "ncit_concept_code": "C17369",
         "synonyms": [
+          "Progressive disease",
           "Imaging technique (qualifier value)",
           "Imaging (Procedure)",
           "Imaging procedure",
